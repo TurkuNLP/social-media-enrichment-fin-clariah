@@ -49,9 +49,4 @@ Skantsi, Valtteri, and Veronika Laippala. 2023\. “Analyzing the unrestricted w
 
 *FIN-CLARIAH project has received funding from the European Union – NextGenerationEU instrument and is funded by the Research Council of Finland under grant number 358720\.*  
 
-# social-media-enrichment-fin-clariah
-D3.3.3 Machine-learning based enrichment of social media
-
-_FIN-CLARIAH project has received funding from the European Union – NextGenerationEU instrument and is funded by the Research Council of Finland under grant number 358720._
-
-![](NetGenerationEU.jpg)
+![](NextGenerationEU.jpg)
