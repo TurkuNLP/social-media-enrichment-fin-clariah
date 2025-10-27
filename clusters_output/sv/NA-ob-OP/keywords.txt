@@ -1,0 +1,60 @@
+Keyness analysis for sv/NA-ob-OP
+Original reference corpus: 329050 texts from regions ['HI-NA-nb-re', 'ds-IP-NA-nb', 'NA-ob-OP', 'NA-nb-OP', 'IP-NA-nb', 'IN-NA-nb', 'NA-nb-ob-OP', 'NA-nb-OP-rv', 'ID-NA-nb', 'NA-nb', 'ID', 'NA-nb-ne', 'ob-OP', 'NA-nb-sr']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 1 ===
+Target: 175 texts, 132910 words
+Reference (excluding this cluster): 328875 texts, 178807269 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. spelare           437.10
+ 2. fotboll           318.23
+ 3. matcher           303.77
+ 4. allsvenskan       277.09
+ 5. matchen           258.83
+ 6. allsvenska        249.20
+ 7. lag               245.37
+ 8. league            242.41
+ 9. match             236.54
+10. spelarna          231.61
+11. fotbollen         206.95
+12. matcherna         175.97
+13. champions         168.81
+14. klubbar           165.37
+15. landslaget        163.28
+16. tränare           149.57
+17. klubben           147.37
+18. ifk               141.88
+19. fotbollens        137.82
+20. laget             137.35
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 2655 texts, 1685779 words
+Reference (excluding this cluster): 326395 texts, 177254400 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. enligt            461.37
+ 2. artikel           447.82
+ 3. svenska           411.34
+ 4. sverige           366.10
+ 5. miljoner          358.92
+ 6. usa               358.28
+ 7. artikeln          330.60
+ 8. media             315.62
+ 9. polisen           290.89
+10. mot               283.58
+11. sina              282.05
+12. president         266.67
+13. procent           261.97
+14. aftonbladet       252.08
+15. inom              245.71
+16. frågan            241.04
+17. sin               240.13
+18. länder            230.34
+19. amerikanska       228.17
+20. exempel           227.13
+
+==================================================

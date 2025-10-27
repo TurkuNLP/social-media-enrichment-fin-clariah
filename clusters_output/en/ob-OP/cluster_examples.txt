@@ -1,0 +1,288 @@
+
+============================================================
+CLUSTER 0 (NOISE)
+============================================================
+Size: 10329 samples
+Register distribution: {'ob-OP': 10329}
+
+Examples:
+----------------------------------------
+ 1. What am I bid for this wavy-haired, toothy congressman? Who'll start the bidding at a $1,000? Do I hear two? The Supreme Court recently lifted the cap on the amount individuals can contribute to fe... [ob-OP]
+ 2. December 28, 1989|By TONY GABRIELE Staff Writer So I paused briefly last weekend while chipping the ice off my nose and asked myself: Where is this greenhouse effect when you really need it? You re... [ob-OP]
+ 3. Saturday, June 29, 2013 DOMA is Dead, But "They Still Persist"... Labels: doma, freedom of choice After DOMA was dashed to the ground like a bad bear bottle, California started issuing marriage lic... [ob-OP]
+ 4. Larry Sinclair has a new post up. Sinclair has compared information on the death certificate of Donald Young to the announcement of Young’s death by Jeremiah Wright. Sinclair also provides informat... [ob-OP]
+ 5. Jerry Seinfeld recently took a stand against political correctness and diversity quotas: Jerry Seinfeld on Diversity in Comedy: “Who Cares?” Discussing the belief that pop culture should accurately... [ob-OP]
+ 6. The Golden Grimace (Part Five: The Dollar as an instrument of class violence) We stated in the last segment of this series that, paper money is “the relentless intensification of the enslavement of... [ob-OP]
+ 7. Monday, March 01, 2010 Misinformation from NPR ...in the last 20 years, I would say at least 20,000 square kilometers of ice has been lost, and that's comparable to an area somewhere between the st... [ob-OP]
+ 8. Terry DykeCompartido públicamente. - · Traducir Much to our detriment, a conquered people doesn't just "get over it" in a few generations. Just because they got defeated, we clearly didn't win thei... [ob-OP]
+ 9. Postcommunist Eastern Europe Nobody seriously argues that foreign assistance is irrelevant to the systemic change Eastern Europe has been undergoing since the downfall of communism. Yet the Western... [ob-OP]
+10. Why cyclists need police understanding, not crackdowns We have a lot of laws. We have laws about not driving while holding pets. We have laws about crossing the street in crosswalks. We even have l... [ob-OP]
+11. I watched a little bit of the debate last night and I was glad to see Obama back on his game. But I just don’t know if it’s because we have Haslam here or what, but I never think that Romney comes ... [ob-OP]
+12. Saturday, January 17, 2015 This Is Pakistan--- No Gas, No Petrol And No Electricity, Still Pakistanis Are alive Some people recall the previous eras of rulers of Pakistan, at least in past regimes ... [ob-OP]
+13. Truthdig article on a new prescription for health care for all Health Care for All: Why We Need a New Prescription By Scott Tucker Truthdig, October 1, 2013 The right-wing assault on Obamacare is a... [ob-OP]
+14. Fascinating and thought provoking piece in the London Times by Ben Mcintyre - The Internet is Killing Storytelling . As he puts it Click, tweet, e-mail, twitter, skim, browse, scan, blog, text..Add... [ob-OP]
+15. It seems pretty obvious that the U.S. economy needs to create more jobs. So obvious that there’s an obvious fix that ought to be considered: elimination of payroll taxes. Taxation is necessary as t... [ob-OP]
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 405 samples
+Register distribution: {'ob-OP': 405}
+
+Examples:
+----------------------------------------
+ 1. Here is the link to her blog or use Imgur for a mirror… Let me preface this by saying that I am sorry that someone had to die before Ragen could get a bicycle. That really sucks for his family. But... [ob-OP]
+ 2. Hi Julie, If you weren't a friend of mine before, you are now. Thanks for your note. Obviously we're heartbroken here in Ithaca. But I also feel a strange kind of quiet resolve today, even a sort o... [ob-OP]
+ 3. Friday, October 26, 2012 2012 Electoral Votes by State prediction Romney States; Alabama - 9 Alaska - 3 Arizona - 11 Arkansas - 6 Colorado - 9 Florida - 29 Georgia - 16 Idaho - 4 Indiana - 11 Kansa... [ob-OP]
+ 4. Juan Cristobal says: – “If the ‘Yes’ option lost, what would we lose? … The social missions and the communal councils.” From a campaign poster, 10 reasons to vote yes. We’ve all heard it, incessant... [ob-OP]
+ 5. Analyzing and refuting the inaccuracies lodged against the lgbt community by religious conservative organizations. Lies in the name of God are still lies. Saturday, December 02, 2006 What a weekend... [ob-OP]
+ 6. my topic project post for today: Sarcasm It's not time for sarcasm. I'm making my own topic. I know some other topic projectors live in New York, and I hope that all of you are okay. Okay meaning n... [ob-OP]
+ 7. Merry Christmas and while you are here a Christmas fun fact: The reindeer is named Donder not Donner Pass it around Thursday, December 25, 2008 Merry Christmas Merry Christmas Wednesday, December 3... [ob-OP]
+ 8. Not An Inch The "proverbial" has well and truly hit the fan and the Archbishop is in it up to his neck. On the other hand we could say that the subject of "Sharia" has been brought into the open an... [ob-OP]
+ 9. Only in your imagination, who knows?! 😉 Welcome back dearest readers writers bloggers friends and all; thank you for being here today especially new friends from the US, the UK, Senegal, India, Qat... [ob-OP]
+10. The New York Times had an interesting article on the Labour Party and Tony Blair. Apparently as Tony Blair gets pushed out, Gordon Brown will be replacing him. The article then talks about the unea... [ob-OP]
+11. Unity? Nah. Togetherness? Yes, Please. Big Thoughts from a Small Room While Awaiting My COVID Results “Just keep looking straight ahead,” the woman said as she fed the cotton-tipped stick up my nos... [ob-OP]
+12. The New York Times today features a front page article on Newt Gingrich, who is preparing a presidential bid. The Times article focuses on his new found and quite visible Catholicism and that of hi... [ob-OP]
+13. When I make big decisions like these, I like to dress up a little, as you can see. Monday, June 30, 2008 Thank you, Barack! Of all the shattered ceilings and racial barriers and political realignme... [ob-OP]
+14. So, being from Illinois, I logged into my Amazon Affiliate account today and got the above notice. Essentially, this clown, "Quinn", doesn't mind that he's putting people out of work because he's r... [ob-OP]
+15. A collage of personal, political,cultural, and historical commentary from the thought processes of Brandon Wallace. Saturday, December 20, 2008 From Barbra Last weekend, I was in Washington DC to a... [ob-OP]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 780 samples
+Register distribution: {'ob-OP': 780}
+
+Examples:
+----------------------------------------
+ 1. those of us who aren't sociopaths Easy with the name-calling. Please, don't hate. Glass ceilings are a real thing. Whether that's true or not, there is not one in Linux (nor FreeBSD) project. And y... [ob-OP]
+ 2. I agree Trump isn't doing great on the foreign policy front, although I don't think he's done any real damage and has put China on notice. His choices of advisors/cabinet members are appear to be c... [ob-OP]
+ 3. Tuesday, June 21, 2011 Another Mormon Runs for US Presidency Frankly, I think this is a positive, not just because he's a Republican, but because Mormons tend to be more on the side of American nat... [ob-OP]
+ 4. Right now there is a huge campaign moving forward to take the guns from every American so that America can be taken over by rich elite and people who think they are taking place in high jacking the... [ob-OP]
+ 5. is NPD GROUP misleading investors about Video Game Sales?? November 16, 2009 – Comments (1) | RELATED TICKERS: ATVI , EA , TTWO It has already been a beaten up topic about the fact that NPD GROUP's... [ob-OP]
+ 6. This Reform Party member thinks it is high past time that we start electing Americans to congress and the presidency who put America first and their political party further down the line. But for w... [ob-OP]
+ 7. Originally Posted by Sisyphus And thus new appropriations in a new budget, which Obama never had a chance to sign, passed the House that Pelosi is part of, but not the Senate that Reid is majority ... [ob-OP]
+ 8. Given all the problems Obama has with female voters after his campaign's perceived treatment of Hillary, comparing Gov. Sarah Palin to a pig is not merely very low class, its also incredibly stupid... [ob-OP]
+ 9. 24 comments - None is surprised Muturi does things lamentably cheap. What can we then expect from someone who entered judiciary as a magistrate and retired as one without going up one single step? ... [ob-OP]
+10. Responsibility to protect? February 4, 2012 11:44 AM Subscribe In the wake of the Homs massacre, Tunisia, Kuwait, and Algeria are expelling the Syrian ambassadors to their countries. The UN's last ... [ob-OP]
+11. Today the Denver Post published a story by Jason Blevins claiming that corporate welfare for the tourism industry is responsible for the growth of Colorado tourism. I sent him the following letter:... [ob-OP]
+12. Before everyone screams pandemonium about the DHS buying all these rounds of Ammunition. Please take a step back and think for a second. Does anyone know how the government works and what kind of p... [ob-OP]
+13. Gulf return April 24, 2012 8:34 PM Subscribe If the million-odd expatriates who dominate the labour class were to leave, the Emirates would stop breathing – buildings would remain incomplete, garba... [ob-OP]
+14. In a sane world, "the enemy of my enemy is my friend," is nonsense. My friend need not fight for me, I am no cattle and they are not chattel. Or perchance that's what it means. Time to talk trade. ... [ob-OP]
+15. Adam Housley on BOR, "In 5-6 years, 50% of children will be mixed race." And boy is he happy about that. This is Fox News correspondent Adam Housley who was on Bill O'Reilly just this evening, comp... [ob-OP]
+
+============================================================
+CLUSTER 3
+============================================================
+Size: 704 samples
+Register distribution: {'ob-OP': 704}
+
+Examples:
+----------------------------------------
+ 1. A month or so ago, I spoke at WebJam about how frustrating it was that organisations setting the agenda for social networks are industry-based (e.g. media and advertising) and that very few are pro... [ob-OP]
+ 2. August 23, 2005 Robertson, the Ventriloquist's Dummy ... or "Look, Rocky, Nothing Up My Sleeve!"Filed by Marla R. Stevens | August 23, 2005 | 11:05 PM | I laughed so hard...My first response was, "... [ob-OP]
+ 3. Daily Topics - Thursday March 31st, 2011 Truthout proudly presents Thom Hartmann's book, "Unequal Protection" Click here for the latest chapter Hour One: Democracy for sale? Dr. Ed Shadid / Plus, l... [ob-OP]
+ 4. In National Review this week, George Weigel writes a pointed commentary on another example of humanities professors undermining their own field. It’s a curious phenomenon, but one you often see. A ... [ob-OP]
+ 5. Guest Contributor: Dr James D. Boys 25th August 2013 During his all too brief time as president, John F. Kennedy was understood to have lamented the difficulty he faced in making the threat of Amer... [ob-OP]
+ 6. by Ryan Carter Following all the rhetoric around immigration and free movement going on across the atlantic in our sister country America. I will offer an outsider’s perspective, most people agree ... [ob-OP]
+ 7. By Nancy Duci Denofio on Friday, January 11, 2013 Healthcare, Medical Issues, Politics, Writers Beauty & Health, Medical Who runs your health care, do you know, or are you guessing? We all believe ... [ob-OP]
+ 8. The Highlights Issue #1070 Sunday, May 12, 2002 Edited by Gloria Lee Highlights Home Page: http://nonduality.com/hlhome.htm Click here to go to the next issue Joseph Riley on Hafiz Zero Zero Is whe... [ob-OP]
+ 9. LET ME SPIT November 29, 2009Posted by wmmbb in Israel-Palestine. add a comment Human beings tend to behave the worst in groups, especially when they are directing their actions to other despised l... [ob-OP]
+10. Posts tagged “climate bill” Scientists to Congress & Obama: count the carbon in biomass A group of leading scientists from across the country sent a letter to congressional leaders and Obama offici... [ob-OP]
+11. The edTPA is supposed to be a performance based assessment that can help predict the effectiveness of future teachers. For one of the best analysis of edTPA and how it correlates to effectiveness p... [ob-OP]
+12. Martin H.Snyder has not received any gifts yet Posted on April 1, 2014 at 3:41pm 1 Comment 5 Likes I got this in my email: Posted on February 9, 2011 at 2:55pm 0 Comments 0 Likes I thought this new... [ob-OP]
+13. Tag Archives: myth This piece took ten years to place. I first drafted some of the arguments found in my new piece, Trumpworld, in 2006 while I was working at The Washington Post. Then, as now, pol... [ob-OP]
+14. While I was at a recent march for Muslim refugees, a man yelled, “Justice for Palestine!” Some in the crowd cheered. And I was forced to face why I was there. Resistance Is Not Enough To fight agai... [ob-OP]
+15. Media That Story About Irish Babies Buried in a Septic Tank Was Shocking. It Also Wasn't Entirely True. June 23, 2014 Today's international news cycle and old Irish tendencies created a perfect sto... [ob-OP]
+
+============================================================
+CLUSTER 4
+============================================================
+Size: 189 samples
+Register distribution: {'ob-OP': 189}
+
+Examples:
+----------------------------------------
+ 1. Call the City of Chicago to Demand They Drop Their Opposition to Release! Last night, Chicago’s city government submitted an amicus brief in support of keeping people incarcerated in Cook County Ja... [ob-OP]
+ 2. Gun rights include vast responsibility Our nation's Constitution was never meant to be "fixed in stone." It's a living, breathing manifesto subject to change as we evolve as a nation, society and a... [ob-OP]
+ 3. “When we do more to preserve our marine resources and wildlife habitats, we have a firm foundation to provide better access for all people to enjoy our beautiful Gulf of Mexico.” These words were p... [ob-OP]
+ 4. Former Sen. Saguisag asks: What ‘pamasko’ tradition? May I know when the alleged “pamasko” tradition started? I should be certain it wasn’t during our watch (1987-1992), when Uncle Jovy [Jovito Sal... [ob-OP]
+ 5. Right now, some $1.2 trillion in wealth is warehoused in private foundations and donor-advised funds — whose wealthy donors got huge tax writeoffs. Meanwhile, the rest of us have been doing our bes... [ob-OP]
+ 6. STATEMENT: CAP’s Winnie Stachelberg: President Donald Trump’s Commission Was the Fraud - Share Share STATEMENT: CAP’s Winnie Stachelberg: President Donald Trump’s Commission Was the Fraud Washingto... [ob-OP]
+ 7. There are 3 elected officials who, by their actions, are on the record. Their unanimous response: I fully support American Poker in all its forms: NO I will reverse the Unlawful Internet Gambling E... [ob-OP]
+ 8. So a grocery store ( Nobody is being held accountable for the endless delays. Bowing down and giving tax breaks to the owner has resulted in zero progress. Somebody is dropping the ball within the ... [ob-OP]
+ 9. By Pete Olson Now more than ever, energy plays a vital role in national security. Estimates indicate that in 2014, the terrorist regime, the Islamic State of Iraq and Syria (ISIS), was producing 50... [ob-OP]
+10. We know times are tough. We know many of you saw your savings and home values hurt by Wall Street recklessness. We also know that, with official unemployment above 9 percent, it is tough to find a ... [ob-OP]
+11. LETTER: A plea from Freetown for firearms freedom The following is an open letter to U.S. Sen.-elect Elizabeth Warren: I voted for you due to your stance on standing up for an individual’s rights, ... [ob-OP]
+12. The G8 must take action on tax dodging and tax havens! Shocking new statistics released by Oxfam this week have shown that governments are letting people hide at least $18.5 trillion in offshore ta... [ob-OP]
+13. Editor’s note: This blog post by AU President and CEO Rachel Laser originally appeared in the October 2018 issue of AU's Church & State magazine. Brett Kavanaugh. Brett Kavanaugh. Brett Kavanaugh. ... [ob-OP]
+14. The Federal Government is continuously overstepping its’ Constitutional mandate by taking away our God given rights. A great example of this is a treaty signed by President Clinton in 1995, this UN... [ob-OP]
+15. Alison Garnham: chief executive, Child Poverty Action Group The Covid-19 pandemic is putting into reverse the jobs boom led by women and low-paid workers, and seems likely to drive a further rise i... [ob-OP]
+
+============================================================
+CLUSTER 5
+============================================================
+Size: 189 samples
+Register distribution: {'ob-OP': 189}
+
+Examples:
+----------------------------------------
+ 1. ED Noor: After reading the following, please see: Radical Homosexual Movement Run by Jews . Basically this piece explores deviancy, as dealt with in the Talmud. Of course the “bragging” regarding i... [ob-OP]
+ 2. A Man Who Understands History The founder of Dubai, Sheikh Rashid, was asked about the future of his country, and he replied, “My grandfather rode a camel, my father rode a camel, I ride a Mercedes... [ob-OP]
+ 3. There’s a lot of angry, fed up people in this world. Here at home and across global ponds, everyone wants change; half one way, half the other, half for economic reasons, half for moral reasons, ha... [ob-OP]
+ 4. It’s been interesting watching my Facebook feed today in light of the Supreme Court decision on the Affordable Care Act. What has made it interesting is seeing a number of mainline pastors kind of ... [ob-OP]
+ 5. Whisper Creek: Poetry and Prose Appalachian Prose and Poetry celebrating the transformation from self hate to unconditional love. Applying natural,unique faith to social activism. Friday, June 10, ... [ob-OP]
+ 6. Fox reporter Meygn Kelly insults freed Chilean coal miner Hot, blonde Fox newscaster Meygn Kelly, while reporting on the rescue of one of the trapped Chilean coalminers today, said this upon seeing... [ob-OP]
+ 7. One State for one People. Thou shalt not be a victim, or perpetrator, but above all, thou shalt not be a bystander. Yasher Koach! January 7, 2009 Kid Killers! by Tamar Yonah How evil? How evil can ... [ob-OP]
+ 8. Saturday, October 26, 2013 Securing America from Electromagnetic Pulse (EMP): Technical and Policy ... Remember, the sun doesn't have a political agenda and cannot be persuaded to wait a few days. ... [ob-OP]
+ 9. Here we discuss sex and politics, loudly, no apologies hence "screeds" and "attitude." 5/11/2006 preaching to the converted but we need to be taking this topic to the people in our lives (close and... [ob-OP]
+10. Do the right thing. It will gratify some people, and astonish the rest.--- Mark Twain Saturday, January 19, 2013 Danny Glover's World It is also useful for enslaving the rest of the world, since, a... [ob-OP]
+11. The Evil Known as Apathy Apathy, you are evil. You grow, mutate and spread until you eat at the very core of our country until we become a nation of compliance. A nation controlled by a government ... [ob-OP]
+12. There's something I've been noticing lately in theists' arguments against atheists. When you start paying attention, you notice how many of them aren't really arguments. And no, I'm not even talkin... [ob-OP]
+13. Even though I have not had much time to digest it completely, I will offer some thoughts off the top of my head. It is clear that President Obama is suffering from the corruption of toxins of power... [ob-OP]
+14. America’s Greatest Danger – The Third Jihad A repost of an interesting article by Hal Lindsey. It is an enemy that is driven by a fervent, unquestioning religious zeal that is inspired by certain v... [ob-OP]
+15. What Will You Do When Faced With The Question Many Are Facing: Are you Muslim? The Slaughter Continues And The West Is Sleeping How can this be? Gunmen enter a town, and go from house to house, ask... [ob-OP]
+
+============================================================
+CLUSTER 6
+============================================================
+Size: 987 samples
+Register distribution: {'ob-OP': 987}
+
+Examples:
+----------------------------------------
+ 1. Sorry for not writing sooner…have been under the weather. Tomorrow is the big day where this country goes into self-imposed spending cuts that were created and proposed by the white house, thus it ... [ob-OP]
+ 2. In Syria as in Iraq, Russia is doing her duty as the leader among the Slavs in their age-old mission of defending the borders and outposts of Christendom against the only practical alternative to t... [ob-OP]
+ 3. Tea and Commentary by David Ish | August 2011 In "The Gospel According to the Tea Party" (November 2010), Jim Wallis overlooked points. In "The Gospel According to the Tea Party" (November 2010), J... [ob-OP]
+ 4. There is an essential condition in the European Union’s charter of union according to which the under-developed countries of Europe that joined the EU allowed free movement of goods (free trade) on... [ob-OP]
+ 5. Did I hear Donald Trump say that someone in Washington should resign because of an unsubstantiated claim? Yes I did. He tweeted that Montana Sen. John Tester, a Democrat, should resign over claims ... [ob-OP]
+ 6. I think I’ve made a very strong case that Carruthers didn’t propose the Emergency Services Surtax (ESS) out of the goodness of her heart. It’s not a “tax shift” that’s meant to benefit locals. Clea... [ob-OP]
+ 7. THE MASTERMINDS BEHIND MUSLIM TERRORISM B”H After significant 18 days, 18 been our number for CHAI, life, the bodies of Eyal, Gilad and Naftali were found. Now, this happens not even a week after t... [ob-OP]
+ 8. And it’s all over this speech that the President plans to give on Tuesday to the nation’s school children. What’s wrong with this? What, exactly, Mr. and Mrs. America, are you so freaking upset abo... [ob-OP]
+ 9. This is the perfect election for left and right extremists. For others, like yours truly, who don’t pander to one side or the other, this is hell. Donald Trump and Hillary Clinton equally represent... [ob-OP]
+10. I am a former Councillor in South Liverpool and have also been leader of the Liverpool Lib Dem Group. I also work as a Lecturer at Edge Hill University. Tuesday, 16 February 2010 Tories need a math... [ob-OP]
+11. We've become a nation so bothered by the actions of others that we are neglecting to check ourselves and be accountable for our own actions; a nation of Christians who simply refuse to follow the t... [ob-OP]
+12. Traitors to their people: George Wallace and Boris Yeltsin Running for office can a method of reaching people with new ideas, but any White nationalist who runs for public office must maintain a ra... [ob-OP]
+13. Many of those 720,000 were deliberately expelled by militant Zionist paramilitaries or by terrorist groups such as the Stern Gang and the Haganah. They have grown to millions now, many of them stil... [ob-OP]
+14. There is a constituency of Jews out there who find themselves reduced to silence when contemplating the current conflict in Israel and Gaza. It is not just the fear of stepping out of line from the... [ob-OP]
+15. There are a few things we considered worse than politicians publicly presenting pensioners with title deeds. Drinking a glass of sour horse’s milk while suffering from a cold was one candidate. Par... [ob-OP]
+
+============================================================
+CLUSTER 7
+============================================================
+Size: 1068 samples
+Register distribution: {'ob-OP': 1068}
+
+Examples:
+----------------------------------------
+ 1. Our current President is an interesting man. He has claimed business success, been a television personality for many years, and has now dabbled into the world of politics. But there is something lu... [ob-OP]
+ 2. latin american integration IIRSA: A Project of Destruction The colonos blog has been following the plans and projects for commodity corridors – corredores – in South America unfolding under the IIR... [ob-OP]
+ 3. A long but fascinating article by Jeffrey Goldberg at the Atlantic examines the prospect of an Israeli air strike against Iran, to forestall the acquisition by that country of nuclear weapons, thre... [ob-OP]
+ 4. The events in Syria and the intervention debate/ After today’s amazing events in Damascus — the bombing that decapitated at least three senior regime figures, the fighting inside of Damascus itself... [ob-OP]
+ 5. Apart from the continuous subsidising of domestic kerosene due to some political reasons which has remained a huge hindrance to the growth of Liquefied Petroleum Gas (LPG) also known as cooking gas... [ob-OP]
+ 6. Mar 13 2011 The anti-government “throw-the-bums-out” crowds have had their chance to speak out on how to curtail the deficit and what to do with those hated entitlements that are the antithesis of ... [ob-OP]
+ 7. As many others have observed, the right wing in modern American politics subsists in a near-perpetual state of frothing rage. This situation serves the purpose of leaders of the religious right, si... [ob-OP]
+ 8. Stay wide awake in the coming weeks. This is a historic moment when all of the divisions, misunderstandings and hatreds of President Obama’s time in office have come to a head. We are in a differen... [ob-OP]
+ 9. John Mica’s Politbureau: How the Chamber Endorses While Pretending Not to Endorse FlaglerLive | October 22, 2010 U.S. Rep. John Mica, the nine-term Republican congressman representing Flagler, was ... [ob-OP]
+10. As Election Day nears, the battle for King Shit of Turd Mountain, i.e., the contest between Charlie Crist and Rick Scott for governor of Florida, has produced a shit-storm of negative advertising. ... [ob-OP]
+11. Yesterday, around 150,000 people marched through central London to protest against austerity and job cuts. Similar marches took place in Glasgow and Cardiff. In almost every respect, the marchers r... [ob-OP]
+12. JIM WILLIE:MAJOR EXPOSE :THE USGOVT LEADERS AND BANK LEADERS ARE SUDDENLY AT GREAT RISK, DUE TO HACKED SECURITY AGENCY DATA BASES SteveQuayle.com Jul 28, 2013 ◄$$$ THE USGOVT LEADERS AND BANK LEADE... [ob-OP]
+13. Jeb, Jeb, Jeb. When will you learn, my two-faced friend? People will eventually see your lies- there is no hiding from that. Jeb Bush has practically made a career off of berating the Clinton famil... [ob-OP]
+14. How the charter school lobby is changing the Democratic Party - LA Times : How the charter school lobby is changing the Democratic Party At a time when Democrats and their party are, by virtually e... [ob-OP]
+15. Oct 05 2008 Has Hamas won??? Following was published in Bitterlemons Bitterlemons, 01/09/08 A PALESTINIAN VIEW Local priorities by Daoud Kuttab Whether those supporting the moderate leadership of p... [ob-OP]
+
+============================================================
+CLUSTER 8
+============================================================
+Size: 718 samples
+Register distribution: {'ob-OP': 718}
+
+Examples:
+----------------------------------------
+ 1. As you may remember (and you should, otherwise you’re either too stressed out or don’t own something commonly referred to as “long-term memory”), in yesterday’s posting I wrote about bones. As the ... [ob-OP]
+ 2. Top 4 political celebrities who are in trouble after elections. Oh, Ghana and politics…where do I start from? I asked a young lady after casting her vote, “Whom do you support?” She answered me. So... [ob-OP]
+ 3. 2008 American Music Award Wrap-Up Was this not the most boring shit you’ve seen on tv this year? Hollywood and Vine certainly think so. We won’t go on too long about this bullshit; the show was lon... [ob-OP]
+ 4. Having recently completed proptech investments in Unissu and Dashflow, I was interested to read Andy Saull’s article, “Proptech disruption won’t hit any time soon”, in the last issue of Property Ch... [ob-OP]
+ 5. In my earlier post about Paul Goodman, I pointed out that the only contemporary intellectual who has comparable influence in the U.S. is Noam Chomsky. This led me to a disturbing thought. Chomsky i... [ob-OP]
+ 6. Here I thought that the rather bad “Witch” episode of CBS’s show The Mentalist was an isolated quirk, but now it seems like it’s a part of a larger campaign to piss off minority faiths and assorted... [ob-OP]
+ 7. THE 2008 OSCARS: THE CURIOUS CASE OF DENNIS'S OSCAR BALLOT UPDATED February 22 11:19 a.m. Okay, so we’ve reached the portion of our program where your marginally interested host feigns interest in ... [ob-OP]
+ 8. RANT TIME! The commenters And oh boy, do I have a bone to pick with this year's female commenter, Gianina Corondan. For some context, she's a TV star who used to host her own show and appear on oth... [ob-OP]
+ 9. What I Watched Last Night: When The Hosts Are Dicks On April 4, 2012 at 6:30 pm in Just for Fun Most evenings, Mr. Cesy and I snuggle into bed, pull out a laptop and watch something before going to... [ob-OP]
+10. Wednesday, February 21, 2007 Grey's Anatomy: Don't You Remember Joey? The motives behind such action is understandable: money. If you can strike gold again, you've got yourself millions of advertis... [ob-OP]
+11. Dickie Bradley Special (February 6, 2012) from Great Belize Productions Ltd. on Vimeo. from a friend..... I watched my first ever Dickie Bradley special last night, being very skeptical as I tuned ... [ob-OP]
+12. Documentaries have acquired a certain chic in recent years. No longer the worthy exclusive property of public television, they’re seen in cinemas and online, at festivals and at gala screenings. No... [ob-OP]
+13. I'm not sure how I'd like this in action, but I'm glad that they're at least trying a somewhat new direction with the 'Unity' interface, rather than the typical scenario of playing catchup with Win... [ob-OP]
+14. .... The grandaddy of them all, however, is the Tournament of Books, mounted by the Morning News Web site and now in its sixth year. Unlike DABWAHA, ToB doesn't offer prizes to readers who make the... [ob-OP]
+15. Life is about cycles. When I think about the cloud, for some reason the Chinese yin-yang symbol pops into my head. And when I consider today’s billions and tomorrow’s tens of billions of cloud-conn... [ob-OP]
+
+============================================================
+CLUSTER 9
+============================================================
+Size: 581 samples
+Register distribution: {'ob-OP': 581}
+
+Examples:
+----------------------------------------
+ 1. What we've learned in Ukraine about combating disinformation Data Values Digest #28 As the war in Ukraine enters its tenth week, Russian president Vladimir Putin continues to wage an aggressive dis... [ob-OP]
+ 2. You Won’t Guess Who Just Saved America’s Biofuels With all the focus directed to solar and wind power, it’s often overlooked that renewables also include turning biomass into biofuels. And the latt... [ob-OP]
+ 3. The other night, over dinner with my husband, I was sharing what I considered, an interesting fact about Millennials. Or, I should say: “another” interesting fact. When it comes to Millennials – th... [ob-OP]
+ 4. Jack o’Lanterns are carved. Little brats are everywhere. Truth to tell, Halloween is one of the last pagan holidays hijacked by the Catholic Church. The first to go was Eostre (Easter). Then went T... [ob-OP]
+ 5. The Public Key Infrastructure (PKI) has been the backbone of IT security for several years. It lies at the heart of SSL, Cloud encryption, digital signatures, and the vast majority of IT security t... [ob-OP]
+ 6. Occasionally, I am being asked by various readers about my opinion on what I think where the market is headed or how a certain no load fund or ETF might perform in the future. As I try to emphasize... [ob-OP]
+ 7. Yesterday, I referred to Stuart Staniford’s blog post entitled ‘Odds of Cooking the Grandkids’. (His analysis, in turn, was based on a scientific paper published in the prestigious journal the Proc... [ob-OP]
+ 8. Richard Stiennon, Contributor Knowledge of the threat scape is one of the determining factors in an organization’s ability to defend itself. There are three different approaches to cyber security. ... [ob-OP]
+ 9. What do you think of the ‘Anthropocene’? I was sitting here reading this and thinking to myself — ‘I wonder what other geoscientists think about this?’ — at which point I remembered I could just as... [ob-OP]
+10. Friday, 20 March 2015 'Are Religion and Science in Conflict?' Scientific investigation could have revealed that our universe is full of meaning and purpose. It could have told us that we are at the... [ob-OP]
+11. As a former Virginia Military Institute cadet and Army officer, I've often sneered at the use of war as a metaphor. Again and again, policymakers have declared war on abstract ideas crime, poverty,... [ob-OP]
+12. There are lots of jobs with stigmas attached to them. I think it’s safe to say we’ve all heard at least one or two lawyer jokes in our lifetime. Speaking of which… A lawyer walks into a bar. Just k... [ob-OP]
+13. Mainstream media stories about prescription drug pricing are common. A simple Google search for “prescription drug price increases” yields 37.7 million results. A recent story highlighted that Amer... [ob-OP]
+14. Slip-sliding away… A question occurred to me yesterday while reading a book called Taking Journalism Seriously–a brief, recent history of interdisciplinary academic research in journalism. I found ... [ob-OP]
+15. … follow the real interest rate. The nominal rate, what banks and other lenders quote, is only part of the story. Subtract the rate of inflation from that rate and what you have left is the real in... [ob-OP]
+
+============================================================
+CLUSTER 10
+============================================================
+Size: 207 samples
+Register distribution: {'ob-OP': 207}
+
+Examples:
+----------------------------------------
+ 1. Quote# 83832 A Little More on Bullying I mentioned in a recent post that, like Bonald at Throne and Altar, I actually support bullying under certain circumstances. Let me flesh that out a little mo... [ob-OP]
+ 2. Tuesday, January 15, 2008 The Church Model for Environmental Groups The fact is, historically speaking many large scale social changes have worked best on a neighbor to neighbor, very intimate scal... [ob-OP]
+ 3. What makes you immune? I personally do not believe in " your life before your were born and life after you will die'. I believe all the individuals present here today or in this era have only this ... [ob-OP]
+ 4. There are some things that we do which is universal; for example, getting a haircut. For within my lifetime I have yet to meet a person who has not at one time or another returned home rather unhap... [ob-OP]
+ 5. Many economic gurus are talking of impending global doom and gloom. For a truly blistering example, if you want a damned good scare, check out the INO link [below], which was issued, presumably wor... [ob-OP]
+ 6. ‘Tis the season for flag waving, and with all the discussion in the news about patriots and “un-patriots” (I prefer non-patriot), this is a good time to reflect on what patriotism is – and what it ... [ob-OP]
+ 7. This will, hopefully, be the last post in this series. In my last post, I talked about Tolstoy’s understanding of the conservative virtues and this idea of mine that statesmanship is like surfing. ... [ob-OP]
+ 8. Yes, it quite appeals to reason when we say that ‘seeing is believing’. It is not at all correct for us to believe hearsay and thereby just react. This would be the corner stone of our behaviour to... [ob-OP]
+ 9. If we genuinely want to educate our young people to think critically, and be citizens of the world, why do so many of us insist on teaching to the past, instead of to the future. As educators, if w... [ob-OP]
+10. The road to dictatorship is paved with comments like this: “Well, maybe we should have censorship if it involves hate speech.” This is what I’m starting to hear people actually say. “Hate speech” i... [ob-OP]
+11. I have not seen many people overtly claiming that atheists should work to be more like religious believers. Such a claim would bring a wave of criticism and many questions. Instead, the idea that w... [ob-OP]
+12. Category Archives: Wisdom and Knowledge Causes of Violence / The Effects. Part 2 The following treatise on violence is not aimed at making anyone mad, or for you to see me as a “hater.” I am merely... [ob-OP]
+13. I read Olivier Blanchard on how to change the ISLM model in response to the recent recession to teach Intermediate Macro better. And I despaired. Not because he says anything daft, but precisely be... [ob-OP]
+14. On the day Donald Trump was elected many people fell into a deep depression and the notion of Resist began to take shape. “We have to fight this. We cannot be complacent. Our democracy is hanging i... [ob-OP]
+15. The internet is practically an engraved invitation to indulge in gossip and rumor. It’s so easy to blurt out whatever thoughts come to mind. Once posted, these thoughts take on the authority of pri... [ob-OP]
+
+============================================================
+CLUSTER 11
+============================================================
+Size: 1164 samples
+Register distribution: {'ob-OP': 1164}
+
+Examples:
+----------------------------------------
+ 1. Names are powerful, magical even… naming and labeling one’s interests, sexual proclivities, food preferences, is part of the work we do to construct a coherent narrative of ourselves. Our identity,... [ob-OP]
+ 2. When I was young, if anything the tendency was to over-use me. Teachers would pull up a child for saying 'Sally and me went to the cinema last night.' And that was well and good. Because they also ... [ob-OP]
+ 3. Wanted: Male Coaches By sports coach UK Diversity & Inclusion Lead Sarah Milner @scohen_leeds Probably something you may not read very often?! Am I even allowed to write that?! Did you know that th... [ob-OP]
+ 4. The Great Depression vs. The Great Recession – Impact On A Generation I went to a mall for the first time in years the other day, and it got me to thinking – could the Great Recession have the kind... [ob-OP]
+ 5. Sunday, February 28, 2010 a note on “selfidentity” Yes: no hyphen. The identity that a person is is so much more than something one has, such that a wholehearted reflectivity or conception of onese... [ob-OP]
+ 6. Buying and Selling: May 2011 Archives Way back when I was just out of high school, I was doing a lot of things with my time. Working, dating, competing on the fencing team, gaming of various sorts.... [ob-OP]
+ 7. I was reading a blog post called Why I’ll Never Be an Adult. I’m guessing the author is somewhere in her late twenties/early thirties. She speaks of physics classes, so she’s neither stupid nor inc... [ob-OP]
+ 8. I’m writing this post on the back of having had someone recently say something to me at a networking event. They said to me “I’d never hire a young person for social media, they have no real experi... [ob-OP]
+ 9. Open Letter: Outdoor Lovers Let’s Not Go Back Inside Dear 2020 Outdoor Shopping and Dining Fan, The weather this week has been amazing and sadly we know it won't last. It was great of Mother nature... [ob-OP]
+10. Saturday, 28 November 2009 Poltergeists or something else? I suppose we are all aware of these pesky anomalies through several ghost investigation TV programmes and that one very notable Hollywood ... [ob-OP]
+11. - Jessica - Welcome to The Secular Gospel According to Jess! In this blog you’ll find everything from cartoons that make me laugh, to quotes that inspire me, to stories of my own personal experienc... [ob-OP]
+12. Wednesday, April 24, 2013 Way to Start an Argument "Of course I believe in Government! We see the roads. We see the uniformed officers. Some force, some organizing power must be responsible for the... [ob-OP]
+13. Talk is cheap but money buys houses (or whiskey); all talk and no action; and talk the talk but don’t walk the walk; I could go on, essentially the message is the same, some people just do and othe... [ob-OP]
+14. Your “Surprise, I’m Pregnant!” April Fools’ Day Prank Broke My Heart! I can take a joke. In fact, I like to consider myself someone who likes to joke with the best of them, but if your BIG prank fo... [ob-OP]
+15. Some 20-year-olds want to be older. Some 40-year-olds want to be younger. All 30-year-olds want to be 30, because 30 is pretty great. Getting older isn’t always easy, but it isn’t always terrible e... [ob-OP]

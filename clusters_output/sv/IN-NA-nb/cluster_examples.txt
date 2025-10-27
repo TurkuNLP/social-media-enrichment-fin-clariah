@@ -1,0 +1,144 @@
+
+============================================================
+CLUSTER 0 (NOISE)
+============================================================
+Size: 68 samples
+Register distribution: {'IN-NA-nb': 68}
+
+Examples:
+----------------------------------------
+ 1. Bakgrund till idén akgrund till Idén Idén om bra funktionella plagg för barn som använder insulinpump uppkom eftersom jag har ett barnbarn som har diabetes. Det är ofta svårt att hitta en bra förva... [IN-NA-nb]
+ 2. WP-Support Sveriges utveckling? Tiden går fort, WP-Support Sverige är inne på sitt 3:e år och vi blir fler och fler glada medlemmar varje dag. Detta betyder naturligtvis att vi som portal måste utv... [IN-NA-nb]
+ 3. Go och glad, älskar att bli buren, det är vår Olle, 11 månader. Kan säga "hej" och kommer alltid krypandes och säger "eej eej eeej" när man kommer hem och och man bara smälter. När man går hemifrån... [IN-NA-nb]
+ 4. Populationen Lunaliahundar Den 8 Mars 2005 såg den första Lunaliahunden ljuset och sedan dess har 50 Lunaliahundar hunnit födas. I menyn till vänster kan du se vilka kullar som fötts, hur populatio... [IN-NA-nb]
+ 5. HobbyavelAvelsinriktningPosted by Myskis Mon, July 06, 2009 00:58:48 Som rubriken säger ägnar vi oss enbart åt hobbyavel av myskankor men ändå en i sammanhanget mycket ambitiös sådan. Det finns num... [IN-NA-nb]
+ 6. Kostar det så mycket! Vi håller på med våran budget just nu och vi har sagt att priset på patientmaten ska vi behålla på samma nivå, men av någon anledning så tror många att det är nästan gratis at... [IN-NA-nb]
+ 7. "Krokodillan" ... eller IP CH S*Spin Engine's Bonzai Betty som hon heter i stamtavlan. Hon är den som vi kärleksfullt kallar för den Norska Skogkrokodilen, eftersom hon i sitt ungdomliga oförstånd ... [IN-NA-nb]
+ 8. Utveckling Här kommer en kort sammanfattning av nyheter och förändringar på SvD.se de senaste två veckorna. Utvecklingsavdelningen går nu in i en period med mer intensivt arbete med den nya ekonomi... [IN-NA-nb]
+ 9. Efter 4-5 bryggningar där delar har tappats på 5-liter partyfat är våra erfarenheter mixade. Det finns ett antal stora fördelar men också problem. Fördelarna överväger men nackdelarna är tillräckli... [IN-NA-nb]
+10. Skapad åt: Stubinen – Studenternas filmförening inför deras filmvisningar Verktyg: Illustrator, InDesign Här är ett urval bland de affischer jag skapade åt Stubinen under min tid som marknadsförare... [IN-NA-nb]
+11. Taggorganisatörerna har nöjet att meddela att vi har uppnått milstolpen 25 000 olika fandom i Archive of Our Own – AO3 (Vår Eget Arkiv)! Detta kommer kort efter att vi har uppmärksammat att vi uppn... [IN-NA-nb]
+12. 2005-11-30 Under rubriken Fel på lön! redovisar vi några exempel på fel på lön som kan uppstå här på Volvo i Umeå. Vi vill med dessa exempel visa hur viktigt det är att du själv kontrollerar att du... [IN-NA-nb]
+13. En röd vacker långhårig Russkiy Toy - hane har flyttat hem till oss i Täby. Porshe är född i Ryssland och var 15 månader när han kom till oss i Juli 2011. Porshe 16 månader- ute på svampletning Den... [IN-NA-nb]
+14. Det har önskats lite mer information om vad de olika posterna i styrelsen innebär och jag hoppas att jag har lite koll, om inte får ni gärna hjälpa till med mer information! :) Ordförande: Den som ... [IN-NA-nb]
+15. Stella Stella föddes 2,5 månader för tidigt, dvs i graviditetsvecka 30. Hon var dessutom tillväxthämmad, vilket betyder att hon var mindre än normalt för att vara född i den graviditetsveckan. Stel... [IN-NA-nb]
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 358 samples
+Register distribution: {'IN-NA-nb': 358}
+
+Examples:
+----------------------------------------
+ 1. Kalender Kalender 2021 (Uppdateras löpande) Information om IRS och kommande upptagning kommer under Juli månad. I år kommer IRS kortet att delas ut efter att medlem tecknat sig för vakt på IRS. Sam... [IN-NA-nb]
+ 2. Snöröjning efter ordentligt snöfall Just nu får vi många samtal om snöröjningen. Det har varit ett ordentligt snöfall och precis som i stora delar av Sverige jobbar våra snöröjare intensivt med att... [IN-NA-nb]
+ 3. Föreningen startades i sin nuvarande form och med nuvarande omfattning i och med förrättningen som skedde 1998. Föreningen förvaltar gemensamhetsanläggningen Brunnsnäs GA:2 som omfattar Lillängsdal... [IN-NA-nb]
+ 4. Ombyggnader och renoveringar i sommar! Här kommer lite information gällande vissa ombyggnader och renoveringar som kommer att ske i MIK hallen under sommaren. Efter några turer fram och tillbaka så... [IN-NA-nb]
+ 5. På Gång – Februari Nuläge – balkongprojektet Som säkert alla har sett så har det tagit betydligt längre tid än planerat att färdigställa balkongerna på hus 1. Nästa etapp planeras att påbörjas i mi... [IN-NA-nb]
+ 6. Tisdagen den 3 november infördes skärpta råd av Folkhälsomyndigheten och Region Halland. Dessa råd gäller i första hand fram till den 24 november. För oss i Falkenbergs BTK innebär det bland annat ... [IN-NA-nb]
+ 7. Från fredag 23 oktober (kl 06:00) till måndag den 26 oktober kommer gästparkeringen vara avstängd. En större container kommer att placeras där för att vi bl a ska kunna bli av med de övergivna cykl... [IN-NA-nb]
+ 8. Sektion 4 Kalmar – Årsmöte digitalt Med tanke på Covid-19 kommer våra årsmöten hållas digitalt. 7 februari 14:00 hålls sektionens årsmöte Det är val till sektionsordförande, ledamöter och suppleant... [IN-NA-nb]
+ 9. Verksamhetsberättelse - Sofia Månsson - för 2 år sedan - Visningar: Transkript 1 Verksamhetsberättelse Under den gångna våren har vi haft matlådemöten hemma hos föreningens medlemmar. Framförallt c... [IN-NA-nb]
+10. Vi på Annas Assistans önskar er en fin Allhelgona helg! Nyheter Terrordåd i Stockholm Idag inträffade ett terrordåd i centrala Stockholm. Fyra personer har hitintills avlidit och ett flertal får sj... [IN-NA-nb]
+11. Verksamhetsrapport StyrIT 16/17 LP3 Allmänt StyrIT har i vanlig ordning gått på möten och skött de vardagliga åtagandena. Utöver detta och våra veckomöten har vi: ● haft möten med Programledningen ... [IN-NA-nb]
+12. Som vi tidigare skrivit på bloggen och i utsända brev så börjar nu nästa fas i framtidens djurtransporter – HKScan planerar rutterna och ringer ut och aviserar hämtningarna. Vi inför nya tekniska h... [IN-NA-nb]
+13. Här kan du läsa viktig information om klubben Årsmötet 2018Årsmötet för 2018 kommer att hållas i klubbstugan onsdagen den 28/2 klockan 18.30. Kan noteras i almanackan redan nu. Höstens medlemsmöteH... [IN-NA-nb]
+14. Mellan 10.00 – 13.00 tisdagen den 16 oktober kommer vår garageport att servas. Inga fordon kommer att kunna köra varken in eller ut ur garaget under denna tid. Kör därför gärna ut och parkera på ga... [IN-NA-nb]
+15. Här kommer du att kunna läsa om alla projekt som föreningen just nu jobbar på. Denna sida har som mål att uppdateras efter varje styrelsemöte som hålls en gång i månaden. De projekt som just nu påg... [IN-NA-nb]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 434 samples
+Register distribution: {'IN-NA-nb': 434}
+
+Examples:
+----------------------------------------
+ 1. För att kunna förstå hur samhällsutvecklingen påverkar svenska folkets attityder och beteenden, har SOM-institutet sedan 1986 genomfört den nationella SOM-undersökningen. Varje år inleds avrapporte... [IN-NA-nb]
+ 2. Karlskrona rådhusrätt och magistrat FIIa:143 (1934-1934) Bild 4080 (AID: v495505.b4080, NAD: SE/LLA/10122) Länk. Som släktforskare har man ju bläddrat igenom tusentals och åter tusentals sidor i de... [IN-NA-nb]
+ 3. Föremål 304 av 400: En pressad växt i Olof Rudbeck den yngres exemplar av Campus Elysii Uppsalaprofessorn och Olof Rudbeck den äldres stora projekt att avbilda världens alla växter Campus Elysii el... [IN-NA-nb]
+ 4. Svärmbräda, svärmbräde eller svärmfångstbräda är ett biredskap som används inom biodling för att få en bisvärm att gå in i en bikupa. Svärmbrädan är bred med kanter och avsmalnande mot... Tag - Ska... [IN-NA-nb]
+ 5. Äh bilden va för stor.. Det står så här: En skopa 22 g Vitamin E 70500mg per kg 1550 mg per skopa Selen (selenjäst) 90 mg per kg 2 mg per skopa 90mg per kg är alltså ganska mycket mer än det som he... [IN-NA-nb]
+ 6. Välgörenhet och hjälporganisationer- Cancerfonden Hej och välkomna tillbaka till en ännu en del i vår serie om välgörenhet och hjälporganisationer där vi tar en titt på några av alla dom organisati... [IN-NA-nb]
+ 7. Skriver lite om CLA och koffein, ganska intressant. Här är en länk om CLA på svenskt kosttillskott hemsida: http://www.svensktkosttillskott.se/artiklar/cla_och_fettforbranning CLA står för konjuger... [IN-NA-nb]
+ 8. torsdag 3 maj 2012 Nostalgiträsket - Warlord 1980 bildades gruppen och man släppte under årens lopp en mini-LP Deliver Us (1983) och underbara...And The Cannons Of Destruction Have Begun (1984). Ef... [IN-NA-nb]
+ 9. Först tog jag fram ett förslag för hur sidan skulle kunna se ut. Efter feedback från kontaktperson på Recitera och kund reviderades förslaget till nya wireframes för hem-sidan, en statisk sida med ... [IN-NA-nb]
+10. - datorn är primärt skrivverktyg i åk 1 - eleven formulerar sig i skrift / spökskrift / innan eleven kan ljuda ut - eleven arbetar i par, dialogen är utgångspunkt - elevens egna datorskrivna texter... [IN-NA-nb]
+11. netrogenic.com - 24 jan 2009 av iXam i link, php, protect m fl Här har jag skrivit ner en lättsam med för att hindra hotlinking och att göra länken privat. Dvs, du kan inte kopiera länken och skick... [IN-NA-nb]
+12. Remington New Model Army Revolver, #66323 Remington New Model Army Revolver med serienummer 66323. Tillverkad i april månad år 1864 av E. Remington & Sons i Ilion, New York State. Stommen har serie... [IN-NA-nb]
+13. I detta avsnitt går vi igenom Värdeinvesterarens portfölj! På väldigt komprimerad tid så får du Värdeinvesterarens innehav med en kort förklarning till varför dom ligger i portföljen och Investacus... [IN-NA-nb]
+14. Original OEB Vs Alternative Bulldog Jag vet att OEB aveln verkligen är.... en djungel. Det har tagit mig många år av vetgirighet, att förstå hur allt hänger ihop. Jag har själv stått som valpköpare... [IN-NA-nb]
+15. Långtidssjuka barn De familjer, barn och ungdomar jag träffar har oftast fått diagnos på en kronisk långtidssjukdom. Det är t.ex. diabetes, astma, allergi, hjärtfel, cancer, tarmsjukdom eller någon... [IN-NA-nb]
+
+============================================================
+CLUSTER 3
+============================================================
+Size: 131 samples
+Register distribution: {'IN-NA-nb': 131}
+
+Examples:
+----------------------------------------
+ 1. IKT-studions nya uppdrag Sedan årsskiftet 2017/2018 är IKT-studion en del av Linköpings universitets centrum för högskolepedagogik: Didacticum. Kort förklarat går vi från att vara ett IKT-stöd med ... [IN-NA-nb]
+ 2. Utan tvekan är det denna grupp som har mest att sköta. Gruppen ansvarar för både byggnader och markanläggning vid Boviks Seglarskola. Bland gruppens uppgifter kan nämnas: - Se till att nödvändigt u... [IN-NA-nb]
+ 3. Gefleteknologerna blir sektion under Gefle Studentkår! Efter ett långt och byråkratiskt arbete med att möjliggöra för studentföreningarna vid Högskolan i Gävle att bli sektioner under kåren, kunde ... [IN-NA-nb]
+ 4. Mojo Stocks Syfte och mål Tack vare bidraget från Vinnova har vi lyckats betala kodare och är på god väg att färdigställa betaversionen av appen. Vi har även lyckats skapa marknadsföringskampanjer ... [IN-NA-nb]
+ 5. Första pris: Sandra Annell Motivering: "Jag tycker att jag skall vinna för att jag lagt ner mycket tid på bilden. Det tog väldigt lång tid innan jag fick till bilden bra och att min kanin kunde sit... [IN-NA-nb]
+ 6. menuMeny Projekt Samverkan i GGV(V) är nu avslutat. Men redan i höstas tog styrelsen beslut om att det fanns ett behov av en verksamhetsutvecklare i förbundet. I och med det implementerades projekt... [IN-NA-nb]
+ 7. Fördjupningsområdet “Ventilation” är ett gemensamt forum för lokalfastighetsägare, ventilationsföretagen, konsulter och övriga intressenter. Idén om att starta fördjupningsområdet kom från ett medl... [IN-NA-nb]
+ 8. ARSDIVINA Den gudomliga konsten Förre landstingsrådet ÅKE LIND har varit ordförande i ARS DIVINAS Intresseförening sedan 2007. 2014 avgick han på grund av sjukdom. Jag, Gunnel Götesdotter, är otrol... [IN-NA-nb]
+ 9. Det finns många många scouter i Sverige och de olika kårerna är organiserade i förbund. Vi i Björknäs tillhör det kristna förbundet equmenia (en sammanslagning av tre äldre förbund, bland annat SMU... [IN-NA-nb]
+10. Gråborg och Sankt Knuts kapellruin Kungl Vitterhetsakademien äger Borgs by på Öland. Byn består av en kringbyggd gård och ett stycke odlingslandskap med ruinerna efter Ölands största fornborg Gråbo... [IN-NA-nb]
+11. 👋🏼 Var med och förbättra Skolbanken med oss på Unikum. Svara på formuläret här Vi har valt att ha ett kalas i slutet av varje månad för de barn som fyllt år under månaden. Att få känna sig sedd och... [IN-NA-nb]
+12. KategorierAlternativa verktyg Barns delaktighet Demokrati Estetiska lärprocesser Extra anpassningar och särskilt stöd Folkhälsa Forskning Främjande och förebyggande Förstelärare delar Hållbar utvec... [IN-NA-nb]
+13. Vi håller på att utforma nya texter, att använda i olika sammanhang. Till exempel håller vi på att formulera om texten som beskriver Tillsammanscafé med läxhjälp. Den text vi använder just nu är ur... [IN-NA-nb]
+14. Fyllnadsval sker vid årsmötet 16 maj Välkommen till studentkårens viktigaste årsmöte. Ever. Efter kårvalet stod det klart att flera som sökt nyckelposter i styrelsen sagt nej till uppdragen. Därför... [IN-NA-nb]
+15. Under ett antal månader har vi jobbat med en ny hemsida som ska vara enklare att hitta i och mer matnyttig än tidigare och nu är den äntligen klar. Tydligt syfte och mål med hemsidan Huvudsyftet me... [IN-NA-nb]
+
+============================================================
+CLUSTER 4
+============================================================
+Size: 59 samples
+Register distribution: {'IN-NA-nb': 59}
+
+Examples:
+----------------------------------------
+ 1. Löjligt hur bra luckorna levererar… undrar vad jag ska se fram emot dagarna efter julafton? Den här webbplatsen använder cookies så att vi kan ge dig den bästa användarupplevelsen som möjligt. Cook... [IN-NA-nb]
+ 2. Fotbollsdata.se är ett enmans hobbyprojekt, så därför kommer uppdateringshastigheten på sajten att variera beroende på min tillgängliga tid (vilken ofta är allt för liten för en småbarnsfar som jag... [IN-NA-nb]
+ 3. Länkar Här finns kontaktvägar till “närområden” till Borgströms Förlag. Till exempel hittar du här länken till företaget Skribent. Hos Skribent finns fler böcker än de som presenteras här. Till exe... [IN-NA-nb]
+ 4. IT-Toppen 2015 Här är lite information om hur vi hade tänkt IT-Toppen 2015 ska bli: Servrar: Vi hade tänkt starta med två servrar i spelet Counter Strike Global Offensive. Just nu är endast MiniGam... [IN-NA-nb]
+ 5. Bilder och filmer öppnas i nytt fönster. Du hittar bilder på vårt Flickr-konto och filmer på YouTube-kontot Nedan hittar du ett urval av bilder och videor samt lite extra som inte ligger på våra pl... [IN-NA-nb]
+ 6. Nu ser haninge.org lite annorlunda ut och en liten tid kommer inte allt innehåll att finnas tillgängligt. Men inget att oroa sig över, allt och mycket mer kommer att finnas här snart. Sök på haning... [IN-NA-nb]
+ 7. Om du bor i området kan du gå med i Molnflygarens grupp på Facebook. Syftet med gruppen är på ett enkelt sätt kunna kommunicera med andra i området. Endast medlemmar i gruppen kan se vad som postas... [IN-NA-nb]
+ 8. Med syfte att effektivisera administrationen skapades denna blogg för vattenrådet. Genom att använda wordpress får vi en modern och lättanvänd ”motor” för vår information. Vår portalsida finns kvar... [IN-NA-nb]
+ 9. Information om hemsidan GENEALOGI, LIMHAMN, 1900-TALET OCH NU Information om hemsidans tillkomst och syfte finns i filen Genealogi Huvudsyftet är dokumentation av min släkt och att redovisa mina up... [IN-NA-nb]
+10. Vi kommer börja presentera tre wordpress teman varje vecka med start idag som är våra personliga favoriter. Dessa teman kommer sedan att inkluderas i någon av de tidigare presenterade samlingarna. ... [IN-NA-nb]
+11. Lupinhjärtan Om man tittar riktigt, riktigt noga på en lupin så kan man se små formationer av hjärtan. Vissa av bilderna har jag fotograferat med hjälp av en raynoxlins, som jag har fäst på mitt ma... [IN-NA-nb]
+12. Här kommer ett urval på 24 av mina texter författade 1994-2016 att finnas tillgängliga som e-böcker (varav fyra samlingar). Här finns även min blogg och en del annat. Jag kommer med tiden att utvec... [IN-NA-nb]
+13. Eftersom jag numera är anställd av Resolutor AB i Åmål med kontor även i Säffle så finns här en länk till Resolutors hemsida En hemsides-sektion Detta är ett exempel på en startsidessektion. Starts... [IN-NA-nb]
+14. Filmklipp MARIA ANDERSSON 18 ÅR – en tonårings syn på livet MITT KP – fördjupning är en kategori där Mullback Bloggar samlat en omfattande dokumentation om personer som har lång erfarenhet av Kondu... [IN-NA-nb]
+15. Kappan är utformad efter bilder från tiden (1903 – 1910) och efter den utförliga beskrivning av SVENSKA DRÄKTENs skaparinna Märta Jörgensen lämnat i olika artiklar. Vi redovisar både originalformen... [IN-NA-nb]
+
+============================================================
+CLUSTER 5
+============================================================
+Size: 119 samples
+Register distribution: {'IN-NA-nb': 119}
+
+Examples:
+----------------------------------------
+ 1. Syftet med den här bloggen är många. För det första så vill vi dela med oss av vårt arbete till så många som möjligt. Vi vill dela vårt arbete med andra än ”bara” lärare. Få lite verkliga läsare oc... [IN-NA-nb]
+ 2. Jag använder utrustning från Olympus. En av orsakerna till att jag valde Olympus var att dom har prisvärda vädertätade kameror och objektiver. Fördelen med vädertätningen är att utrustningen inte t... [IN-NA-nb]
+ 3. Inledning Varmt välkommen till Leksaksland! Den här hemsidan och bloggen kommer behandla allt som rör leksaker, såväl nya som gamla. Här kommer ni kunna läsa historik, fakta och mycket annat matnyt... [IN-NA-nb]
+ 4. Jag har sedan jag va liten önskat mig en flat, men familjen va svårövertalad och det blev istället hästar för min del under hela min uppväxt från det att jag va 5 år. När jag slutade gymnasiet 2012... [IN-NA-nb]
+ 5. Att jobba som personlig assistent skulle passa mig väldigt bra. Därför blev jag genast sugen på att höra av mig när jag läste att ni på Humana söker folk. Jag är säker på att jag har vad som krävs ... [IN-NA-nb]
+ 6. Namn: Alma Gunnarsson Ålder: 17 Yrke: Går sista året på gymnasiet där jag läser media Framtida yrke: Ingen aning… Försöker njuta av att inte ha några måsten, men paniken blir ju inte direkt mindre ... [IN-NA-nb]
+ 7. Tipsa om material från handelsträdgårdar! Har du material från handelsträdgårdar – kassaböcker, verifikationer, brev, dagböcker eller andra personliga anteckningar, fotografier eller annat – hör gä... [IN-NA-nb]
+ 8. Om denna blogg - Vad är det här för blogg? Sexsvar är en blogg om sex och sexfakta. Här blandas frågor och svar om sex, med tips och råd, med nyheter och sexfakta. Ämnen som tas upp är sex, sexprob... [IN-NA-nb]
+ 9. Vad innebär det egentligen att vara VD på Svecasa? augusti 26, 2021 Hej allesammans, Det har varit ett mycket intressant år för Svecasa. Vi har lanserat en ny totalt digital produkt och haft den hö... [IN-NA-nb]
+10. Beskriver mina aktuella investeringar som oftast är i Kanada eller Sverige. Målet är att huvudsakligen genom egen research, egna beräkningar, studier och företagsbesök beskriva intressanta bolag. A... [IN-NA-nb]
+11. I like how you wrote about Om mig – Orientering <3 4-lifeOrientering <3 4-life. I want to share too, most trusted wholesale supplier list: https://bit.ly/31tTure (maybe it will help someone) Thanks... [IN-NA-nb]
+12. »White Coat« är ett konstprojekt bestående av tre textila konstverk – en så kallad triptyk – som undersöker läkares relationer till sina vita läkarrockar. Projektet fokuserar särskilt på kvinnliga ... [IN-NA-nb]
+13. Kan man lita på det som skrivs här? Jag strävar noggrannt efter att allt som skrivs på eksemfri.se ska vara så korrekt som möjligt. En ledstjärna inom sjukvården är att agera baserat på ”vetenskap ... [IN-NA-nb]
+14. Om denna spel sida Historia om spel Denna blogg kommer att handla mycket om historia när det gäller spel, hur kom egentligen poker och kortspel till? Vem kom på att man kan spela de olika varianter... [IN-NA-nb]
+15. www.margaretahelin.se Vid sidan av mitt vanliga arbete som konstnär (målare) så roar jag mej med att göra kläder i liten skala. Jag har alltid gillat att ändra kläder, sy om något som har dålig pas... [IN-NA-nb]

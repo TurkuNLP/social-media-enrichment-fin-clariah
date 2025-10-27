@@ -1,0 +1,168 @@
+
+============================================================
+CLUSTER 0 (NOISE)
+============================================================
+Size: 153 samples
+Register distribution: {'ID-NA-nb': 153}
+
+Examples:
+----------------------------------------
+ 1. Ny finns min egendesignade hoodie till försäljning! En tyckte om “20” - Det gäller att inte ha stor hylla, med fransar som förstorar eller kanske man vill förstora då är den bra - Hej Annica. Härli... [ID-NA-nb]
+ 2. What inspires you? den fösta klänningen e så underar häftiga :) Wow vilka häftiga! /R så snygga bilder! så snygga bilder! svar: den är vanlig i storleken! jag brukar ha 36-38 i bikinitrosor och i d... [ID-NA-nb]
+ 3. måndag, augusti 16 Nu behöver jag er hjälp igen. Är det någon som kan rekommendera ett hotell/boende i London? Gärna billigt men bra. Iallafall ska det vara prisvärt. Det gäller en helg, 2 vuxna o ... [ID-NA-nb]
+ 4. - Julia Lisa jag har följt dig och din blogg sedan maj 2012 och jag vill gärna att du ska göra domhör videosarna: Lisas önskelista 2013 Sanning eller konsekvens Jag gillar dig jättemycket - ebba Ka... [ID-NA-nb]
+ 5. 36 Comments - Sofia - Hildas hem Det ser helt vansinnigt gott ut. Jag älskar vit choklad och blåbär så detta är ju helt klart i min smak. Jag spar detta recept för framtiden när det ska bakas 🙂 Jag... [ID-NA-nb]
+ 6. torsdag 8 januari 2015 Sju tips för en bra start på 2015 4 kommentarer: - Åsa sa... - Kan man köpa GI-boxen ute i handeln? Om nej- varför inte? - 10 januari 2015 22:43 - Åsa sa... - Kan tillgägga a... [ID-NA-nb]
+ 7. I just has sex jag har faktist ingen aning om det, det går alltid att söka på intenet & titta upp det:9<3. Måste bara fråga, är du seriös? Är det här en seriös blogg eller är det på skämt? I vilket... [ID-NA-nb]
+ 8. Mitt favoritbröd 8 Kommentar - sana13 maj, 2010 at 8:38 e m De låta jätte goda utt & lätt att baka måste prova någon dag - Anonym14 maj, 2010 at 5:26 f m Men Helena! Vad spännande att åka till Indi... [ID-NA-nb]
+ 9. tisdag 11 december 2012 Mjukt tunnbröd - Lättbakat 22 kommentarer: men å så gott!! tack för att du delar med dig av alla smarriga recept.SvaraRadera Va goda de ser ut! Jag köpte tacobröd idag, man ... [ID-NA-nb]
+10. 12 jun kl 22:53, 2009 hjärtat, hjärtat....ruskväder gör att allt känns hopplöst. så som du känner nu kände jag när jag skilt mej, och skulle hitta en plats till mej själv. flyttade tre ggr på ett å... [ID-NA-nb]
+11. Du måste vara inloggad för att skriva ett gästboksinlägg. Är du inte medlem? Bli medlem gratis här 5 jul kl. 00:23 Degen blir inte lika bra. Jag vet inte och förstår inte alls varför, jag har nämli... [ID-NA-nb]
+12. Söndagsmiddag 0 reaktioner på “Söndagsmiddag” - slaktarn skriver: Var på kycklingen hittar ni innerfile´n? - Malvi skriver: Kan du inte fråga svärmor om exakta måtten på denna rätt? Vill gärna test... [ID-NA-nb]
+13. får jag adoptera dig? C - Men du måste ta på dig termobyxorna! U - Men jag vill inte! C - Men du ska U - Jaha, men vad händer annars då? C - Jaa, annars kommer du att bli till en snögubbe! U - Nehe... [ID-NA-nb]
+14. tisdag, december 28, 2010 Anton förtfarande sjuk 3 kommentarer: - Anonym28 december 2010 14:26 Om du och Antons pappa är oroliga tycker jag att ni ska åka in och ta ett prov för rs virus. Hellre en... [ID-NA-nb]
+15. onsdag 16 oktober 2013 4 kommentarer: - Sigrid11 november 2013 02:09 Jag fick din kalender i julklapp förra året och har älskat den sedan dess och gick därför in här för att se om det kommer någon ... [ID-NA-nb]
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 337 samples
+Register distribution: {'ID-NA-nb': 337}
+
+Examples:
+----------------------------------------
+ 1. onsdag 14 september 2011 Roligt om religion 8 kommentarer: HA HA HA HA!! Helt jävla underbart!! :-))) Räddade min dag! KRAM!SvaraRadera Hahahaha!!! Underbart!SvaraRadera Hoppas han får svar, lova a... [ID-NA-nb]
+ 2. 20120914 SEPTEMBERKÖK 15 kommentarer: Oj så snyggt! Var hittar man burkarna med etiketter? Eller är det något du har knåpat ihop själv?SvaraRadera Underbart kök.SvaraRadera Så fint det blev. Och pr... [ID-NA-nb]
+ 3. 10 mars 2015 Bionic gear bag och vilja 4 kommentarer: Den blev väldigt fin och snabbt gick det också :)Tror jag måste klämma lite på den där när vi ses :)SvaraRadera Väldigt bra kämpat Anette, med ... [ID-NA-nb]
+ 4. Gästbok :) Värsta hästbloggarn du. Blivit riktigt poppis bland häst intresserade se ja. kära nån vad inlägg jag fått här, o inte har jag sett dem heller! måste ändra inställningarna så jag får medd... [ID-NA-nb]
+ 5. Välkommen till Sveriges mest populära blogg om privatekonomi och sparande (enligt en högst vetenskaplig studie på bloggen västkustinvesteraren.se). Kontakta mig på bloggmiljonaren@hotmail.com. Mond... [ID-NA-nb]
+ 6. Ja, jag trodde inte att denna dag kunde komma, att AF överträffade sig själv enligt mina kriterier Var ner till dem förra veckan och diskuterade flytthjälp, och nu var reglerna sådana att de hjälpe... [ID-NA-nb]
+ 7. fredag 11 mars 2011 Stamp of the Week! 21 kommentarer: Would love to get this stampSvaraRadera Super fin stämpel och alsters. håller tummarna.SvaraRadera Vilken härlig stämpel och vilka fina alster... [ID-NA-nb]
+ 8. Monday, September 28, 2009 Miettes 8 comments: Där hade man kunnat spendera mycket tid och pengar.ReplyDelete ser supergott ut. kram e Vilken söt liten sagobutik. Den ser verkligen ut som hämtad di... [ID-NA-nb]
+ 9. Marabou M Peanut Har du prövat den med oreobitar i? Supergod är den! :3 Har du prövat den med oreobitar i? Supergod är den! :3 Har du prövat den med oreobitar i? Den är supergod verkligen! :3 Jag ä... [ID-NA-nb]
+10. söndag 24 februari 2013 Man tror knappt det är... 15 kommentarer: Grattis!SvaraRadera Nu har du mycket fint att gotta ner dej i :D Kram! Oj oj vad mycket fint du vann, GRATTIS!!!!SvaraRadera Så gla... [ID-NA-nb]
+11. Penguin Dinner pt. 2 Kommentar Kommentar - Carl @ 2014-01-28 15:25:38 Jag blir alltid lika inamoerpd ne4r jag ser dina hopklippta bilder se5 fortse4tt med dem =) De e4r kanske lite tf6ntiga men det... [ID-NA-nb]
+12. torsdag 9 december 2010 6 kommentarer: Oj, du har mkt fint julpynt! Ska bli kul att se mer! :)SvaraRadera - Christin9 december 2010 17:50 Så många snygga och även lite ovanliga ljusstakar du har. K... [ID-NA-nb]
+13. fredag 27 maj 2011 4 kommentarer: - Hejsan Maria.SvaraRadera - Det här var den bästa Maskrosbild jag har sett på länge. Snyggt fångat ! - Ha en trevlig helg ! Hälsar Farbror Henning...:o) - Karin A... [ID-NA-nb]
+14. 18 apr. 2013 Fauni-trollglas och solrosor 7 kommentarer: Vilka söta glas, och så fint skick! Flaskan är nog en vas, lustig modell :)SvaraRadera Ja dom är så söta, blev jätteglad då jag hittade dom ... [ID-NA-nb]
+15. måndag 7 november 2016 Liten Oxalis 14 kommentarer: They are incredibly beautiful! I don't think I have ever seen Oxalis with this kind of leaves. So very pretty! :)SvaraRadera Meget smukke, dem ha... [ID-NA-nb]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 100 samples
+Register distribution: {'ID-NA-nb': 100}
+
+Examples:
+----------------------------------------
+ 1. Strange Sounding Animals HAHA, tittar man snabbt så ser den bruten ut - Broken Goat. Och sen låter den som att den är det också! XD Cobra Cat - jag måste säga att jag känner igen vissa reaktioner a... [ID-NA-nb]
+ 2. It's all in your head m8! Tråkigt du kom in i såna tankar. Men tror också det kan vara lärorikt på sitt sätt. Tex, så lär du uppskatta livet mer efteråt en sådan upplevelse, att vara i "nyktert til... [ID-NA-nb]
+ 3. mobilbilder från nyårsafton sv: tack du det ska ja ta o göra :* tack tjejen. härliga bilder! sv: Tack :D Mysigt, nu vill jag också ha det bara för det, haha! Är i Västervik hos mormor & morfar :) d... [ID-NA-nb]
+ 4. Ska ta och kika in bådas bloggar! :-) Tack för tipset på bloggarna! sv: Ja, ibland är det himla kul att få unna sig! :) Åh vad fin blogg du har! :)) Läser faktiskt också Amandas blogg, riktigt bra!... [ID-NA-nb]
+ 5. Like a pyramid. Sv; jag fråga min mamma nyss men hon ba " jag vet inte, nån affär i forum ( Forum Nacka alltså) Kram SVAR. aw, tack så mycket! :) nja, jag brukar inte lyssna på honom, men är ju bra... [ID-NA-nb]
+ 6. Hej kajsa Så kul att du vill bli min vän! jag känner typ också som att jag vill dö men det är bara för jag har diabetes Om du kanske har moviestarplanet så kan vi kanske bli bästisar för jag kan in... [ID-NA-nb]
+ 7. Haha så himla kul att du blandar ut svenskan med lite engelska ord :) du kommer bli som Maria montazami när du kommer tillbaka! 😘 kanske borde börja skriva på engelska helt och hållet så dina ameri... [ID-NA-nb]
+ 8. Party sugen Nån god dricka och lite vänner runt om sig det gör en härlig kväll, men ser inte ut som det blir så just denna helgen. Är fruktansvärt Fisker sugen, tänkte jag skulle ringa henne och hö... [ID-NA-nb]
+ 9. Den stora eh... vad? HAHA , läste också något annat :D hhahahahah oj.... http://itsalifestyle.devote.se/ Haha... Läste också något heelt annat. Trots varningen. Tyvärr läste jag rätt:/ har nyss tvä... [ID-NA-nb]
+10. Har jag sagt att jag älskar min kamera? =) Vad är det för kamera du har då? :) Den insekten såg inget vidare ut ;) Småkryp är bland de värsta jag vet. Är du fototgraf? :) Knutte: Jag har ingen dire... [ID-NA-nb]
+11. Hur kan du vara så säker på ditt svar? Och om 3 timmar ska jag upp igen och åka till Arlanda och sen drar jag, Ida-Lisa och Catti till Spanien! Kommer anagligen bli bäst. Jag vill köpa en flytande ... [ID-NA-nb]
+12. Water Roses events vecka 52/1 Det finns inte vecka 53 :) Hej! Undrar bara vad Nichole menade i andra bilden på Tisdagen med "Säffle är ju bra" ? x) Åh skulle vilja vara med i din klubb. Inte för at... [ID-NA-nb]
+13. Provar bara Men självklart vill jag följa dig vartän du tar vägen :-D Jag har ju också blogg.se och är ingen stjärna precis men vi kan säkert hjälpas åt om det skulle bli nåt knas :-D Kram fina ♥ J... [ID-NA-nb]
+14. INSPIRATION #3 SV; haha jaa efter nyår va? Då har man ju säkert redan blivit lurad att köpa alla dyra grejer :( sv: tyvärr kommer jag inte ihåg vilken stad det var! :/ Söt header du har föressten! ... [ID-NA-nb]
+15. Happy Birthday Klinten fint kors skal! sv: tack :D sv: att det är!! åhh vad roligt! gulligt av dig att överraska hon! Inte så speciellt mycket. Allt väl? Fint skal! ggrattis Grattis grattis till he... [ID-NA-nb]
+
+============================================================
+CLUSTER 3
+============================================================
+Size: 77 samples
+Register distribution: {'ID-NA-nb': 77}
+
+Examples:
+----------------------------------------
+ 1. Q/A Hejsan jätte bra blogg!! Man kan inte sluta läsa;) Jag undrade bara om du har jobbat på en resturang som heter "Erwings" i somras? Du behöver verkligen inte svara men tyckte jag kände igen dig!... [ID-NA-nb]
+ 2. THE ANSWERS svarar på några stycken nu eftersom att jag far bort imorgon tills på måndag, frågorna och svaren blev lite huller om buller, men de får ni leva med:) majjss om FRÅGESTUND: vet heter du... [ID-NA-nb]
+ 3. Trendiga halsband På vår kosmetikavdelning finns fina fynda att göra för dig som vill fixa en av sommarens stora trender, maffiga halsband. Här kommer lite smakprov! Kommentarer - 31 maj 2013 Fina!... [ID-NA-nb]
+ 4. Känner du Johanna Hermansson? Har sett att ni alltid hejar på varandra i skolan! Hur lärde ni känna varandra? Man kan inte säga att vi riktigt känner varandra men vi kommenterar varandras foton ibl... [ID-NA-nb]
+ 5. Jo , jag vill bara säga att en av dom bästa serierna ( enligt mig ) clamp har gjort är så klart Cardcaptor Sakura , den är så vacker , samtidigt som den är söt och magisk , som skapar en sån bra ko... [ID-NA-nb]
+ 6. . godkänner du alla kommentarer som du får? Svar: Japp jag godkänner alla kommentarer förutom dom som är reklam i, tex: ''rösta på min blogg i veckan blogg hos blablabla..'' :p Sånna kommentarer är... [ID-NA-nb]
+ 7. FRÅGESTUND! Hejhej! Nu tänkte jag dra igång en frågestund här på Popkungen! Och nu önskar jag många roliga frågor, så FRÅGA PÅ! Svaren kommer upp på bloggen inom en vecka. Och kom ihåg - It's all f... [ID-NA-nb]
+ 8. Råd / Släkten, arter och hybrider / Dendrobium /Skriv början av artikeln om Dendrobium cuspidatum Inlägg med Dendrobium cuspidatum som nyckelord. Köpte en Dendrobium cuspidatum för ett tag sen. Vad... [ID-NA-nb]
+ 9. Frågestund. Har nyss haft en solarie-stund på 20 min, mitt ansikte blev inte varmt så jag antar att det var en ganska svag effekt? Nåja, får väll sola ett par gånger till. Jag vill att ni med respe... [ID-NA-nb]
+10. Elins frågor: HUR lär man sig ta så fina bilder som du?! jag är verkligen inget proffs men jag har ändå haft intresse och hållt på sen jag var 10 kanske. sen har jag ju en systemis och använder bil... [ID-NA-nb]
+11. Jorvikipedia växer! Hej Esme! I skolan ritar jag en teckning på dig och Ash :) vill du jag ska mejla en bild på den till dig? Kram Grace Åh, önskar att jag hade Star Stable-spelen... x) Har Starshi... [ID-NA-nb]
+12. Vad använder du för hårprodukter just nu? :) Snälla svara! :) Svar: Vad roligt att få den frågan. Jag använder faktiskt mycket olika produkter, jag borde ta kort på alla mina produkter så ni får se... [ID-NA-nb]
+13. w: questions and answers Skulle ni kunna skriva ännu mer om östra real och eran linje, vet att ni redan gjort det men är så osäker på mitt val! Har ni bra lärare? Jag skulle kanske vilja börja där ... [ID-NA-nb]
+14. Var med och påverka 2010-05-06kl:21:42:14 | Kategori: Allmänt 2010 Jag tänkte försöka få upp en hår-videoguide de kommande dagarna och jag tänkte att ni skulle få vara med och påverka den. Svara gä... [ID-NA-nb]
+15. Ni får ursäkta lite dålig uppdatering, det enda sättet att få in nya bilder är att lägga in dom via Instagram. Här kommer i alla fall svar på de första frågorna i frågestunden! Resten kommer inom k... [ID-NA-nb]
+
+============================================================
+CLUSTER 4
+============================================================
+Size: 318 samples
+Register distribution: {'ID-NA-nb': 318}
+
+Examples:
+----------------------------------------
+ 1. Sitter o försöker fixa till designen på bandets myspace sida och har kollat runt lite på andra bands sidor. Jag vill kunna göra en helt egen design av myspace precis som alla professionella band/ar... [ID-NA-nb]
+ 2. Smärta... brinnande kroppsdelar .....panik! VART FAAN SKA MAN TA VÄGEN??????!!!! NÄR INGET HJÄLPER!!! Ringa förlossningen känns int enödvändigt jag menar vad tusan kan dom göra?? och så ligger ju l... [ID-NA-nb]
+ 3. En snygg stilstudie på nyvaken avkomma i Lisebergshjulet. Kaksmulan, som inte gillar höjder, var väldigt skeptisk till den åkturen och ville hellre åka det gamla hjulet, som är lägre. Jag insistera... [ID-NA-nb]
+ 4. Menar du fysisk förändring eller mental ? Om du menar fysisk så skulle jag önska att min man skulle inte ha hjärtfel. Det skulle betyda stora förändringar för hela familjen för vi skulle ha så myck... [ID-NA-nb]
+ 5. Tack heartminded. Det låter skojj. Oklar: Jo jag föstår det, tänkte att det skulle vara ett alternativ istället för att börja med droger av olika slag för att orka hålla humöret uppe. Jag har sömnp... [ID-NA-nb]
+ 6. Tiden springer iväg och jag flyger om inte allt för många timmar. Skulle behöva tips på hotell nära Miami Airport, eftersom man aldrig har varit i Miami innan så vill man vara nära flygplatsen för ... [ID-NA-nb]
+ 7. Men nu är jag ledig lite mer igen Skönt!! Då kan man fokusera på mr2an och Westcoast Motorsport. För tillfället håller jag och kompisen Martin att leta efter nytt garage/verkstad/kontor/showroom i ... [ID-NA-nb]
+ 8. Glömt lösenordet? Klicka här Senaste Snacket Snack i forumet Senaste bloggarna - just another bebisblogg (0) - Familjen Annorlunda Madel (0) - Loves morsa = moi! (0) - Mitt liv som fru & 2 (0) - My... [ID-NA-nb]
+ 9. Om det är de gamla Connexbussarna som går på etanol du tänker på så ingår de gissningsvis i de bussar som Transdev valde att hyra av SL. Skickat från min STF-L09 via Tapatalk Nu har jag blandat iho... [ID-NA-nb]
+10. Det finns en del oskrivna regler för dem som spår människor. Vet tre olika personer som råkat ut för en kvinna på söder i Stockholm som kanske lite brutit mot de reglerna, vilket gör henne både int... [ID-NA-nb]
+11. Tog tillfället i akt och slog till jag också, 75 spänn för appen till iPhone och iPad samt 265 spänn för Mac. Tar ett litet tag att vänja sig vid upplägget kan jag spontant känna men nu har man änd... [ID-NA-nb]
+12. Visa fullständig version : Äntligen inhandlat mer av favvobetena Var förbi Kulan på AB Fiskarnas och shoppade in fler färger av favoritbetena. Blev 5 Zalt i olika färger, 2 Bomber 16A samt 2 stycke... [ID-NA-nb]
+13. Utrota Liljebaggar Hur blir jag av med liljebaggarna dom ger sig på allt även icke liljor såsom Dahlior och sådant. Undrar även hur jag blir av med kirskålen som bara förökar sig och blir mer och m... [ID-NA-nb]
+14. Citat: Hej Magnus., Kom precis hem från Åre där min 3-åring stod på skidor för första gången. efter ha läst om olika åsiker..och självklart varje förmiddag hela veckan i skidskola.... provade vi - ... [ID-NA-nb]
+15. Hej på er! Varit medlem flera år, inte skrivit så mycket men läst desto mer. Hittade denna tråd igår så jag har väl inte läst så bra. Nåja, hur som helst, här kommer en kort - fast lång - självbiog... [ID-NA-nb]
+
+============================================================
+CLUSTER 5
+============================================================
+Size: 96 samples
+Register distribution: {'ID-NA-nb': 96}
+
+Examples:
+----------------------------------------
+ 1. Så gott det ser ut! Måste jag prova :) Så gott det ser ut! Skojar du eller? Jag och min son sa direkt vi såg dessa godbitar att vi måste testa dom=) Tack för tipset, vi kommer testa i helgen och en... [ID-NA-nb]
+ 2. 673 Kommentarer to “Gästboken” - koooomsi koooomsi!! Liten uppis snart?! Puss - Skickar några kramar! <3 - hellt underbart fint badrum! och grymt fina bilder! tack!! - Ett stort grattis på din dag!... [ID-NA-nb]
+ 3. Mitt älskade älskade Öland fina bilder du linis , hoppas du haft det bra :) var har du köpt den randiga tröjan? Men gud. Du är så söt att jag vill slå dig! En gång otrogen alltid otrogen... eller? ... [ID-NA-nb]
+ 4. Who we are never changes. Who we think we are does Låter gott med fruktsallad :) Fin blogg! fin ändring i designen! och snällt av dig att säga till att du flyttat länken bara! :D Det blev jättefint... [ID-NA-nb]
+ 5. Subway time! Åh vad gott, älskar subway! Åh gud vad gott! Har faktiskt aldrig smakat det, har bara sett pappa göra det någon gång ;) måste göra det, verkar vara så himla gott och annorlunda. Sv: åh... [ID-NA-nb]
+ 6. Vad bra att internet funkar igen. Sv: jaaa eller hur, kladdkaka är ju så himla gott!! fina :) YEEEEEEEY!: va bra att din internet funkar nu utan problem!:DD Åh så skönt att internetet är tillbaka s... [ID-NA-nb]
+ 7. jag tycker den e grymt bra!! verkligen kan se den flera gånger om! :) har du sett den? Om så vad tyckte du :)? Hey! Var hitta du mig?;) Min favvo musik måste ju ändå vara spansk musik.. :) Själv då... [ID-NA-nb]
+ 8. ROME äger!!!! Hmm den har jag tänkt kolla på många gånger men har aldrig orkat börja. Gissar att Tina inte är så sugen att börja följa ännu en serie heller o speciellt inte om den handlar om romart... [ID-NA-nb]
+ 9. Panasonic Lumix Kul!! :) och fina bilder Så snygg kamera! Sånt är så himla skönt! Skaffade en för några år sen, men den höll inte riktigt måttet. Får se om det snart blir något liknande, för man or... [ID-NA-nb]
+10. KORS I TAKET du e grym :)! sv: den har varit bra :) vad tycker du om kommentaren jag fått? :p Hihi åh vilket härligt pepp! Du är så grym! :) sv: Åh jag älskar Skärgårdsdoktorn! :) Men är inte så sä... [ID-NA-nb]
+11. Homemade granola mmm va gott o fin bild!! sv: åh vad kul att du gillade det, ska försöka mig på mer vardagliga inlägg! Ang min ansiktsvård så kör jag all in produkter från aloe med aloevera, dock s... [ID-NA-nb]
+12. Lace and birthday dinner Snygg bild måste jag säga. :D Och HA EN TREVLIG KVÄLL! :) åh, älskar spets! :) SVAR; Åh vad kul att du skrev! Kul att du beställt en stång. Jag är supersugen på att göra de... [ID-NA-nb]
+13. Guacamole Sv; Tack för ditt stöd,jag hoppas du har rätt. På sönda åker jag med skolan till stöten,blir ganska skönt med 1 vecka ledig från skola.Jätte bra blogg btw ;) kram åhh va gott med tacos!! ... [ID-NA-nb]
+14. Nails done2008-02-20 @ 12:41:15 Bilder: Privata Gud så snygga naglarna blev:) Snygga naglar! =) Skulle jag oxå vilja ha... men det är nog ingen idé att försöka för jag skulle väl äta upp dom oxå :-... [ID-NA-nb]
+15. Tips på sällskapsspel! Det är ett toppenspel :) Verkar spännande! :D Så mysigt med sällskapsspel tycker jag :) Det verkar både roligt och spännande. Vi är lite brädspelsnördar i min familj, så det ... [ID-NA-nb]
+
+============================================================
+CLUSTER 6
+============================================================
+Size: 108 samples
+Register distribution: {'ID-NA-nb': 108}
+
+Examples:
+----------------------------------------
+ 1. Ankeborg Är det bara jag som inte kan se några byxor på Carolina Gynning? Väldigt "ankeborg". Och ja - jag är avundsjuk. Jag vill också kunna springa runt i endast överdel och fortfarande se het ut... [ID-NA-nb]
+ 2. jag vill ha den! :) jag vill ha :) jag vill ha :) Är jättegärna med å tävlar om designen :) den va riktigt snygg! jag måste lära mig illustrator mer :D jag vill vinna :D Yes, please :D Vill haaa :D... [ID-NA-nb]
+ 3. Lite nytt Men va fint!! Super vackert! Inte så tokigt att besöka mamma din och få med sig hem lite fina saker÷) Himla fint :) Riktigt fint!! =) finna bilder Tjusigt! Ser mycket inredningsmedvetet u... [ID-NA-nb]
+ 4. - emma Says: älskar sandalerna :) - Lindsey Says: De blåa skorna med nitar var snygga =O). Sv: Sköldpaddan är inte min, utan Rickards. Jag var hos honom och passade henne, blommor och spelade masso... [ID-NA-nb]
+ 5. Herregud så balla och vackra bilder, verkligen så så fina :) Ha en underbar dag fin du! fina bilder! :) Vilka häftiga bilder! Så fina bilder! Vilka bilder :D så fina bilder! - vill förresten passa ... [ID-NA-nb]
+ 6. Date Sötnötar!!!! Vad duktiga ni är på att ta er tid =) Hoppas en annan me gör de så man inte sitter hemma och dattar hela dagarna =) Vem vann då?? ....;) Hej! ville bara säga att jag läser din blo... [ID-NA-nb]
+ 7. åh massa gott att äta! Mysiga bilder också som vanligt :) Mysigt! Och gud vad kul :D ser fram emot fotona :) Men ååh så roligt! Ska bli kanonkul att få se bilder därifrån! Det är min dröm att få åk... [ID-NA-nb]
+ 8. En tuff liten detalj... Hej. Kom in på din blogg idag och gillar verkligen din stil. Du har jättefint hemma hos dig. Såg ditt vardagsrumsbord och undrar vart du har köpt det? Kommer fortsätta att l... [ID-NA-nb]
+ 9. Födelsedagsbilder hej! tycker du är jätteduktig på att fota, verkligen. Och undrar nu om du skulle kunna ge mig några tips på en bra nikon eller canon till ett bra pris som du vet ? :D kram! Fina b... [ID-NA-nb]
+10. Fin blogg, allt bra ? :) haha, så sött sv: har skickat iväg ett mail nu =) Sv: Jag provade att trycka på F5 men det ville inte fungera. Men nu ser jag den! Snyggt!! riktigt fin hund du har, hade en... [ID-NA-nb]
+11. Musik. Den skolan du går i , den ligger på lindholmen och är ganska ny va? Aldrig hört något om den innan så :) jag har hittils haft en jättebra dag med bloggande och tävlingen. Du är nominerad til... [ID-NA-nb]
+12. Halloween outfit Fin du var :) Du blev super fin, som alltid :) Jag var inte utklädd, men jag skulle nog vilja varit en häxa XD åååååh vill se ansiktet D: Ikke noget.. Vi fejrer ikke halloween i DK... [ID-NA-nb]
+13. 10 kommentarer på inlägget “Din förevigt” - Sara Vart är din skinnjacka ifrån från inlägget under? Snälla kan du helst svara ikväll!!:))2014-05-11 kl 20:48 - paulas Den är ifrån H&M! Dock flera år ... [ID-NA-nb]
+14. elins ett oo så duktig du är! så fint! Tjusigt värre! svar: det hade varit härligt! jag slår vad om att det skulle läka dubbelt så snabbt ifall det var så :) kramkramkram (alltså ibland känner jag ... [ID-NA-nb]
+15. Fotografering för Fringley Vad fin! Hej Sötis! Älskar din Blogg :D kul att lära känna dig kanske kan vi hänga nån dag :) KRAMAR har lagt till dig på facebook också ;) Nu är äntligen Lattelänken upp... [ID-NA-nb]

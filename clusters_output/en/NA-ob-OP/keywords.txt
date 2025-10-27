@@ -1,0 +1,116 @@
+Keyness analysis for en/NA-ob-OP
+Original reference corpus: 111542 texts from regions ['NA-ob-OP', 'NA-nb-OP', 'NA-nb', 'ID', 'ob-OP']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 0 ===
+Target: 524 texts, 444980 words
+Reference (excluding this cluster): 111018 texts, 61928423 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. news              242.91
+ 2. president         190.44
+ 3. government        174.59
+ 4. political         157.20
+ 5. media             149.00
+ 6. his               147.03
+ 7. national          147.01
+ 8. article           136.81
+ 9. american          121.58
+10. against           117.72
+11. state             116.07
+12. law               116.03
+13. campaign          115.85
+14. football          114.74
+15. court             110.58
+16. former            109.88
+17. who               107.22
+18. million           106.85
+19. council           104.86
+20. debate            103.61
+
+==================================================
+
+=== CLUSTER 1 ===
+Target: 1258 texts, 1105483 words
+Reference (excluding this cluster): 110284 texts, 61267920 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. news              261.95
+ 2. people            255.33
+ 3. who               225.96
+ 4. women             200.11
+ 5. world             196.87
+ 6. their             196.78
+ 7. woman             196.41
+ 8. his               190.36
+ 9. men               187.48
+10. story             182.09
+11. someone           174.90
+12. why               165.74
+13. media             164.81
+14. american          154.70
+15. man               153.70
+16. being             149.99
+17. fact              143.89
+18. themselves        143.05
+19. article           140.30
+20. dont              139.40
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 616 texts, 517987 words
+Reference (excluding this cluster): 110926 texts, 61855416 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. president         588.96
+ 2. political         567.67
+ 3. government        458.64
+ 4. against           419.96
+ 5. obama             376.57
+ 6. republican        352.49
+ 7. american          348.49
+ 8. campaign          341.25
+ 9. national          340.90
+10. media             337.20
+11. democrats         332.82
+12. former            327.56
+13. state             320.47
+14. election          316.93
+15. public            311.41
+16. war               305.58
+17. americans         299.45
+18. administration    295.80
+19. washington        294.71
+20. news              293.41
+
+==================================================
+
+=== CLUSTER 3 ===
+Target: 190 texts, 128497 words
+Reference (excluding this cluster): 111352 texts, 62244906 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. news               79.70
+ 2. state              68.20
+ 3. arrested           66.34
+ 4. police             64.25
+ 5. obama              59.35
+ 6. court              51.07
+ 7. media              49.35
+ 8. lawyers            48.98
+ 9. poll               47.56
+10. fox                45.50
+11. ballot             44.98
+12. public             44.93
+13. interview          42.83
+14. president          42.58
+15. protest            41.54
+16. council            41.10
+17. government         39.13
+18. speech             38.97
+19. states             38.10
+20. cops               37.40
+
+==================================================

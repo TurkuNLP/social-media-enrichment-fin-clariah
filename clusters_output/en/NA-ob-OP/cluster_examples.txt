@@ -1,0 +1,96 @@
+
+============================================================
+CLUSTER 0 (NOISE)
+============================================================
+Size: 524 samples
+Register distribution: {'NA-ob-OP': 524}
+
+Examples:
+----------------------------------------
+ 1. Thursday, December 31, 2015 Traffic enforcement as revenue generation, bullets no substitute for brains, and other stories Sandra Bland and traffic enforcement as revenue generation Debbie Nathan s... [NA-ob-OP]
+ 2. Ross Perot returns and warns of impending economic doom Again, for those of you who are 20 or younger, refers to when Perot ran for president in 1992 and 1996. Whether people agreed with Perot or n... [NA-ob-OP]
+ 3. Here we go (yet) again I now know, thanks to eastneydave, that the plural (or multiple) of consortium is consortia - but what is the multiple feeling of déjà vu? Use your social login to comment on... [NA-ob-OP]
+ 4. We Want Our Beautiful Game Back Vital Arsenal member Professor Calculus believes negative football is killing the beautiful game. Is this a rant of fact or frustration at Arsenal's apparent poor st... [NA-ob-OP]
+ 5. By Madi Payne and Imogen Chorlton We all love films, but what happens behind closed doors? What don’t we see? Harvey Weinstein, a former american film producer, co-founder of the film company Miram... [NA-ob-OP]
+ 6. The Oil Crisis and GoldCommodities / Crude Oil Jul 08, 2008 - 11:16 AM GMT One of the hardest things about life is when we have to close a chapter. Yesterday becomes merely a collection of happy me... [NA-ob-OP]
+ 7. Last night, I walked into my son’s room to say goodnight. I found him with a black sharpie and a pack of stencils. He had used them on a white t-shirt, which now read, “Vicky is NOT a Snitch.” Vick... [NA-ob-OP]
+ 8. You know it is a slow news week when something which happens on CNN’s dreadful “Parker & Spitzer” show makes “news,” but that is what happened when I appeared on the not-long-for-this-world program... [NA-ob-OP]
+ 9. December 25, 2014 On Oct. 10, 2012, the Pelican Bay D-Short Corridor Collective, men from various cultural groups and walks of life, put into effect the historic “Agreement to End Hostilities,” per... [NA-ob-OP]
+10. Debbie says: Laurie and I don’t usually get our blogging sources from mainstream politics, but this week I found myself watching two clips from TV news, both of which I think have resonances for Bo... [NA-ob-OP]
+11. Scumbags Not realising there was a home game this afternoon at Tynecastle Stadium I nipped out of my flat to the shops. Straight into thousands of the Great Unwashed. Now, much as I despire footbal... [NA-ob-OP]
+12. Kelvin MacKenzie draws breath. “The issue about Piers – I know it sticks in the craw of the socialists reading your article,” says the former editor of the soaraway Sun, “[is] he is a natural star ... [NA-ob-OP]
+13. Just after Christmas of last year, I started getting some interesting emails. Well-written, polite, and thoroughly researched, these emails encouraged me to look into, and perhaps write about, the ... [NA-ob-OP]
+14. 21 October, 2009 Driving to drink There's no getting away from alcohol in Ireland. The pic shows a two and a half storey high ad for Jameson whiskey facing a local authority flat block in the centr... [NA-ob-OP]
+15. Ten minutes after the report, e-minis down big (reflecting a 2% drop in S&P)… euro, copper in freefall… early look says bears win. We’ll see how the day plays out… The U.S. economy added jobs in Ma... [NA-ob-OP]
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 1258 samples
+Register distribution: {'NA-ob-OP': 1258}
+
+Examples:
+----------------------------------------
+ 1. The Traveler… marching in Birmingham… Hitler’s end… your next party… May 6, 2013 by The Traveler Email This Post | Print This Post Today I traveled to Detroit, Michigan by the way of The Detroit Ne... [NA-ob-OP]
+ 2. June 12, 2006 Who Buys This Crap? (Pun Intended) So there I am, sitting on the gilded Editor In Chief Pro Tempore throne, minding my own business and thumbing through the latest edition of Entertai... [NA-ob-OP]
+ 3. As with every election campaign, I am out on the streets and talking up my preferred candidate or cause. This time out, just like with Lisbon 2, I have left Fine Gael behind to support a different ... [NA-ob-OP]
+ 4. February 22, 2013 Controversial anthropologist Napoleon A. Chagnon released his new book Noble Savages: My Life Among Two Dangerous Tribes—the Yanomamö and the Anthropologists on Tuesday. The fact ... [NA-ob-OP]
+ 5. New Years Resolution: Regarding Cynicism I dislike resolutions. I dislike what they do to my brain the rest of the year. If there is something worth making a resolution about then you probably shou... [NA-ob-OP]
+ 6. "Too open" about it... I wonder how many of us have heard this, from well-meaning people... I heard it yesterday & I'm still trying to process my feelings. I was talking to a friend about a recentl... [NA-ob-OP]
+ 7. More kids = better health just adding to the vaccine controversy After an elderly relative was instructed to get the shingles vaccination, I was prompted to investigate. Marc Brisson and his team [... [NA-ob-OP]
+ 8. I have said it once, and I’ll say it again: I HATE THE INTERNET! I don’t understand how people are coming up with all these stupid trends. Seriously, it’s like these kids don’t have anything more t... [NA-ob-OP]
+ 9. This is a continuation of Andrew’s experience of Coronavirus in Italy, supposedly only a couple of weeks ahead of us. We need to learn from this: “Quarantine Day Number……… I have lost track. First ... [NA-ob-OP]
+10. As an American, I've regularly had to deal with -- often condescending, if not disparaging -- comments from foreigners, especially Europeans, about my country's presidential contest: the obnoxious/... [NA-ob-OP]
+11. Français | English Yes, since you can’t write a single word in this crazy country without falling under the prescription of a decree, let’s say my candle has burned down. I should take advantage of... [NA-ob-OP]
+12. 09:57 am Topics: Music Pop Culture Tags: suicide depression Chillstep Today we’re going to talk about discovering new things outside our sphere of existence and rediscovering old, dark things deep ... [NA-ob-OP]
+13. Ho. Ho. Ho. Or for you kvetchy jews out there like the lady on the deli line in the market yesterday: Oy. Oy. Oy. Forget religion for a moment and let’s talk about the holiday season and what it do... [NA-ob-OP]
+14. My Musings Bostonians claim to be incredibly hardy when it comes to winter weather, but the truth is that the massive blizzard we were treated to this past weekend was a rare event in these parts. ... [NA-ob-OP]
+15. I saw a small bit of a thing on BBC News this morning. OK, this is from memory and I didn’t watch the whole thing because I would have been sedated to prevent me from hurling the cat at the Samsung... [NA-ob-OP]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 616 samples
+Register distribution: {'NA-ob-OP': 616}
+
+Examples:
+----------------------------------------
+ 1. Particularly given Lindsey Graham’s persistent tweeting yesterday that “the last thing we may want to do is read Boston suspect Miranda Rights,” there was a lot of discussion in the moments after B... [NA-ob-OP]
+ 2. Pop without frontiers In the age of globalization and post-globalization and post-post-globalization (which is sort of like post-globalization but the postal service has been re-privatized), is the... [NA-ob-OP]
+ 3. This wasn’t supposed to happen. The Drudge Report called it a “shocker.” Rick Perry, not Herman Cain, was slated to win that Florida straw poll. That, of course, was prior to the infamous Perry mel... [NA-ob-OP]
+ 4. When I think about climate change, the images that come quickly to mind are of melting polar ice caps, heat waves, droughts, and severe flooding. This kind of climate change, or global warming, is ... [NA-ob-OP]
+ 5. While the army is still trying to gun ‘em down, the media has outgunned them by embarking on the mandatory yarn-spinning. Read this and participate in my outrage. What baffles the security agencies... [NA-ob-OP]
+ 6. 2005 Kid’s Bush/Hitler Art Gets Award, 2010 Kid’s Obama/Commie Art Gets Censored It is, as we all know, the year 2010 and the era of Obama has fairly begun. Accordingly the commissars of good art t... [NA-ob-OP]
+ 7. Although predicting and analyzing in August 2013 what we think may happen in November 2016 sounds as crazy as asking who will win the World Series four years from now (my money is on the Red Sox), ... [NA-ob-OP]
+ 8. When you heard rockstar Chris Cornell died with a “band” around his neck, did you immediately think what I did? That he didn’t commit suicide but rather died accidentally performing auto-erotic asp... [NA-ob-OP]
+ 9. I suppose the fact that the public disagreement between two of Canada’s progressive darlings, Prime Minister Justin Trudeau and Calgary Mayor Naheed Nenshi, was set amidst the glittering elites in ... [NA-ob-OP]
+10. Vladimir and Barack Watching Obama, listening to Putin. A few hours before Barack Obama announced his candidacy Saturday in Springfield, Ill., Russian president Vladimir Putin spoke to the 43rd ann... [NA-ob-OP]
+11. On October 22, 2014 a judge of the Sverdlovsk regional court -Olga Sazonova was hearing an appeal towards a member of Public Monitoring Committee — Olga Dianova. Let’s remind that after a hunger st... [NA-ob-OP]
+12. People typically react in one of three ways after we publish something they’d rather keep secret: (1) No comment; (2) Confirm and spin; and (3) Deny, deny, deny. But now there is a fourth path: Den... [NA-ob-OP]
+13. Senator Joseph Lieberman, the Wall Street Journal‘s favorite former Democratic Vice Presidential nominee, predicts that “Afghanistan will be a quagmire for Al Qaeda” provided, that is, that we don’... [NA-ob-OP]
+14. On Monday, President Obama will commemorate Stonewall with an East Room reception for gay leaders. Rich never mentions, and I suspect that Obama won't either, that the catalyst for the riot was Jud... [NA-ob-OP]
+15. (In which a young bear gentleman from darkest Peru hears the footsteps of the Stasi in 21st century Britain.) The political event that really shocked me (and yes, it was a political event) took pla... [NA-ob-OP]
+
+============================================================
+CLUSTER 3
+============================================================
+Size: 190 samples
+Register distribution: {'NA-ob-OP': 190}
+
+Examples:
+----------------------------------------
+ 1. You know... like that recent pronouncement that after Japan sought our help, the US told them that their plans for fuel removal were bad and they had to start over... ... with the fuel removal that... [NA-ob-OP]
+ 2. Floyd | Sunday, 12th of February 2012 at 08:24:43 AM Osama Bin Laden told his children to live peacefully in the West where they would get a good education, his brother-in-law has revealed. Zakaria... [NA-ob-OP]
+ 3. 2 Comments - And to add to this, there has been talk this year of razing Greystone Park Psychiatric Hospital in Morris Plains, NJ, one of Sloan’s crowing achievements. - Historic Register status re... [NA-ob-OP]
+ 4. So that's what happens when you drink $10,000 worth of methamphetamine for breakfast: you - allegedly - slice bits off your ladyfriends with a sword, then hit the road to shoot one man in the back ... [NA-ob-OP]
+ 5. When I first heard the news about soldiers anally raping children in Abu Ghraib last night (Seymour Hersh says that the Pentagon is sitting on the tapes), I hoped to hell that it was a rumor. I was... [NA-ob-OP]
+ 6. Today James Randi still offers a $1 million prize to anyone who can prove they engage in paranormal activity, the prize used to be $10,000. Over the years James Randi has seen hundreds and hundreds... [NA-ob-OP]
+ 7. Apparently, the FBI is looking for informants to infiltrate vegan potlucks . It is all a part of a deliberate, calculated, and coordinated effort to infiltrate radical groups and land “terrorism” c... [NA-ob-OP]
+ 8. An Unlikely Couple October 12, 2009 3:42 PM Subscribe The possible identification of the question - and thus the company - was "tentatively" made by Guido Fawkes shortly after the existence of the ... [NA-ob-OP]
+ 9. What do A-Rod, the NLRB, and General Mills have in Common? The title of this post is not a riddle. On Jeopardy! it would be the correct response to “They evidently read George Friedman’s blog at Ar... [NA-ob-OP]
+10. Friday, June 24, 2011 'Another example of New York City's impending Americanization' — Street signs As much as we think we pay attention to things, such as street signs, I didn't see what the big d... [NA-ob-OP]
+11. So, stalwart Penn State fans and media weenies froze their balls at the airport last night expecting Franklin to get off the plane with Joyner and Erickson. Unless they were going for the village i... [NA-ob-OP]
+12. William Shatner Talks Star Trek Vs. Star Wars In Front Of A Bunch Of Horse Memorabilia ...why is there a tattered horsetail on the wall? This is a video of William 'Captain James T. Kirk' Shatner w... [NA-ob-OP]
+13. Here's how it would go: Griffin loses all appeals in New Mexico, then files a lawsuit in federal court for an injunction of the enforcement of the order disqualifying him for office. The question w... [NA-ob-OP]
+14. • Pontiac dumped, Saturn on the way to being sold or phased out, Chrysler and GM possibly headed for bankruptcy. Did you ever think you'd see the day? Even though we've been dealing with this for a... [NA-ob-OP]
+15. I am very proud of the football players at Missouri State University for standing up against injustice! I am tired of the “turn the other cheek” movement that keeps happening in this country especi... [NA-ob-OP]

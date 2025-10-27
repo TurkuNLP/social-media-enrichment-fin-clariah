@@ -1,0 +1,284 @@
+Keyness analysis for sv/ob-OP
+Original reference corpus: 329050 texts from regions ['HI-NA-nb-re', 'ds-IP-NA-nb', 'NA-ob-OP', 'NA-nb-OP', 'IP-NA-nb', 'IN-NA-nb', 'NA-nb-ob-OP', 'NA-nb-OP-rv', 'ID-NA-nb', 'NA-nb', 'ID', 'NA-nb-ne', 'ob-OP', 'NA-nb-sr']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 0 ===
+Target: 23752 texts, 17600975 words
+Reference (excluding this cluster): 305298 texts, 161339204 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. politiska       11133.92
+ 2. sverige         10446.49
+ 3. politiker       10030.78
+ 4. politik          9863.45
+ 5. samhället        8157.08
+ 6. svenska          8131.79
+ 7. regeringen       7896.49
+ 8. debatten         7251.82
+ 9. frågan           6821.47
+10. samhälle         6755.51
+11. debatt           6538.30
+12. länder           6242.41
+13. politiskt        5909.16
+14. anser            5810.84
+15. staten           5788.73
+16. politisk         5719.82
+17. media            5679.35
+18. artikel          5650.55
+19. parti            5552.07
+20. politiken        5182.84
+
+==================================================
+
+=== CLUSTER 1 ===
+Target: 795 texts, 760980 words
+Reference (excluding this cluster): 328255 texts, 178179199 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. atom              792.11
+ 2. prenumerera       787.21
+ 3. kommentarer       709.04
+ 4. upplagd           679.96
+ 5. inlägget          483.94
+ 6. politik           447.98
+ 7. etiketter         374.77
+ 8. politiker         313.99
+ 9. politiska         290.23
+10. regeringen        274.21
+11. svd               272.91
+12. partiet           271.32
+13. inga              262.16
+14. parti             254.45
+15. sverige           242.93
+16. regering          234.90
+17. debatten          233.28
+18. staten            232.75
+19. demokrati         232.36
+20. socialdemokraterna   227.42
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 503 texts, 434624 words
+Reference (excluding this cluster): 328547 texts, 178505555 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. politik           407.00
+ 2. politiker         328.74
+ 3. parti             274.07
+ 4. politiska         242.05
+ 5. partiet           237.31
+ 6. socialdemokraterna   231.30
+ 7. moderaterna       224.22
+ 8. regeringen        211.15
+ 9. partier           211.14
+10. reinfeldt         205.95
+11. valet             202.62
+12. politiken         192.94
+13. sverige           182.77
+14. riksdagen         171.68
+15. åsikter           168.80
+16. makten            168.37
+17. samhället         163.31
+18. sossarna          162.52
+19. svd               157.61
+20. politiskt         148.18
+
+==================================================
+
+=== CLUSTER 3 ===
+Target: 1946 texts, 1326280 words
+Reference (excluding this cluster): 327104 texts, 177613899 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. politik          1040.71
+ 2. kommentarer       621.41
+ 3. media             594.99
+ 4. sverige           569.28
+ 5. politiker         552.29
+ 6. tagged            545.22
+ 7. demokrati         535.31
+ 8. sverigedemokraterna   534.67
+ 9. debatt            521.51
+10. posted            478.09
+11. brott             430.64
+12. alliansrapporter   424.86
+13. tagsacta          424.86
+14. citat             422.14
+15. riksdagen         420.34
+16. samhälle          413.36
+17. moderaterna       405.14
+18. våldtäkt          392.87
+19. comments          384.84
+20. jämställdhet      374.26
+
+==================================================
+
+=== CLUSTER 4 ===
+Target: 2494 texts, 1853904 words
+Reference (excluding this cluster): 326556 texts, 177086275 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. politik           463.99
+ 2. aktier            410.56
+ 3. politiska         390.70
+ 4. börsen            387.72
+ 5. sverige           366.91
+ 6. politiker         366.06
+ 7. åsikter           363.95
+ 8. anser             358.50
+ 9. frågan            353.59
+10. media             352.81
+11. borde             347.66
+12. sina              339.59
+13. aktien            322.28
+14. miljoner          322.13
+15. bolag             309.78
+16. pengar            296.86
+17. människor         295.65
+18. verkar            284.15
+19. intressant        283.74
+20. folk              281.31
+
+==================================================
+
+=== CLUSTER 5 ===
+Target: 3699 texts, 3176439 words
+Reference (excluding this cluster): 325351 texts, 175763740 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. exempel          1683.42
+ 2. samhället        1340.14
+ 3. människor        1218.46
+ 4. ofta             1122.71
+ 5. inom             1096.42
+ 6. sociala          1052.68
+ 7. samhälle         1022.87
+ 8. själva           1018.48
+ 9. genom            1006.20
+10. dessa             996.18
+11. sätt              984.27
+12. bör               939.87
+13. utveckling        939.42
+14. handlar           921.29
+15. sina              917.41
+16. politiska         892.44
+17. frågan            871.65
+18. sin               856.73
+19. därmed            831.49
+20. därför            826.40
+
+==================================================
+
+=== CLUSTER 6 ===
+Target: 619 texts, 679151 words
+Reference (excluding this cluster): 328431 texts, 178261028 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. kristna           819.84
+ 2. samhället         663.42
+ 3. samhälle          629.06
+ 4. religion          565.43
+ 5. politiska         550.23
+ 6. människor         510.31
+ 7. makt              456.90
+ 8. kyrkan            453.28
+ 9. kristen           449.69
+10. kyrkans           449.40
+11. religiösa         436.70
+12. rättigheter       407.18
+13. staten            390.68
+14. våld              372.66
+15. muslimer          364.44
+16. frihet            362.61
+17. anser             356.86
+18. makten            352.31
+19. bibeln            345.38
+20. ideologi          344.22
+
+==================================================
+
+=== CLUSTER 7 ===
+Target: 1713 texts, 925778 words
+Reference (excluding this cluster): 327337 texts, 178014401 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. regeringen       1374.96
+ 2. förslag          1103.05
+ 3. kommuner          947.02
+ 4. ordförande        911.25
+ 5. åtgärder          896.72
+ 6. ansvar            815.87
+ 7. sverige           815.58
+ 8. resurser          802.80
+ 9. förutsättningar   771.10
+10. samhället         721.01
+11. kommun            701.93
+12. minska            695.08
+13. kommunen          685.06
+14. socialdemokraterna   657.42
+15. öka               652.97
+16. regeringens       636.71
+17. därför            634.18
+18. möjligheter       633.42
+19. stärka            629.94
+20. debatt            626.16
+
+==================================================
+
+=== CLUSTER 8 ===
+Target: 3952 texts, 2312520 words
+Reference (excluding this cluster): 325098 texts, 176627659 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. regeringen       3729.19
+ 2. politiska        2127.71
+ 3. procent          2038.26
+ 4. sverige          2025.89
+ 5. politik          1814.09
+ 6. svenska          1811.17
+ 7. socialdemokraterna  1623.42
+ 8. regering         1576.48
+ 9. enligt           1537.80
+10. politiker        1479.05
+11. mot              1452.57
+12. partiet          1437.52
+13. regeringens      1422.19
+14. sveriges         1408.67
+15. president        1372.23
+16. stöd             1333.99
+17. länder           1229.36
+18. löfven           1227.21
+19. eus              1196.21
+20. riksdagen        1161.10
+
+==================================================
+
+=== CLUSTER 9 ===
+Target: 3368 texts, 2347063 words
+Reference (excluding this cluster): 325682 texts, 176593116 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. regeringen       3499.85
+ 2. politik          2538.54
+ 3. politiker        2135.24
+ 4. sverige          2123.10
+ 5. socialdemokraterna  2040.34
+ 6. politiska        1894.60
+ 7. regeringens      1851.18
+ 8. alliansen        1647.54
+ 9. moderaterna      1600.63
+10. svenska          1574.01
+11. regering         1430.59
+12. miljarder        1429.77
+13. riksdagen        1426.66
+14. staten           1380.96
+15. parti            1299.92
+16. förslag          1252.50
+17. politiken        1232.93
+18. samhället        1156.96
+19. sveriges         1156.84
+20. ansvar           1141.64
+
+==================================================

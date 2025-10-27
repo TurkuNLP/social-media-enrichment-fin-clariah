@@ -1,0 +1,48 @@
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 149 samples
+Register distribution: {'NA-nb-OP': 149}
+
+Examples:
+----------------------------------------
+ 1. 27 januari 2016 Köper Trelleborg på rekyl Hur agera när börsen är orolig och trenden pekar nedåt? Förr eller senare kommer alltid rekyler av olika storlek och hittills har alltid börsen återhämtat ... [NA-nb-OP]
+ 2. Idag fick jag plötslig inspiration av en tweet från Günther Mårder om olika faser i ett bolags utveckling. Jag tänkte att jag väldigt kort ska ge min syn på dessa faser från ett investeringsperspek... [NA-nb-OP]
+ 3. fredag 26 januari 2018 Telia och Atlas utdelningsskräller Telia tar i dagsläget inte upp mycket av min portfölj, bara 3%, men det känns ändå som att bolaget kanske har lagt sina sämre dagar bakom s... [NA-nb-OP]
+ 4. Be Group Jag brukar dela in min portfölj i tre delar, stabila utdelningsbolag, småbolag (högrisk) och turn aroundbolag. Andelen turn aroundbolag får vara ca 10-15% av portföljen. Idag ägnade jag mi... [NA-nb-OP]
+ 5. Idag besökte jag Dagens Industris event ”Börsdagen 2022” på Grand hotel, vinterträdgården i Stockholm. Eventet bjöd på flera intressanta föredrag och paneldebatter med analytiker, Vd:ar och experte... [NA-nb-OP]
+ 6. torsdag 12 juni 2014 Fick inte Besqab & Swedbank ISK Jag anmälde via Avanza mitt intresse att teckna aktier i Besqab vid noteringen på OMX Nasdaq som sker idag. Det var en kort stunds spänning när ... [NA-nb-OP]
+ 7. Min blogglista onsdag 20 januari 2016 Svag inledning på 2016 #Ekonomi Året har sannerligen börjat illa. Inte bara för mig utan för hela aktiesparar-kollektivet. Säkerligen finns det några som lycka... [NA-nb-OP]
+ 8. Kvitt eller dubbelt i PPM-portföljerna Efter en ovanligt stark börsuppgång under januari är det dags att vässa tipsen i Morningstars PPM-portföljer. Asienfonderna var bland höstens förlorare, så dä... [NA-nb-OP]
+ 9. Fotbollen är över för året och säsongen kan väl lite snällt summeras med ett enda ord. Bedrövligt! Men på andra sidan Stockholm ekar åter sången ”Drömmar av guld” när våra hockeykrigare käkar kring... [NA-nb-OP]
+10. torsdag 5 juni 2008 Tankar kring EM och saknaden av Zizou Jag har alltid haft en ambivalent inställning till det svenska landslaget i fotboll. Olikt vissa av mina vänner så brinner jag inte för de ... [NA-nb-OP]
+11. Mer Sverige i min PPM-portfölj Nu säljer jag Latinamerikafonden och byter till Didner & Gerge. Andelen aktier är kvar strax över 100 procent, trots att jag blivit mer oroad att tillväxten globalt ä... [NA-nb-OP]
+12. Det var rätt länge sedan jag faktiskt gjorde en systematisk genomgång över Premier Leagues bästa spelare för stunden, och därför börjar det kanske bli aktuellt att göra det igen. Inte minst givet a... [NA-nb-OP]
+13. Inga damer i 10MILA-natten Jag vet inte om det är någon nyhet för er, men precis som tidigare blir det inga natt- eller nya långsträckor för damerna 2013. Om de inte springer i herrkavlen istället.... [NA-nb-OP]
+14. söndag 23 april 2017 Duroc Q1 - gott resultat Duroc prestera ett bra resultat med en vinst per aktie om 0.63, vilket extrapolerat på 4 kvartal ger ett resultat om 2,52 kr/aktie. På grund av redovis... [NA-nb-OP]
+15. Dags att skriva ner lite tankar som om bolaget. Det som skett senaste året med uppköpet av Overkill har senast igår visat sig som en framgång. Ett PM om att man redan några dagar innan spelet Payda... [NA-nb-OP]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 6131 samples
+Register distribution: {'NA-nb-OP': 6131}
+
+Examples:
+----------------------------------------
+ 1. Tittade nyligen på Dropped Frames podcast, EP07 med temat Youtubers på Twitch. I andra delen finns det en hel del intressanta diskussioner om hur man kan växa på youtube eller twitch.tv eller både ... [NA-nb-OP]
+ 2. Vi var ganska bestämda på hur vi vill att dockan ska vara /se ut, men oj vad svårt det har varit att hitta! - Den ska ha ett enligt oss tilltalande utseende (ytters individuellt så klart) - Den ska... [NA-nb-OP]
+ 3. tisdag 11 oktober 2011 Frestar till djupdyk Boken om Theodor Fontane- "författaren som Sverige har missat". Jo, det kan man förvisso påstå. Mig veterligen finns bara hans "Effi Briest" i svensk öve... [NA-nb-OP]
+ 4. Ursäkta att det blivit lite långt mellan blogginläggen här; det har varit så väldigt mycket med alla saker som kör igång här i höstinledningen. Vi har en väldig positiv trend hos oss på Kungsgymnas... [NA-nb-OP]
+ 5. We should all be feminists. Chimamanda Ngozi Adichie är en nigeriansk författare som har studerat kommunikation, politik och har en master i kreativ skrivning, samt Afrikastudier. Hennes noveller P... [NA-nb-OP]
+ 6. Jag brukar räkna på 10% för det är ungefär det börsen gett historiskt. En miljon kan låta avlägset men det är nåbart för de flesta. Jag hoppas du blir inspirerad av den är "miljonärskalkylatorn", i... [NA-nb-OP]
+ 7. Sexuellt våld är en killfråga Just nu pågår den nationella kampanjen En vecka fri från våld. Jag var inbjuden till Borås av Kvinnojouren Borås. Dagen började med en intervju i P4 Sjuhärad. Därefter... [NA-nb-OP]
+ 8. Att träffas i grupp och prata kost och hälsa inriktat mot gluten och mjölk har visat sig vara av intresse hos många. I söndags träffade Madeleine, från Madeleines Choice , och jag ett gäng mammor s... [NA-nb-OP]
+ 9. Du har kanske läst boken "Munken som sålde sin Ferrari" om, ja, advokaten som trodde att han skulle bli lycklig när han nådde en miljoner på kontot, två miljoner på kontot, tremiljoner på kontot ti... [NA-nb-OP]
+10. Nykteristen Jag är nykterist. Har alltid varit det och har ännu inte hittat en orsak till att inte vara det. Jag är INTE absolutist. Varför nykterist? Ja, den frågan har jag fått oerhört ofta. Dels... [NA-nb-OP]
+11. torsdag 6 april 2006 Ebert vs Stone Roger Eberts recension av Basic Instinct 2 är så underhållande att man nästan inte behöver se filmen. Nästan. 4 kommentarer: - Jacob sa... - Den här kommentaren ... [NA-nb-OP]
+12. Dusty Deco - en favorit! Det var länge sen jag var inne och tittade på Dusty Decos sida. Till min stora glädje har de fyllt på med en massa roliga inredningsdetaljer! Om du missat den här pärlan så... [NA-nb-OP]
+13. Fem 15-års jubilarer Jo, 1992 innebar en massa bra skivor och framförallt ett antal hårda skivsläpp. Och några av dessa plattor med tillhörande YouTubelänkar tänkte jag lyfta fram så här 15 år sena... [NA-nb-OP]
+14. Internationella kvinnodagen Internationella kvinnodagen kommer i år liksom många tidigare år att firas, trots pandemin. I hela världen firas den, och det är ju glädjande. Initiativtagarna ville gen... [NA-nb-OP]
+15. Få filmer får möjligheten att gå upp på biodukarna en andra gång. The Postman Always Rings Twice trollband en stor publik när den hade premiär 1946, då med huvudrollsinnehavarna Lana Turner och Joh... [NA-nb-OP]

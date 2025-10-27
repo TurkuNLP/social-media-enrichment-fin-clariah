@@ -1,0 +1,96 @@
+
+============================================================
+CLUSTER 0 (NOISE)
+============================================================
+Size: 38 samples
+Register distribution: {'ds-IP-NA-nb': 38}
+
+Examples:
+----------------------------------------
+ 1. Tisdagen den 28 maj idag och vi vill passa på att gratulera den ännu okända vinnaren av jackpotten på Mega Fortune igår. Vinnaren blev runt 44 miljoner kronor rikare så vi lär få höra mer om detta ... [ds-IP-NA-nb]
+ 2. Söndagen den 15 juni 2014 är här och dagarna flyger iväg. Passa på att njuta av sommaren medan det är möjligt. Söndagar brukar vara lite sega när det gäller free spins men vi brukar gå igenom alla ... [ds-IP-NA-nb]
+ 3. Godkväll kära vänner, idag är det fredag och då är jag alltid lite extra på hugget. Vi får hoppas att även spelbolagen är det. Det verkade vara många som lyckades utnyttja Betsafe och Marias erbjud... [ds-IP-NA-nb]
+ 4. Alla som öppnar ett konto får tillgång till antingen 75 eller 90 bollars bingo där man kan köpa max 6 brickor per spel helt gratis. Bingon ger ut lite mer än 2000 kronor varje dag i dessa gratisrum... [ds-IP-NA-nb]
+ 5. Det är torsdagen den 18 juli 2013 och igår lanserades Fisticuffs i mobilen vilket så klart gav mersmak med en hel del free spins. Idag har det lugnat ner sig något men vi har trots allt en del grat... [ds-IP-NA-nb]
+ 6. Vi har haft en tåkig start på månaden men nu hoppas vi att det tar lite fart. Det är fredag och den 9 maj 2014. Fredagar brukar erbjudande många free spins så vi håller tummarna idag. Vi har bland ... [ds-IP-NA-nb]
+ 7. Det har blivit söndag och det är dags att avsluta vecka 13. Det har varit en bra vecka men vi har förhoppningar på att nästa vecka blir ännu bättre eftersom det är påskveckan. Idag så förlorar vi e... [ds-IP-NA-nb]
+ 8. Happy Halloween från Mr Green Happy Hallow-gr-een! Som ni alla vet är det Halloween runt hörnet och det betyder för dem flesta trick and treat, godis, fylla för de som har åldern inne och mycket ut... [ds-IP-NA-nb]
+ 9. Free spins torsdagen 12 juni 2014 Hoppas ni är laddade för premiärmatchen ikväll mellan Brasilien och Kroatien! Det är vi och inte nog med att VM inleds utan många casinon hänger även på detta even... [ds-IP-NA-nb]
+10. Vi har nått fram till den första lillördagen i mars. Med andra ord så är det onsdagen den 2 mars 2016. Vi hoppas att det ska ta fart med fler och bättre erbjudanden nu i mars månad men det har inte... [ds-IP-NA-nb]
+11. Men men, jag ska inte måla fan på väggen här utan istället ta reda på vad som gäller hos just Orient Xpress Casino. Visserligen finns det inga rena Orient Xpress Casino free spins till nya spelare,... [ds-IP-NA-nb]
+12. En ny vecka stundar och det är nu vecka 26. Det är många som börjar sin semester idag eller som jobbar sista veckan innan semestern så det är dags att varva ner och njuta av livet. Som tur är så rä... [ds-IP-NA-nb]
+13. Härligt att direkt efter att vi har skapat en cash spins guide och en topplista där vi listar alla dessa grymma erbjudanden så dyker det upp ett sprillans nytt casino med ett gäng cash spins att bj... [ds-IP-NA-nb]
+14. Det är sommar, sol, fredag och snart semester så vad kan bli bättre? Det skulle vara att vinna en jackpott på casino men det lär dröja. Idag är det den 28 juni och vi börjar sakta men säkert att få... [ds-IP-NA-nb]
+15. Det är en turbulent vecka och vi hoppas det fortsätter så. Det är kul när det är mycket att göra och många free spins erbjudande. Nu har vi nått fram till torsdagen den 30 januari 2014 och månaden ... [ds-IP-NA-nb]
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 268 samples
+Register distribution: {'ds-IP-NA-nb': 268}
+
+Examples:
+----------------------------------------
+ 1. Gåta: Vad är det för rasande god snabbmat som serveras typ överallt på enkla hak i Balkan men som tar åratal av träning att göra innan resultatet blir godkänt? Svar: Burek! Nu finns det att köpa ry... [ds-IP-NA-nb]
+ 2. Inlandsbanan & Hurtigruten Upplev både Sverige & Norge på samma resa! 7-dagarsresa Avresa 30/7 Vi reser genom ett sommarfagert Sverige med skog, sjöar och slätter! I Mora hoppar vi på Inlandsbanan,... [ds-IP-NA-nb]
+ 3. Kapstaden och Safari i Krugerparken Upplev den kosmopolitiska Kapstaden i kombination med Krugerparken. Detta är två av de mest klassiska resmålen i Sydafrika. Kapstaden med sin avslappnade atmostf... [ds-IP-NA-nb]
+ 4. Varadero ligger inte i Kuba! Det finns en mängd resor till Kuba där de flesta går till badparadiset Varadero men denna halvö är inte Kuba! Visserligen ligger platsen på Kuba men representerar inte ... [ds-IP-NA-nb]
+ 5. Gekåsbyn Ullared Följ med oss till Gekås i Ullared och ver med om en shoppingupplevelse utöver det vanliga. Fördelat på över 25 000 kvm i butiksyta hittar ni allt till hemmet. Gekås Ullared AB är S... [ds-IP-NA-nb]
+ 6. Preliminärt dag- för-dag program DAG 1 Välkommen till Katalonien Transfer från flygplatsen och därefter får du en briefing om veckans upplägg. Du har även en chans att prata med din guide om specie... [ds-IP-NA-nb]
+ 7. På Kilian Zollsgatan i Malmö hittar man den här pärlan. Det finns många riktigt snygga kök. Stora som små. Gamla som nya. Men att hitta rätt för egen del vid en renovering behöver inte alltid vara ... [ds-IP-NA-nb]
+ 8. Under våren 2019 var France.fr och Skinetworks i de franska Alperna för att uppleva lite av allt det de majestätiska bergen har att erbjuda. Tredje stoppet var den charmerande lilla staden Val d’Is... [ds-IP-NA-nb]
+ 9. Följ med mig till Peru 2016 - SUP i Amazonas & längs Stillahavskusten TVÅ RESOR: 13 – 27 januari & 19 mars – 2 april, 2016. 15 dagar och 14 nätter. 2016 kör jag & Runmarö SUP två riktigt spännande ... [ds-IP-NA-nb]
+10. Låt dig fascineras av Vietnam och dess vänliga människor. Hanoi med sina breda boulevarder och franska influens, Hue, den gamla kejsarstaden med sina kulturskatter och det myllrande Saigon i Södern... [ds-IP-NA-nb]
+11. En annorlunda semester: vandra på Korsika Många svenskar börjar ändra deras semestervanor; att bara ligga på en sandstrand i Bulgarien är inte lika attraktivt längre och folk är mer ute efter upple... [ds-IP-NA-nb]
+12. Projektbeskrivning Tiger, tiger och tiger i Tadoba nationalpark 11 – 16 april 2021 Förlängningsresa till: Sydindien – elefanter, apor, leoparder, tiger och fantastiska fåglar april 2021 Några av re... [ds-IP-NA-nb]
+13. Vi tar bara en taxi om vi inte hittar! Så tänker nog många när de ger sig ut på nya turistäventyr, men när destinationen är Venedig så kompliceras den lösningen av det faktum att staden är helt och... [ds-IP-NA-nb]
+14. Följ med på en magisk resa till Skottland! Romantiskt, spännande, vackert, vänligt – Skottland är allt detta och mycket mer. Det är ett första klassens semestermål som kommer att gripa tag i dig än... [ds-IP-NA-nb]
+15. Margaritaville Orlando – en jättelik satsning som öppnade under 2019. Utan egentlig koppling till Disney World blir Jimmy Buffett-konceptet en del i hur sydvästra och västra delen av Disney-området... [ds-IP-NA-nb]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 156 samples
+Register distribution: {'ds-IP-NA-nb': 156}
+
+Examples:
+----------------------------------------
+ 1. Tävlingen är avslutad! Vinnarna av tävlingen: 1 pris – Viktor Källberg 2 pris – Petra Liuski 3 pris – Pernilla Stort grattis till er! Ni har blivit kontaktade via e-post, om ni av någon anledning i... [ds-IP-NA-nb]
+ 2. SNART är tomten här! Jag gissar på att det inte bara är jag som har barn som är pirriga till max inför julafton och bara läääängtar. 😉 Vi kör nu en fjärde och sista snabbtävling, jag hoppas att mån... [ds-IP-NA-nb]
+ 3. Nu har du chansen att vinna detta megapaket här i min blogg från philips.se. Paketet innehåller nattnappar, flaskvärmare, nappflaska och en elektrisk bröstpump! Det hela har ett värde på totalt 2 1... [ds-IP-NA-nb]
+ 4. I samarbete med Grandparfym har någon av er som läser chansen att vinna ett superkit för håret, från bästa Lernberger&Stafsin Schampo, balsam, inpackning och styling cream. Känner själv att det är ... [ds-IP-NA-nb]
+ 5. Maryfly Organics.se har mängder med spännande människovänliga produkter. De säljer bara produkter utan mineraloljor, syntetiska parfymer, konserveringsmedel (som parabener och phenoxyethanol), SLES... [ds-IP-NA-nb]
+ 6. 08 I dagens lucka döljer sig två biljetter till Barcelona med Spanair! Allt du behöver är att gilla oss på Facebook samt kommentera det här inlägget med dina åsikter om Flygstolen inom 24 timmar. V... [ds-IP-NA-nb]
+ 7. Vinn två nya LCHF-böcker Det är dags för december-tävling! Priset är de snart utkomna nya LCHF-böckerna Klaras bästa LCHF-recept samt Kom igång med LCHF på 14 dagar från LCHF-profilen Lars-Erik Lit... [ds-IP-NA-nb]
+ 8. Jag har kommit över en kartong One Heat A.M värde 349 kr från Fitnessguru och nu tänkte jag låta en av er läsare vinna den. Jag är säker på att ni är många som försöker gå ner i vikt genom att brän... [ds-IP-NA-nb]
+ 9. Tävling Libero Up&Go Dance Collection AVSLUTAD TÄVLING!!!Här kommer en härlig liten tävling för er och era små! Priserna ser ni nedan och alla som vill kan vara med och tävla, det är busenkelt :) 1... [ds-IP-NA-nb]
+10. av Helena Sundström | Feb 24, 2017 | TävlingPassa på att vara med i min Instagramtävling där du kan vinna en snygg papperskasse. Bild: Helena Sundström, Inredningsblogg Villa Varm. Tävling på Insta... [ds-IP-NA-nb]
+11. Idag blir det gott bakom lucka nr 4. Allt som behövs för att ge nedräkningen mot jul den där extra guldkanten. Det är dags för Tehuset Javas lucka. Hos Tehuset Java hittar ni te- och kaffefavoriter... [ds-IP-NA-nb]
+12. Smycken, skor, väskor, skärp, mössor osv. har ju alla i överflöd, men glasögon har man ofta bara ett par av. Vi vill förändra bilden av glasögon till att bli en riktig modeaccessoar och inte bara e... [ds-IP-NA-nb]
+13. ANNONS: Tävla och vinn valfri stol från EcoFurn Den här veckan har en läsare chans att vinna valfri stol från varumärket EcoFurn, värd 1295-1695 kr, i samarbete med Kila Möbler. Vilostolen EcoChair... [ds-IP-NA-nb]
+14. TÄVLING - VINN kapselmaskinen TASSIMO! Vintern närmar sig med stormsteg. I morse när vi vaknade, låg det en vitt täcke överallt utomhus. Snön ligger fortfarande kvar till viss del, trots att solen ... [ds-IP-NA-nb]
+15. Rosa paket Jag är med och tävlar hos Vicky om ett rosa paket, jag vill vinna! Tävlingen avslutas 2 augusti klockan 22.00 Min skoltid-bok Jag är med och tävlar hos Familjen Korb om en Min skoltid-bo... [ds-IP-NA-nb]
+
+============================================================
+CLUSTER 3
+============================================================
+Size: 1895 samples
+Register distribution: {'ds-IP-NA-nb': 1895}
+
+Examples:
+----------------------------------------
+ 1. Nyheter från föreningen Resultat & video från TMT FIGHTDAY #8. 25 okt Mjukisoverallerna är äntligen här! 24 okt Medaljer på Haninge BJJ Open 16 sep Nordic BJJ Open 2021 - Anmälan är öppen 15 sep Th... [ds-IP-NA-nb]
+ 2. Denna glögg är riktigt god, så gör inte för lite. En miljooooon medlemmar! 96 900 recept +5 idag 1 124 600 medlemmar +135 idag Dryck recept Mycket uppskattad! Vinbål som passar på kalas, fester och... [ds-IP-NA-nb]
+ 3. Här finner du fler modeller och mer information Crosman 1100 Trapmaster Sing sung Fire 201 9mm Sing Sung Fire 201 Airshotgun .25 Farco airshotgun Gamo viper express Crosman 1100 Trapmaster Airgun D... [ds-IP-NA-nb]
+ 4. Reglar Vi har valt stålreglar eftersom de inte slår sig, är alltid raka. Lätta att jobba med. En skena i taket och en i golvet sedan är det bara att med plåtsax kapa rätt längd på reglarna och vrid... [ds-IP-NA-nb]
+ 5. Hej Förnamn God Jul & Gott Nytt År! Önskar Carlsson Interiör & Design Vi vill tacka er för ett fantastiskt 2010 och ser fram emot ett minst lika bra 2011. I januari på Formexmässan skall en massa n... [ds-IP-NA-nb]
+ 6. Använder du sociala medier för att promota ditt företag, men är osäker på hur du ska gå tillväga? Ta hjälp av vår checklista för dagen och försäkra dig om att ditt företag tar plats på nätet. Ja, s... [ds-IP-NA-nb]
+ 7. Dagarna övergår i augusti månad och vi smyger nu igång verksamheten lite mer här på MammaMage. När skolorna startar kör vi på full nivå igen och en ny termin av utbildningar kör igång. Du vet väl o... [ds-IP-NA-nb]
+ 8. Att Twittra är roligt och ger många nya roliga on-line vänner. Ibland är det dock kul att träffa sina med-twittrare i verkliga livet och nu tycker @arnoldsdotter och jag att det är dags för en Twee... [ds-IP-NA-nb]
+ 9. Ny vecka, nya utmaningar… Måndag 5/9 kl 19.00 Ca 60 minuters helkroppspass Onsdag 7/9 kl 09.00 Ca 45 minuters helkroppspass Lördag 10/9 kl 09.00 Ca 45-60 minuters helkroppspass Alla pass har olika ... [ds-IP-NA-nb]
+10. Explora É Isso, Har Ofta e outros! Älskar att ha ett lååååångt matbord. Vi har ofta pyssel igång i ena änden och kan ändå duka till våra måltider i den andra. Idag är det pärlpyssel som gäller i py... [ds-IP-NA-nb]
+11. En rar piedestal med fina detaljer – och slitage förstås! H=63 cm Diameter 42 cm PRIS 695 kr Efter semestern har jag målat ganska många provdockor igen. Jag älskar ju att måla i vitt men det är jät... [ds-IP-NA-nb]
+12. Jag verkligen älskar Voluspas doftljus, det är faktiskt stor skillnad på dyrare ljus som doftar så mycket mer och räcker längre. Just nu inför julen sälj de i tre pack för 499 kr på bland annat Åhl... [ds-IP-NA-nb]
+13. Snygga smycken att köpa online Ni vet Lindah, som skriver en trevlig blogg om sitt liv i Sydafrika…? Hon har länge tillverkat och designat jättesnygga smycken och nu har hon tagit det stora steget ... [ds-IP-NA-nb]
+14. Totalentreprenad till McD Titta så fint vi gör med McDonalds restauranger! Här har vi som ni ser totalförändrat hela restaurangens uttryck. Tak, fönsterkarmar och dörrar är målade i grönt och grått... [ds-IP-NA-nb]
+15. Behöver ni hundpassning…??? Vilken fantastiskt sommar vi har haft så här långt. Vi på Gårdsbacken njuter i fulla drag av solen och värmen. I de tider som råder, då vi fortfarande måste vara försikt... [ds-IP-NA-nb]

@@ -1,0 +1,340 @@
+Keyness analysis for en/ob-OP
+Original reference corpus: 111542 texts from regions ['NA-ob-OP', 'NA-nb-OP', 'NA-nb', 'ID', 'ob-OP']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 0 ===
+Target: 10329 texts, 8923037 words
+Reference (excluding this cluster): 101213 texts, 53450366 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. government       6557.22
+ 2. political        5631.17
+ 3. public           3883.59
+ 4. president        3669.43
+ 5. economic         3512.48
+ 6. against          3135.28
+ 7. states           3122.30
+ 8. state            2911.08
+ 9. media            2899.75
+10. american         2889.00
+11. society          2840.86
+12. national         2792.44
+13. obama            2767.40
+14. america          2741.94
+15. policy           2717.73
+16. politics         2676.92
+17. united           2672.19
+18. economy          2660.26
+19. americans        2651.64
+20. country          2629.87
+
+==================================================
+
+=== CLUSTER 1 ===
+Target: 405 texts, 303541 words
+Reference (excluding this cluster): 111137 texts, 62069862 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. president         142.08
+ 2. politics          140.40
+ 3. obama             136.33
+ 4. election          110.80
+ 5. government        101.54
+ 6. political          99.30
+ 7. bush               93.66
+ 8. news               77.89
+ 9. campaign           76.41
+10. people             70.75
+11. country            67.85
+12. media              63.25
+13. presidential       62.99
+14. palin              60.33
+15. man                57.50
+16. mccain             57.36
+17. vote               57.15
+18. candidate          56.03
+19. politically        55.55
+20. shit               55.37
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 780 texts, 617408 words
+Reference (excluding this cluster): 110762 texts, 61755995 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. government        325.38
+ 2. obama             298.76
+ 3. liberal           203.26
+ 4. comments          203.17
+ 5. tax               193.84
+ 6. law               192.84
+ 7. political         190.28
+ 8. election          185.25
+ 9. vote              180.26
+10. country           177.00
+11. america           164.72
+12. president         153.23
+13. against           152.59
+14. stupid            144.33
+15. people            141.47
+16. illegal           141.29
+17. state             141.05
+18. politics          140.60
+19. conservative      140.59
+20. corrupt           138.85
+
+==================================================
+
+=== CLUSTER 3 ===
+Target: 704 texts, 394768 words
+Reference (excluding this cluster): 110838 texts, 61978635 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. obama             536.61
+ 2. president         505.50
+ 3. politics          365.92
+ 4. political         352.97
+ 5. archives          322.13
+ 6. republican        318.84
+ 7. trump             312.94
+ 8. government        310.56
+ 9. barack            291.11
+10. america           289.41
+11. media             282.25
+12. american          282.18
+13. news              272.15
+14. war               271.11
+15. united            251.50
+16. obamas            232.43
+17. republicans       219.98
+18. states            218.06
+19. state             208.11
+20. gop               205.75
+
+==================================================
+
+=== CLUSTER 4 ===
+Target: 189 texts, 100918 words
+Reference (excluding this cluster): 111353 texts, 62272485 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. government        136.83
+ 2. letter            113.02
+ 3. public            109.69
+ 4. congress           97.46
+ 5. tax                89.47
+ 6. economic           83.08
+ 7. president          82.47
+ 8. citizens           81.52
+ 9. support            79.03
+10. elected            78.79
+11. taxpayers          78.37
+12. council            75.45
+13. vote               75.06
+14. county             74.94
+15. federal            74.86
+16. jobs               74.63
+17. funding            69.60
+18. businesses         66.32
+19. funds              65.76
+20. oppose             65.13
+
+==================================================
+
+=== CLUSTER 5 ===
+Target: 189 texts, 241534 words
+Reference (excluding this cluster): 111353 texts, 62131869 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. religion          227.70
+ 2. islam             187.22
+ 3. nation            178.16
+ 4. christian         175.38
+ 5. god               171.55
+ 6. political         163.04
+ 7. evil              155.44
+ 8. christians        151.85
+ 9. men               151.03
+10. america           145.70
+11. religious         144.15
+12. christianity      134.35
+13. jews              130.88
+14. society           126.20
+15. faith             123.75
+16. bible             123.38
+17. moral             119.46
+18. muslims           118.05
+19. against           117.67
+20. muslim            116.86
+
+==================================================
+
+=== CLUSTER 6 ===
+Target: 987 texts, 931335 words
+Reference (excluding this cluster): 110555 texts, 61442068 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. government       1330.66
+ 2. president        1147.29
+ 3. obama            1037.93
+ 4. political        1004.33
+ 5. americans         701.09
+ 6. american          693.86
+ 7. republicans       676.96
+ 8. country           670.40
+ 9. democrats         662.20
+10. america           642.86
+11. nation            591.20
+12. election          583.81
+13. congress          580.72
+14. republican        561.49
+15. against           555.48
+16. administration    538.96
+17. politicians       537.90
+18. policy            536.49
+19. tax               535.97
+20. states            529.01
+
+==================================================
+
+=== CLUSTER 7 ===
+Target: 1068 texts, 986976 words
+Reference (excluding this cluster): 110474 texts, 61386427 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. government       1564.31
+ 2. president        1354.63
+ 3. political        1280.92
+ 4. obama            1032.74
+ 5. policy           1013.82
+ 6. administration    853.51
+ 7. national          817.11
+ 8. economic          806.38
+ 9. states            800.60
+10. public            734.04
+11. democratic        730.36
+12. american          723.91
+13. state             718.35
+14. minister          715.63
+15. congress          710.32
+16. united            707.85
+17. against           702.33
+18. americans         697.22
+19. election          695.21
+20. republican        693.94
+
+==================================================
+
+=== CLUSTER 8 ===
+Target: 718 texts, 585766 words
+Reference (excluding this cluster): 110824 texts, 61787637 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. movie             338.36
+ 2. movies            294.28
+ 3. films             284.07
+ 4. film              269.97
+ 5. audience          260.30
+ 6. characters        234.16
+ 7. actors            226.94
+ 8. television        185.16
+ 9. theres            183.88
+10. episode           177.18
+11. audiences         176.59
+12. character         175.44
+13. hollywood         167.49
+14. its               162.84
+15. doesnt            158.00
+16. isnt              151.73
+17. shows             149.11
+18. viewers           147.53
+19. star              145.68
+20. popular           145.16
+
+==================================================
+
+=== CLUSTER 9 ===
+Target: 581 texts, 508391 words
+Reference (excluding this cluster): 110961 texts, 61865012 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. economic          383.69
+ 2. growth            288.05
+ 3. industry          269.58
+ 4. research          268.39
+ 5. increase          261.19
+ 6. government        255.51
+ 7. study             252.29
+ 8. rates             252.07
+ 9. companies         250.09
+10. market            249.75
+11. science           247.31
+12. percent           247.00
+13. states            245.99
+14. economy           244.96
+15. financial         243.62
+16. technology        242.91
+17. article           240.19
+18. recent            239.53
+19. public            236.23
+20. example           226.58
+
+==================================================
+
+=== CLUSTER 10 ===
+Target: 207 texts, 212792 words
+Reference (excluding this cluster): 111335 texts, 62160611 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. society           152.58
+ 2. human             143.76
+ 3. ourselves         115.98
+ 4. reality            95.93
+ 5. world              95.54
+ 6. beliefs            87.99
+ 7. others             83.05
+ 8. understanding      82.53
+ 9. social             78.38
+10. political          76.44
+11. person             74.81
+12. belief             72.48
+13. people             69.64
+14. truth              65.86
+15. compassion         65.06
+16. life               64.41
+17. does               64.15
+18. becomes            63.23
+19. beings             62.39
+20. believe            61.90
+
+==================================================
+
+=== CLUSTER 11 ===
+Target: 1164 texts, 983345 words
+Reference (excluding this cluster): 110378 texts, 61390058 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. dont              465.78
+ 2. people            395.78
+ 3. social            371.33
+ 4. youre             333.40
+ 5. person            315.49
+ 6. doesnt            311.97
+ 7. often             302.17
+ 8. why               302.03
+ 9. themselves        295.38
+10. human             291.19
+11. world             288.27
+12. become            286.92
+13. isnt              283.06
+14. their             282.19
+15. thats             270.75
+16. others            260.14
+17. who               255.27
+18. understand        255.24
+19. being             249.75
+20. life              243.47
+
+==================================================

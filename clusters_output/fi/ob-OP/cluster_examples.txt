@@ -1,0 +1,72 @@
+
+============================================================
+CLUSTER 0 (NOISE)
+============================================================
+Size: 2568 samples
+Register distribution: {'ob-OP': 2568}
+
+Examples:
+----------------------------------------
+ 1. Tulinpa taas kiukkuiseksi sunnuntain Helsingin Uutiset luettuani. HU kertoi Jätkäsaaren Lyhty -nimisestä vapaaehtoisjärjestöstä, joka haluaa käynnistää köyhien ruuanjakelun Jätkäsaaressa. Kiinteist... [ob-OP]
+ 2. sunnuntai 25. tammikuuta 2015 Katsetta vuoteen 2015 Ja sitten katse tulevaisuuteen, kuten eilen lupailin. Tähän saakka vuosi 2015 tuntuu edeltävän vuoden uusinnalta. Pahimman pitäisi olla takanapäi... [ob-OP]
+ 3. tiistai 27. maaliskuuta 2018 Vantaalainen tragedia Juttu vaatii kaksi lyhyttä kommenttia. Ensinnäkin jutussa väitetään, että vuoteen 2050 mennessä Vantaan "väestön määrä kasvaisi 370 000:een nykyis... [ob-OP]
+ 4. torstai 10. heinäkuuta 2014 Vakuutuslääkärien päätökset käsittämättömiä Asianajaja Kai Kuusi sai puhua tänään 10 minuuttia TV:ssä vakuutuslääkärien täysin käsittämättömästä vallasta tyrmätä jopa as... [ob-OP]
+ 5. Vihreät esittelivät tänään lakialoiteen muoviverosta (lakialoite 5 /2018). Mutta kun puhutaan muovipakkausten verottamisesta, puhutaan samalla jostain suuremmasta. Kerrataan faktat. Keskiviikkona v... [ob-OP]
+ 6. Pimittääkö valtamedia meiltä tietoa Olli Pusan pikatutkimuksen tulos tuskin yllättää. Niinkuin sekään, mitkä ovat median näkyvimmät kipupisteet. Mediasensuuri Vastuulliseksi itseään väittävä media ... [ob-OP]
+ 7. “Totuuden Henki, johda sinä meitä..” Ugrisuomalaisen simakulttuurijuhlan lähestyessä saimme maata järisyttävän tiedon. Jos aiemmin ällistelimme, pällistelimme Soinin Timon nonstoppia EU-ehdokkuudes... [ob-OP]
+ 8. Lähdekirjallisuutta ja kommentteja korporativismista Kansanedustajien, ministereiden, virkamiesten ja järjestövallan apparatsikkien viettäessä kesälomiaan aloitamme pikku hiljaa käynnistämään työry... [ob-OP]
+ 9. Nainen katsoo ikkunasta ulos - tai sisään, kuten naiset kautta aikojen ovat tehneet. Hän näyttää joutilaalta samalla tavoin kuin kalastaja veneessään tai metsästäjä peuraa odotellessaan. 26.12.2007... [ob-OP]
+10. Jätin perjantaina (12.2) kirjallisen kysymyksen opetusministerille. Kysyin leijonakorujen ja muiden vastaavien valtiollisten tunnusten käytöstä kouluissa. Kysymykseni kumpuaa parin viikon takaisest... [ob-OP]
+11. Jotkut ovat sitä mieltä, että kaikki huonot elintavat pitäisi panna verolle. Tupakoijille, alkoholisteille ja lihaville pitäisi rapsauttaa lisämaksut heidän saamiensa elintapasairauksien hoidosta, ... [ob-OP]
+12. Kun sateista, helteistä, läskeistä tai liikennekäyttäytymisestä ei irtoa kirjoitettavaa, ammentavat toimittajat aiheista alkoholi, lapsiperheet sekä alkoholi ja lapsiperheet. Googlaapa piruuttasi y... [ob-OP]
+13. Mikähän mahtaa olla joukkoliikenteen sija nykyihmisten elämässä? Valtavirtaa vai marginaalia? Keski-ikäisillähän liittyy usein muistoja juniin ja busseihin, kun ei autoja ollut ja kuitenkin liikutt... [ob-OP]
+14. Vastaukseni siihen, että huonot työntekijät ovat tabu. Julkaistu lyhennettynä Suomen Kuvalehdessä 19.2. Jarkko Vesikansa (SK 5.2.) kirjoittaa huonojen työntekijöiden olevan tabu ja Vasemmistonuorte... [ob-OP]
+15. Eilen Ylen julkaisemassa raportissa ilmeni, että Tanska on maailman onnellisin maa. Suomi tuli viidenneksi. Millaisia tunteita tämä sinussa herättää? Tekeekö se sinut kateelliseksi? Miten onnellisu... [ob-OP]
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 465 samples
+Register distribution: {'ob-OP': 465}
+
+Examples:
+----------------------------------------
+ 1. Korjattavana oleva euron merkki Frankfurtissa lähellä Euroopan keskuspankkia vuonna 2013. (David Stanley/Flickr, CC BY 2.0) Julkaistu alun perin Ytimen numerossa 3/2016. Euroalueen taloutta ei pela... [ob-OP]
+ 2. Artikkelit avainsanalla ‘EKP’ Osakemarkkinaurheilua: USA voittaa 10-1 EuroopanHeikki Urpelainen, salkunhoitaja, LähiTapiola Varainhoito Oy - tammikuu 16, 2014 Ennen tulevia olympialaisia on hyvä ai... [ob-OP]
+ 3. Kirjoittajan blogeja Suomessa itsemurhakuolemat on tilastoitu vuodesta 1751 alkaen. Näin on muodostunut maailman vanhin yhtäjaksoisesti ilmestynyt tilasto itsemurhakuolemista. Se kertoo, kuinka its... [ob-OP]
+ 4. Pääministeri Juha Sipilän törmäilyt median miinakentällä ovat olleet surkuhupaisaa seurattavaa. On vaikea sanoa, kumpi haluaa hänestä enemmän eroon: […] Category Archive: Kehittyvät taloudet Autove... [ob-OP]
+ 5. Myönsimme eilen kaupunginhallituksessa eron kaupunginjohtaja Jere Penttilälle irtisanoutumisilmoituksensa johdosta. Hän siirtyy johtotehtäviin yksityiselle sektorille. Siirto on harmittava kaupungi... [ob-OP]
+ 6. huhtikuu 2014 Ylen Venäjä-ilta muistutti nykyvenäläistä propagandaaOlga Davydova-Minguet | 19.04.2014 Ylen Venäjä-ilta kertoo vaikeudesta ymmärtää venäläisyys osaksi monikulttuurista suomalaista yh... [ob-OP]
+ 7. Arkisto aihealueelle ‘Kaupunkitalous’ 24.4.2011 Kirjoittanut Ari Hyytinen Viime päivinä (HS 21.4 ja 22.4) on jälleen raportoitu Hitas-järjestelmään liittyvistä ongelmista. Miksi Helsinki ylläpitää ... [ob-OP]
+ 8. Parempi sateenkaariHyvinkää Usein kansalaisjärjestöt aktivoituvat vaalien alla, ja tarjoavat omia tavoitteitaan ja pointtejaan mukaan keskusteluun. Olen tälläkin kertaa tarttunut setan sateenkaarik... [ob-OP]
+ 9. raha Elämää opintotuen noston jälkeen Inflaation on opiskelijan vihollinen: hintojen nousu ei vieläkään näy opintotuessa. Read More Read More Lama tästä eteenpäin Ketkä häviävät, kun USA uppoaa lam... [ob-OP]
+10. Hae uutisista sanalle ajankuva Oikeusturvan ajankuva - ma 24.12.2012 Niin kuin aiemmat kirjoitukset osoittavat, niin Suomessa tarvitaan paljon parannuksia yhteiskunnan hallintorakenteisiin ja oikeu... [ob-OP]
+11. Talouskriisin kanssa painivassa Euroopassa aktiivisen ikääntymisen ja sukupolvien välisen solidaarisuuden teemavuosi 2012 on jäänyt melko vähälle huomiolle. Kuitenkin väestörakenteen muutoksella on... [ob-OP]
+12. Haulla löytyi 0 sivua. En ollut milloinkaan tiennyt kuinka yleistä ja hyväksyttyä rasismi oli amerikkalaisten kristittyjen parissa, ennen kuin luin Martin Luther Kingin elämäkertoja. Eri koulut, ki... [ob-OP]
+13. Tämä maailmassa jylläävä kulkutauti on montaa asiaa yhtä aikaa. Se on pohjaton inhimillinen murhenäytelmä ja vakava terveyskriisi. Se on kärjistyvi... "Valtiovalta Suomessa kuuluu kansalle, jota ed... [ob-OP]
+14. Pureudun vieraideni kanssa tärkeään HUOLI2015-kampanjaan mielenterveyspalveluiden puolesta. Vieraina ovat psykiatriset hoitajat Katja Boman ja Jenni Sorvari. Mielenterveysapua on vaikea saada Miele... [ob-OP]
+15. NYT ONKIN MAHDOLLISUUS VAIHTAA HALLITUS Pääministeri Sipilä lausui jotain sellaista, mikä merkitsee, että hän eroaa tai joutuu eroamaan pääministerin paikalta, jos keskustan ehdokas ei menesty pres... [ob-OP]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 16337 samples
+Register distribution: {'ob-OP': 16337}
+
+Examples:
+----------------------------------------
+ 1. Hätätilahallitus tarvitaan myös Suomeen Italiaan on muodostettu Mario Draghin johtama kaikkien puolueiden hätilahallitus. Hätätilahallitus tarvittiin sen vuoksi, että saadaan varmistetuksi 200 milj... [ob-OP]
+ 2. Iltalehden konehuone on jo veden vallassa, kun sen omien valheiden jäävuori on nyt repinyt koko kyljen auki. Teimme 1 jutun, jossa sanoimme, että Iltalehden toimittaja, Katriina Mäkelän jutussa val... [ob-OP]
+ 3. Päivän uutisvirran mukaan eduskunnan oikeusasiamies totesi KHO:n presidenttin Pekka Hallbergin toimineen perustuslain vastaisesti ns mummoväännössä. ( Kommentoin itsekkin Hallbergin toimintaa joulu... [ob-OP]
+ 4. Tosi-tv ja Big Brother -meininki ovat rynnineet täysillä myös politiikkaan ja kummallisinta on, että huonolla käytöksellä pääsee ihan uutisiin asti. Tämä tietysti ruokkii lisää huonoa käytöstä ja p... [ob-OP]
+ 5. Julkaistu Suomenmaassa 6.4.2018 Muotihokema on kaupungistuminen: se vaan on kaikkien etu, että suomalaiset muuttavat ”metropoliin”. Keskittymiskehitys vain näyttää tuottavan aika paljon ikävää muka... [ob-OP]
+ 6. maanantai 21. syyskuuta 2009 Korjaamisen logiikka. Japanissa tilanne on toinen. Tästä hyvän kuvan saa lukemalla "ylioppilaslehti 11/09" jutun "Kontrollia ja kirsikankukkia", jonka kirjoittaja on Ra... [ob-OP]
+ 7. Hurskastelun sietämätön keveys Jos heittelee muita kivillä, kannattaa varautua siihen, että he heittävät jossain vaiheessa takaisin. Sen sijaan monikaan ei alistu kivitettäväksi ja seuraavana päivä... [ob-OP]
+ 8. ulkonäkö Median ulkonäkönormi puhuttaa. Laitettuna vai luomuna telkkariin?24.10.18 Naisen ulkonäkö on aihe, josta riittää puhuttavaa. Naapurini kertoi juuri, että on saanut nuoresta iästään lähtien... [ob-OP]
+ 9. Syksy saa ja lautakunnan kokoukset jatkuvat. Huomisen kokouksen asiat jäivät vähän viime tippaan – tulin lomamatkalta Yhdysvalloista takaisin Suomeen vasta eilen illalla (19.8.). Hit the road runni... [ob-OP]
+10. Viime yönä parlamentin neuvottelijat hyväksyivät neuvoston esittämän kompromissiesityksen, joka perustuu kemianteollisuuden riittävän tehokkaaseen kontrollisysteemiin. Erityisesti Saksan kemianteol... [ob-OP]
+11. YLE:llä on mittarinsa, jolla se seuraa toimintaansa. Pari niistä kuvaa toiminnan vaikuttavuutta ihmisten ajatteluun, sen muuttamiseen ja tästä johtuvaan käytännön "toimimiseen". Voimakkaan vaikutuk... [ob-OP]
+12. sunnuntai 16. tammikuuta 2011 Cargo Cult Science. Moni listaa ihailtavia henkilöitä. Moni viittaa Einsteiniin tai Newtoniin. Pseudotieteilijät taas voivat joskus korostavaa miten joku "oikean mieli... [ob-OP]
+13. EU tyrkyttää eurooppalaista identiteettiä. Me menemme ohi ja pidemmälle, kohti globaalia identiteettiä. Emme hae ”Suomen menestystä”, näköalamme on maapallo kaikkine ihmisineen ja kulttuureineen. E... [ob-OP]
+14. Helsingin Sanomat ja Yle teettävät vaalien alla useita tutkimuksia eri puolueiden kannatuksesta. Tutkimuksiin kutsutaan satunnaisotos 18–79-vuotiaita Suomen asukkaita. Vaaleissa saavat kuitenkin ää... [ob-OP]
+15. Lapset ja nuoret Lasten bussilipun yläikäraja voisi olla nykyisen kahdentoista sijaan 16, kuten Helsingissä on. Nykyisillä taksoilla nuoret kinuavat vanhemmiltaan autokyydin kaupunkiin elokuviin ta... [ob-OP]

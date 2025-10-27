@@ -1,0 +1,48 @@
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 69 samples
+Register distribution: {'NA-nb-ob-OP': 69}
+
+Examples:
+----------------------------------------
+ 1. Allteftersom patenten går ut sinar kassan för de stora läkemedelsbolagen, lyckas inte bolagen med nya läkemedel hamnar man i en jobbig sits, tillväxten stannar av och besparingsprogram sätts in. De... [NA-nb-ob-OP]
+ 2. onsdag 29 september 2010 "Svagare än väntat från Hennes & Mauritz" H&M släppte idag sin Q3-rapport. Vinst per aktie +22% Försäljning +14% Analytikerkollektivet hade förväntat sig ännu bättre siffro... [NA-nb-ob-OP]
+ 3. Idag syntes utdelningen från Bonheur in på kontot och det var ju trevligt, speciellt som det är årets enskilt största summa. 350 aktier som vardera lämnade 7 NOK i utdelning resulterade i 2450 NOK ... [NA-nb-ob-OP]
+ 4. Analys av Dagens Fråga: Lär dig tänka som Isildur1 - lektion 1 Hur skulle Isildur göra här? Jag gissar, spekulerar och kan ha totalt fel. Jag skulle gissa att en smart ung cg-spelare ser motspelare... [NA-nb-ob-OP]
+ 5. Min blogglista måndag 20 januari 2014 Förändringar i investeringsportfölj 4 kommentarer: Tycker du inte att Astra har en lite för bra direktavkastning för att sälja från en utdelningsportfölj? Det ... [NA-nb-ob-OP]
+ 6. Jag har köpt några Skanska till en köpkurs om ca 117 kr. Förmodligen gör jag något till köp för att utdelningsmaximera under april också. Sen blir det ett till köp i maj när de sista utdelningarna ... [NA-nb-ob-OP]
+ 7. Har som bekant köpt in en mindre post aktier i Essanelle. De är noterade bland annat i Frankfurt med ticker EHX:FRA. Vad gör dom? De driver frisörsalonger med några olika varumärken och koncept. De... [NA-nb-ob-OP]
+ 8. Ja iaf om man får tro analysfirman UBS som undersökt prisutvecklingen på elbilar. UBS säger att elbilarna kommer bli billigare och hamna i samma kurs som dagens bilar med förbränningsmotorer. Anled... [NA-nb-ob-OP]
+ 9. måndag 22 maj 2017 A passage to Kopparberg I morgon är det dags för Kopparbergs stämma som jag förstås kommer att besöka, kanske lika mycket för själva stämman som för att besöka bryggeriet. Det sk... [NA-nb-ob-OP]
+10. Vi är en familj i våra bästa år. Vi har en dröm, en stor dröm. En omöjlig dröm? Inom 10 år ska Vi äga vår tid. Bloggen kommer att handla om investeringar, hårt arbete, sparande, gnetande, och varda... [NA-nb-ob-OP]
+11. En blogg om hur jag blir ekonomiskt oberoende på max 10 år, med en ordinär lärarlön och utan att göra stora uppoffringar. fredag 4 mars 2011 Hårdrock, veckosummering och lite politik Nog om det. Da... [NA-nb-ob-OP]
+12. Min blogglista Blog Archive Taggar Other AT&T - Q3 och inköp Jag har vid flera tillfällen avhandlat AT&T – ett bolag jag har en inte allt för enkel relation till och i torsdags den 22/10 kom bolage... [NA-nb-ob-OP]
+13. Vi är en familj i våra bästa år. Vi har en dröm, en stor dröm. En omöjlig dröm? Inom 10 år ska Vi äga vår tid. Vi ska äta när vi är hungriga, vi ska jobba när vi vill och vi ska sova när vi är tröt... [NA-nb-ob-OP]
+14. lördag 15 november 2014 Förändringar i portföljen samt strategifunderingar Det är en turbulent tid för portföljen. Jag har under året resonerat om hur den framtida aktieportföljen ska vara uppbyggd... [NA-nb-ob-OP]
+15. Ja, jag vet inte vad jag ska säga riktigt. Det är snarare regel än undantag att jag köper aktier med universums sämsta tajming, i Starbreeze så verkar jag dock för första gången i historien ha lyck... [NA-nb-ob-OP]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 3890 samples
+Register distribution: {'NA-nb-ob-OP': 3890}
+
+Examples:
+----------------------------------------
+ 1. Annelie Enochson - Riksdagsledamot mellan 2000-2014 för Kristdemokraterna i Göteborg. torsdag 29 april 2010 Igårkväll bildades en Svensk - Uigurisk vänskapsförening i riksdagen! Denna veckan har de... [NA-nb-ob-OP]
+ 2. ...klart Ravi ska ha en buss... … klart Ravi ska ha en buss!... Detta är nog det viktigaste och mest angelägna blogginlägg jag har skrivit under mina dryga 2 år här i Häjkon-Bäjkonland. Vill DU var... [NA-nb-ob-OP]
+ 3. När vi nu efter en vecka summerar vad uppföljningen av ensembleprognoserna för temperaturen för Frösön/Östersund gav så kan man konstatera att mer än hälften av observationerna (verkligheten) låg u... [NA-nb-ob-OP]
+ 4. Jag måste börja med att erkänna att jag i min ungdom inte var särskilt politiskt intresserad. Visst röstade jag, men någon större kunskap om partiprogrammen hos de partierna jag röstade på eller hu... [NA-nb-ob-OP]
+ 5. Bilden är tagen på Järntorget i Göteborg. Duvorna söker skydd från regnet under ett litet tak. När jag stannade för att ta bilden kom några ut. De hoppades att jag hade mat till dem. Människor söke... [NA-nb-ob-OP]
+ 6. Den dåliga Svenska Sjukvården Ett gammalt inlägg som tåls att upprepas, och kommer upperapas av mig i många år framöver. ——————————————————————————————————————————————– Jag skulle kunna skriva ett ... [NA-nb-ob-OP]
+ 7. Sedan 2013 har jag följt vad som skrivs om Gustav Adolfsdagen på sociala medier. Jag kollar på Facebook, Twitter och Instagram. Mitt intryck är att omnämnandet av dagen, både text och bilder, ökar ... [NA-nb-ob-OP]
+ 8. Håller du med mig eller tycker du att jag har helt fel? Skriv gärna i kommentarerna vad du tycker om de ämnen som jag tar upp. Här nedan kan du klicka på de ämnen som just du är intresserad av. - B... [NA-nb-ob-OP]
+ 9. Rolf Bergdahl skickade mig en mycket intressant artikel som jag nu publicerar. Detta är verkligen ett aktuellt ämne. Skolan i Sverige behöver definitivt förbättras och satsa sina resurser på rätt s... [NA-nb-ob-OP]
+10. fredag 27 mars 2009 Tyresö gymnasium På torsdagen hade vi ett möte med en av rektorerna på gymnasiet. Vi (Martin Nilsson från oppositionen, Mats Fält (m) och jag) träffades på Mats rum. Tanken var ... [NA-nb-ob-OP]
+11. Levande föda serverades på restaurang Lunchen på Vegeriet bjöd på en tankeväckande avlyssning. Den avlyssnade är, i likhet med en djup demografisk beskrivning, kvinna 45. Hon tittar på menytavlan p... [NA-nb-ob-OP]
+12. Direktlänk till inlägg 14 november 2015 Utkastet till det här inlägget gjordes för några dagar sedan, men ett datothaveri har gjort att det inte gått att publicera. (Tänk, även i övrigt, vad nutids... [NA-nb-ob-OP]
+13. Olgakatt (förstås!) påminner om den trevliga gruk-dikten ”Lille kat” i en kommentar till gårdagens inlägg. Den är väldigt fin som kattdikt. Men när man ser vilket år den skrevs inser man att den ka... [NA-nb-ob-OP]
+14. (För att lyssna på avsnittet klicka här.) Jag har inte haft en bra vecka. Förutom att jag tydligen blivit gräspollenallergiker, tappat bort min mobiltelefon för första gången i livet, och blivit bl... [NA-nb-ob-OP]
+15. Skitsnack och skvaller För några dagar sedan berättade en kompis för mig att en tjej jag umgicks med för ett tag sedan brukar gå omkring och snacka skit om mig och sprida rykten bakom min rygg. Jus... [NA-nb-ob-OP]

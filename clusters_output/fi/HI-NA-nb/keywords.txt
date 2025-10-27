@@ -1,0 +1,200 @@
+Keyness analysis for fi/HI-NA-nb
+Original reference corpus: 288231 texts from regions ['HI-NA-nb-re', 'NA-nb-OP', 'IP-NA-nb', 'ID-NA', 'NA-nb-OP-rv', 'HI-NA-nb', 'NA-nb', 'ID', 'ob-OP']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 0 ===
+Target: 158 texts, 65441 words
+Reference (excluding this cluster): 288073 texts, 141677393 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. ohje              112.82
+ 2. tarvitset          90.18
+ 3. sokeria            82.78
+ 4. laita              81.00
+ 5. suolaa             79.84
+ 6. jäähtyä            74.14
+ 7. ohjeen             71.10
+ 8. sekoita            67.23
+ 9. uunissa            65.97
+10. anna               63.93
+11. rkl                62.98
+12. sokeri             62.79
+13. pilko              62.30
+14. leikkaa            60.28
+15. kaada              53.51
+16. vinkki             53.51
+17. ohjetta            53.27
+18. vettä              52.58
+19. neulo              50.93
+20. voit               48.66
+
+==================================================
+
+=== CLUSTER 1 ===
+Target: 55 texts, 19317 words
+Reference (excluding this cluster): 288176 texts, 141723517 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. resepti            97.03
+ 2. valmistaa          93.33
+ 3. herkullinen        77.85
+ 4. reseptin           65.78
+ 5. maistuvat          62.41
+ 6. ohje               62.14
+ 7. ainekset           61.59
+ 8. helppo             61.27
+ 9. herkku             55.79
+10. keitto             46.19
+11. maukas             44.44
+12. täyteläinen        42.93
+13. reseptit           41.56
+14. maun               40.00
+15. makua              39.93
+16. valmistuu          37.99
+17. reseptiä           37.89
+18. sopii              37.36
+19. makea              35.33
+20. uunissa            34.87
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 126 texts, 66926 words
+Reference (excluding this cluster): 288105 texts, 141675908 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. kannattaa          77.81
+ 2. makua              63.75
+ 3. käyttää            62.31
+ 4. sekaan             59.81
+ 5. maustaa            57.78
+ 6. kaliumia           56.02
+ 7. proteiinia         53.74
+ 8. magnesiumia        53.23
+ 9. sekoita            52.95
+10. käytän             51.78
+11. resepti            51.29
+12. kaada              50.73
+13. sokeria            50.62
+14. sisältää           49.59
+15. suolaa             48.66
+16. kuivatut           48.58
+17. maku               47.38
+18. kattilaan          47.38
+19. lisätä             46.27
+20. kalsiumia          45.81
+
+==================================================
+
+=== CLUSTER 3 ===
+Target: 117 texts, 57719 words
+Reference (excluding this cluster): 288114 texts, 141685115 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. tarvitset         172.98
+ 2. kiinnitä          119.81
+ 3. leikkaa           112.53
+ 4. voit               99.06
+ 5. tee                84.54
+ 6. vedä               75.96
+ 7. tupeeraa           71.65
+ 8. kuivua             69.11
+ 9. pujota             68.78
+10. tutoriaalia        68.57
+11. lakkaa             66.09
+12. lopuksi            62.56
+13. tarvikkeet         61.92
+14. liimaa             60.63
+15. kynnen             60.34
+16. letitä             59.85
+17. käytä              59.05
+18. kannattaa          58.78
+19. lettiä             58.68
+20. kampaus            58.00
+
+==================================================
+
+=== CLUSTER 4 ===
+Target: 228 texts, 81082 words
+Reference (excluding this cluster): 288003 texts, 141661752 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. ompele            302.76
+ 2. silmukkaa         268.31
+ 3. silmukat          216.67
+ 4. lanka             202.91
+ 5. käytin            200.56
+ 6. päättele          194.31
+ 7. ohje              190.05
+ 8. neulo             183.87
+ 9. leikkaa           172.91
+10. silmukoita        170.92
+11. reunat            163.71
+12. kerros            163.32
+13. silmukka          159.46
+14. liimaa            151.77
+15. käännä            146.28
+16. lankaa            140.92
+17. tarvitset         137.87
+18. ohjeen            136.79
+19. langalla          128.78
+20. virkkaa           126.79
+
+==================================================
+
+=== CLUSTER 5 ===
+Target: 118 texts, 72808 words
+Reference (excluding this cluster): 288113 texts, 141670026 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. sekoita           236.50
+ 2. rkl               197.46
+ 3. paista            177.79
+ 4. suolaa            174.35
+ 5. vehnäjauhoja      167.87
+ 6. sokeria           166.73
+ 7. voita             156.62
+ 8. kaada             140.90
+ 9. aineet            140.10
+10. leivinjauhetta    119.32
+11. sokeri            115.68
+12. asteessa          114.80
+13. ainekset          113.38
+14. munaa             113.22
+15. ohjeen            105.94
+16. ohje              104.74
+17. taikina            94.41
+18. levitä             93.58
+19. ripottele          92.33
+20. minuuttia          91.70
+
+==================================================
+
+=== CLUSTER 6 ===
+Target: 207 texts, 51834 words
+Reference (excluding this cluster): 288024 texts, 141691000 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. sokeria           114.85
+ 2. uunissa           112.35
+ 3. kakun             110.39
+ 4. rkl               110.09
+ 5. ohjeen            103.33
+ 6. suolaa            101.48
+ 7. kakku             100.02
+ 8. käytin             96.86
+ 9. täyte              95.24
+10. sekaan             93.21
+11. maku               91.14
+12. ohje               81.48
+13. kermaa             81.47
+14. päälle             80.26
+15. sokeri             72.69
+16. sekoita            72.64
+17. vuokaan            71.73
+18. taikina            71.16
+19. kakkuun            70.62
+20. voita              70.57
+
+==================================================

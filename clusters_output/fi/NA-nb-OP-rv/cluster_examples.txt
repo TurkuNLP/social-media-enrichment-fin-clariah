@@ -1,0 +1,96 @@
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 2958 samples
+Register distribution: {'NA-nb-OP-rv': 2958}
+
+Examples:
+----------------------------------------
+ 1. Podcast-maniassani olen jonkin aikaa kuunnellut myös yhtä kirja-podcastia. Sen nimi on Bookrageous, ja siinä yksi kirjakauppias, yksi toimittaja ja yksi kirjailija-toimittaja keskustelevat kirjoist... [NA-nb-OP-rv]
+ 2. Mielleyhtymiä musiikista jo vuodesta 2007 lähtien. Rockin puoliproosaa levyhyllyn pintoja raapaisten. torstai 6. toukokuuta 2010 Rokkimutustelua - The Dead Weather Rokkia se hakee, kulmaa ja makeaa... [NA-nb-OP-rv]
+ 3. sunnuntai 1. toukokuuta 2016 Huhtikuussa lukemani kirjat Esittelen huhtikuussa lukemani kirjat poikkeuksellisesti nyt näin toukokuun ensimmäisenä päivänä. Viime kuussa sain luettua kolme kirjaa. Ni... [NA-nb-OP-rv]
+ 4. tiistai 8. heinäkuuta 2008 Telkkarin orja - osa 4. "Yeah, and if a frog had wings it wouldn't have to bump his ass when he hops." (suom. "Ja jos sammakolla olisi siivet sen ei tarvitsisi pumpata pe... [NA-nb-OP-rv]
+ 5. sunnuntai 10. marraskuuta 2013 Jari Tervo: Esikoinen Kustantaja: WSOY, 2013 Kansi: Tuula Mäkiä Sivuja: 241 Mistä sain kirjan: oma ostos, Elisa-kirjojen e-kirja, luettu iPadilta (kuvassa poseeraa ys... [NA-nb-OP-rv]
+ 6. Lastenteatteripäivänä lomailimme Tampereella ja menimme tutustumaan meille ennestään tuntemattomaan Teatteri Mukamakseen. Tunnelmallinen Teatteri Mukamas sijaitsee Pispalan puutaloalueella. Näimme ... [NA-nb-OP-rv]
+ 7. Vanhan majatalon arvoitus Luin Blyton Arvoitus-sarjan muut osat aiemmin yhteen syssyyn, tämä viimeisin kirja jäi kuitenkin huomaamatta silloin ja luin sen nyt sitten jälkikäteen. Sisarukset Roger j... [NA-nb-OP-rv]
+ 8. lauantai 23. maaliskuuta 2013 Joni Pyysalo: Ja muita novelleja Mies päättää unohtaa oudon valoilmiön, koska ei halua muuttaa maailmankuvaansa, pussillinen hiekkaa lopettaa vaimon rakkauden, mielent... [NA-nb-OP-rv]
+ 9. sunnuntai 20. heinäkuuta 2014 William Shakespeare: Paljon melua tyhjästä Nainen minut kantoi, siitä häntä kiitän. Nainen kasvatti minut, ja siitä myös annan nöyrän kiitoksen. Mutta miekkaani en lyk... [NA-nb-OP-rv]
+10. Sairaspäivän sohvaosasto. Mitäs muuta sitä tekisikään sairaspäivänä, kuin lukisi osittain koulumaailmaan sijoittuvaa teosta. Ansu Kivekkään Perhosveitsi (Crime Time, 2014) oli tarttunut mukaan kirj... [NA-nb-OP-rv]
+11. A: Pitkästä aikaa ajattelin näpytellä oikein olan takaa eräästä kirjasta. Kyseessä olisi Sally Greenin kirjoittama Puoliksi paha, jonka haalin pari kuukautta sitten kirjakaupasta ja nyt tässä syysl... [NA-nb-OP-rv]
+12. Tämä on yhden kirjariippuvaisen lukupäiväkirja, eli yritän pysyä itse kärryillä siitä, mitä kaikkea on tullut luettua. Blogi on tehty huvin vuoksi ja kirjoja arvioin puhtaasti viihdearvon perusteel... [NA-nb-OP-rv]
+13. Jokken kirjanurkassa julkaisen subjektiivisen objektiivisia arviointeja. Pyrin porautumaan pintakerroksen alle paljastaen sen, joka kiinnostaa tai ärsyttää minua. Ostan kirjat, jotka luen ja arvioi... [NA-nb-OP-rv]
+14. lauantai 11. helmikuuta 2012 Joel Haahtela: Traumbach Ensin löysin Murakamin ja heti seuraavalla viikolla löydän Joel Haahtelan. Miten kirjailijasta voikaan olla niin väärä ja vääristynyt kuva pääs... [NA-nb-OP-rv]
+15. (Jos haluat kuunnella käsiteltävää biisiä samalla kun luet, paina tästä.) En tiedä kuka on keksinyt lyhenteen IVK, mutta sen ovat popularisoineet Janne Flinkkilä ja Nalle Österman. En ole lyhennett... [NA-nb-OP-rv]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 294 samples
+Register distribution: {'NA-nb-OP-rv': 294}
+
+Examples:
+----------------------------------------
+ 1. Reissukokemuksia Matkan varrelta halutaan jakaa muillekin kokemuksia. Tulemme käymään monenlaisissa paikoissa ja jos haluat vinkata jonkun kohteen niin laita etusivun kautta viestiä tulemaan. 2022 ... [NA-nb-OP-rv]
+ 2. maanantai 9. heinäkuuta 2007 Demonstraatio Ravintola Demo on erikoisuus Suomen huippuravintoloiden joukossa. 2 Nuorta miestä pitävät hieman löysännäköisellä asenteella Fine Dining-ravintolaa. Tulok... [NA-nb-OP-rv]
+ 3. Murun kanssa Murussa Annoin tyttöystävälleni joululahjaksi kortin, jossa oli sarja päivämääriä kalenteriin varattavaksi. Suosittelen muillekin. Pääsee hemmottelemaan itseään ja antaa samalla hyvän ... [NA-nb-OP-rv]
+ 4. torstai 19. syyskuuta 2013 Goodwin the Steak House Olen syönyt täydellisen pihvin. Söin sen viime sunnuntaina Goodwinissä, jonne ystäväni vei meidät porukalla syömään illallista. Goodwin sijaitsee ... [NA-nb-OP-rv]
+ 5. Bronda, ensi kosketus Björkin / Wikbergin ravintoloihin. Gaijinit ja Farangit ovat jääneet itämaisen ruuan ällötyksen takia väliin ja Bulevard social on vasta tulossa. Bronda kiinnosti heti meitä k... [NA-nb-OP-rv]
+ 6. Mikä? The Exchequer Wine Bar . Missä? 19 Ranelagh, Dublin 6. Menneenä viikonloppuna oli sattumoisin aihetta hieman juhlia, ja kun sääkin oli suosiollinen, päätin lähteä pienelle tutkimusmatkalle Du... [NA-nb-OP-rv]
+ 7. MOOD Stockholm -ostoskeskuksen pikaruokapaikkaa ehdinkin jo kehua, mutta nyt kerron siitä hieman enemmän. Ostoskeskusesittelystä olisi tullut liian pitkä, jos olisin vielä paneutunut tämän ihanan r... [NA-nb-OP-rv]
+ 8. Uusi viikko, uudet kujeet, tällä kertaa matka kulki Kynsilaukan tilalle ilmestyneeseen Il Birrificio -ravintolaan. Omien sanojensa mukaan “Baristojen ja oluenpanijoiden rakentama kuppila” ja tarjoa... [NA-nb-OP-rv]
+ 9. Kokkiurani alkuaikoina, reilut kymmenen vuotta sitten, tein paljon keikkahommia eri ravintoloissa. Muistan tehneeni Hanasaaren kulttuurikesuksessa muutaman keittiökeikan, mutta sittemmin en ole tut... [NA-nb-OP-rv]
+10. 5 ruokaelämystä Lissabonissa Lissaboniin voisi hyvin mennä vain syömään. Näistä ravintoloista kannattaa aloittaa. 1. Mercado da Ribeira Suuntaa ensimmäiseksi kauppahalliin, koska siellä saat hyvän ... [NA-nb-OP-rv]
+11. tiistai 30. kesäkuuta 2015 Viinibaari Antidote ilahduttaa viininystävää Kööpenhaminassa Tätä rennompaa ja palvelualttiimpaa viinibaaria voit hakea, mutta tuskin löydät. Seuraavassa kerron kokemukse... [NA-nb-OP-rv]
+12. PLATZ + SILK SUSHI / Tallinna 30. maaliskuuta 2011 Lounaspaikkoina maaliskuisella Tallinnan retkellä toimivat Silk sushiravintola vanhassa kaupungissa ja Platz Rotermannin kauppakeskuskuksen liepei... [NA-nb-OP-rv]
+13. Meinas mennä kirjaimellisesti ohi suun koko toissa viikolla loppunut City.fi:n 10 €:n ravintolaviikot. Onneksi kuitenkin lamppu syttyi viimetinkaan vintillä ja sain polkastua kokoon pienen burgerip... [NA-nb-OP-rv]
+14. Olin jo pitkään kuullut huhuja Vallilan teollisuusalueella piilossa lymyävistä burgereista – ovat kuulemma Helsingin parhaimmistoa! Viikko sitten lauantaina suuntasimme perheen kanssa hyvissä ajoin... [NA-nb-OP-rv]
+15. moderni merimiesravintola – shelter helsinki Saan usein pääkaupunkiseudun ulkopuolella asuvilta ystäviltäni kyselyitä, mihin ravintolaan Helsingissä kannattaisi mennä illallistamaan. Mikä on kuumin... [NA-nb-OP-rv]
+
+============================================================
+CLUSTER 3
+============================================================
+Size: 283 samples
+Register distribution: {'NA-nb-OP-rv': 283}
+
+Examples:
+----------------------------------------
+ 1. lauantai 28. huhtikuuta 2018 Stallhagen New England IPA Bussilla ja junalla raahauduin lentokentälle, tutussa baarissa ylikuohuvaa NEIPAa Ahvenanmaalta. Kovasti hiilihappoa, olut kuohui lasin reuno... [NA-nb-OP-rv]
+ 2. Espoo special: Espoon Oma Panimo & Fat Lizard Lähettänyt Harri Metsäjoki - julkaistu 26.12.17 0 kommenttia Tapanintansseissa tänään esiintyy kaksi espoolaista pienpanimoa, joiden oluet kulkeutuivat... [NA-nb-OP-rv]
+ 3. Nyt lasiin kaatuu aaton kuplivana Heimo Omena-Pihlaja Sour Ale, joka on jyväskyläläisen Tommi Särkän kotipanimon Ukonmaljan lambictyylinen viritelmä. Kyseessä on omenoilla ja pihlajanmarjoilla säes... [NA-nb-OP-rv]
+ 4. lauantai 8. joulukuuta 2012 Oslo IPA Liukasteltuani Oslon uuden oopperatalon kaltevilla pinnoilla hyytävässä viimassa maleksin parlamentin ja kuninkaanlinnan maisemissa Oslon neljänteen ja vanhimpa... [NA-nb-OP-rv]
+ 5. Virolainen stoutti kaatui lasiin ohuenoloisena ruskeana, lasissa väri oli kuitenkin aika mustaa. Tuoksui heti maapähkinävoille. Kovasti oli hiilihappoa kuohumassa, joten vaahto katosi nopeasti. Ens... [NA-nb-OP-rv]
+ 6. lauantai 16. marraskuuta 2019 Goodieson Pilsner Pilsneriä McLaren Valesta, sekin taitaa olla viiniseutua South Australiassa. 5,0 %, nyt baarissa aksentti jostain syystä ymmärrettiin. Kirkasta kulta... [NA-nb-OP-rv]
+ 7. Tämänkertaiseen kuuntelutestiin löysi tiensä brittiläisen Wharfedalen kaiuttimet jotka kulkevat nimellä Wharfedale Diamond 10.0. Kuten lähes aina aikaisemminkin ovat nämä tori.fi sivuston kautta ku... [NA-nb-OP-rv]
+ 8. Copenhagen Beer Celebrationin lauantaiaamun sessio, eli punainen sessio oli lauantaina 3.5. klo 10-14.30. Sessiossa keskityin erityisesti Imperial Stouteihin ja Portereihin, tosin monenlaista muuta... [NA-nb-OP-rv]
+ 9. Vuoden viini 2012 - Anselmann Weißburgunder Trocken Weissburgunder on sama rypäle, kuin Pinot Blanc, josta en ole oikein saanut kiinni, mutta Anselmann on kyllä Vuoden viinit -kilpailun eurooppalai... [NA-nb-OP-rv]
+10. skip to main | skip to sidebar Maistila Hoodie NEIPA Pääsin pahasti myöhässä HOK-Elannon pienpanimotapahtuma FCBR:n Maistila-teistingiin Kuikkaan. Joni Harju kuitenkin hienosti vielä paikalla ja sa... [NA-nb-OP-rv]
+11. sunnuntai 21. toukokuuta 2017 Fell Tinderbox IPA, cask ale Town Mousen caskiin avautui tuore IPA, joten jäin vielä puolikkaalle, 6,3%. Sitrusta, pehmeää, mallas tukee hyvin, caskatun IPAn vahvuus v... [NA-nb-OP-rv]
+12. Uudistuneen ilmeen kanssa Kukkaisviikkojen Viinikylä avattiin eilen torstaina. Oli todella miellyttävän oloinen alue – tänä vuonna on saatu hyvin mukaan avaruutta ja toimivuutta koko kylään. Toinen... [NA-nb-OP-rv]
+13. keskiviikko 7. joulukuuta 2011 Thornbridge Jaipur IPA, real ale Itselleni harvinaisia Underground-ongelmia päästä Paddingtonista Clerkenwelliin, huoltotyöt ja palvelukatkokset ehkä ovat huhujen muk... [NA-nb-OP-rv]
+14. sunnuntai 25. lokakuuta 2009 Rogue Smoke Ale Savuolut Oregonista, omistettu Berliinin muurin murtumiselle. Rauchbieristäkin puhutaan, mutta sehän on lageria, ei alea. Ei tämä Bambergin rauchbierejä... [NA-nb-OP-rv]
+15. maanantai 28. toukokuuta 2012 Holdens Black Country Bitter, real ale Kävin tässä baarissa jo 2000, silloin ei riilejä, Belfastin vanhin rakennus vuodelta 1711, entinen bordelli, hienoja sisustusrat... [NA-nb-OP-rv]
+
+============================================================
+CLUSTER 4
+============================================================
+Size: 1394 samples
+Register distribution: {'NA-nb-OP-rv': 1394}
+
+Examples:
+----------------------------------------
+ 1. bareMinerals on varmasti jo kaikille tuttu, jotka on mitään kosmetiikkablogeja koskaan lukeneet ja monille niillekin, jotka ei ole koskaan tässä maailmassa edes käyneet. Olen itsekin tutustunut bar... [NA-nb-OP-rv]
+ 2. Urban Decay Naked Basics Luomiväripalettejahan ei voi tytöllä koskaan olla tarpeeksi. Kun elintärkeät Urban Decayn Naked-paletit on jo kerätty ja kun niihin oli niin palavasti rakastuttu, oli tämän... [NA-nb-OP-rv]
+ 3. Monet rakastavat lukea kosmetiikkabloggaajien ”loppuneet”-postauksia, joissa kerrotaan loppuun kuluneista tuotteista lyhyesti ja katsotaan, montako purnukkaa kohtaa roskakorin tällä kertaa. Yleensä... [NA-nb-OP-rv]
+ 4. Kuvassa Coastal Scents kokoelmani. 1. Luomiväripaletit Omistan useamman Coastal Scents- meikkipaletin. Esimmäiset hankintani olivat 88 Piece Makeup Palette ja Ultra Shimmer 88 Eye Shadow palette. M... [NA-nb-OP-rv]
+ 5. Päätin pitkästä aikaa hemmotella itseäni tilaamalla jotain kivaa korealaista. Päädyin eBayn sijaan kokeilemaan eestiläistä verkkokauppaa, joka myy Misshaa. Paketti saapui naapurissa olevaan Smartpo... [NA-nb-OP-rv]
+ 6. Aika moni siellä ruudun toisella puolella tietää varmaan Moroccanoilin hiusöljyn? Kulttimaineessa oleva öljy tekee kaikkea mahdollista hyvää hiuksille ja täyttää veroilmoituksen puolestasi, tai näi... [NA-nb-OP-rv]
+ 7. Edullisen luonnonkosmetiikan kuukausi jatkuu nyt yhdellä ikuisuusaiheella, parhaan luonnonkosmetiikkaripsivärin metsästyksellä. Luonnonkaunis-blogissa on tehty jo neljä ripsivärivertailua (kierros ... [NA-nb-OP-rv]
+ 8. lauantai 30. toukokuuta 2015 Baby Lips Tässä siis koko tämän hetkinen kokoelmani: Yllä olevassa kuvassa näkyy alhaalla kuusia värikkäissä hylsyissä olevaa alkuperäistä Baby Lipsiä, joista kolme on ... [NA-nb-OP-rv]
+ 9. Testissä: Mia Höytö Cosmetics -uutuudet Molemmat tuotteet on saatu testiin Jolie-verkkokaupalta. Meiltä löytyy kotosuomesta yllättävän monta mainiota kosmetiikkafirmaa (.. ja tästä tulikin mieleeni... [NA-nb-OP-rv]
+10. • mustaa YOUTHMUD Tinglexfoliate Treatment naamiota, joka kaunistaa, kosteuttaa, kiinteyttää ja kuorii ihoa (eli tekee käytännössä kaikkea...), • valkoista SUPERMUD Glearing Treatment naamiota, jok... [NA-nb-OP-rv]
+11. Kesäisiä kosmetiikkahankintoja Hain vähän päivitystä meikkivarastooni näin kesän kynnyksellä, tässä siis uusimpia kosmetiikkaostoksiani: Olen kovin tykästynyt MACin tuotteisiin: mielestäni ne ovat ... [NA-nb-OP-rv]
+12. Huulirasva on varmasti sellainen tuote, mikä löytyy melkein meidän jokaisen meikkipussista. Itse olen huulituotteiden suhteen todella kranttu, on turha sivellä jatkuvasti huuliin tuotetta, joka ei ... [NA-nb-OP-rv]
+13. Moikka :) Tänään mun olisi tarkoitus kirjoitella teille mun Top-5 luomiväripaleteista. Mulla syntyi tähän idea yhtenä päivänä kotimatkalla työpäivän jälkeen, kun aloin miettiä mitkä tällä hetkellä ... [NA-nb-OP-rv]
+14. 3. kesäkuuta 2016 Lempikynsilakka? Ei vaan ole parempaa, tai en ainakaan oo vielä törmännyt hinta-laatu -suhteeltaan parempaan kynsilakkaan. Sävyt on upeita, lakka pysyy tosi hyvänä kynsissä pitkää... [NA-nb-OP-rv]
+15. Heinäkuun loppuneet kosmetiikkatuotteet keskiviikko 21. elokuuta 2019 Tänään olisi luvassa heinäkuussa loppuneiden purkkien ruotimista. Aika pitkällähän tässä jo elokuuta elellään, mutta postauksen... [NA-nb-OP-rv]

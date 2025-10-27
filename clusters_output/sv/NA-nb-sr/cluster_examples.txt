@@ -1,0 +1,192 @@
+
+============================================================
+CLUSTER 0 (NOISE)
+============================================================
+Size: 123 samples
+Register distribution: {'NA-nb-sr': 123}
+
+Examples:
+----------------------------------------
+ 1. Stryktipset, vecka 23, 8 juni 2013 Hej gänget! Veckans Stryktips ser riktigt tufft ut, men kul att bita tag i! Sitter på en skakigt tåg till västkusten och skriver detta inlägg – så alla stavfel sk... [NA-nb-sr]
+ 2. lördag 9 januari 2010 Många uppskjutna matcher ! Vinsten blev 55 kronor och det är inte fy skam för 10 minuters arbete :) Matchen slutade 1-3 till Nottingham och det var lite förvånande att det ble... [NA-nb-sr]
+ 3. Lägesrapport BK Olympic BK Olympic går in i nästa omgång som ett jagat lag. Alla lag vill slå serieledarna. Personligen tycker jag det är bättre att jaga än jagas! Men men det finns INGA serier som... [NA-nb-sr]
+ 4. 29 augusti 2007 Ny ledare efter 21 omgångar Blir onekligen lite mer spännande att inte uppdatera ställningen så ofta. Man kan få leva i villfarelsen att man kanske tagit in eller till och med tagit... [NA-nb-sr]
+ 5. Dagens matcher Skellefteå -- Linköping: Linköpings långa poängsvit bröts tyvärr ikväll. Skellefteå tog hemma alla 3p efter en 3-1 seger (sista i tom bur). Matchen avgjordes redan 10min in på första... [NA-nb-sr]
+ 6. I samband med helgens Tölöcup hade vi främst under söndagen långa köer till vår parkering. Det berodde på att polisen genomförde nykterhetskontroller. På sättet som det genomfördes, innebar det att... [NA-nb-sr]
+ 7. Slutomgångarna är här, fint det. Kävlinge vs Warta 0-3 Missade att kolla in denna match på webben då jag tyvärr var upptagen som tränare själv. Tyvärr blev matchen ganska ojämn, tyvärr för spänning... [NA-nb-sr]
+ 8. God morgon! Ljudet studsar mot plåten hos den gamla damen och ut på plan. Goodison Park gungar på gammalt brittiskt vis, såsom ett minne från förr, men också en påminnelse om att den numera relativ... [NA-nb-sr]
+ 9. Omgång 11 Inför omgång 11 roade jag mig med att tippa matcherna. Jag tippade att två matcher skulle gå till förlängning med en kort fjärde period. Jag tippade att inget lag skulle avföra under dess... [NA-nb-sr]
+10. Såja, då var vi igång igen och förväntningarna är ju lika höga i alla läger! Mariestad gör som sist…man gör första målet men man förlorar matchen. Denna gång är det en tajt match mot Troja som ändå... [NA-nb-sr]
+11. Alla inlägg under juni 2014 Div 4 södra Skåne Omg 12 Skabersjö - Klagshamn 7-1 Tomelilla - Höllviken 2-3 2aug Limhamn - Kulladal (14) ÖT Smygehuk - Svedala (14) 4aug Oxie - FC Trelleborg (19) ... 2... [NA-nb-sr]
+12. Bättre sent än aldrig att det kommer lite bilder från matchen mot Hellton? Tyvärr kunde jag inte ens se hela matchen då jag hade ett tåg att passa. Tror det stod 20-10 när jag lämnade, så jag var a... [NA-nb-sr]
+13. Rapport från en träningsmatch Här får ni en rapport i mest bild men även en del ord från VSK Fotbolls U21-match mot AIK tidigare i veckan. Det var mycket folk på matchen denna fina sommardag. Gissn... [NA-nb-sr]
+14. Arena: Stadsparksvallen Match: Svenska cupen Publik: 467 Målen: 1-0 (2) Edin Hamidovic, 1-1 (24) Admir Bajrovic, 2-1 (68) Philip Bernholtz, 2-2 (86) Fritiof Björkén, 2-3 (93) Dragan Kapcevic, 2-4 (... [NA-nb-sr]
+15. Entlisch! 2014-04-21 10:38:23 Det blev en riktigt bra NHL-omgång för undertecknad i natt. New York Rangers - Philadelphia Flyers 2-4. Rangers utjämnade och gav mig fina 240 kronor tillbaka. Boston ... [NA-nb-sr]
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 628 samples
+Register distribution: {'NA-nb-sr': 628}
+
+Examples:
+----------------------------------------
+ 1. Det som nyss hette NESL – North European Sailing Leauge har skippat “North” och skall nu vara hela Europas seglingsliga. Antar att det beror på att man seglar sista racet på Garda? Här kommer en ko... [NA-nb-sr]
+ 2. Under föregående vecka startade årets SM/JSM tävlingar i Munktellbadet i Eskilstuna. Tävlingarna pågick mellan onsdag till och med söndag och på plats i Eskilstuna hade vi Clara Örnhem, Tove Gustaf... [NA-nb-sr]
+ 3. 6- 8 augusti hade landslaget testläger på Bosön. Hammarby hade 6 kallade boxare: Arsalan Dastparvar 57 kg, Ibrahim Bakhtiari 64 kg, Majd Alsafadi 75 kg, Adam Chartoi 75 kg, Liridon Nuha 81 kg och C... [NA-nb-sr]
+ 4. Nu i juni har vinden börjat vända, en delad 8e plats på future series, Torshälla Golfklubb (par totalt). Och nu senast, vilket var min bästa prestation för året, PGA Champonship på Österlen Golfklu... [NA-nb-sr]
+ 5. Vi åkte med två till Bergsåker – båda vann. Vi åkte med två till Bergsåkers lunchtävlingar på tisdagen – båda vann. Först ut var Tsar Brodde för Rickard N. Skoglund i V4-3. Ekipaget hamnade perfekt... [NA-nb-sr]
+ 6. I helgen spelades Arena cup i Kristianstad för 13 året. Det är Europas största inomhuscup för ungdomar. FKK p07 svart ställde upp med ett lag och det gick strålande bra för dessa grabbar. Genom att... [NA-nb-sr]
+ 7. Kville har haft två seriematcher på fyra dagar, full rulle med andra ord! I torsdags hade tjejerna lagmatch, första av två i år, i division 3 på Stenhagens IP i Lerum. Det var en kall och regnig da... [NA-nb-sr]
+ 8. Finaldagen 2022 I fredags (9 september) avgjordes årets seriespel i golf med den klassiska finaldagen. Denna gång var det Österåker GK (västerled) som fick ta emot de 20 lag som hade kvalat sig dit... [NA-nb-sr]
+ 9. SM i Malmö SM i Boule är över för den här gången, en helt fantastisk tävling för Sörbyängen som egentligen startade redan i Norrköping med SM-veckan där Lucas Rudin var kvalificerad i öppen klass i... [NA-nb-sr]
+10. 2 februari 2014 Smålandslag vidare i Futsal-SM I helgen har åtta smålandslag spelat regionslutspel i Futsal-SM för 15- & 17-åringar. Två av dem gick vidare till SM-slutspelet i Göteborg! Även Mades... [NA-nb-sr]
+11. Årets andra delsegling i Sörmlandscup i Strängnäs blev en riktig succé. Det var länge sen en kappsegling i Strängnäs samlade 43 båtar i fem klasser, men idag kunde vi på två banor se en hel del seg... [NA-nb-sr]
+12. På onsdag 9 augusti är det dags för säsongens första hemmamatch för herrlaget då Skånela IF kommer på besök. Både Eskilstuna Guif och Skånela vann sina första träningsmatcher för säsongen, Guif slo... [NA-nb-sr]
+13. 2018-10-04 Då är det dags för vår andra hemmamatch för säsongen mot ett stort och starkt Blackeberg som imponerade med vinst mot ligasatsande Östersund i sin säsongspremiär förra helgen. Efter förl... [NA-nb-sr]
+14. TEMPO - GRANNFEJDEN TEMPO - GRANNFEJDEN Reftele GK vs. Lanna GK 14 september 2013 Lördagsmorgonens dimmor dolde slagfältet för ett 60- tal pigga golfare från Lanna och Reftele golfklubbar, när de s... [NA-nb-sr]
+15. - 14 maj, 2016 Storseger för Dövlandslaget Tidigt på lördagsmorgonen var det dags för match, spelplats var anrika Zinkensdamm. För motståndet stod div-5-laget Västertorps BK. Inför lägret såg trupp... [NA-nb-sr]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 51 samples
+Register distribution: {'NA-nb-sr': 51}
+
+Examples:
+----------------------------------------
+ 1. Jag antar att ingen missat att Skid-VM i Falun är i full gång och att Charlotte Kalla äntligen fick vinna sin (och hela Sveriges) hett efterlängtade guldmedalj idag. Jag och Maken har varit i Falun... [NA-nb-sr]
+ 2. Sverigerekord och kommande stjärnor En fantastisk Elitloppsdag på Solvalla. Elitloppet med Commander Crowe förstås höjdpunkten, men hela dagen präglades av fina prestationer och frisk körning. Det ... [NA-nb-sr]
+ 3. 57 dagar kvar Jag måste ha gjort något fel för jag har bara regn hos mig. Ett ljus i mörkret är att det bara är 57 dagar kvar till Premier League startar igen. Idag fick Aston Villa en ny manager, ... [NA-nb-sr]
+ 4. En av världens bästa racketlonspelare byter klubb och går över till SSK denna säsong. Han har börjat säsongen med att vinna English Open. Han hann också med att slå Peter Nicol i en uppvisningsmatc... [NA-nb-sr]
+ 5. Ett stort tack till Svennis JR som ägnat en hel jävla massa tid att skriva alla dessa rapporter som vi alla har fått ta del av. Det här den sista från Svennis från JVM men vi får säkert höra mer fr... [NA-nb-sr]
+ 6. Monthly Archives: April 2010 02:15 WTF gör man på Sturehof in gear??!! Celebert besök Sneda idéer Kort video från KM 2010 Här kan vi se Agdestein spela lite bollar med Oscar Mared i herrsingel A un... [NA-nb-sr]
+ 7. Gutt! Först klar var Göte på sjunde bordet. Det såg jämnt ut trots att Göte hade två merbönder, men hans motståndare blev lite för snäll och gav bort ett torn. Sedan var det kört. Sedan vann även P... [NA-nb-sr]
+ 8. « Tillbaka till bloggen SwGT innanför repen Skrivet av Landslaget den 28 september 2012 07:07. Kategorier Herrproffs, Tävling Rickard Lindbergs svenska landslagströja gör sig väldigt bra mitt i sme... [NA-nb-sr]
+ 9. Spanien är sig likt. Vi är många som febrilt sitter och uppdaterar hemsidan för världscupen på Mallorca, för många antagligen, för servern har crashat och inga resultat visas. Vi får förlita oss på... [NA-nb-sr]
+10. tisdag 31 maj 2016 Franska lagmästerskapet i Drancy En kombinationsövning från franska lagmästerskapet: Andrej Sumets, Saint-Quentin – Arkadij Naiditsch, Bischwiller Svart drar och vinner Lösningen... [NA-nb-sr]
+11. fredag 3 juni 2011 Veteranturneringen i Täby – del 3 Fyra ronder har spelats i SCT:s internationella veteranturnering och tre återstår. Juan Bellon är ensam i topp på 4 poäng, en halv före Boris Go... [NA-nb-sr]
+12. Om 2 timmar, kl 22.00 Svensk tid börjar sändningarna från dagens runda av U.S Open i golf där Robert Karlsson ligger på en delad 2a plats och ska spela tillsammans med självaste Tiger Woods. Det ko... [NA-nb-sr]
+13. Den som lever får se och ikväll får vi se om Peder lyckas ta en dublett av Jerringpriset! Hejar gör vi här hemma i alla fall! För nu har han ju en vinst, det som påstods saknas förra gången han van... [NA-nb-sr]
+14. Daniel Ricciardo – Magisk i Shanghai! Sitter på flyget hem från Shanghai och reflekterar lite över Kinas GP, förhoppningsvis ska internetanslutning vara tillräckligt bra för att detta inlägg ska ku... [NA-nb-sr]
+15. Som ni har förstått från tidigare inlägg så segrade Tiago Apolonia i Österrikes Pro Tour och då var han bara seedad som nummer tretton i turneringen. Tiago har varit min favorit sen Tobbe Bergman p... [NA-nb-sr]
+
+============================================================
+CLUSTER 3
+============================================================
+Size: 51 samples
+Register distribution: {'NA-nb-sr': 51}
+
+Examples:
+----------------------------------------
+ 1. Måndag igår och dags för Färjestads tävlingar igen och med plusgrader efter flera dagars kyla blev det väldigt blött, några tränare valde även att stryka sina hästar. Flera fina topplaceringar utav... [NA-nb-sr]
+ 2. Fredag den 6 augusti så var vi till Gävle med två hästar. Take Me To The Top som gjorde sin första start för oss och treårige Kaizen som gjorde sin tävlingsdebut. Nedan följer ett bildspel från dag... [NA-nb-sr]
+ 3. Veckorna som gick (V13-V14) Lars Vikström2016-04-11 Redaktören har varit på fjällsemester en vecka men from nu skall uppdateringara ske i laga ordning. Vi sammanfattar ovan veckor enl följande: Frå... [NA-nb-sr]
+ 4. Bergsåker lopp 8: Här väljer jag att spela 12 Hot Chocolate som jag väntat på ska starta efter insatsen senast. Efter att inte ha hittat ner i första sväng fick Erik Adielsson backa sig sist och i ... [NA-nb-sr]
+ 5. Stoy gör det igen! 11-08-22 Jaktprov i Meråker, Norge 20110822 Vid dagens final i CACIT provet i Meråker gick Bekkauren´s D-Stoy med ägare och förare Rainer Freimuth till topp. Efter att ha erövrat... [NA-nb-sr]
+ 6. SÖNDAG. Den blåa hästbussen fick rulla sig varm i början av veckan. Tre hästar drogs i måndags till Sundbyholms kvällstrav i kylan. Hästarna skötte sig bra och jag var nöjd med alla tre. GODDESS AV... [NA-nb-sr]
+ 7. Nu är det drygt 3 månader kvar innan Kiss Me Kate fölar! Hon mår toppen och senast idag busade hon runt i hagen och var lite smått vild när det blev dags för insläpp. Rund och go! Och lite skitig .... [NA-nb-sr]
+ 8. Seger 1001, 1002 och 1003 kom… Hej! I torsdags klev Jörgen in som medlem i tusenklubben som tränare – en bedrift enbart 30 tränare gjort innan honom. Framgångarna fortsatte under fredagen där det b... [NA-nb-sr]
+ 9. Tvåa på 18,1 blev resultatet idag. Ett fall framåt i alla fall placeringsmässigt. Kristian körde första värmningen och tyckte Wille var spänstig och fin. Jenny red den andra och även hon var nöjd. ... [NA-nb-sr]
+10. Fina ritter i FalsterboPosted by Patrik on jul 13, 2012 in Front, Nyheter | 0 comments Har ni träffat på Falsterbo-spöket? Inte! Tävlingarna i Falsterbo är en av årets absoluta häst-höjdpunkter. Tä... [NA-nb-sr]
+11. Under sommaren har vi lite mer starter, men framförallt mycket arbete med avelsbiten och då har vi lite lägre frekvens på uppdateringarna på hemsidan. Här kommer en sammanfattning av junis träning ... [NA-nb-sr]
+12. Välkommen till Stall Linda S Hedström Fredag 10 April - Lunchtrav på Solvalla. Jeppe Yamoz hade en tuff uppgift framför sig. Men efter ett lopp tredje invändigt fick han tillslut en lucka och spurt... [NA-nb-sr]
+13. Hurón FS dubbel reserv champion i Högbo! 2018-09-05 Helgen 2-3 septmeber deltog Hurón FS på XI Svenska PRE-Championatet i Högbo, Sandviken. Samtliga hästar dömdes av den Spanske domaren Juan Manuel... [NA-nb-sr]
+14. 2 segrar till stallet 28/10 var det tävlingar hemma i Kalmar. Det slutade med en dubbelseger. Första segern tog Noble Face. Det var som vanligt ett montelopp som Noble gick. Han var strålande, trot... [NA-nb-sr]
+15. Resultat Udden Alva och Lord debuterade tillsammans idag. Och vilken debut! Dubbelnolla o seger i första klassen som var 85 cm. Sedan i 95 blev det ett stopp i omhoppningen då ryttaren glömde rida ... [NA-nb-sr]
+
+============================================================
+CLUSTER 4
+============================================================
+Size: 83 samples
+Register distribution: {'NA-nb-sr': 83}
+
+Examples:
+----------------------------------------
+ 1. ”63.077.727 kronor fanns i sjurättspotten. 1.857.026 system hade lämnats in för att ta del av jackpotpengarna. Ett nådde dit. På lördagen delades tidernas största V75-vinst ut när en vinnare belöna... [NA-nb-sr]
+ 2. Grattis till er som ryggade min dubbel på Real Sociedad och Atletico Madrid helgen som var! Nya tag nu till helgen och jag är rejält taggad att fylla era plånböcker! Mina tips för helgen är: Caglia... [NA-nb-sr]
+ 3. Slutspelet – onsdag Igår var det den lite sämre av slutspelsdagarna hittills va? Jag skulle nog säga det i alla fall. Märklig uppenbarelse i den här turneringen, Nadal. Jag tycker det ser ut som at... [NA-nb-sr]
+ 4. Efter en vecka med influensa från h-vetet är jag åter från de döda. Det enda som varit positivt är att jag, mellan febertopparna, kunnat ägna enormt mycket tid för analyser av dagens lopp. Hemmapla... [NA-nb-sr]
+ 5. Finaldags idag och fina tävlingar runt om. Solvalla står för värdskapet och det ser ut som att huvudstadsbanans fina bana kommer att vara i mycket bra skick även idag. Det luktar lite favoritbetona... [NA-nb-sr]
+ 6. På fredag är det dags för Magic Wonder igen. Det är i ett lopp på Kalmar, 1640a och återigen hade vi otur i spårlottningen. Det blev bricka åtta och därifrån behövs mycket tur. Annars har hon träna... [NA-nb-sr]
+ 7. Underbar kväll i ungdomens tecken! Då var kvällens tävlingar över och som förväntat var det stor sportslig kvalitet att njuta av. Eskilstuna kommer verkligen kunna erbjuda två riktigt bra lopp näst... [NA-nb-sr]
+ 8. av admin | mar 29, 2019 | UncategorizedEfter en utflykt till Sydamerika, närmare bestämt Argentina, är det åter dags för den livsgivande grå vardagen.Och, jag andas optimism med Västerbo Exact i V7... [NA-nb-sr]
+ 9. Nu är det vinter och då blir det lite skidåkning i olika former. Vintersport Ingen bra dag för svenskor med skidor och gevär och inte heller för längdåkarna. Vi börja med det sista och det är att S... [NA-nb-sr]
+10. STOCKHOLM: Oj, vilken häst häst var Bold Eagle. 1.08,4a/1609m i dödens tillsammans med sin ständige körsven Franck Nivard. Den samlade expertisen var enig. Sällan eller aldrig hade de sett en sådan... [NA-nb-sr]
+11. En del fina matcher idag far man lov att saga och en hel del minnen att delge er. Robban Svensson hotade inte Timo Boll fullt ut aven om det var nagra jamna set. Lite for enkla missar for att man s... [NA-nb-sr]
+12. Kanske rent av danskt... Mitt i veckan, dagen mellan toktisdag och topptorsdag körs i vanlig ordning Le Fleche Wallonne eller Vall- onska pilen som det ibland översätts till på svenska. Det är en t... [NA-nb-sr]
+13. Maharajah är tillbaka och nu är det Prix d´Amerique som gäller! Visst, tränaren Stefan Hultman svävade på målet och pratade om V75 på Gävle 23 november men en artist som Maharajah ska givetvis till... [NA-nb-sr]
+14. Drag i inledningen!av Tjena! Efter en händelserik och underbar vecka är jag tillbaka. Jag har inte skrivit i bloggen på ett tag, spelat SM-Final och varit upptagen med annat men nu är det dags igen... [NA-nb-sr]
+15. Äntligen kommer bilderna från V75 på Örebro, försenat förvisso, men se det som ett skönt avbrott i all elitloppshysteri. Eller förresten, V75 på Örebro var för många ett skyltfönster till just Elit... [NA-nb-sr]
+
+============================================================
+CLUSTER 5
+============================================================
+Size: 276 samples
+Register distribution: {'NA-nb-sr': 276}
+
+Examples:
+----------------------------------------
+ 1. En underbar torsdags kväll nere på IP! Tyvärr spelades matchen på konstgräset. Men vad gjorde det. Otroligt kul att se så mycket publik men framför allt ledare och tränare från vara ungdomslag var ... [NA-nb-sr]
+ 2. Ja hur ska man sammanfatta denna helg!!!? Vi inledde ju jullovet med att spela cup i Växjö och efter det har vi siktat på och längtat efter att få åka till Skövde för att spela Sibben cup. Vi har h... [NA-nb-sr]
+ 3. Vårt träningsläger startade på fredagkväll med match mot seriekollegan Halmstad. Efter två bra perioder står det 5-1 till Å/K. Men Halmstad har inte gett upp och reducerat tre gånger och jagar kvit... [NA-nb-sr]
+ 4. Vi har nu spelat vår första träningsmatch mot Minnesota Whitecaps på Hovet i lördags. Första matchen för säsongen är alltid lite speciell. Som spelare är du lite extra taggad för det är något du ha... [NA-nb-sr]
+ 5. Årets sista bortamatch med gänget, och denna gång till Vinbergs IF utanför Falkenberg. Lördag, 15.30 o konstgräs, var lite ovant ,men vi skulle ändå alltid gå för en trepoängare då vi vill vinna va... [NA-nb-sr]
+ 6. 1 - 0 (0-0, 1-0) Sista matchen i gruppen och vinst för vårt duktiga tjejer. Eftersom vi redan innan denna match var klara för A-slutspel så satt detta lite i huvudena på oss. Vi skapar många chanse... [NA-nb-sr]
+ 7. Seriesammandrag i division II Västergötland futsal. Spelas i Trollhättan. Matchen skulle ha spelats i Vara den 9 december 2017. Men det blev ingen match eftersom vi inte fick ihop tillräckligt med ... [NA-nb-sr]
+ 8. Det blev tre vinster, en förlust och en andra plats för Örebro tjejerna den gångna helgen i Lindesbergs Bergslagsturnering, vi pratade med tränaren Jonas Svantesson om hur helgen kändes och vad som... [NA-nb-sr]
+ 9. Match 4 - 3 Åby IP 16 september 2017 11:30 Referat Referat: Åby IF - Eneby BK Äntligen en vinst. Även om det satt långt inne. Började matchen bra med ett bra passningspel och bra rörlighet på våra ... [NA-nb-sr]
+10. SÄSONGEN 2033/2034 CATANIA SERIE A Mitt lag är fullt av unga stjärnor och då faller det sig naturligt att vi bara blir bättre och bättre. Eftersom jag kunde behålla alla nyckelspelare i år igen fok... [NA-nb-sr]
+11. Första segern i division 4 kom redan i andra omgången mot FC Hammarby på Stadshagens IP! Siffrorna hamnade på 3-0 men i ärlighetens namn kanske det skulle varit mer. (med all respekt) Vi ville få d... [NA-nb-sr]
+12. Lördagen den 13/2 spelades Nisse-Lull Cup för F-98. Cupen avgjordes i två grupper med efterföljande semi- och finaler. FBSK:s matcher: FBSK:s mål Smedby - FBSK 1-1 Louise Andersson 1 mål En jämn ma... [NA-nb-sr]
+13. Säsongsbästa av oss! Så var det faktiskt igårkväll och då framförallt i första halvlek som kändes närmast formidabelt genomförd. Jag brukar vara försiktig med att "skryta upp" vårt eget lag men för... [NA-nb-sr]
+14. Vinst i Danmark Igår satte vi oss på färjan mot Fredrikshamn för att sedan åka tjugo minuters bilresa till Ålbaeck där vi ska spendera helgen på träningsläger. Ett träningspass på fredagen genomför... [NA-nb-sr]
+15. Å/K IBS - IK Stanstad 7-1 (3-1, 2-0,2-0) Dagens hemma match som spelades i Kvidinge Sporthall blev en helt otrolig tillställning. Vi hade tagit med oss ett rekord ungt lag, med två tjejer födda -01... [NA-nb-sr]
+
+============================================================
+CLUSTER 6
+============================================================
+Size: 59 samples
+Register distribution: {'NA-nb-sr': 59}
+
+Examples:
+----------------------------------------
+ 1. lördag 24 april 2010 Matchrapport final sex-live (Så var det över, för den här gången. Foto Andreas Grandin.) Final nummer sex! Vem hade vågat hoppas på det i augusti? Jag var lite vild and crazy t... [NA-nb-sr]
+ 2. Härli’ bôll när Månstad besegrade Dannike Efter att ha sett Månstads träningsmatch mot Sandhult skall jag väl inte påstå att förväntningarna inför kvällens match var skyhöga. Planen var att kika en... [NA-nb-sr]
+ 3. KDFF spelade tre matcher idag och vann samtliga även om motståndet blev allt svårare ju längre dagen led. KDFF inledde sin första match mot Åhus klockan 10:00 på morgonen. Det var inte mycket publi... [NA-nb-sr]
+ 4. Sitter på VIP läktaren i Arena Skövde i en position där jag ser två matcher samtidigt. På plan A spelar B flick 02 och vi har Sävehof som möter HK Lidköping. Plan B har match i C flick 03 mellan HK... [NA-nb-sr]
+ 5. Thursday, September 13, 2012 Arcus Scottarna vs Jung Boys 3-2 Arcus/Skottarna: ett ungt, kortvuxet lag med oklar koppling till Skottland kan liknas med en trupp full av spelartypen Bullen (Mighty M... [NA-nb-sr]
+ 6. I min förmiddagsgenomgång så hann jag inte slänga någon blick på den norra ettan, men det ska jag försöka ta igen i detta inlägg. Tre matcher spelades i den norra ettan med två programenliga segrar... [NA-nb-sr]
+ 7. Ikväll var det många lag igång och träningsmatchade. Jag kikade mest på matchen Skövde-Dalen, men höll också ett öga på några andra matcher, det visade sig att det blev favoritsegrar i väster, men ... [NA-nb-sr]
+ 8. Falkenberg tog igår emot SUIF hemma i Falkenberg och man hade nog förhoppningar om att kunna plocka in några poäng och kanske till och med vinna över SUIF. Dom regerande mästarna hade dock en helt ... [NA-nb-sr]
+ 9. Täby Vit vidare i Lions Cup Rapport från Vita Lions match mot Tensta i Husbyhallen. Vi var sju de var sex. Målet var att krossa dem direkt genom hård bollpress precis som gårdagen. Nu är det inte a... [NA-nb-sr]
+10. Som sagt igår så är det alltid trevligt att komma till Gärdehov, visserligen var det med blandad förtjusning jag stegade in i entrén, alltid trevligt att träffa på grymma tjejer som Isabell Lindstr... [NA-nb-sr]
+11. Ännu en förlust för Tre Kronor. Finland vann med 4-1 i sista matchen i turneringen i Brno, Tjeckien. Nu ska drygt halva laget bytas ut. Tack och lov. Alldeles för många av dessa spelare har underpr... [NA-nb-sr]
+12. Nu är genrepet avklarat, vi vann, vi höll nollan och Robin Söder gjorde mål… Matchens… Prestation måste vara Giorgis fantastiska framspelning till, en helt rätt löpande, Robin Söder som hur kyligt ... [NA-nb-sr]
+13. Det var inte det lättaste att finna en länk som visade matchen idag och när det spelas fullt med fotboll i övriga Europa står väl kanske inte Liga Adelante högst i kurs. Efter en del letande kunde ... [NA-nb-sr]
+14. Tankar och kommentarer från Sunväramatchen Då kan vi inkassera en ny seger efter tre raka förluster. Känns fint att få åka på fyra raka bortamatcher nu, när vi har ökat glappet mot de som ligger sä... [NA-nb-sr]
+15. MATCHRAPPORT Först och främst, att skriva en matchrapport från ungdomarnas matcher nu, efter Olofs dominans på området... Det är väl ungefär som att gå upp och dra ett gitarrsolo på scen direkt eft... [NA-nb-sr]
+
+============================================================
+CLUSTER 7
+============================================================
+Size: 496 samples
+Register distribution: {'NA-nb-sr': 496}
+
+Examples:
+----------------------------------------
+ 1. Video: Luis Suarez vs Norwich | Det var en magnifik uppvisning Luis Suarez bjöd på i lördagsmatchen mot Norwich. Uruguayanen slog till med sitt första hattrick och det tredje målet var en riktigt g... [NA-nb-sr]
+ 2. I morgon (som fortfarande är en lördag då jag skriver det, men idag då du läser detta) avgörs året AIF-cup i Gamla Idrottshuset. Lite av futsalsäsongens höjdpunkt med 20 deltagande lag uppdelade på... [NA-nb-sr]
+ 3. Flickfotboll Guld till IFK Göteborg i Inofficiella-SM för 14-åringar Ännu en fullspäckad fotbollshelg avverkad. Min sista match för den här helgen blev finalen i IFK Göteborg Invitational mellan IF... [NA-nb-sr]
+ 4. Arkiv. juli 2015 Samma spelövertag som förra helgens match men trots det så blev det än en gång bara en poäng för Rödvitt, denna gången borta mot IK Frej. Matchen slutade 2-2 efter att DIF hämtat u... [NA-nb-sr]
+ 5. torsdag 27 mars 2014 Idrottens dramatik Det blev en härlig avslutning på kvällen! Stort grattis till LHC som lyckades slå ut Frölunda i den avgörande matchen i Göteborg. Matcher där allt ska avgöra... [NA-nb-sr]
+ 6. Ni som kan er hockey och framförallt NHL minns såklart superpesten Sean Avery. Han gjorde sig känd som en spelare som motståndarna hatade, ibland till och med de i hans eget lag. Faktiskt. Han lyck... [NA-nb-sr]
+ 7. God morgon! På lördag befinner jag mig på Goodison Park för att se Everton ta sig an Manchester United. Sannolikt rätt goda förutsättningar för en riktigt bra match. Lagen har ju genom åren haft en... [NA-nb-sr]
+ 8. Nu är 2018 verkligen igång och med det sagt har även innebandyn rullat igång på riktigt och för oss här i Umeå finns det ett stort urval av högklassig innebandy att välja på. Mitt största dilemma, ... [NA-nb-sr]
+ 9. Efter tre mål och en assist i träningsmatchen mot Vancouver förra veckan förväntas stordåd av svensken Magnus Pääjärvi Svensson i Edmonton. När han gick av isen utan en enda poäng mot Phoenix senas... [NA-nb-sr]
+10. torsdag 22 maj 2008 Djurhuus och nya störningsmoment Evgenij Agrest hann inte ens sätta sig ned för sitt parti mot Rune Djurhuus i elitserieslutspelet i Göteborg 2004 förrän det kom en diskret sign... [NA-nb-sr]
+11. Tidigare i år närde Bloggen en förhoppning om att få se ett allsvenskt lag på Grönpepparparkens IP. De förhoppningarna sköts dock i sank när Åmmeberg besegrade ÖSK Söders herrar i årets DM. Det ble... [NA-nb-sr]
+12. Vinst mot Gripen Söndag. 2021 är tio dagar gammalt. Skidåkare åker i uppförsbacke utan lift eller helikopter. Vi övriga undrar varför. Och det är mazarinens dag. Underskattad godsak det. Ägnar en t... [NA-nb-sr]
+13. Fotbollsvår Frusna tår Det var inte bara tår, utan även våra leenden och spelarnas leder som var stela. Dagen som jag sett fram emot i veckor stagnerade. Den dag som inträffar en gång om året, då "... [NA-nb-sr]
+14. Vinnare av Gothia Cup 2009, bronsmedaljör i Gothia Cup 2011. Jag älskar livet. Jag älskar att spela fotboll. Jag älskar hur jag får hoppa in i mina egna drömmar och uppleva dem på riktigt. I mitt u... [NA-nb-sr]
+15. Betygsätt spelarna mot Steaua Bukarest FC | 2010-12-02 Nu kan du betygsätta spelarna mot Steaua Bukarest FC.Du kan sätta dina betyg fram till 2010-12-03 21:28. Observera även att du måste vara beta... [NA-nb-sr]

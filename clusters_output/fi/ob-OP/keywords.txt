@@ -1,0 +1,88 @@
+Keyness analysis for fi/ob-OP
+Original reference corpus: 288231 texts from regions ['HI-NA-nb-re', 'NA-nb-OP', 'IP-NA-nb', 'ID-NA', 'NA-nb-OP-rv', 'HI-NA-nb', 'NA-nb', 'ID', 'ob-OP']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 0 ===
+Target: 2568 texts, 1903404 words
+Reference (excluding this cluster): 285663 texts, 139839430 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. suomen           1184.61
+ 2. suomessa         1132.41
+ 3. valtion          1123.43
+ 4. voidaan           995.75
+ 5. suomi             863.31
+ 6. yhteiskunnan      851.17
+ 7. euroopan          820.54
+ 8. valtio            700.73
+ 9. esimerkiksi       696.27
+10. hallituksen       689.04
+11. talouden          677.77
+12. eivät             667.44
+13. eun               634.88
+14. julkisen          630.55
+15. hallitus          621.26
+16. poliittinen       594.18
+17. prosenttia        567.79
+18. lain              564.85
+19. kansalaisten      562.36
+20. heidän            556.95
+
+==================================================
+
+=== CLUSTER 1 ===
+Target: 465 texts, 172130 words
+Reference (excluding this cluster): 287766 texts, 141570704 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. suomen            284.82
+ 2. hallituksen       260.15
+ 3. euroopan          234.39
+ 4. hallitus          223.30
+ 5. lue               211.73
+ 6. pääministeri      187.78
+ 7. uutiset           182.84
+ 8. puheenjohtaja     177.74
+ 9. suomi             176.07
+10. suomessa          173.97
+11. kokoomuksen       172.74
+12. puheenaiheesta    169.28
+13. presidentti       167.91
+14. poiminnat         167.12
+15. valtion           163.27
+16. politiikka        161.45
+17. helsingin         161.01
+18. arkisto           160.44
+19. eduskunnan        144.82
+20. kansanedustaja    142.21
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 16337 texts, 12261679 words
+Reference (excluding this cluster): 271894 texts, 129481155 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. valtion          8722.57
+ 2. suomen           8558.32
+ 3. hallituksen      8021.54
+ 4. suomessa         7538.28
+ 5. hallitus         7438.55
+ 6. voidaan          7232.00
+ 7. yhteiskunnan     7223.58
+ 8. suomi            6751.59
+ 9. eun              5954.16
+10. poliittinen      5809.38
+11. kansalaisten     5782.85
+12. euroopan         5619.14
+13. eivät            5546.57
+14. esimerkiksi      5515.21
+15. talouden         5271.28
+16. valtio           5218.67
+17. politiikan       4859.64
+18. ihmisten         4653.46
+19. poliittisen      4489.76
+20. suomalaisten     4481.15
+
+==================================================

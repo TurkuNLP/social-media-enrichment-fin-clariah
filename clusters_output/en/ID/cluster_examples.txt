@@ -1,0 +1,48 @@
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 983 samples
+Register distribution: {'ID': 983}
+
+Examples:
+----------------------------------------
+ 1. Off-topicPublic Group active 3 weeks, 5 days ago The place for off-topic discussion WRC 2010 Tagged: WRC This topic contains 12 replies, has 11 voices, and was last updated by Icthyes 4 years, 4 mo... [ID]
+ 2. Michigan and Alabama looking ready NCAA Football 2017 - AL vs GA poll at post 121 Maryland beat Texas…What’s happened to the Longhorns? Are they no longer able to recruit? They used to be a powerho... [ID]
+ 3. Iowafin wrote: He's the same player that he was in Miami...he was just utilized more and put next to Randy Moss. You do realize you just inadvertantly made the argument that Bess is as good a playe... [ID]
+ 4. [U]I'm really struggling trying to figure out what KC, SEA, CLE and JAX are going to do and how their moves impact Raji, Monroe, Crabtree and Curry. I want to put Raji in #3, and I want to put Crab... [ID]
+ 5. If that's your point, then you are wrong. You are correct that the Giants won't pay top dollar to sign Nicks if he has an injury plagued season but, contrary to your "point", that will increase the... [ID]
+ 6. Ricky Rubio staying in spain? He will stay in spain if the right team doesn't draft him, it seems he won't spend his own money to play in a place like Memphis or Oklahoma City from what I just read... [ID]
+ 7. or register to join or start a new Discussion Pacquiao vs Bradley II Page 1 of 1 posted on 21/1/14 All credit to Bradley for giving him an undeserved rematch. posted on 21/1/14 I'm going for a LKO ... [ID]
+ 8. Nice to start at home again. Shame to have our first 2 away games against teams that are going to be up the top of the table a doesn't let us build any momentum but on the other hand, means everyon... [ID]
+ 9. by reenum » Mon Apr 19, 2004 1:13 am Your pitching has a very good balance. Kudos on that. As far as the hitting, I don't see anyone in your lineup who has the potential to steal 30 or more bases. ... [ID]
+10. @Hawk8086 From the stories I read about the twins a few years ago and Robinson last year, if you're on the bench in the NBA you don't develop very quickly. There are limited practices and games eve... [ID]
+11. Can someone fill me in on what went down for me..Muchas gracias -rory macdonald kicked carlos condit's ass for 3 rounds, then got his eye socket broken and the ref stopped the fight with 9 seconds ... [ID]
+12. Quote: Yes he is and he's light for a Sam. What he does have in the bank is an elite first step. If you want that first step, going to cost you a fifteen pick. He will not make it to our pick in th... [ID]
+13. What do you do with a player who fails at Test level but continually smashes your domestic game? Are they given repeated chances? Is it fair to ignore them because they fail once (or more) if they ... [ID]
+14. The Artful Dodger wrote:CyboNinja wrote:jfg wrote:Injuries kill you in this league, people who've played in this league know that thus the Headley and Cueto slips. I was debating Cueto and CC. Then... [ID]
+15. Quote: Hell Yeah (Go Blue!) I like this player a lot as many of you might notice how Iv'e vouched for him in the early rounds. The reason being is that for the last few years, Michigan has had a so... [ID]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 40088 samples
+Register distribution: {'ID': 40088}
+
+Examples:
+----------------------------------------
+ 1. - New player looking for a game I was introduced to BW by my local GM and have been bitten by the bug. Sadly, my local gaming group is not taking up BW as its next campaign (although I fear it may ... [ID]
+ 2. Re: Completely New to Java Java runs off of a vm so what it compiles to its java byte code. This byte code is then read by a non-native program and turned into a file only read by java. AKA a .jar ... [ID]
+ 3. Posted by GOATActionPosted by BlankForNowButYouKnowMePosted by justagirl Cap merc here I'm blunt as treetrunk and abrasive without intending to be. I think you will recall our chats. lol I also ten... [ID]
+ 4. Quote: Of course she's being a little nice now. If you've been here for the last 3 months reading, then you know the reason: You are the back up plan in case this affair of hers doesn't work out. Y... [ID]
+ 5. Covid-19 Vaccine side effects Fasciculations are those bubbly/flickering sensation (like popcorn pop up) under the skin right? I used to have those post a walk. Once I sit down after a walk, this h... [ID]
+ 6. Reviews - Sapphire (AMD) Radeon HD 4670: bullying the mainstream market Read more. Quote: Unleashing more shading power than R600, the Radeon HD 4670 redefines the mainstream market. Re: Reviews - ... [ID]
+ 7. Please no foul language, be polite and use common sense No expressions of hatred based on race SanjN7000, 10 Apr 2013S you are Right But if u have to enjoy new features then u have to or its not co... [ID]
+ 8. Related: - What should I do after MA to become a Journalist? - What are the various career opportunities for 12th (PCMB) students? - Best course after diploma in electronics engineering? - Suggest ... [ID]
+ 9. I would say get a stealth box but for that price you can get a sub from sonixelectronics.com and have a shop make you a box also if you do go the sub route. you are opening the doors for mods - fir... [ID]
+10. Wednesday, 31 December 2014 MUMMY BRAGGING !!! ………. 16 comments: Always good to be a Proud mom.....!..happy new year Darling...!!!....love Ria...xxx!ReplyDelete Happy New Year Jackie...thatt is ver... [ID]
+11. Blogger Issues! It seems blogger is having issues. I can't get on my own blog site and a few other blogger sites. Hmmm. . .let me know if you can get on my site without it aborting. I thought it wa... [ID]
+12. holy shit! she looks like a fat mary kate On the pre-frammy show that dress looked gorgeous. She seemed a little out of it though as if she was on something ahaha yeah, she does doesn't she!! or th... [ID]
+13. If my car was damaged on the premises at my job but no one admitted to it, what are the chances of winning a lawsuit against my employer ? Get Legal Help Today Secured with SHA-256 Encryption If my... [ID]
+14. - psychedelicatessenn likes this - so-wouldve-i reblogged this from movin-like-a-scientist - so-wouldve-i likes this - sirpsychokiedis likes this - plethoraofdelights reblogged this from movin-like... [ID]
+15. Val Slack , Mar 16, 2014; 04:26 p.m. I am an amateur photographer and I paid a professional photographer (at one time friend) from Texas to photograph and deliver images for my daughter's wedding i... [ID]

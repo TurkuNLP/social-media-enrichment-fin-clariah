@@ -1,0 +1,72 @@
+
+============================================================
+CLUSTER 0 (NOISE)
+============================================================
+Size: 164 samples
+Register distribution: {'NA-nb': 164}
+
+Examples:
+----------------------------------------
+ 1. Äetsä Äetsän aseman rappioromantiikkaa kadun puolelta kuvattuna. Ratapiha melko aution oloinen, mutta aseman lähistö pusikoituu. Haistila Tältä näyttää Haistilan asema nykyään, hienoksi kunnostettu... [NA-nb]
+ 2. Turku asema Nyt löytyy nostalgiaa. Sileäkattoisia (CEmt), pari Kiskokallea, Otso ja seislevy lyhdynreiällä. Mitähän noiden pienvetureiden litterat ovat... Turku asema Näkymä ylikulkusillalta idän s... [NA-nb]
+ 3. Kirkkonummi VR Trackin työkonet Kirkkonummen aseman sivuraiteilla odotamassa lähtölupa/raiteiden vapaksi jäämiseksi VR Tracks arbetsmaskiner på... Tolsa Tolsan asema uusitaan ja samalla sitä siirre... [NA-nb]
+ 4. Puistola Valmetin teollisuusihme sammui Puistolan kohdelle. Miksi ihmeessä näitä romuja käytetään vielä tuotannossa ? Helsinki, Puistola I niin kuin Isku. Helsinki, Puistola DanUp Express ohittaa P... [NA-nb]
+ 5. Hämeenlinna T 3633 saapuu rapuvaunujen kanssa Hämeenlinnan. Junan takana oli myös muutama umpivaunu. Hämeenlinna T 58326 ylittänyt Hämeenlinnan rautatiesillan. Hämeenlinna T 3023 ylittänyt Hämeenli... [NA-nb]
+ 6. Humppila Humppilalaiset ovat poistuneet junasta ja laituri-alueelta. Vielä hetki ja lättäjuna jatkaa matkaansa kohti Toijalaa - Urjalan... Loimaa Matkalaisilla on aikaa tutustua Loimaan kaupunkiin,... [NA-nb]
+ 7. Lappohja Pysähdys Lappohjassa Lappohja T 3534 saapui Lappohjaan ja jäi odottamaan vastaantulevaa taajamajunaa. Jälkimmäisen deeverin numero jäi arvoitukseksi Lappohja Vectron-siirto saapui Lappohja... [NA-nb]
+ 8. Kranaatinheitinpanssariajoneuvo AMOS-FIN... ...120 mm kranaatteineen. ASRAD-R eli ItO 2005 -ilmatorjuntaohjusjärjestelmä Unimog 5000 -maastokuorma-autoalustalla. NASAMS ITo 12 ohjuslavetti. Sen ohj... [NA-nb]
+ 9. Keskikokoinen kuvapläjäys Northern Coasts 2014 sotaharjoitukseen osallistuvista laivoista Turussa menneenä viikonloppuna. Kansalaiset olivat odotetun kiinnostuneita kansainvälisestä sotalaivastosta... [NA-nb]
+10. torstai 12. joulukuuta 2013 postaus jolla ei ole nimeä Nyt asiasta kolmanteen taas. Meillä käy tuo tissiruokailu kokoajan vähemmäksi..yhhyy en kohta varmaan voi imettää ollenkaan. Kun pojalle joutu... [NA-nb]
+11. Lasitehtaan varasto, Lahti Toinen tikkari retkottaa, mutta onhan kaksi torvea. Nurmes Hv3:n saavuttua takaisin Nurmeksen talleille Ilomantsin reissulta, Otso1 140 "Vanha Lousku" jyrähtää käyntiin j... [NA-nb]
+12. Laivakuvausta... >> tare: Joku paatti kuvattuna kaltereitten takaa: Silja Galaxy: Sea Wind: Joku pikavene: Laivan piippua: valvoja: M/S AIDAmar Helsingissä 30.7. Tallinnassa 30.7. vasemmalta oikeal... [NA-nb]
+13. Oulainen Sr1 3104:n vetämä ylimääräinen pellettijuna ylittää Olkonsuvannon sillan ja saapuu tuota pikaa Oulaisten asemalle. Oulainen Hetkeä aikaisemmin Oulaisten kolmosta kolistellut S 45 on mennyt... [NA-nb]
+14. Helsinki, välillä Helsinki Kivihaka–Ilmala asema A ja S-junien kilpa-ajo Huopalahdesta Ilmalaan. Tämä toimikoot samalla jonkinlaisena vertailukuvana kuvalle... Helsinki, Ilmala asema A-juna Helsink... [NA-nb]
+15. Helsinki asema Sm4 taiteilee itsensä Helsingin asemalle runsaslukuisessa kiskoviidakossa. Helsinki asema Vanhemman mallinen autojenkuljetusvaunu Gfot odottaa täyttöä Helsingissä, lievässä räntäsate... [NA-nb]
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 24530 samples
+Register distribution: {'NA-nb': 24530}
+
+Examples:
+----------------------------------------
+ 1. lauantai 14. marraskuuta 2015 Ihmettelyä 6 kommenttia: Kyllä tein selväksi, että kaivattu on, joka minuutti! Ja pääsin pissille, sain silityksiä ja aamupalaa.VastaaPoista Kyllä sais täällä asuva ih... [NA-nb]
+ 2. Kranssin taidan laittaa ulko-oveen joulun ajaksi. Viime jouluna tein tuijan havuista kranssin. Yhtenä jouluna sain tosi ihanan käsin tehdyn kranssin joululahjaksi. Siinä oli huovutettuja koristeita... [NA-nb]
+ 3. torstai 30. lokakuuta 2014 Pian on sen aika :) Jouluun on enää 55 päivää!!! :) Että marraskuu alkaa pian!!! Viime vuonna halusin toteuttaa joulukalenterin. Vaan siinä aikani pohtiessa ja tuumatessa... [NA-nb]
+ 4. keskiviikko 17. helmikuuta 2016 Se tunne, kun... 12 kommenttia : Välillä kaipaa jotain tietämättä mitä ;) mä ompelin tvlle hupun jotta se näyttää taululta eikä möltiltä :) se vois jo tehdä ihmeitä ... [NA-nb]
+ 5. sunnuntai 20. huhtikuuta 2014 Hyvää pääsiäistä! 7 kommenttia: Kivan kuuloinen pääsiäinen! Ja mitähän kassista löytyy? ;)VastaaPoistaVastaukset Oli kyllä mukavaa. Täytyy sulle näyttää mitä kassistä ... [NA-nb]
+ 6. keskiviikko 12. marraskuuta 2014 Kitinää kerhotädistä Korttihan on itsessäänaika herttainen. Mutta. Isänpäivää edeltävällä viikolla käytiin Ikeassa ja siellä leikkipaikalla myös askarreltiin. Siell... [NA-nb]
+ 7. torstai 3. elokuuta 2017 Nora 5 v! 17 kommenttia: Valtavan paljon onnea ja hyviä vuosia Noralle!VastaaPoista Paljon onnea kauniille Noralle! Hauska temppu, kylläpä tyttö on nopea oppimaan. :)Vastaa... [NA-nb]
+ 8. keskiviikko 19. maaliskuuta 2014 Keskiviikon kivat -töistä... 6 kommenttia: Onpas herkullisia värejä ja mitä purkkeja.VastaaPoistaVastaukset Hih, arvasin että tykäät. Näin jotain sun torkkupeittoa ... [NA-nb]
+ 9. keskiviikko 15. lokakuuta 2008 Sukkalankamaniaa Tie oikeisiin eliittilankoihin on vielä haparoiva, koska hieman mietityttää maksaa kakskymppiä sukkaparista (kuitenkin). Toisaalta pelottaa edes koke... [NA-nb]
+10. keskiviikko 23. tammikuuta 2013 Lomanen 10 kommenttia: Hei Merja, onpa upeat maisemat. Oli varmaan rentouttava viikonloppu.VastaaPoistaVastaukset Olihan se, aivan kuin olisi ollut pitemmälläkin lom... [NA-nb]
+11. torstai 28. huhtikuuta 2011 Vihanneshöystö 4 kommenttia: Sinä siis todella ehdit tehdä ruokaa? Aika ihme, minusta tuntuu, etten tuohon aikaan ehtinyt. Tai ehkä ehdinkin, en vain muista.VastaaPoista... [NA-nb]
+12. torstai 23. heinäkuuta 2015 Luleå 20 kommenttia: Suloisen näköinen paikka! Tuntuu että kaikki paitsi minä ovat jossain matkustamassa :DVastaaPoistaVastaukset Voi, ihanan raikkaita ja tarkkoja kuvia... [NA-nb]
+13. torstai 22. marraskuuta 2012 twiit twiit Sorruin taas hankkimaan uuden stanssin. En voinut sille mitään, mutta nämä Sizzixin tirpat huuteli mulle ja pakkohan ne oli viedä kotiin. Ihan ensimmäisenä ... [NA-nb]
+14. Germany <3 Finland Viikonloppu meni taas pienissä häissä ehee. Kotkankirkko on nyt ollu se joka viikonlopun place to be tässä kuukauden ajan. Häät ei ollu ihan ne perinteisimmät, sillä juhlat pidet... [NA-nb]
+15. Aamupäivän lopuksi kuuntelimme Charles Bukowskin runon Bluebird, jonka avulla haluttiin muistuttaa graduprojektista ja sisäisestä äänestä. Ylä- ja alamäkiä tulee kaikille, mutta niistä selviää: kes... [NA-nb]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 193394 samples
+Register distribution: {'NA-nb': 193394}
+
+Examples:
+----------------------------------------
+ 1. Päätökset liittyy Nipsuun. Rehellisesti voin sanoa ettei me pärjätä sen kanssa. Viimeisen kuukauden sisään siitä on tullut suoraansanottuna ihan kusipää ja varsinkin senjälkeen kun tammoilla oli ki... [NA-nb]
+ 2. Hyvaa Pyhan Valentinuksen paivaa kaikille Kuva on otettu tasan vuosi sitten, Whitefriar Streetin kirkosta Dublinissa, Pyhan Valentinuksen paivan messun aikana. Se on ainoa hetki vuodessa, jolloin P... [NA-nb]
+ 3. Syksyllä nappasin ostoskoriin alelaarista neljä kerää Novitan Hile-lankaa, koska ihastuin kovasti Novitan lehdessä olleeseen lyhythihaiseen palmikkoneuletakkiin. Langat jäivät odottamaan joulukiire... [NA-nb]
+ 4. Päijät-Hämeen Nukkekotiharrastajat ry heitti Roskahaasteen: Haastamme koko jäsenistömme miettimään mitä kaikkea nukkekotiin voi tehdä kierrätysmateriaaleista. Tämä ei ole kilpailu vaan haaste teill... [NA-nb]
+ 5. Sain tuossa pari päivää sitten juoksulenkillä idean siitä, että voisin aloittaa kirjoittamaan ns. päiväkirja tyyppistä blogia tulevasta kurssista. En tiedä miksi tämmöinen mieleeni juolahti, mutta ... [NA-nb]
+ 6. Päätimme kuluvalla viikolla laajentaa repertuaaria Oittaan Angry Birds-puistoon. Jokaiselle jotakin. Hyvin sujui homma, kunnes tuli kotiinlähdön aika. Topo oli kiivennyt siihen puiston korkeimpaan ... [NA-nb]
+ 7. hulluimmat hetket viettävät jyrkkinä maanantai 28. syyskuuta 2015 maanantai 14. syyskuuta 2015 suureellisuutesi, ikään kuin kaikki olisi mitattavissa surullisuutesi, maut tuskin tuntuvat sekoittues... [NA-nb]
+ 8. : Topi-Katti ja Karvinen, Sininauha-Asunnot : Ruusulankadun Asumispalveluyksikkö, Sininauha-Asunnot. - Paavo Kähkönen - 1 vuotta sitten - Katselukertoja: Transkriptio 1 VAT -VERKOSTON YHTEISTYÖPÄIV... [NA-nb]
+ 9. Kun jotain pitää saada, pitää se saada heti! Puikot ja koukku pysyy kädessä, myös maalipensselillä sudin siellä täällä. Eniten syntyy sukkia, mutta myös muita projekteja välillä. Tervetuloa lukemaa... [NA-nb]
+10. Viime aikoina olen perehtynyt naisten kevät -ja kesämuotiin. Muoti on aika villiä ja värikästä tänä kesänä, jokaisen hippityypin unelmamuotivuosi! Paluu 1970-luvulle sai ainakin itseni järkyttymään... [NA-nb]
+11. maanantai 24. maaliskuuta 2014 Huller och buller.. Tuleeko sinulle koskaan sellaista oloa, että pitää saada vaihtelua?? Eilinen sunnuntai oli sellainen päivä. Vähän sateinen, vapaa, kotihommia räst... [NA-nb]
+12. tiistaina, heinäkuuta 01, 2008 Hämärtynyt todellisuus Oli mukava tunne olla kirjastossa aivan "huvin vuoksi", vaikka koinkin pientä orastavaa syyllisyyttä, etten lainannut mitään maailmaa syleilevä... [NA-nb]
+13. Meri oli salmessa jo avoin! Ai että tuli keväinen olo. Minusta oli jännittävää olla Suinonsalmessa vaihteeksi maissa. Ajamme kesäisin monet kerrat tästä ohi, kun lähdemme merelle. Suinonsalmi on mi... [NA-nb]
+14. martedì 24 dicembre 2013 Joulurauha Suunnittelin viettäväni stressittömän jouluaaton ja stressitön se totisesti olikin. Emme poistuneet kotoa koko päivänä. Nukuimme kolmen tunnin päikkärit ja kävim... [NA-nb]
+15. Pehtoori Eero teki Rosbackaan kesällä kasvimaan, johon istutettiin perunaa, porkkanaa, punajuurta sekä kesäkurpitsaa. Kesän mittaan mietittiin kerkiääkö kasvimaalta nousemaan mitään ja ukkikin naur... [NA-nb]

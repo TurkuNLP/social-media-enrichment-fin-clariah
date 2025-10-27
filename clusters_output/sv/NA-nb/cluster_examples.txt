@@ -1,0 +1,72 @@
+
+============================================================
+CLUSTER 0 (NOISE)
+============================================================
+Size: 55 samples
+Register distribution: {'NA-nb': 55}
+
+Examples:
+----------------------------------------
+ 1. Hello peeps! Veckan som for var det vändag, bland annat. Då skrev jag om fina bokvänner och lagade kärleksmums! Samt var glad för mina vänner. Så hade vi korgboll i skolan och jag var sjukt dålig. ... [NA-nb]
+ 2. upplagd av FotoMix-bloggen, 12:07 den 2010-nov-05 3 kommentarerStäng det här fönstret Hoppa till kommentarsformulär - Studio Eriksson sa... Ben på en gallertrappa kanske en spiraltrappa eftersom ma... [NA-nb]
+ 3. För 5 vårar sedan snurrade det bra många funderingar, vi skulle sälja vårt hus o flytta in till stan. Jag behövde ett litet andningshål i tillvaron, därför kom denna blogg till. Innehållet speglar ... [NA-nb]
+ 4. Jag och Ludriches rensar Scholomance på level 60. Denna instancen var 10 manna på den tiden. Det tog lång tid att klura ut bra taktik på vissa ställen och jag vet inte hur mycket pots det gick åt m... [NA-nb]
+ 5. 8 januari 2014 Prison Break Ursäkta att jag ligger så lågt här på bloggen. Jag har hundra år efter alla andra fastnat för Prison Break. Jag river av två avsnitt om dagen, men eftersom det finns 80 ... [NA-nb]
+ 6. Alltså dessa korsord! Min kära pappa är helt fast och spenderar otaliga timmar åt att lösas olika korsord. Vart han än är tar han upp sina tidningar och sin penna och sjunker in i sina tankar för a... [NA-nb]
+ 7. måndag 8 mars 2010 Sveriges bästa restaurang 2010 Min favoritkrog Oaxen fick pris för bästa serviceupplevelse och PM & Vänner vann med bästa matupplevelse - så ett besök måste planeras under året. ... [NA-nb]
+ 8. Vad har varit bra idag? * Minus på vågen * Mår mycket bättre bättre idag efter fallet * Känner mig så mycket smalare, känns i kroppen * Promenerat 3 timmar idag uppdelat på 3 promenader bland annat... [NA-nb]
+ 9. vinterjackor Har dock en känsla av att om jag vill ha en ny jacka måste jag betala själv (åh vad bortskämd jag lät där, lät som att mamma köper allt åt mig annars, jag lovar det är inte så, betalar... [NA-nb]
+10. Alice in Wonderland! Nathalie gillade träslöjd. Hon gjorde ett fint armband med hennes namn på :) Magda och några i hennes klass bar lite scendelar till matsalen (eftersom deras musikal har premiär... [NA-nb]
+11. Förutom tre ringar smyckena, är drömpuppan an av mina favoriter. En liten cylinderformad amulett, som har plats för din största dröm nedskriven på en liten pappersbit. Då kan man alltid gå runt och... [NA-nb]
+12. äntligen lite skrikande och kämpaglöd. som jag har bråkat med den somatiska vården det senaste. gapat som en tok och slängt luren i örat på folk. men det känns så skönt att äntligen ha det självför... [NA-nb]
+13. Sök i inlägg - Senaste inläggen Senaste löppassen Länkar Login Tag Archives: Dagens träning Lycksele runt i 20 minus Efter en dryg veckas förkylning håller jag på att komma igång med löpningen lite... [NA-nb]
+14. onsdag 29 april 2009 Fredrik Broms Fredrik är en av mina trogna följeslagare. Han kom in i CoachHuset redan 2003. De senaste åren har han ansvarat för CoachHusets karriärcoaching. Jag uppskattar at... [NA-nb]
+15. hejsan, längesen jag bloggade så kände att det var dags. Början på lovet var mycket bättre än nu i slutet om vi säger så. Festade i helgen men nu i veckan har det mest blivit filmkvällar osv. Ialla... [NA-nb]
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 18967 samples
+Register distribution: {'NA-nb': 18967}
+
+Examples:
+----------------------------------------
+ 1. Idag är jag en levande zombie, och kan inte tänka på annat än när det äntligen blivit kväll och jag äntligen får sova (då jag är ledig inatt) Och till råga på allt har jag fått riktigt ont i halsen... [NA-nb]
+ 2. 2015-11-25 19:00 av Therese Fagerlönn Hej! Det var ett tag sedan jag skrev. Har helt enkelt inte haft tid. Nu passar jag på medans barnen är lite mosiga efter ett bad. Vad händer i mitt liv då? Jo ... [NA-nb]
+ 3. Hollywood Var och provade klänningen från One Teaspoon på Raglady (min tentapresent till moi) precis och blev så lycklig för den var för liten - det är helt enkelt menat att jag kommer hitta något ... [NA-nb]
+ 4. BLÅ MÅNDAG Det är alltid lika roligt med Nillas temaveckor så givetvis är jag med även denna gång. Dags för en ny färgvecka och i dag måndag är det alltså färgen blå som gäller. Min första tanke va... [NA-nb]
+ 5. Regn Jag har en hund som är nojig för regn och inte särskilt förtjust i att gå ut, men hoppas på lite uppehåll så vi kan ta oss till ramnaparken och gå en promenad, har börjat tröttna på vägarna hä... [NA-nb]
+ 6. Adventslunch hos mig idag med tio sköna brudar. Första ... SceneriJun 2010 Ikväll har jag fotat en vacker kvinna i de här vackra miljöerna för ett moderep. Har redan hunnit titta snabbt på resultat... [NA-nb]
+ 7. jessica a stunning soul. fabulous spirit. a body as a temple. everything united in the biggest heart. thank you for visiting. remember to stay true to yourself and embrace your inner warrior. Relat... [NA-nb]
+ 8. Bronsplats i turneringen WIHO! För två tjejer som knappt spelat poker var det inte dåligt at komma trea i pokerturneringen :D Jag och Natalie blev så jäkla stolta. Vi fick ett pris och även en good... [NA-nb]
+ 9. fredag 12 februari 2016 ÄNTLIGEN FREDAG ;)... 23 kommentarer: Såå fint inlägg! STÄMMER ju så bra Bia!!Vad är saker mot att få ha hälsan och må bra.Nåt man tänker på mer och mer (ju äldre man blir k... [NA-nb]
+10. Maskinen kommer från ASKO och heter W6884ECO. Troligen vår dyraste investering, när det gäller maskiner, men det är en prioritering vi 2013-04-18 Den har kommit! Maskinen kommer från ASKO och heter... [NA-nb]
+11. 1 mars 2016 Tisdagstema- förnyelse Eftersom det hängde ett tomt ormskinn på en gren i djungeln, utgår jag från att ormen förnyade sin klädsel. tisdagstema 8 kommentarer: Ops, vilken tur att det var... [NA-nb]
+12. 1 december 2012 Älgen och räven 6 kommentarer: Hahaha vilket underbart klipp , och tack än en gång för hjälpen med min blogg , det fungerade :)SvaraRadera Undrar varför jag inte ser klippet. Bara e... [NA-nb]
+13. EN AV KOMMENTARERNA Efter som Jag inte kan printscreena och klistra in i photoshop så fick Jag sätta Mig och skriva ner allt som en av alla dessa idioter har skrivit. Jag saknar ord. Folk som ser M... [NA-nb]
+14. Hejsan Amanda! Så härlig blogg och inspiration t tusen m. kläder, pyssel å resande. Vi tackar och bockar för en blogg som denna. Jag och en kompis har småpratat (jättelite men ändå) om att kanske, ... [NA-nb]
+15. Idag är det Dag 8 – Har du och din katt tävlat på utställning? Jag var aktiv i kattutställningssvängen för något år sen. Luna är ju faktiskt en katt som gillar utställningar så de gånger jag ställt... [NA-nb]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 203903 samples
+Register distribution: {'NA-nb': 203903}
+
+Examples:
+----------------------------------------
+ 1. Idag är vi i bra fas igen, inte helt men man kan andas igen. :) Ja, det gick ju inte så bra att ta mig hem tidigt idag heller men det gör inget. Jag är hellre en rik mamma än en uttråkad en! ;) Ida... [NA-nb]
+ 2. Väckarklockan ringer. Snabbt i med frukost, ta sig till jobbet. Gruset i ögonen borstas bort i takt med stegen man tar. Gruskornen faller i samma takt som man ser solen stiga upp över hyreshustaken... [NA-nb]
+ 3. Vi inleder väl fredagen med att bjuda på rundorna från i lördags, det känns som en bra aktivitet och bara mindre än en vecka senare 😉 Jag har haft proffshjälp att sköta min YT kanal så nu jävlar är... [NA-nb]
+ 4. Jag trodde faktiskt att PirateApp hade blivit nerstängt eller något, sen när det för något år sen slutade fungera ett tag. Så jag testade mitt gamla konto men fick samma meddelande. Jag gick in på ... [NA-nb]
+ 5. Under början av denna vecka har två av våra tekniker, Christoffer Emterhag och Kenneth Andersson tillsammans med tekniska säljaren Kjell Svensson varit på vidareutbildning hos vår danska distributö... [NA-nb]
+ 6. Direktlänk till inlägg 31 december 2012 Whoho nu är det sista dagen på detta år vilket känns underbart! Vill bara starta om, radera och glömma! Älskar nyår dels för att man får använda det glittrig... [NA-nb]
+ 7. Maken sitter just nu på den inglasade balkongen och avnjuter kaoset nedanför. Man reparerar kontaktledningen, fast hos oss är det inte en storm som ställt till det. Det är planerat underhåll, men d... [NA-nb]
+ 8. Tag Archives: bbq garden En riktig slapp slödag Skönt med lite ledighet. En riktig slödag. Nu är det bara en dag men ändå. Tänkte först ge mig iväg på stan och käka lite lunch på BBQ Garden. Det va... [NA-nb]
+ 9. tisdag 27 januari 2015 Konståkning, män som heter Ove, och vattenkokare Jag har, för ovanlighetens skull, lite ledigt i veckorna eftersom jag just nu bara jobbar helg. Eftersom jag jobbat nonstop s... [NA-nb]
+10. Nu börjar helgen närma sig sitt slut. Igår åkte vi till mor o far för att spendera kommande vecka. Älsklingen åkte dock hem idag så det är bara jag o barnen här, eller ja mamma o pappa är ju här me... [NA-nb]
+11. 9 december hade vi avslutning på gammeldans/folkdanskursen. Tidigare år har dom med dräkt tagit på den till just detta festliga tillfälle. Så kul att se alla dräkter i sitt rätta element, att få da... [NA-nb]
+12. onsdag 16 december 2009 Gnistrande vitt Äntligen har vintern kommit. Massa snö och en bitande kyla, precis som det ska vara. Nu håller jag bara tummarna att det kommer vara lika fint ute över julen... [NA-nb]
+13. Alla inlägg den 4 oktober 2012 Vaknar upp till ännu en mörk och regnig dag. Min varningslampa för låg energi har börjat blinka rött. Någon som har lite över ? Ska försöka få tummen ur och tna ikväl... [NA-nb]
+14. Ett slags rekord Idag har jag haft två inbokade elevvårdssamtal på mina hål mellan lektionerna under dagen. Sista lektionen hade jag med en klass som är ganska belastad, på vilket sätt kan jag själ... [NA-nb]
+15. Ämnesord fredag 20 februari 2015 Ups, fredag igen! Jag läser Sarah Waters The Paying Guests, en tegelsten som heter duga, som nog tar ett tag att bli klar med. Det borde dock inte ha hindrat mig fr... [NA-nb]

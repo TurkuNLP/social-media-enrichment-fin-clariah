@@ -1,0 +1,120 @@
+
+============================================================
+CLUSTER 0 (NOISE)
+============================================================
+Size: 5912 samples
+Register distribution: {'IP-NA-nb': 5912}
+
+Examples:
+----------------------------------------
+ 1. Dags för årsmöte i Karlskrona Centerkrets! På måndag 13/2 kl.18.30 har Centerkretsens årsmöte i Strömsbergs fd. Bygdegård. Denna gång får vi besök av riksdagsledamot Per-Ingvar Johnsson från Åhus s... [IP-NA-nb]
+ 2. För den som har tröttnat på att bada finns det en hel del annat att upptäcka i Kalabrien. Här är några exempel. Byar och städer Utöver Pizzo finns förstås många andra charmiga byar i Kalabrien. Mån... [IP-NA-nb]
+ 3. Nyheter innan den 22 januari 20015 Torsdagen den 22 januari 2015 Torsdagen den 1 januari 2015 Söndagen den 6 juli 2014 Onsdagen den 28 maj 2014 Tisdagen den 20 maj 2014 Lördagen den 22 mars 2014 Sö... [IP-NA-nb]
+ 4. Söndag 26 april, föreningens majbraseplats vid Kanslersvägens södra ände: Högen är full, lägg inte på mer torrt ris, klena grenar eller nånting överhuvud taget. Vi kan inte tända en så stor hög uta... [IP-NA-nb]
+ 5. Väldigt många av våra naturbrukselever på August Kobb tillbringar sina sista dagar på jullovet som funktionärer på MyDog , en av nordens största hundutställningar. Från kl 6:25 på morgonen till kl ... [IP-NA-nb]
+ 6. Välkommen till ett avsnitt om kommande spelet om Morwhayle med podcastveteranen Tomas från Fria Ligan och rollspelsveteranen Peter Bergting. Förbannad hittar ni HÄR. Artesia Adventures in the known... [IP-NA-nb]
+ 7. Foto ovan Agustín Lautaro. Indianer, vingårdar, öken. Salta och området däromkring bjuder på ett annorlunda och spännande Argentina. Salta ligger i nordvästra Argentina. Den delen av landet är myck... [IP-NA-nb]
+ 8. Nu börjar det bli dags att förlänga medlemskapet för dig som vill hänga med på allt skoj som händer under 2013! Senast 31 januari 2013 ska medlemsavgiften vara Storfors HundKlubb tillhanda och vi k... [IP-NA-nb]
+ 9. Äntligen midsommar. Och premiär för sommaröppet på Minnesmaskinen! På midsommarafton har rallyt Nostalgisvängen prov och uppehåll på Knektplatsen här utanför och därför är det givetvis öppet på mus... [IP-NA-nb]
+10. Nyinkommet till våran butik: Ett grillgaller set. Det kommer att bli ett riktigt lyft för både grillen och den som grillar. värmen kommer att fördelas jämnare. Det blir även lätta att vända på det ... [IP-NA-nb]
+11. Releasefest för den nya cd:n “Hello Young Lovers” på Fasching 26 nov. Så har den nya cd:n “Hello young lovers” kommit från tryckeriet. Tack alla inblandade för strålade insatser, från solon och til... [IP-NA-nb]
+12. Svartsjö Café och Livs Vid Svartsjö Slott ligger Svartsjö Café och Livs som drivs av systrarna Ise och Maria. Verksamheten ligger i en gammal Konsumbutik och här serveras kaffe med hembakat och lät... [IP-NA-nb]
+13. Min duktiga väninna Andrea Brodin Engsäll hade sin bokrelease av inredningsboken Gör om Hemma igår på Fou. Hon är en otroligt duktig inredare och här visar hon hur man på enkla och plånboksvänliga ... [IP-NA-nb]
+14. Dagsprogram för Stickeventet på lördag! Två dagar kvar! Även om man har frihet att komma och gå precis som man vill har vi ju workshops som man kan vilja passa tiden till. Dagsprogram: Kl 10.00 slå... [IP-NA-nb]
+15. Läs mer Vi vill tipsa om tävlingen Solracet i Malmö. Solracet är en tävling där sjätteklassare från hela Skåne lär sig om miljö, hållbarhet och framtidens teknik genom att bygga en modellbil driven... [IP-NA-nb]
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 2430 samples
+Register distribution: {'IP-NA-nb': 2430}
+
+Examples:
+----------------------------------------
+ 1. Nu är det dags för höstens försäljningsaktivitet för ungdomssektionen. Denna gång ska varje barn sälja 5 flaskor Galltvål flytande tvättmedel a´ 129:-/st. Tvättmedlet är perfekt till sport- & funkt... [IP-NA-nb]
+ 2. Tågsläpp 29/4 Publicerad: 2018-04-04 Vi bjuder på kaffe och visar upp vår verksamhet, lokstall och modelljärnväg. Välkommen 10-16 Ett prov Publicerad: 2018-02-20 Prov för enklare sidahantering /jon... [IP-NA-nb]
+ 3. Vi provar ett nytt sätt att fira antal Likes på Facebook! Vi har planerat det ganska länge, och det var inte förrän nu som vi kom upp i en siffra vi kunde matcha med en rom! Alltså: 1423 likes = 14... [IP-NA-nb]
+ 4. STARTSIDA Kommande aktiviteter i projektet Tillgänglig Natur – Ökad Livskvalitet Vi börjar med rörelseträning vid Strandvik i Katrineholm. Första tillfället är 21 augusti kl. 14.00 Länk till inbjud... [IP-NA-nb]
+ 5. Detta är AUS:s veckorapport 10/2011 Är du full av idéer? Designtävlingen för pärmen på AUS:s kalender börjar! - Händer i veckan - Kom med på välmåendeveckan 28.3-1.4 - Designa pärmen för AUS:s kale... [IP-NA-nb]
+ 6. Nu är det dags att dra igång innebandysäsongen. Vi mjukstartar måndagen den 18 september kl 17-18 i stora hallen (halvplan). Lördagen den 23 september kl 0900-1300 är vi bjudna till Huskvarna Sport... [IP-NA-nb]
+ 7. Datum/Tid Date(s) - 13/01/2019 10:41 Plats Busshållplatsen Näckrosgatan Kategorier Varför omställnings/klimatvandringar? Vi tar oss till och från vandringen antingen med kollektivtrafik eller gång ... [IP-NA-nb]
+ 8. Fikaschema F-02 2016 BRA OM ALLA TJEJER TAR MED SIG TRE STYCKEN TREPACK FESTIS TILL NÅGON AV DE NÄSTKOMMANDE TRÄNINGARNA SÅ VI HAR TILL FÖRSÄLJNINGEN!! Till sitt fikapass tar man med sig 15-20 kopp... [IP-NA-nb]
+ 9. Välkomna till Öppet Hus! I WBS har alla haft fullt upp i vinter och lördagsträffarna har tyvärr lyst med sin frånvaro. Men nu är det åter dags, så nu på lördag den 15 mars kl 15.00 träffas de som h... [IP-NA-nb]
+10. Spontana Chiko´s träffar i Eslöv Event created by mats g johansson This event repeats every 2 weeks until 09/25/2020 Event details Hej alla glada Mustangentusiaster I onsdags (15/4) hade vi en lite... [IP-NA-nb]
+11. Vegaligan har nu gått in i en ny spelperiod (27/5-25/6). Partier som spelas nu i juni-spelperioden och fram till och med den 25/6 räknas mot rond 5&6 i Vegaligan. Då tävlingen har tio ronder totalt... [IP-NA-nb]
+12. aktuellt 2020 > 07 Här kommer vårt schema för sommaren. Slut på sommarschemat är söndagen 23/8. V i erbjuder ett attraktivt schema med många pass. För att vi ska kunna få till det här schemat så gä... [IP-NA-nb]
+13. Nyhetsbrev Grannsamverkan november Senaste nyhetsbrevet innehåller bl a information om en fördjupningskväll om trygghet och boende 18 november – tema bedrägeri. Föreläsning 18.00–20.00 Vill du ha b... [IP-NA-nb]
+14. Varmt välkommen på digital Länsstämma 28 april! Klicka på bilden nedan för mer information och anmälningsuppgifter. Program 18:00 Möjlighet att ansluta sig till mötet, testa i god tid att allting f... [IP-NA-nb]
+15. KENNELTRÄFF 2015 KENNELTRÄFF INBJUDAN Kennelträffen 2015 Sönd Den 21e Juni Kl 13,00 V Ä L K O M N A ! ! ! Då var datum för årets kennelträff 2015 satt och jag vill med det bjuda in alla ni som har ... [IP-NA-nb]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 536 samples
+Register distribution: {'IP-NA-nb': 536}
+
+Examples:
+----------------------------------------
+ 1. Jag tycker det är hemskt varje gång jag får in en annons om en bortsprungen katt men denna gången känns det lite extra eftersom katten som heter Melvin och är försvunnen tillhör min kusin. Här är a... [IP-NA-nb]
+ 2. Wagnerlarsson.se är ett strategiskt valt bloggnamn ur rent SEO-perspektiv. Bloggen föddes hösten 2013 men jag som driver bloggen, Thowe, har bloggat på olika portaler och under olika domäner sedan ... [IP-NA-nb]
+ 3. Gravidfotografering helt i svartvitt Besök av ett härligt par från Jönköping som nu väntar sitt första barn. De verkligen strålade av lycka och kunde hålla sig blickarna ifrån varandra. Det var en ... [IP-NA-nb]
+ 4. Kan man vara båda samtidigt? Jag tror att man nästan måste vara det som medlem i Lions. Det är både lärande och vitaliserande för både den enskilde och klubben. Man måste arbeta på alla nivåer – fr... [IP-NA-nb]
+ 5. EN DAG HOS OSS Ja, hur ser en dag hos oss ut...? Jag skall försöka förklara, så att du som kund också ska ha förståelse för vad vi jobbar med under dagarna och det är kanske inte alltid så självkla... [IP-NA-nb]
+ 6. Men låt mig först gå tillbaka i tiden och berätta om hela resan. ELEktriska Installationer KOmmanditbolag, det är vad Eleiko egentligen står för. Det började helt enkelt med ett våffeljärn som i si... [IP-NA-nb]
+ 7. Söndags Jam (Jam: Ett improviserat samspel av musiker utan färdiga arrangemang) Varannan Söndag kl 17-20 drar Magnus och Nisse samt de andra som älskar musik så mycket, igång ett Jam som pågått und... [IP-NA-nb]
+ 8. Åhh, Saga, charmtroll deluxe! Denna lilla damen var nästan 1 år vid sin fotografering. Hon kunde stå upp om hon höll i något (och ibland faktiskt släppa också), men det var lite läskigt. Bra att de... [IP-NA-nb]
+ 9. Idén var att skapa en mötesplats för kreativa människor, helt enkelt ett andrum från all teknik och alla deadlines. Med hjälp av våra duktiga hantverkare byggde vi en stor hörnsoffa till vår lounge... [IP-NA-nb]
+10. Spiff är en helt ny Salona 33, bygge nummer 2, som inköptes våren 2013 och småningom levererades i början av juli samma år. Säsongen 2013 hann vi bara packa båten och därefter ge oss iväg på semest... [IP-NA-nb]
+11. ”Andreas är dålig på att blogga” – Hörs ur flera läsares munnar. Ja det är jag men så är det helt enkelt bara just nu. Bloggen har blivit något som numera ligger utanför företagets arbetstid och bl... [IP-NA-nb]
+12. Denna hemsida är i första hand ett komplement till den postorderkatalog som vi skickar ut varje år i maj. Innehållet i katalogen är en blandning från vår egen plantskola och utländska lökodlare. Ty... [IP-NA-nb]
+13. Lantkatten's underbara Britter Välkommen till oss på Lantkatten's Vi är en familj som bor på ön Yxlan i Roslagen. (Norrtälje kommun, Stockholms län). Hos oss bor Jag Malin, min man Fredrik, Isac 14... [IP-NA-nb]
+14. Skräddarsytt från BnTailor - Del II - Tillskärning & Tillverkning Efter mötet med Robin som ni kunde läsa om i den första artikeln så skickades mina uppgifter och mitt tyg tillsammans med de övriga... [IP-NA-nb]
+15. En apa som liknar dig Det är jag som är Staffan och det är jag som driver Golden Monkey. På Golden Monkey säljer vi delikatesser, men inte vilka delikatesser som helst. Varorna är noga utvalda för ... [IP-NA-nb]
+
+============================================================
+CLUSTER 3
+============================================================
+Size: 1489 samples
+Register distribution: {'IP-NA-nb': 1489}
+
+Examples:
+----------------------------------------
+ 1. Som ni kanske vet så har jag varit en trogen kund hos Calzedonia i flera år. Butiken har ju funnits på Mallorca länge innan det kom till Sverige. Så redan för flera år sedan shoppade jag loss där v... [IP-NA-nb]
+ 2. måndag 25 november 2013 Så snygga smycken! Så vackra smycken som vi har i butiken nu, och det roliga är att det tycker i stort sett alla dom varit i vår butik i Lördags och idag. Dom har en histori... [IP-NA-nb]
+ 3. God morgon! Hoppas ni haft en bra helg! Vi har haft full bokat i butiken med både möhippa ,bröllop och make me up sminkningarna inför olika festligheter, vilket har varit super roligt! Lägger in nå... [IP-NA-nb]
+ 4. Det är ju ingen hemlighet att jag älskar LaLeia och deras utbud av fantastiskt vackra underkläder (från A-J-kupa dessutom, så jag har alltid hittat något oavsett hur mycket eller lite albatrosstutt... [IP-NA-nb]
+ 5. JULIPRALINER Chokladcafé Nu under sommaren öppnar jag chokladcaféet. Här kan du sitta en stund och njuta av en kopp eko-kaffe och härbakat, oftast med chokladinriktning. Men ibland går jag loss på ... [IP-NA-nb]
+ 6. Foto: Ylvas (CC) Ägg, påskkärringar, godis, släktkalas, vårsol och såklart – hörlurar. Vi på Headler gillar ledighet, sol och storhelger där alla är glada och peppar på festligheter. Särskilt påske... [IP-NA-nb]
+ 7. Hösten är på många sätt lite som ett nyår känns det som. Åtminstone en nystart, det känner ju de flesta av oss. För mig var sommaren nästan bara en tid att ta sig igenom i väntan på att hösten skul... [IP-NA-nb]
+ 8. Kort avbrott i bloggpausen för viktigt meddelande: På lördag håller Gilla böcker öppet hus i sina lokaler i Hornstull i Stockholm, och manade människor kan komma dit och köpa böcker till specialpri... [IP-NA-nb]
+ 9. En dejlig tur till vackra Köpenhamn! Sååå mysigt att vara iväg ett par dagar för att hämta lite handdrejade krukor av Erik i Köpenhamn. Fick inspiration och hälsat på hos min fina vän och "storasys... [IP-NA-nb]
+10. fredag 27 februari 2015 Söker hem för reportage Foto Jonas Lundberg Hello... Om du är sugen på att vara med i ett inredningsreportage,så får du gärna mejla över några översiktsbilder på ditt hem så... [IP-NA-nb]
+11. Tävlingar Vinnare boktävling - Darwins resa genom Sverige 07/03 Vinnarna av boktävlingen i min Husbil i Sverige nummer 1 2022 är dragna. Vinnare korsord nr 1 2022 07/03 Stort tack till er alla som ... [IP-NA-nb]
+12. Har helt missat nyheten om att Oriflame den 22 februari lanserade en helt ny naturlig hudvårdsserie! Ecobeauty är helt fria från animaliska ingredienser, parabener, silikon, mineraloljor, syntetisk... [IP-NA-nb]
+13. Inredning - kök Det är med renovering skapar verkligen blodad tand, både för mig och sambon. Någon gång drömmer vi om att få... » Inredning - allmänt Från och med denna veckan kan man köpa Iittalas... [IP-NA-nb]
+14. Dora Utforskaren Doras Jul och Fånga stjärnorna är populära barnfilmer hos Kotteshoppen.se Välkommen till vår officiella blogg för www.kotteshoppen.se lördag 4 december 2010 Dora Utforskaren Dvdfil... [IP-NA-nb]
+15. Rabattkupong på webbhotell Just nu går det att få $9.94 i rabatt hos Hostgator.com om man anger rabatt-koden blogglivrabatt vid köp av något av deras paket för webbhotell. 2 Kommentarer till “Rabat... [IP-NA-nb]
+
+============================================================
+CLUSTER 4
+============================================================
+Size: 948 samples
+Register distribution: {'IP-NA-nb': 948}
+
+Examples:
+----------------------------------------
+ 1. Välkommen till Pedagogiskt Arbete Arbetar du som undersköterska, Personlig assistent, Habiliterings- personal, Boendestödjare eller Elevassistent och Särskollärare? Då är du en av oss många som job... [IP-NA-nb]
+ 2. Tänk er vad tiden flyger förbi.. Imorgon är det 1 maj och sommaren närmar sig med stormsteg. Innan man vet ordet av är det midsommar ju! Ljuset stannar allt längre om kvällarna och tittar man ut se... [IP-NA-nb]
+ 3. Yogalärare - nya drömjobbet enligt CNN? Allt Om Yoga yogalärare – maria hagman - WordPress.com Yogaläraren Elin Grant provade yoga för första gången för 12 år sedan och älskade det, men det var för... [IP-NA-nb]
+ 4. Kalendarium 21 Nov Gästblogg Tid för tillit Nytt blogginlägg hos Ideell Arena: Tid för tillit, om tillitsstyrning skriven av Susanna Alexius.Läs hela blogginlägget här » "Går det att styra mot till... [IP-NA-nb]
+ 5. Snart är det val och för ViS är vuxenutbildning en av valets viktigaste frågor. Därför ställde vi fyra frågor till riksdagspartierna. Vi frågade om deras syn på: statsbidragen för kommunal vuxenutb... [IP-NA-nb]
+ 6. Gruppbilder bygger teamkänsla. Det har ju i alla tider varit en framgångsfaktor inom tex. idrotten och det fungerar ju naturligtvis likadant i andra sammanhang, tex. på jobbet. Det finns dock vissa... [IP-NA-nb]
+ 7. Vårt Partille nummer 3, 2019 Nu kan du läsa senaste numret av vårt partille! Vårt partille nr 3 2019 Ordförande har ordet Jag är en argare feminist och socialdemokrat än i går.. Mycket argare. Arg ... [IP-NA-nb]
+ 8. Etikettarkiv: chi nei tsang Artikel om Chi Nei Tsang i senaste numret av Inspire! I decembernumret av tidningen inspire publicerade jag min första egenhändigt skrivna artikel om Chi Nei Tsang – Tao... [IP-NA-nb]
+ 9. Sara är lugn, kompetent och en god lyssnare som prickade rätt medicin för de olika symptomen jag besvärades av. Under bara 4 veckors tid minskade mina fleråriga magbesvär med 90%. Det låter som hok... [IP-NA-nb]
+10. Yoga är ett sätt att förena kropp och sinne. Det är ett sätt att hitta sitt inre lugn, kunna varva ner och att kunna sträcka ut. Det finns idag många olika varianter av yoga att utöva. Jag har star... [IP-NA-nb]
+11. Zara i höst Publicerat 2013-09-05 22:01:00 i Allmänt Nu i höst kommer Hitchcocks film noir kombineras med grunge chic. Färgpaletten blir mörkare och materialen tjockare och grovare. Allt från spets... [IP-NA-nb]
+12. I detta avsnitt får du möta Bengt Westerberg, nybliven styrelseledamot i Humanisterna. Bengt Westerberg blev känd för den breda allmänheten när han tillträdde som partiledare för Folkpartiet 1983, ... [IP-NA-nb]
+13. Raw Food och levande gemenskap i Sverige och Norden Hej, Jag har lagt upp en till film snutt (25minuter) pa min blog, mycket inspirerande. for att se filmen, fyllas av karlek och ge dig inspiration... [IP-NA-nb]
+14. Monthly Archives: januari 2020 Arkivveckan 12-14 maj 2020 i Uppsala Arkivveckan 2020 inleds redan måndagen den 11 maj med olika aktiviteter i Uppsala. Konferensen hålls från tisdagen 12 maj till oc... [IP-NA-nb]
+15. Uppdaterad med fler fotografier längre ned! Det var en väl arrangerad och fint genomförd Global Strike i fredags. Både glädje och allvar, musik och talkörer. #PeopleNotProfit More Care Less Car #Pe... [IP-NA-nb]

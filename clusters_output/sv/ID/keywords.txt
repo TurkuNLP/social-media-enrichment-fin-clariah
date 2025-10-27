@@ -1,0 +1,116 @@
+Keyness analysis for sv/ID
+Original reference corpus: 329050 texts from regions ['HI-NA-nb-re', 'ds-IP-NA-nb', 'NA-ob-OP', 'NA-nb-OP', 'IP-NA-nb', 'IN-NA-nb', 'NA-nb-ob-OP', 'NA-nb-OP-rv', 'ID-NA-nb', 'NA-nb', 'ID', 'NA-nb-ne', 'ob-OP', 'NA-nb-sr']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 0 ===
+Target: 22 texts, 42022 words
+Reference (excluding this cluster): 329028 texts, 178898157 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. lektrådar         414.74
+ 2. svaruppgifterna   414.74
+ 3. medlemstrådar     414.74
+ 4. samlevnad         285.57
+ 5. omröstningar      275.94
+ 6. obesvarade        272.97
+ 7. konsumentinhandla   269.16
+ 8. åkommasjukdom     261.81
+ 9. ensamståendesingel   261.81
+10. bebis-ec          261.81
+11. styvbonusförälder   261.81
+12. helgvärd          261.81
+13. öron-näsa-hals-   261.81
+14. leksakerhjälpmedel   261.81
+15. kostmatvanor      261.81
+16. egotrådar         261.81
+17. enbarnsföräldrar   261.81
+18. relationsamliv    261.81
+19. varannan-veckas   261.81
+20. farmorförälder    261.81
+
+==================================================
+
+=== CLUSTER 1 ===
+Target: 542 texts, 958998 words
+Reference (excluding this cluster): 328508 texts, 177981181 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. barca            3799.59
+ 2. inloggad         3244.87
+ 3. spelare          3048.81
+ 4. messi            3028.47
+ 5. barcelona        2440.54
+ 6. inloggade        2436.85
+ 7. quote            2431.54
+ 8. iniesta          2315.90
+ 9. xavi             2276.21
+10. madrid           2204.99
+11. matcher          2143.47
+12. real             2099.51
+13. sänt             2021.97
+14. matchen          2007.07
+15. svenskafans-appen  1993.23
+16. rambla           1977.92
+17. barça            1967.81
+18. ligan            1944.17
+19. länktips         1893.10
+20. match            1873.82
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 410 texts, 62597 words
+Reference (excluding this cluster): 328640 texts, 178877582 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. hjälp             380.70
+ 2. mod               177.60
+ 3. ang               147.54
+ 4. windows           108.81
+ 5. sökes             102.88
+ 6. angående          100.46
+ 7. filer              97.28
+ 8. tips               92.55
+ 9. lyrica             86.68
+10. tråden             80.01
+11. flashback          79.81
+12. alprazolam         71.26
+13. hur                69.65
+14. tjack              68.94
+15. söker              67.23
+16. bostadsrätt        64.33
+17. benzo              62.47
+18. mdma               62.19
+19. problem            61.48
+20. csn                61.47
+
+==================================================
+
+=== CLUSTER 3 ===
+Target: 14086 texts, 5680205 words
+Reference (excluding this cluster): 314964 texts, 173259974 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. svar             4996.05
+ 2. hej              4588.75
+ 3. mvh              3642.38
+ 4. fråga            3038.39
+ 5. forumet          2874.33
+ 6. forum            2847.38
+ 7. tråden           2447.23
+ 8. användare        2370.28
+ 9. tråd             2038.23
+10. din              1957.15
+11. lawline          1568.32
+12. vbulletin        1522.32
+13. tex              1367.42
+14. postat           1365.30
+15. hälsningar       1313.48
+16. skrevjag         1292.76
+17. förhand          1140.88
+18. problem          1048.14
+19. powered          1032.55
+20. solutions         990.14
+
+==================================================

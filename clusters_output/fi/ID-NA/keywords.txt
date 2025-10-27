@@ -1,0 +1,88 @@
+Keyness analysis for fi/ID-NA
+Original reference corpus: 288231 texts from regions ['HI-NA-nb-re', 'NA-nb-OP', 'IP-NA-nb', 'ID-NA', 'NA-nb-OP-rv', 'HI-NA-nb', 'NA-nb', 'ID', 'ob-OP']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 0 ===
+Target: 29 texts, 12563 words
+Reference (excluding this cluster): 288202 texts, 141730271 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. sääntöjenvastaista    47.53
+ 2. ketjusta           46.95
+ 3. poistettu          43.72
+ 4. viestiä            43.17
+ 5. luetuimmat         41.98
+ 6. keskustelut        39.40
+ 7. vastaukset         39.32
+ 8. käyttäjäkommentit    35.13
+ 9. uutiseen           31.05
+10. viestiketjuun      28.61
+11. martina            26.92
+12. viestiketju        26.01
+13. päivittänyt        25.18
+14. puhut              23.55
+15. kuollut            23.40
+16. palstalta          22.80
+17. poliisi            21.93
+18. julkisuudessa      21.84
+19. rakkauttahyppäsit    21.00
+20. vappukuvatmistä    20.97
+
+==================================================
+
+=== CLUSTER 1 ===
+Target: 360 texts, 169655 words
+Reference (excluding this cluster): 287871 texts, 141573179 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. quotesta           51.61
+ 2. sit                42.54
+ 3. vikakertakerro     34.97
+ 4. kerrastasi         34.45
+ 5. kaveri             32.96
+ 6. kaudesta           31.46
+ 7. takas              28.99
+ 8. ollu               27.85
+ 9. jigauspaikat       26.74
+10. kuninkaanväylän    26.74
+11. vaoitettu          26.74
+12. sagga              26.74
+13. kaaduinputosin     26.74
+14. jakallion          26.74
+15. parikilsaakin      26.74
+16. lyljelleni         26.74
+17. koloisista         26.74
+18. rantatanetehtävässä    26.74
+19. jigijigin          26.74
+20. nukeist            26.74
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 1340 texts, 359111 words
+Reference (excluding this cluster): 286891 texts, 141383723 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. vastaapoista     2025.17
+ 2. kommenttia       2022.10
+ 3. vastaapoistavastaukset  1748.95
+ 4. poista           1678.46
+ 5. kiitos            982.63
+ 6. ihana             852.53
+ 7. dpoista           760.77
+ 8. oot               649.35
+ 9. ihania            621.92
+10. sun               607.97
+11. dvastaapoistavastaukset   560.78
+12. dvastaapoista     552.55
+13. kiva              529.12
+14. klo               510.66
+15. sulla             468.31
+16. kaunis            459.04
+17. tosi              446.39
+18. ihanat            446.37
+19. sulle             357.10
+20. noi               354.43
+
+==================================================

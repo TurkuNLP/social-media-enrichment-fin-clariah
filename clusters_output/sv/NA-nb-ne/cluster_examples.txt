@@ -1,0 +1,168 @@
+
+============================================================
+CLUSTER 0 (NOISE)
+============================================================
+Size: 178 samples
+Register distribution: {'NA-nb-ne': 178}
+
+Examples:
+----------------------------------------
+ 1. - Publicerad: 2012-04-07 Sjöräddare utbildas Nu när många båtägare börjar sjösätta inför sommaren 2012 så passar även besättningarna på Sjöräddningsstationen i Gävle på att finslipa och höja sina k... [NA-nb-ne]
+ 2. april 2019 Unga nyanlända guidar seniorer i IT-relaterade frågor i Örebro kommun SKL uppmärksammar IT-Guide i sin Idébank för integrationsarbetet. IT-Guide ger dubbla vinster för nyanlända ungdomar... [NA-nb-ne]
+ 3. För många musikkårer runt om i landet är advents- och julperioden extra intensiv. För Lundakåren brukar årets stora evenemang –… Författare: Patrik Nilsson Hvmk Lund : Musik från vita duken I vanli... [NA-nb-ne]
+ 4. Treskillingdagen i Kopparberg 16-07-15 13 juli firas enligt traditionen Treskillingdagen i Kopparberg. Tyvärr lite dåligt marknadsförd. Men ideella krafter såg till att det blev festligt. Treskilli... [NA-nb-ne]
+ 5. Barn från olika förskolor från Kinna och Skene fick träffa Pippi och Rödluvan under årets Kultkalas när Barn- och fritidsprogrammets elever på Marks Gymnasieskola bjöd på teater. Även skapandeverks... [NA-nb-ne]
+ 6. Den nybildade gemenskapen FOTO-RINGEN T-NABBEN har sammanställt ett förslag på vykortskollektion över Timmernabben. I samband med sommarens nu pågående fotoutställning i Korsvirkeshuset fick besöka... [NA-nb-ne]
+ 7. Huset vid driving rangen har renoverats Rolf Bjuhr och Berndt Petersson har under sommarer lagt ner åtskilliga timmar på att fräscha upp huset vid stora driving rangen. De har ersätt rutten träpane... [NA-nb-ne]
+ 8. Nyheter Lansering av Bujinkan Norrköpings nya hemsida Efter månader av planering och arbete är Bujinkan Norrköpings nya hemsida redo att lanseras. I det första skedet kommer hemsidan främst ersätta... [NA-nb-ne]
+ 9. Simpnäsdagen den 11 juli — 58 nya QSOn för 8S0BAS Uppdaterat 2015-07-12 8S0BAS rapporerar att man lyckades åstadkomma 58 QSOn under Simpnäsdagen i går. — Vi har aldrig haft så många QSOn något tidi... [NA-nb-ne]
+10. Vinnarna i juniorernas dekal-lotteri är korade Under våren och början av sommaren har våra juniorer sålt dekaler för att dra in lite extra pengar till sin verksamhet. Fina priser har sponsrats av P... [NA-nb-ne]
+11. Grattis Tomas! Niklas Dahlqvist 22 oktober 2009 Toyotas marknad och produktchef Tomas von Hedenberg blev av Resumé utsedd till bilbranschens bästa marknadschef i deras tävling Sveriges 101 bästa ma... [NA-nb-ne]
+12. 24.11.2021 Efterfrågan på att handla mat på webben har ökat kraftigt. Vi har i år utvidgat vårt nätverk av webbutiker för mat i vårt handelslag. I år har två nya butiker lagts till i nätverket. I v... [NA-nb-ne]
+13. En noga utvald skara kända människor fick härom kvällen chansen att uppleva Stockholmsvaruhuset NK:s rejäla ombyggda och renoverade skönhetsavdelning NK Beauty. Den tidigare rätt stereotypa avdelni... [NA-nb-ne]
+14. Landskronakarnevalen planeras för fullt Det dröjer ett tag ännu, men trots det är nu arbetet med årets Landskronakarneval i full gång. Creandia som genomför karnevalen åt Landskrona stad, börjar få... [NA-nb-ne]
+15. Tisdagen den 27 november fick vi äran att uppmärksamma de två privatpersonerna som gjorde en rådig insats ute på Mossholmen, Tjörn i slutet av oktober. Utmärkelsen delades ut av förbundets ordföran... [NA-nb-ne]
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 105 samples
+Register distribution: {'NA-nb-ne': 105}
+
+Examples:
+----------------------------------------
+ 1. 2009 Näringslivsuppvaktning 7 oktober 2009 Arbetet att förbättra näringslivsklimatet har börjat! Den 7 oktober 2009 uppvaktade ett 60-tal tjänstemän och politiker från Flens kommuns olika förvaltni... [NA-nb-ne]
+ 2. 2017/11/09 Stort grattis till Pfizer och Bristol-Myers Squibb som under Läkemedelskongressen vann Apotekarsocietetens pris för Bästa Patientinformation 2017. Pfizer och BMS har tillsammans tagit fr... [NA-nb-ne]
+ 3. - Avelsarbetet är syftet med parningsstationerna, att få ett bi med bra egenskaper och som framför allt är motståndskraftigt mot det dödliga varoakvalstret som hotar biodlingen världen över. tisdag... [NA-nb-ne]
+ 4. Partidistriktet SD Göteborg håller varje torsdag medlemsmöten i sitt kansli. Torsdagen den 29 mars besökte delar av den nyvalda styrelsen Göteborg för att stifta bekantskap med företrädare för SD G... [NA-nb-ne]
+ 5. Superkluster på agendan 2012-02-29 Mats-Rune Bergström och Helena Österlind från Länsstyrelsen Västerbotten besökte Bryssel den 28 februari för samtal om "superkluster" i norr. Att genom smart spec... [NA-nb-ne]
+ 6. UNT publicerade idag en artikel om hur Akademiska sjukhuset i Uppsala är först i landet med en metod som innebär att bröstcancerpatienter regelbundet får fylla i hur de mår via nätet. På detta vis ... [NA-nb-ne]
+ 7. Propaganda i Luleå Fredagen den 28/5 gick aktivister ut i Luleå för en klistermärkesuppsättning. Den effektiva arbetstiden blev cirka en timme och närmare 150 stycken klistermärken sattes upp runt ... [NA-nb-ne]
+ 8. Den 22 februari var aktivister och medlemmar ur Kampgrupp 302 ute i Lund och delade flygblad. Allt gick lugnt till och runt 800 flygblad delades ut. Etikettarkiv: Lund Uppmärksammad nattaktion i Lu... [NA-nb-ne]
+ 9. Info från Carl Johan Sonesson, Regionstyrelsens ordförande Saxat från FB 2021-01-28 Fredag 29 januari klockan 18:00. Skånes kamp mot Coronan. Etapp 3. R-talet ligger fortfarande på en relativt sett... [NA-nb-ne]
+10. Den 5 januari i år hölls den omtalade Golden Globe-galan i Los Angeles. Där hyllades världens stora skådisar, bland andra stjärnan Ellen DeGeneres. Vid presentationen av ‘Carol Burnett’-priset pass... [NA-nb-ne]
+11. Lördagsnatten den 13 augusti gick aktivister anknutna till Motståndsrörelsen och rensade Älvsbyn på folkfientlig propaganda. Efter man hade tagit ner tre bögflaggor och bränt dem så spred man det n... [NA-nb-ne]
+12. Ett sista avsked av CH Hermansson Tisdagen den 16 augusti 2016 tog vi ett sista avsked av CH Hermansson. Familj, partivänner och politiska kamrater hade samlats i Heliga korsets kapell på Skogskyrk... [NA-nb-ne]
+13. Chilenare i Europa genomför en aktionshelg under mottot ”Piñera till Haag” I flera europeiska städer genomförde under den gångna helgen aktioner med kravet att Internationella brottmålsdomstolen i ... [NA-nb-ne]
+14. 2009 - december Projekt Valdemarsviken har kommit ett steg närmare en sanering av de krom- och kvicksilverförorenade sedimenten som ligger i Valdemarsviken och sprids ut i Östersjön. Den 25 novembe... [NA-nb-ne]
+15. ELM hade glädjen att under det nyss avslutade sommarmötet kunna presentera vår nye missionsledare efter Erik J Andersson som avgår vid årsskiftet. Daniel Ringdahl är 33 år gammal och bor i Stockhol... [NA-nb-ne]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 177 samples
+Register distribution: {'NA-nb-ne': 177}
+
+Examples:
+----------------------------------------
+ 1. Tre byråer hade viktiga roller i pristagarnas bidrag på årets SABA I det vinnande bidraget från Tekniska Museet i samarbete med King och BillerudKorsnäs har både Tango och konstbyrån Reflection Com... [NA-nb-ne]
+ 2. Multi-taskaren Britney Spears lanserade sin senaste parfym Radiance förra veckan, och här är annonsen (bild från JustJared) Radiance är Brits nionde (!) parfym hittills – hon leder alltså över Pari... [NA-nb-ne]
+ 3. Svenskabloggare | Stoppa Pressarna – Bloggnytt – Kissie ... Dessie började med att stänga av så man inte kunde kommentera hennes blogg och nu har hon raderat sin facebook. I sin mikz kanal så berät... [NA-nb-ne]
+ 4. RIVER är en blogg om träning. Den är till för att motivera mig själv att träna mot mina mål, men den finns även här för att ge inspiration till dig som läser. onsdag 1 april 2009 GöteborgsVarvet sa... [NA-nb-ne]
+ 5. I dagarna lanserade Moschino världens första Nalle-parfym (fast för vuxna) och naturligtvis är det leksaksfantasten Jeremy Scotts påhitt. Toy heter doften som är Scotts första för modehuset och bes... [NA-nb-ne]
+ 6. Då har de landat! Kronprinsessan Victoria och handelsminister Ewa Björling befinner sig just nu på middag i Accra, Ghana. Duon är på en fem dagars lång handelsresa i Ghana och Tanzania, även om ons... [NA-nb-ne]
+ 7. Georgien 2019: GPB tar emot bidrag till “Georgian Idol”2018-12-30 (söndag) TV-bolaget GPB, som inför Eurovision Song Contest 2019 beslutat sig för att utse Georgiens representant genom talangshowen... [NA-nb-ne]
+ 8. Bygge av septisk tank För att barn och pedagoger vid FVBU:s skola och förskola ska få det så bra som möjligt så byggs nu en septiktank i Pa Lokko. I de här delarna av Sierra Leone finns inga avlopp... [NA-nb-ne]
+ 9. Vid nyår byter TPB namn till MTM, Myndigheten för tillgängliga medier. Igår presenterades den nya logotypen. Kanske kan man beskriva den lite som introt till Stjärnornas krig fast med prickar som r... [NA-nb-ne]
+10. fredag 29 maj 2009 Två nya butiker med Second Hand i Alingsås Nju Jåk har på lördagar öppet sin vintageavdelning på Hedénska längans bakgård, Torggatan. Ingång porten vid grönsaksaffären på Norra S... [NA-nb-ne]
+11. måndag 8 september 2014 Poppels Projekt 003 blir webblansering efter släppstrul Förvirringen var stor i fredags morse när Poppels Projekt 003 Imperial Saison dök upp på Systembolaget.se men inte gi... [NA-nb-ne]
+12. Lähettänyt 26. helmikuu 2014 - 1:11 käyttäjä Petteri Hakkarainen Fyra irländare. En vintertisdag mitt i sportlovet var det dags för en ordentlig genomgång av Jamesons whiskeyn, på Pub och Restauran... [NA-nb-ne]
+13. Myrqvist Goodyear Welted – Kickstartersuccén är nu tillgänglig online Andreas Weinås, 15 november 2016 Textstorlek A A Under våren kunde ni läsa om hur skovårdsspecialisten Herrstil satsade på pris... [NA-nb-ne]
+14. För en månad sedan skrev vi om Pirate Cinema Knoxville, vars filmvisningar på The Art Gallery of Knoxville fick hotfullt besök från MPAA. Nu noterar vi att samma galleri i Knoxville, Tennessee är i... [NA-nb-ne]
+15. Allt om Georgien Allt om Georgien En nyhetsblogg om republiken Georgien i södra Kauksus Artiklar Ny ikon från Georgien på utställning i georgiska kyrkor 2009-01-17 17:42:00 En alldeles ny och moder... [NA-nb-ne]
+
+============================================================
+CLUSTER 3
+============================================================
+Size: 402 samples
+Register distribution: {'NA-nb-ne': 402}
+
+Examples:
+----------------------------------------
+ 1. Almedalsveckan 2012 är över. FINSAM kan se tillbaka på många lyckade arrangemang. 350 personer kom till våra frukostmöten, 122 inbjudna gäster lyssnande till de två lunchseminarierna och cirka 600 ... [NA-nb-ne]
+ 2. Stora inspirationsdagen genomfördes i Hjo med bra deltagande- Patrik Forsgren höll ett mycket inspirerande föredrag där han berättade sin seglingshistoria samt mera specifikt kring projekt Pro4u, d... [NA-nb-ne]
+ 3. Renforsskolans estetlärare bjöd in till en heldag i slöjdens tecken och repslagning, Kravallslöjd och slöjdföreläsningar ersatte den traditionella undervisningen. Kravallslöjd höll workshopen Slöjd... [NA-nb-ne]
+ 4. Våryra 2015! Det blev en glad och fullspäckad helg med fokus på inspiration, fortbildning och erfarenhetsutbyte, när Friluftsfrämjandet Region Öst arrangerade Våryra 2015, i samarbete med Studiefrä... [NA-nb-ne]
+ 5. Förra helgens ceremoni i Wendela Hebbes Hus med Amelia Adamo som prisutdelare blev precis så lyckad som vi hoppats. Här några bilder från utdelningen av två priser – Lilla Wendelapriset för novells... [NA-nb-ne]
+ 6. Igår på internationella kvinnodagen hade Swidish Alliance For Women In Sport en Sportgala för att hylla våra kvinnliga förebilder inom sporten. Det var andra året denna gala hölls och syftet är att... [NA-nb-ne]
+ 7. Patientriksdagen 2019 var startskottet på en förändringsresa för ökat patientinflytande. Nu fortsätter det viktiga arbetet och vi är fulla av förväntan inför årets upplaga då vi åter igen samlar pa... [NA-nb-ne]
+ 8. Söndagen den 27 maj var det körstämma på Wik, den femte i ordningen. Under en strålande sol bjöds publiken på ett pärlband av körkonserter från scenen i den grönskande slottsparken. Sist ut på utes... [NA-nb-ne]
+ 9. Kommentarerna är avstängda Praon är slut Praon är slut 2022 – 09 – 23 Nu är praon slut för den här gången och det finns en hel del elever som har praktiserat i till exempel Örebro. En av dessa elev... [NA-nb-ne]
+10. Mellan 20 november och 1 december har 6 elever tillsammans med läraren Jim Macaulay besökt Bromangymnasiets Industritekniska program. Bland annat har eleverna fått arbeta i verkstaden med våra elev... [NA-nb-ne]
+11. Hälge överlevde återigen årets jakt Bibliotekets/Allhusets Hälgeutställning avslutades med tårtkalas för eleverna från sexårsgruppen till årskurs 3 på Hallens kyrkskola. Ingen trodde väl egentligen... [NA-nb-ne]
+12. 30 jan Studiebesök i Köpenhamn – hur fungerar deras smarta belysning? I veckan var Stockholms stads Smart och uppkopplad belysning-projekt på studiebesök i Köpenhamn. Köpenhamn har bland annat gjor... [NA-nb-ne]
+13. Kommentarerna är avstängda Regnet tvättade bort vintern i Regnet tvättade bort vintern i Ställdalen. 2015-05-01 Trots intensivt regnade var det många Ställdalingar som sökte sig till den magnifika ... [NA-nb-ne]
+14. Nyheter från 412:e kompaniet Visar nyheter från 18 september 2021 och bakåt. Klicka här för att se de mest aktuella nyheterna. 412:e insatskompaniet marschtränar på Hyssnaleden Den 22e april, annan... [NA-nb-ne]
+15. CO- Creation ska löpa som en röd tråd genom hela projektet. VÅGA ska skapa förutsättningar för unga vuxna att genomföra och delta i olika projekt och aktiviteter som stärker deras ställning på arbe... [NA-nb-ne]
+
+============================================================
+CLUSTER 4
+============================================================
+Size: 78 samples
+Register distribution: {'NA-nb-ne': 78}
+
+Examples:
+----------------------------------------
+ 1. Tredje gången gillt höll föreningen SARA sitt årsmöte och efterföljande seminarium i Malmö den 19/4. Rekordmånga besökare kunde lyssna på en mängd spännande föreläsare som Sanna Anandala Ehdin, Ral... [NA-nb-ne]
+ 2. Under ett par veckors tid så har Bajens Fans och Bajenlande startat en kampanj för att stötta Hammarby Fotboll att nå målet att sälja 12 500 säsongskort till Nya Söderstadion. I dagsläget (den 4/7)... [NA-nb-ne]
+ 3. Uddevalla näringsliv anordnar varje år Näringslivsgalan som går utav stapeln i slutet på januari. Detta år är Rektor Fredrik Ekstedt på Thoren Innovation School i Uddevalla nominerad till Årets Che... [NA-nb-ne]
+ 4. 4dff Offentlig flygbladsutdelning i Stockholm Lördagen den 14:e maj hölls en flygbladsutdelning i centrala Stockholm. De åtta stockholmsaktivisterna som närvarade på aktionen inledde aktiviteten me... [NA-nb-ne]
+ 5. 2021-03-18 Målet nått Glädjande nyheter! Insamlingen Rädda M 20 har nu nått sitt mål om 1 miljon kronor. Vi är väldigt glada och stolta över allt stöd vi fått och att vi nu har nått detta viktiga m... [NA-nb-ne]
+ 6. Flygbladsutdelning i Heby kommun Den 26/7 begav sig fyra partimedlemmar ur Kampgrupp 106 till Tärnsjö i Heby kommun för att dela ut Nordiska motståndsrörelsens partiprogram. Ett större antal kliste... [NA-nb-ne]
+ 7. I helgen ägde en av studentidrottens viktigaste mötesplatser rum när representanter från hela Sverige samlades i Jönköping. Förutom den årliga Studentidrottsgalan präglades helgen av förbundsmötet,... [NA-nb-ne]
+ 8. Nu finns det bilder från Lilla Brassfestivalen 2015 tagna av Olof Forsberg. Stor brasskonsert i Gislaveds Konsertsal Välkommen på stor brasskonsert i Gislaveds Konsertsal lördag den 14 mars kl. 18.... [NA-nb-ne]
+ 9. Carling family spelade 4 man starkt på Krapperups julgranständning! På bilden skymtar Max Carling, Oscar Murgård, Melker Annas, Aina Carling! tisdag 30 november 2021 Blå Hallen tisdag 23 november 2... [NA-nb-ne]
+10. Vägvalet har uppnått sitt mål och samlat in 22300 namnunderskrifter för att kräva folkomröstning om trängselskatten i Göteborg enligt kommunallagen 5 kap § 23, vilken säger att viss fråga får väcka... [NA-nb-ne]
+11. Dansbandspriset 2018 Dansbandspriset grundades 2011 och delades ut för första gången 2012! Vinnare genom åren kan ni se nedanför. Sedan 2014 är Ekebofestivalen med och sponsrar 5000:- till priset o... [NA-nb-ne]
+12. nicklas Förarstolen på gång Emil Fahlgren på Metal Madness visar upp den färdiga stommen, lackeras i GM:s gröna kulör som återfanns på mängder av delar från koncernen under den här tiden. Nu återst... [NA-nb-ne]
+13. Upplagd den 20 mars 2014 09:48 Nu har det blivit klart att BOGAB, som anslöt sig till teamet inför säsongen 2013, nu utökar sitt engagemang för säsongen 2014. All idrott på elitnivå, och racing i s... [NA-nb-ne]
+14. Under 2011 firas Christopher Polhems 350-års-jubileum. Här får du tips på länkar för att arbeta tematiskt om Christopher Polhem inom ämnena historia, matematik, svenska, teknik, ekonomi, slöjd och ... [NA-nb-ne]
+15. Nyligen tillkännagav vi att vi närmade oss milstolpen med 50.000 levererade hjärtstartare. Detta lyckades ännu snabbare än vad vi hade förväntat oss! Ett fint, men framför allt ett viktigt ögonblic... [NA-nb-ne]
+
+============================================================
+CLUSTER 5
+============================================================
+Size: 67 samples
+Register distribution: {'NA-nb-ne': 67}
+
+Examples:
+----------------------------------------
+ 1. Publicerat 10.51 torsdag 21 augusti Glädjande besked från samtliga mätningar Skola som vanligt f o m torsdag Bara en halvtimma efter att skolan startat för terminen tisdagen den 19 augusti nåddes s... [NA-nb-ne]
+ 2. Torsdagen den 13 juni hade Hajomsfibers Ekonomiska Förening sin årsstämma i Hajoms Bygdegård. Ett tretiotal personer hade kommit till stämman. Fram till stämman har föreningen haft en interimstyrel... [NA-nb-ne]
+ 3. Länsförbundsstämman 2016 Temat på årets länsförbundsstämma, som anordnades den 11 mars i Huskvarna, var ”Så påverkar LRF”. LRFs förbundsordförande Helena Jonsson talade kring ämnet för de närmare 2... [NA-nb-ne]
+ 4. Årsmöte Lukasgillets årshögtid den 18 oktober 2011-11-20 2011 inföll Lukasdagen på en tisdag. Traditionsenligt samlades ett 40-tal Lukasbröder i Lukassalen på Grand Hotel i Lund. Kvällen inleddes m... [NA-nb-ne]
+ 5. I måndags blev listorna för Kommunfullmäktige klara Årsmötet hölls 19 mars på Medlefors. Inledningsvis berättade Linda Marklund från Skelleftebygdens berättarsällskap om Vittra, en inlevelsefull oc... [NA-nb-ne]
+ 6. Timsfors församlingshem kl 19.00 Sedvanliga mötesförhandlingar, prisutdelningar och förtäring. Föreläsare blir Ingmar Kristiansson och temat är ”Vatten, vatten, vatten”. Ingmar är verksam bl, a. Gö... [NA-nb-ne]
+ 7. Länsförbundsstämma 2014 Jönköpings länsförbundsstämma hölls fredagen den 21 mars i Huskvarna, Folkets park. Årets tema "Rätten att bruka jord och skog" belystes genom både gruppdiskussioner och int... [NA-nb-ne]
+ 8. Fem nya ansikten i HBIS styrelse I söndags, den 24 maj, höll Hallenbygden i Samverkan årsstämma på ForsWards Hund & Jakt i Getåsen. Stämman valde fyra nya ledamöter och två nya suppleanter. Ordföra... [NA-nb-ne]
+ 9. News: Konstföreningen Ögonfröjd har den tunga plikten att meddela att vår vice ordförande Eva Birath har avlidit efter en tids sjukdom. Hon var tidigare ordförande i Ögonfröjds styrelse och har in ... [NA-nb-ne]
+10. Den 17 maj klockan 18.30 samlade föreningens medlemmar till ett årligt kvartalsmöte. Mötet var ute i Viskafors hos deras lokala bageri, två bagare i Viskafors. Föreningen valde att genomföra mötet ... [NA-nb-ne]
+11. Årsmötet den 14 mars genomfördes trots virusspridning som planerat, men med färre deltagare, knappt 20 och utan orkester. Förhandlingarna sköttes eminent och traditionellt av Siv Hågård och utan se... [NA-nb-ne]
+12. Sandsjö i Kungens tjänst Med skärpa och engagemang tog Åke Hultqvist med sig medlemmarna ur Sandsjö hembygdsförening till stormaktens Sverige där indelta soldater från soldat- och grenadjärtorp, i ... [NA-nb-ne]
+13. 25.4.2017 9:59 Uutiset / Jaoston pääsivusto Alla grenar under samma tak Centralföreningen ÅIFK har redan en längre tid strävat efter ett enhetligt ansikte utåt - en adress där du hittar all informa... [NA-nb-ne]
+14. Gustavsfält-Lineheds Socialdemokratiska förening har haft möte. Medverkande var Krissi Johansson, vice ordförande i Barn- och ungdomsnämnden i Halmstad. Hon informerade om nämndens verksamhet och k... [NA-nb-ne]
+15. Hembygdsföreningens ordinarie årsmöte gick av stapeln den 18 mars i Hembygdsgården.Efter sedvanliga förhandlingar och val så bjöds alla deltagare på kaffe med hembakta bullar och kakor från välfyll... [NA-nb-ne]
+
+============================================================
+CLUSTER 6
+============================================================
+Size: 125 samples
+Register distribution: {'NA-nb-ne': 125}
+
+Examples:
+----------------------------------------
+ 1. Under sommaren kommer bekämpningen av sjögull att fortsätta. Här listar vi de områden som vi kommer att fokusera på. Observera att listan kan komma att justeras. Läs om vårt samverkansprojekt mot s... [NA-nb-ne]
+ 2. Stureby Föräldraforum har tagit ett initiativ tillsammans med skolan för att stödja integrationen av våra nyanlända. För närvarande är det 18 st killar från Afghanistan, som går i åk 7-9 på skolan.... [NA-nb-ne]
+ 3. Projekt Lighthouse i full gång! Aktuellt info Den 31 maj 2012 tog Kommunfullmäktige beslut om att ställa sig bakom den lokala överenskommelsen om samverkan mellan Göteborgs stad och sektorn social ... [NA-nb-ne]
+ 4. Alumni-nytt KOLLA LTH FRÅN OVAN! Nu finns ett nytt sätt att lära känna LTH:s campusområde. Med hjälp av flygbilder från företaget Propellermedia har LTH låtit göra en flygvy där man kan välja olika... [NA-nb-ne]
+ 5. Nyheter från bredbandsföreningen Det har kommit ett nyhetsbrev som publiceras här i sin helhet: Möjaskärgårdens bredbandsnyheter 2013-12-05 Nu har vi fått in de första 25 påskrivna anslutnings- och... [NA-nb-ne]
+ 6. Hissförbundets Nyhetsbrev, april 2010 Nyheter Hissförbundet 30 år: Hiss- och rulltrappsfakta i Sverige År 1915 kom den första rulltrappan till Sverige och NK i Stockholm. Åren före hade allt fler v... [NA-nb-ne]
+ 7. Genomförda möten Här hittar du information från många av de möten, seminarier och konferenser som IQ Samhällsbyggnad anordnat. - Årsmöte och öppet seminarium 180515. IQ Samhällsbyggnad årsstämma me... [NA-nb-ne]
+ 8. Senaste Nytt 2021-12-07 Den 7 december 2021, presenterade Projektledaren Peter Feuerbach slutrapporten "Samarbete för att genomföra platsanpassade tekniker för att minska fosfortransporter från jor... [NA-nb-ne]
+ 9. BitsUpdate | Maj 2021 Avtalen med Porsche Informatik är signerade! Då är det äntligen slutgiltigt bestämt – Cross 3 blir vårt nästa DMS-system för personbils-ÅF! Det har varit en lång men givande f... [NA-nb-ne]
+10. Höjdpunkter från IKEU-programmet Här presenterar vi kortfattat vad som hänt under året som just avslutats. Höjdpunkter från IKEU-programmet under 2021 - Är det försurat eller bara surt? Sverige, No... [NA-nb-ne]
+11. - Månadens medlem i Minerva: Karin Bojs 1 augusti, 2017 "Jag har arbetat som journalist i nästan trettio år, varav tjugo som vetenskapsjournalist – fakta ligger mig varmt om hjärtat." - Månadens me... [NA-nb-ne]
+12. Nyheter Oförstörande provningI samband med skadegruppsmötet i september 2018 presenterade FORCE olika metoder för oförstörande provning. Några av de metoder som presenterades och diskuterades är di... [NA-nb-ne]
+13. Nyhetsbrev 9 Dags för sommarens nyhetsbrev från ditt Leaderområde - Ännu ett projekt prioriterat av LAG - Ny gemensam sida för Leader i Skåne - Två nya i LAG - Klippt från pressen - Dramatiskt somm... [NA-nb-ne]
+14. Nyheter från Förbundet RPG:s marknadsplan RPG:s marknadsplan har under året bearbetats av förbundsstyrelse, riksstämma och nu senast vid distriktsöverläggningen i oktober. Dokumentet har tagits fra... [NA-nb-ne]
+15. Author Archives: effsysplus Effsys+ är nu avslutat 2014-08-31 var sista dagen för Effsys+ och en summerande slutrapport om programmet hittas på länken nedan. Energimyndigheten kommer under hösten 2... [NA-nb-ne]

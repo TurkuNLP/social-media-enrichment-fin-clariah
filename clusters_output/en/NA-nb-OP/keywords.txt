@@ -1,0 +1,116 @@
+Keyness analysis for en/NA-nb-OP
+Original reference corpus: 111542 texts from regions ['NA-ob-OP', 'NA-nb-OP', 'NA-nb', 'ID', 'ob-OP']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 1 ===
+Target: 747 texts, 583087 words
+Reference (excluding this cluster): 110795 texts, 61790316 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. life              461.80
+ 2. myself            386.72
+ 3. god               305.21
+ 4. feel              284.00
+ 5. things            252.87
+ 6. heart             234.89
+ 7. ive               230.77
+ 8. sometimes         222.76
+ 9. feeling           220.29
+10. dont              198.58
+11. yourself          179.87
+12. person            179.44
+13. something         165.93
+14. felt              162.79
+15. moment            160.56
+16. thinking          160.34
+17. writing           157.42
+18. love              156.63
+19. joy               155.84
+20. prayer            153.24
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 327 texts, 306447 words
+Reference (excluding this cluster): 111215 texts, 62066956 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. books             380.03
+ 2. book              376.38
+ 3. reading           189.00
+ 4. read              184.71
+ 5. story             172.22
+ 6. novel             147.79
+ 7. characters        135.26
+ 8. movie             134.32
+ 9. review            127.18
+10. fiction           121.74
+11. novels            119.63
+12. trilogy           103.67
+13. loved              98.84
+14. authors            96.91
+15. film               91.00
+16. plot               90.47
+17. character          86.14
+18. movies             85.60
+19. reviews            84.37
+20. her                83.69
+
+==================================================
+
+=== CLUSTER 3 ===
+Target: 172 texts, 92430 words
+Reference (excluding this cluster): 111370 texts, 62280973 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. restaurant        295.91
+ 2. menu              289.56
+ 3. sauce             256.35
+ 4. food              254.98
+ 5. served            178.84
+ 6. pork              174.28
+ 7. restaurants       170.00
+ 8. dish              158.86
+ 9. dessert           157.48
+10. ordered           156.93
+11. taste             150.72
+12. meal              143.07
+13. delicious         142.88
+14. dining            139.90
+15. tasted            136.86
+16. cuisine           130.13
+17. cheese            125.53
+18. tasty             123.14
+19. fried             117.04
+20. sweet             113.32
+
+==================================================
+
+=== CLUSTER 4 ===
+Target: 290 texts, 179856 words
+Reference (excluding this cluster): 111252 texts, 62193547 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. products          304.88
+ 2. skin              247.99
+ 3. makeup            229.38
+ 4. skincare          193.80
+ 5. product           165.22
+ 6. lipstick          160.40
+ 7. beauty            159.63
+ 8. wear              153.06
+ 9. cream             147.62
+10. lip               144.64
+11. pink              143.90
+12. eyeshadow         141.08
+13. perfect           139.08
+14. scent             132.85
+15. collection        131.77
+16. polish            130.69
+17. brand             127.70
+18. shade             127.38
+19. mascara           127.23
+20. oily              127.05
+
+==================================================

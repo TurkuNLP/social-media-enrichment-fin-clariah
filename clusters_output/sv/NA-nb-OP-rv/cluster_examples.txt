@@ -1,0 +1,48 @@
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 2731 samples
+Register distribution: {'NA-nb-OP-rv': 2731}
+
+Examples:
+----------------------------------------
+ 1. Hör talas om Comun kakaobönor? Inte jag heller. Här har de blandats med fyra olika Trinitario till en syrlig, rödfruktig och ändå torr kombination som tänjer ut smaklökarna ordentligt. Hantverk, Be... [NA-nb-OP-rv]
+ 2. Inlägget innehåller pressprover Inlägget innehåller affilitelänkar Läs mer under PR och Policy Torrshampoo är en förbrukningsvara hemma hos mig då jag får panik vid bara tanken på flottigt hår- men... [NA-nb-OP-rv]
+ 3. 3 okt. 2016 Redaktionen i en vegetarisk uppenbarelse Svaren beror ju på vem man frågar, speciellt de första två frågorna. Men frågar man Redaktionen så kan vi svara på de två senare med ett rungand... [NA-nb-OP-rv]
+ 4. Eksjö Stadshotell i Småland Mitt i hjärtat av Småland, i den lilla staden Eksjö ligger det gamla anrika stadshotellet. Vi åkte dit för att kolla av service och helhetsupplevelsen av detta populära ... [NA-nb-OP-rv]
+ 5. Dagens whisky den 10/12 är: Ben Nevis Region: Highlands Ålder: 19 år, kokat 1999 Styrka: 49,7 %, naturlig fatstyrka Fat: Barrique singelfat, 318 flaskor Buteljerare: Wernamo Whiskyvänner Doft Somma... [NA-nb-OP-rv]
+ 6. Flaskan har redan smyglanserats i Asien, och nu kommer den även att introduceras i resten av världen. Detta sker på den stora tillställningen La Part des Anges (Änglarnas Andel) strax utanför stade... [NA-nb-OP-rv]
+ 7. For english, click on ”read mer”/”läs mer” i the end of the post. I mitten av oktober hade den amerikanska webshopen Spoonflower fraktfritt. Då passade jag på att beställa en del. Butiken har tusen... [NA-nb-OP-rv]
+ 8. Min man älskar förpackningarna från Davines, för de kan man återvinna till allt. Exempelvis lunchlåda och i det här fallet- plantering =) Fakta om hårvårdsmärken Mitt serum från Comfort Zone är slu... [NA-nb-OP-rv]
+ 9. Lundgren Guitar Pickups, svenskt hantverk när det är som bäst Många gitarrer i de lägre prisklasserna behöver inte vara dåliga instrument bara för att de inte kostar 20 000 kr, många gånger kan til... [NA-nb-OP-rv]
+10. Att använda linser ute i naturen kan vara en utmaning. Alla ni som bär linser vet att hygienen är högt prioriterat. Kommer det minsta bacill eller smuts kan det leda till mer än bara irritation. I ... [NA-nb-OP-rv]
+11. Ett litet tips så här i juletider: Gullö Gård har ett fantastiskt fint julbord. Det är en beställningskrog i vanliga fall, så nu lönar det sig att passa på. Julbordet har viltsmaker och t.ex. deras... [NA-nb-OP-rv]
+12. Favorit i repris: Lubu Heels! Maj 2008 Otroligt läckra Lubu Heels från China Glaze är ett av mina topp tjugo-favoritlack. Svart med röda glitterkorn som fångar ljuset ibland, ger djup och glöd åt f... [NA-nb-OP-rv]
+13. söndag 12 augusti 2007 Z004 Zind Kvällens förrätt blir ungsgratinerad rotselleri med chèvre, lite honung och en nypa herbes de Provence. Vi har inte en endaste flaska Sauvignon Blanc hemma just nu,... [NA-nb-OP-rv]
+14. Formen verkar vara mindre avgörande för priset, och visst det kan skilja lite i pris på vilken teknik man bygger med men något som sticker iväg mer än vad man önskat är poolskyddet. Snyggast är sjä... [NA-nb-OP-rv]
+15. Ohlala, vilka härliga viner vi har provat idag. Christelle, The Wine Companys vinexpert, guidade oss hela vägen från Nya Zeeland, till Italien, Spanien, Frankrike och sen återigen vidare overseas. ... [NA-nb-OP-rv]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 6691 samples
+Register distribution: {'NA-nb-OP-rv': 6691}
+
+Examples:
+----------------------------------------
+ 1. Den bultande bokhandelsdrömmen Vad skulle du göra om du blev övertalig på jobbet? Om du plötsligt var en av dem som måste sluta gå till arbetet på morgonen, till ett arbete som du faktiskt älskar o... [NA-nb-OP-rv]
+ 2. Vissa böcker måste man jobba lite på när man läser dem för att komma in i dem. Ett bra exempel på det är Jellicoe Road (vars recension kommer snart) där jag spenderade femtio sidor in i boken som e... [NA-nb-OP-rv]
+ 3. Det är ont om information på svenska om den här trilogin, så jag hoppas det är ok att jag klistrar in en länk till bokus, trots att beskrivningen av böckerna är på engelska. http://www.bokus.com/cg... [NA-nb-OP-rv]
+ 4. Titanix har nyligen släppt sin nya julsingel med den gripande texten ”I år firar du jul med saknaden” En låt med en eftertänksam text om ensamhet och att alla inte har det så enkelt över julen. Mar... [NA-nb-OP-rv]
+ 5. Originaltitel: Odin den IVana Denisovitja Författare: Alexander Solsjenitsyn Översättare: Hans Björkegren Utgivningsår: 1962 Tryckår: 1970 Originalspråk: Ryska Sidantal: 131 Förlag: Wahlström & Wid... [NA-nb-OP-rv]
+ 6. Mina tankar om filmen Gilda En av de klassiska svartvita filmer som jag verkligen älskar är Gilda. Jag tycker också om Trollbunden och Casablanca, för att nämna ett par. Vad som sägs om den här fil... [NA-nb-OP-rv]
+ 7. Die Hard 4 Jag har sett filmen Die Hard 4, det var jätte bra! Jag vet att det är en fyra, men det spelar ju ingen roll i vilken ordning som man ser dom. . Handling: John Mclane är polis, har skilt ... [NA-nb-OP-rv]
+ 8. Påbörjade serie: 3 Mellan böcker i en serie: Avslutade serie: 1 Antal omläsningar: 2 Sammanfattning: Det blev inte riktigt så mycket läst som jag ville. Alltså missförstå mig rätt, helt klart bra a... [NA-nb-OP-rv]
+ 9. Jag såg den i går på Rigoletto här i Stockholm. När jag kom ut ur salongen tänkte jag så här: Idag tänker jag likadant. Det är så gott som samma film som den som kom 2001. Nya skådespelare, ny skur... [NA-nb-OP-rv]
+10. torsdag 8 januari 2015 Ljus Ljus Ljus Riktigt bra böcker om kärlek är inte alltid så lätta att hitta men här är i alla fall en! Ljus Ljus Ljus av Vilja Tuulia Huotarinen (stor och känd i Finland) h... [NA-nb-OP-rv]
+11. Dags för ett nytt tema här på bloggen och den här gången är temat döden. Vi mjukstartar detta tunga med en riktig pärla till bok, tycker jag. Ett hus utan speglar heter den och är skriven av Martin... [NA-nb-OP-rv]
+12. fredagen den 14:e september 2012 Veckans Tips: Brazen Abbot "Guilty As Sin" På Åland finns då en av halvdoldisarna om man gillar sådan musik, och det är gitarristen och kompositören Nikolo Kotsev. ... [NA-nb-OP-rv]
+13. Kärt barn har många namn. James Howlett. Logan. Wolverine. Oavsett namn handlar det om en man som är intill adamantium-märgen trött. Han är trött på att behöva jobba som limo-förare i El Paso och s... [NA-nb-OP-rv]
+14. Sara tänker högt fredag, september 30, 2016 Cold Feet 2016 - funkar det? torsdag, september 29, 2016 Aj söndag, september 25, 2016 Film jag sett...del 6 The Invasion of the Body Snatchers (1956) De... [NA-nb-OP-rv]
+15. En av mina favorithrillers från 2015, Louise Doughtys "Kvinna inför rätta" (Apple Tree Yard) har gått och blivit BBC-serie minsann! Får hoppas att den köps in av någon kanal man kan se här på hemma... [NA-nb-OP-rv]

@@ -1,0 +1,60 @@
+Keyness analysis for sv/NA-nb-OP-rv
+Original reference corpus: 329050 texts from regions ['HI-NA-nb-re', 'ds-IP-NA-nb', 'NA-ob-OP', 'NA-nb-OP', 'IP-NA-nb', 'IN-NA-nb', 'NA-nb-ob-OP', 'NA-nb-OP-rv', 'ID-NA-nb', 'NA-nb', 'ID', 'NA-nb-ne', 'ob-OP', 'NA-nb-sr']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 1 ===
+Target: 2731 texts, 1477390 words
+Reference (excluding this cluster): 326319 texts, 177462789 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. doft             2205.62
+ 2. doften           2040.23
+ 3. smaken           1627.76
+ 4. vinet            1481.63
+ 5. eftersmaken      1410.87
+ 6. flaska           1248.21
+ 7. tanniner         1225.86
+ 8. viner            1200.07
+ 9. smak             1198.85
+10. flaskan          1196.57
+11. citrus           1190.35
+12. testat           1181.55
+13. syra             1155.69
+14. huden            1037.78
+15. toner             983.67
+16. fruktig           979.65
+17. produkter         934.94
+18. eftersmak         934.00
+19. torr              884.82
+20. vinerna           877.99
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 6691 texts, 4375356 words
+Reference (excluding this cluster): 322359 texts, 174564823 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. boken            9260.43
+ 2. bok              5914.14
+ 3. böcker           5339.76
+ 4. berättelsen      3994.33
+ 5. läst             3990.34
+ 6. utspelar         3679.48
+ 7. handlingen       3471.34
+ 8. roman            3394.18
+ 9. författare       3356.81
+10. karaktärerna     3167.43
+11. författaren      3056.33
+12. karaktärer       2834.52
+13. läsa             2732.56
+14. serien           2727.10
+15. böckerna         2686.31
+16. berättelse       2560.60
+17. bokens           2460.23
+18. förlag           2406.78
+19. recension        2330.25
+20. filmen           2321.39
+
+==================================================

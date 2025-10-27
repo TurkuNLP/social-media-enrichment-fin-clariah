@@ -1,0 +1,60 @@
+Keyness analysis for en/ID
+Original reference corpus: 111542 texts from regions ['NA-ob-OP', 'NA-nb-OP', 'NA-nb', 'ID', 'ob-OP']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 1 ===
+Target: 983 texts, 675860 words
+Reference (excluding this cluster): 110559 texts, 61697543 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. players          1311.61
+ 2. team             1310.34
+ 3. teams            1226.25
+ 4. player           1003.01
+ 5. league            991.40
+ 6. season            834.52
+ 7. game              820.54
+ 8. win               693.85
+ 9. games             660.90
+10. playoffs          649.55
+11. he's              569.00
+12. offense           545.56
+13. coach             537.49
+14. fans              534.92
+15. draft             525.86
+16. nfl               504.42
+17. playoff           503.43
+18. play              501.23
+19. championship      476.17
+20. roster            469.73
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 40088 texts, 17622843 words
+Reference (excluding this cluster): 71454 texts, 44750560 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. forum            6031.71
+ 2. thread           4860.29
+ 3. user             3764.32
+ 4. file             3459.38
+ 5. users            3412.82
+ 6. replies          2811.31
+ 7. server           2701.99
+ 8. threads          2651.65
+ 9. files            2566.48
+10. edit             2561.39
+11. forums           2470.26
+12. reply            2277.31
+13. code             2259.68
+14. error            2168.88
+15. vbulletin        2165.65
+16. thanks           2131.58
+17. install          2006.84
+18. don't            1930.95
+19. installed        1698.03
+20. info             1651.84
+
+==================================================

@@ -1,0 +1,192 @@
+
+============================================================
+CLUSTER 0 (NOISE)
+============================================================
+Size: 160 samples
+Register distribution: {'IP-NA-nb': 160}
+
+Examples:
+----------------------------------------
+ 1. Kuloveden kimallus on Juhani Viidan johdolla toteutuva hyvän mielen matka, joka vie vilkkailta valtateiltä kyläteiden ja maaseutumaisemien kiireettömiin tunnelmiin. Mielenkiintoiset käyntikohteet, ... [IP-NA-nb]
+ 2. Maailmanympäri 3 -kiertomatka Rio de Janeiro | Colonia del Sacramento | Buenos Aires | Santiago de Chile | Auckland | Denarau | Melbourne | Fremantle | Perth | Rottnest Island | Victorian putoukset... [IP-NA-nb]
+ 3. perjantai 30. syyskuuta 2016 Annin Uunissa Pop Up Cafe 1.10 Nyt on se aika vuodesta kun tavaratalot, kauppakeskukset ja isot ketjut järjestävät kilpaa "hulluja päiviä". Myös täällä meidän kotiseudu... [IP-NA-nb]
+ 4. Päivä 1 Helsinki-Turku-Tukholma Bussikyyti Helsingistä Turkuun lähtee nykytaiteen museon Kiasman pysäkiltä klo 17.00. Saavumme Turkuun klo 19.30 Klo 20.55 Viking Grace lähtee Tukholmaan. Matkustamm... [IP-NA-nb]
+ 5. Kirjalaatikkojen avaaminen eli tuttavallisemmin unboxaus on jännittävää. Se on tuplajännittävää, kun kyseessä on sekä itse tehty että itse kustannettu kirja. Ja melkein itse kasaan sidottukin, sen ... [IP-NA-nb]
+ 6. torstai 29. heinäkuuta 2010 Tanner tömisee Teatteri Päivölän 20-vuotisjuhlanäytelmässä Kolme Muskettisoturia ratsastetaan vauhdikkaasti. Näytelmässä on mukana neljä komeaa hevosta paikallisilta hev... [IP-NA-nb]
+ 7. Lähde matkalle Pietariin lasten kanssa Monelle lapsiperheelle Pietari on uusi kohde. Matkaan kannattaa lähteä rohkeasti, sillä suurkaupunki ehtii hurmata jo viikonlopussa. "Hui, kato tuolla on hai"... [IP-NA-nb]
+ 8. Jos on aikeissa ruveta sorkkimaan verkkokauppansa koodia, se on parasta tehdä pyhäpäivän aamuna kello kuuden aikaan - silloin ei satu ainakaan sotkemaan koko kauppaa pilalle juuri silloin, kun siel... [IP-NA-nb]
+ 9. Muotoilija Eero Aarnio kertoo valaisimistaan, miten niihin on syntynyt idea. Aarniolla itsellään on kotona jopa 27 erilaista valonlähdettä. Ja kaikki tietenkin omaa käsialaa. :) Yksi omistakin suos... [IP-NA-nb]
+10. URLUS/koulut admin Uutiset Ampumahiihdon Urlus- nuorisoprojekti – kouluyhteistyö tärkeässä roolissa Ampumahiihtoesittely tuo kouluille mukavan ja innnostavan esittelyn lajista, jota muuten ei ole n... [IP-NA-nb]
+11. Keikkareissu Kuten Elma-Kodin Facebookista olette ehkä jo huomanneetkin, Elma-Kodin räppäri Konttoristi G valittiin esiintymään valtakunnalliseen Kemut -tapahtumaan Helsinkiin la 7.3.2020! Reissuun... [IP-NA-nb]
+12. Tanskan ympäristössä: 20 hauskaa paikkaa nukkua on kirjoittanut Jens Skovgaard Andersen. Tanskan ympäristössä nukkumassa maalla, merellä ja ilmassa Noin kolmasosa elämästämme kuluu nukkumiseen, ja ... [IP-NA-nb]
+13. keskiviikko 26. tammikuuta 2011 Uutta tällä viikolla Acnelta Acnelta tuli tällä viikolla ohuita printti t-paitoja ja kaksi uutta kenkämallia; Cypress ja Strain. Above College on pitkä ja tunikamain... [IP-NA-nb]
+14. Tanska tunnetaan maailman onnellisuusvertailujen kärkimaana, eikä suotta. Kööpenhamina on kaunis ja leppoisa kaupunki, ja paikallisten hyväntuulisuus aidon tarttuvaa. Kaikkialta kantautuva iloinen ... [IP-NA-nb]
+15. AJANKOHTAISTA Vuosikokous 2022 Onko sinulla joulumuistoja Pyhtäältä? Julkaisemme joulun 2020 alla Joulumuistoja Pyhtäältä - kirjan. Oma muistosi ehtii vielä mukaan! Muisto saa olla tarina, runo, re... [IP-NA-nb]
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 415 samples
+Register distribution: {'IP-NA-nb': 415}
+
+Examples:
+----------------------------------------
+ 1. sunnuntai 30. marraskuuta 2014 Arvonta: Liput Suomen häämessuille Olen ilokseni saanut arvottavaksi kaksi lippupakettia Suomen häämessuille! Lippupakettiin sisältyy kaksi lippua mille tahansa messu... [IP-NA-nb]
+ 2. Finnish Design Shopin alevalikoimaan on tehty lisäyksiä ja edullisten tuotteiden joukosta löytyy nyt mm. Hayn Loop -naulakko, Hee-tuoleja, Tray -pöytä, Woodnotesin lehtiteline, Sarpanevan valurauta... [IP-NA-nb]
+ 3. Nyt voit voittaa lipun I Love Me 2018 kauneus ja hyvinvointi messuille Helsinkiin. Jätä kommentti tähän postaukseen ja olet mukana arvonnassa. Lipun lähetän voittajalle sähköpostiin 18.10.2018 21.0... [IP-NA-nb]
+ 4. UHANA DESIGNIN HOME-MALLISTO Kuvat: Uhana Design Kauneinta just nyt: Uhana Designin Home-mallisto. Malliston Aamukaste-nimeä kantaviin tuotteisiin kuuluu kahdet korvakorut, silkkitakki, silkkipaita... [IP-NA-nb]
+ 5. Askartelupöydältäsi tai tilasta säilytystila loppumassa kesken? Tässä ideoita siihen ongelmaan! Lyhyt määrä tekstiä mutta sitä enemmän kuvia, sillä kuvahan kertoo enemmän kuin tuhat sanaa. Kynät Di... [IP-NA-nb]
+ 6. Äänestäneiden kesken arvotaan villiyrttiguru Sami Tallbergin uusin kirja Koivunmahlaa ja Kaviaaria ja paikat Cono Sur -viinikouluun. Tuo kirja on aivan loistava, ensi keväänä puskat heiluvat kun vi... [IP-NA-nb]
+ 7. Arvonta: Evonia-ravintolisät hiuksille! Sain testiin niin ison läjän hiusravinteita, että päätin jakaa iloa ja ravintoa teillekin! Nyt rankan kevään jälkeen hiukseni ovat surkuhupaisat: katkeillutt... [IP-NA-nb]
+ 8. Blogini täytti hiljattain kolme vuotta ja syksy on alkanut. Hyviä syitä hemmotella Cirkuksen lukijoita pitkästä aikaa arvonnalla. Yhteistyökumppaniksi sain ilokseni Lapuan Kankurit. Lapuan Kankurit... [IP-NA-nb]
+ 9. sunnuntai 4. elokuuta 2013 Copy - Ilmaista tallennustilaa netissä Monet ovat miettineet minne voisi tallentaa kuviaan ja linkittää niitä sitten vaikkapa blogiinsa. Löysin juuri uuden Copy nimisen t... [IP-NA-nb]
+10. 5-vuotiaan kevät ja Aarrekidin alekoodi! - *Yhteistyössä Aarrekidin kanssa Kevät on 5-vuotiaalle aikamoista juhlan aikaa. Varsinkin, kun: - vappunaamiaisia saa suunnitella kuukausitolkulla. - ulkoa... [IP-NA-nb]
+11. tiistai 16. huhtikuuta 2013 Ompelulanit lähestyy!! Sitä vaan, että Käsityöbloggaajien Ompelulanit järjestetään keskustassa, Kauppurienkatu 23:ssa tulevana lauantaina klo 11-19. Lämpimästi tervetulo... [IP-NA-nb]
+12. LIPUT TREENIPÄIVÄÄN Olen ollut kesän ajan mukana treenipäiväjengissä, jonka kanssa olemme treenanneet 12.9. järjestettävään tapahtumaan. Treenipäivä on Suomen suurin kuntotestitapahtuma ja se järje... [IP-NA-nb]
+13. Fendi-arvonta Yhteistyössä Fan di Fendi -tuoksut Blogin lähestyvän synttärin ja muuton kunniaksi, olisi ehkä syytä järjestää pitkästä aikaa arvonta! Tällä kertaa naisten ja miesten tuoksupalkinnot ... [IP-NA-nb]
+14. Olen näitä taljoja ihaillut jo pitkään monissa kuvissa, aikaisemmin meillä oli tuossa vanha valkoinen talja mikä on aikoinaan ollut myös lasten pulkassa lämmikkeenä. Se oli jo kieltämättä vähän par... [IP-NA-nb]
+15. Adventtikalenterin kolmas arvonta on käynnistynyt :) Arvonta on toteutettu yhteistyössä huippu ihanan Villa 31 liikkeen kanssa. Hurmaava liike löytyy Vaasan läheltä Maalahdesta ja heillä on myös ve... [IP-NA-nb]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 438 samples
+Register distribution: {'IP-NA-nb': 438}
+
+Examples:
+----------------------------------------
+ 1. Ajankohtaista vuonna 2022 Kalevalaisten Naisten liiton vuoden 2022 teemana on LUOVUUDEN ALKUVOIMAA. Liiton vuoden 2022 teema sukeltaa luovuuteen. Mistä ammennamme luovuutta, mihin sitä tarvitaan ja... [IP-NA-nb]
+ 2. PDF-version jäsentiedotteesta löydät täältä. Tervehdys toimistolta! Lomakausi on lopuillaan ja energiaa on tankattu tulevaan syksyyn lämpimän kesän avulla. Ulyn toiminta alkaa tänä syksynä vahvasti... [IP-NA-nb]
+ 3. Muut Pentukurssi 09/2019 Tulossa alkusyksystä 2019 pentukurssi kaikille alle vuodenikäisille koirille tai sellaisille jotka kokee olevansa kertauksen tarpeessa. ”Maalimies leikittää” -tapahtumat Vi... [IP-NA-nb]
+ 4. Oulun Akvaarioseura ry Sääntömääräinen kevätkokous 28.2.2021 klo 18:00 Jatka lukemista ”Sääntömääräinen kevätkokous” Vuoden vaihtuessa saimme uuden yhteistyökumppanin. Lisätietoa löytyy seuramme si... [IP-NA-nb]
+ 5. OnniDog'14 OnniDog'14! Vielä ehtii 12.08. asti ilmoittautua mukaan tähän huikeaan koiratapahtumaan, joka järjestetään Himoksella 04.-07.09.2014. Koulutuksia - agility, canicross, dobo, flyball, hak... [IP-NA-nb]
+ 6. Jälleen on tarjolla kirjavinkkauskoulutusta! Informaatikko Ulla Pötsönen piti kirjavinkkauksen alkeiskurssin Hollolan kirjastossa 20.10. ja jatkokurssi pidetään joulukuun alussa ja sinne on vielä m... [IP-NA-nb]
+ 7. HOI!! Seuraava sinkkumme julkaistaan 1.6.2018 klo 00.00. Kappale on nimeltään Hän tahtoi tanssii ja kyseessä on A.Aallon rytmiorkesterin levytyksistä poimittu kappale. Biisin piti päätyä alunperin ... [IP-NA-nb]
+ 8. Julkaisuarkistot: asikkalan Uratalkoot 16.1.2021 URATALKOOT la 16.1.2021, lähtö klo 10:00, risujen raivausta urilta. Kokoontuminen Perttolantie 3 Viitaila, mukaan vesureita yms työkaluja. Kelkoilla... [IP-NA-nb]
+ 9. Keto | 13.12.2016 | AjankohtaistaKeton kevätkausi starttaa 9.1.2017. Tutustu lukujärjestykseen ja ilmoittaudu tunneille joko sähköisen ilmoittautumisen kautta tai lähetä sähköpostilla tiedot osoitt... [IP-NA-nb]
+10. Maestro Markuksen ja tohtori Fiktio Faktan Suurenmoinen Musiikkiseikkailu -kiertueblogi- LA 7.11. klo 14:00 Isänpäiväjuhlissa Varisssuolla Laitilassa Hullun Kukon päivillä LA 29.8. klo 10 Laitilan ... [IP-NA-nb]
+11. Category: Tapahtumia Kylän kesäjuhla su 22.7 klo 10-14 Leirirannassa Perinteinen kylän kesäjuhla Leirirannassa sunnuntaina 22.7. klo 10-14. Hiekkalinnakisa ym puuhaa. Sauna lämpimänä. Kahvia, vohve... [IP-NA-nb]
+12. Tervetuloa tutustumaan purjelentoon Sodankylän lentokentälle lauantaina 25.8.2018 Järjestämme osaltamme paikkakunnalla Pohjoismaisen Purjelennon Esittelypäivän, avoimesti kaikille asiasta kiinnostu... [IP-NA-nb]
+13. Nuorisotoiminta, on yksi tärkeimmistä metsästysseuramme toiminnoista, jossa nuoria tulevia metsästäjänalkuja kannustetaan mukaan seuratoimintaan. Nuorisojaoston toiminta ei liity pelkästään puhtaas... [IP-NA-nb]
+14. Kirjoittajan arkistot: it-oikeus IT-oikeuden yhdistyksen sääntömääräinen syyskokous ja jäsentilaisuus Kirjoittanut it-oikeus | Julkaistu: 10.12.2015 IT-oikeuden yhdistyksen sääntömääräinen syyskoko... [IP-NA-nb]
+15. Ilmoitustaulu Täältä voit lukea Dewi ry:n kaikki viime aikoina julkaistut ajankohtaiset uutiset ja tiedotteet. Sirutuspäivä Raision Mustissa ja Mirrissä 23.5. klo 15-19 11.5.2018 Raision Musti ja M... [IP-NA-nb]
+
+============================================================
+CLUSTER 3
+============================================================
+Size: 116 samples
+Register distribution: {'IP-NA-nb': 116}
+
+Examples:
+----------------------------------------
+ 1. sunnuntai 26. huhtikuuta 2015 Purematta Niellyn materiaalia on kerätty, haastateltu, kirjoitettu ja harjoiteltu pitkin talvea ja nyt luonnon herättyä, kasvukauden korvalla esityksen loppukiri on al... [IP-NA-nb]
+ 2. Kaamosaika on napapiirillä se aika vuodesta, kun aurinko ei nouse horisontin takaa ja pimeys vallitsee. Täällä etelämpänäkin puhutaan kaamoksesta, tarkoittaen marras-joulukuun synkkää ajanjaksoa, j... [IP-NA-nb]
+ 3. Avaan joulukuussa 2019 (eli ihan kohta!!) uuden, nuorille tanssijoille suunnatun tanssiblogin! Uusi blogi tarjoaa tanssia juuri nyt eläville ja hengittäville, uteliaille ja tanssiuralle ehkä aikovi... [IP-NA-nb]
+ 4. Katubileissä lasten mielestä parasta oli Prufilus. Kolmikkomme jäi haltioituneena kuuntelemaan Prufiluksen juttuja. Outoja, mutta aika viisaitakin puhuva Prusilus on syntynyt Suomenlinnassa satoja ... [IP-NA-nb]
+ 5. Tatuointeja, taidetta, musiikkia ja uniikkia fiilistä Hämeenlinnassa viikonloppuna Yhteistyössä Unique Art Tattoo Festivalin kanssa En enää edes muista montako tatuointia ihollani on, enkä oikeasta... [IP-NA-nb]
+ 6. Tuttuja kasvoja Kauppalehdessä tänään! Kävin pari viikkoa takaperin Alma-talossa Kauppalehden toimittajan juttusilla aiheesta ”henkilöbrändäyksen, verkostojen ja sosiaalisen median merkitys asiantu... [IP-NA-nb]
+ 7. Vietinpä antoisan ja innostavan viikon Malinovossa Slovakiassa toukokuun lopulla. Kyseessä oli Future Labs -hankkeen Innovation in Youth Work –koulutus, missä tutustuimme luoviin ja toiminnallisiin... [IP-NA-nb]
+ 8. Uutta helleaaltoa odottaessa on suotavaa käyttää aikansa Toivon monologin katsomiseen. Tosiaan Ofelian repliikit kyseessä, ja niitä yhdistäen tämä kyseinen teos saatu aikaan. Kiitos Toivolle esityk... [IP-NA-nb]
+ 9. Tervetuloa lukemaan Skimbacon digilehteä nyt myös suomeksi! Joulunumero 2016 ilmestyi juuri, teemana Joulupukin Paja. Kävin Lapissa Joulupukkia moikkaamassa, ja sain parhaat reseptit DIY lahja-ideo... [IP-NA-nb]
+10. Satu Rämö, kirjat Mitä enemmän saa kertoa, sen parempi. Siksi teen työkseni välillä myös kirjoja. Kirjoitan täällä blogissa usein myös kirjoittamiseen liittyviä aiheita. Jos aihe kiinnostaa, lue es... [IP-NA-nb]
+11. Lämpimästi tervetuloa seuraamaan Tälläämöiden omaa blogia! Ihanaa, että löysit tiesi meidän sivuille! Ajatus blogiin lähti halusta kertoa teille meidän ketjumme kuulumisia sekä antaa neuvoja arjen ... [IP-NA-nb]
+12. Syksyn viinitapahtumia Helsingissä Viinitapahtumien määrä Suomessa sen kuin kasvaa. Kun itse vielä asuin Helsingissä, oli tarjolla aika tarkkaan vain kaksi kuluttajatapahtumaa, nykyään on pikemmink... [IP-NA-nb]
+13. Matkabloggaajat ovat aktiivista porukkaa. Miljan (Opas Roomaan) sekä Tiian ja Satun (Fangirl Quest) ideoima ja työstämä Blogipaviljonki pystytettiin Matkamessuille ensimmäistä kertaa viime vuonna. ... [IP-NA-nb]
+14. Lempeästi ja lämpimästi tervetuloa originaalille "astetta hörhömmälle" retriitille. Yhdellä aiemmalla retriitilläni pyydettiin, voitaisiinko mennä syvemmin intuitio- ja hörhöhommeleihin, ja tällä r... [IP-NA-nb]
+15. On torstai, joka tarkoittaa että Kasperin ja Mikon podcast, aka Suomen suosituin podcast on taas ulkona. Tällä viikolla onkin luvassa varsinainen erikoislähetys koska studiojaksossa on vieraana toi... [IP-NA-nb]
+
+============================================================
+CLUSTER 4
+============================================================
+Size: 96 samples
+Register distribution: {'IP-NA-nb': 96}
+
+Examples:
+----------------------------------------
+ 1. Tag: Saariselkä Training - Valmennuspalvelumme uudistuvat Valmennuspalvelumme ovat uudistuneet kevään 2022 aikana! Käy tsekkaamassa päivitetyt valmennustuotteemme täältä. - Saariselkä MTB Ride Camp... [IP-NA-nb]
+ 2. Daily Archives: 17.12.2021 Studio AK:n vuosi 2021 Joulu on jo aivan ovella ja myös vuosi 2021 alkaa olla lopuillaan. Kokosimme tähän artikkeliin kuluvan vuoden kuulumisia. Mitä uutta tuli palveluri... [IP-NA-nb]
+ 3. Sain vinkin tuttavaltani LinkedInissä, että Jenna kaipasi yrityksensä MattJust Boost It verkkosivustolle uutta ilmettä. Otinkin Jennaan yhteyttä, ja valikoiduin verkkosivuston uudistajaksi. Tämä si... [IP-NA-nb]
+ 4. Hei Teille! On hienoa voida sanoa, että nyt vuoden 2015 kunniaksi olemme saaneet toimintamme uudelle tasolle. Connection kehityspalvelut saivat alkunsa vuonden 2014 alussa, kun lähdimme tekemään en... [IP-NA-nb]
+ 5. Vieläkään ei oikein tiedetä, että miten kevään ylioppilaita ja valmistujia saadaan tänä vuonna juhlia, mutta yksi asia on varmaa – ylioppilaskuvat kannattaa ottaa! Ja niitä voidaan kuvata turvallis... [IP-NA-nb]
+ 6. Jari Junkkari | helmi 27, 2017 | Asiakastarinat, YleinenIntotalo toteutti 2017 vuoden alussa Savon-alueen yrittäjille ja asiantuntijoille “Sisältömarkkinointi käytännössä – miten toteutat parhaita ... [IP-NA-nb]
+ 7. Category Archives: Graafinen suunnittelu Hääkorttikokonaisuus moderniin hääjuhlaan HSS Boathouselle Näin syksyn mittaan usean kuukauden kestäneet projektit tulevat päätökseen, kun häät alkaa olla v... [IP-NA-nb]
+ 8. Olipa kerran kolme kollegaa hyvin erilaisilla taustoilla varustettuina. He olivat ajautuneet monen mutkan kautta yritysten kokonaisvaltaisen kehittämisen pariin. Ja kehitystä tehtiin satojen yritys... [IP-NA-nb]
+ 9. Category Archives: Graafinen suunnittelu Logon ja blogibannerin suunnittelu urheilubloggaajalle Suunnittelen mielelläni myös yrityksille ja bloggaajille logoja, bannereita, eistteitä ja muuta Logon... [IP-NA-nb]
+10. Rent a Marc Nyt voit tilata minua kotiin kokkaamaan Foodiacin kautta! Paina Marc at Foodiac!:in ja tilaa taitava kokki himaasi tai juhliisi! Jouduin valitettavan usein pojankloppina muuttamaan maas... [IP-NA-nb]
+11. Gälliwashere Oy 4 vuotta! Aika juoksee. 21.11.2014 on gälliwashere Oy:n syntymäpäivä ja se meni tänä vuonna huristen ohi päivittäisen tekemisen jaloissa. Ollaan tultu pitkälle siitä, kun edesmennee... [IP-NA-nb]
+12. Ideasta kukkaruukkuun. Ajattelimme kokeilla, josko saisimme pienellä lisätilan vuokrauksella esiin jotain, jota ei ihan joka päivä näkisi ja kokisi. Nimittäin loungen. Laguunin jossa vierailevat ih... [IP-NA-nb]
+13. Meidän hoitolan eli Marin ja minun näkemys on se, että terve ja hyvinvoivaiho on se päämäärä mihin kannattaa pyrkiä. Mukavaa olisi, jos ihminen ei näyttäisi ainakaan paljoa ikäistään vanhemmalta, m... [IP-NA-nb]
+14. AJANKOHTAISTA PUUTARHASSA JA PUUTARHURIN ELÄMÄSSÄ 28.9.2021 Pihasuunnitteluprojekti on parasta aloittaa nyt syksyllä. Pihan nykyisen kasvillisuuden vielä pystyy näkemään. Koko talvi on aikaa suunni... [IP-NA-nb]
+15. Kaupallinen yhteistyö – Golf Center Olen jo pitkään halunnut käydä fittaamassa mailat, sillä uteliaana halusin tietää olisiko minun mahdollista saada enemmän pituutta ja parempia osumia sopivampien... [IP-NA-nb]
+
+============================================================
+CLUSTER 5
+============================================================
+Size: 113 samples
+Register distribution: {'IP-NA-nb': 113}
+
+Examples:
+----------------------------------------
+ 1. Ajankohtaista Uutuuskankaita Majapuun verkkokaupassa Kuosimallistoni Illan Tullen on julkaistu Majapuun verkkokaupassa. Mukana on neljä ihastuttavaa kuosia: Tähtitaivaan Maalari, Sadepäivän Seikkai... [IP-NA-nb]
+ 2. torstai 1. lokakuuta 2015 Tervetuloa viettämään miniloma meille On ollut ilo huomata miten lämpimästi Blogimme on otettu vastaan ja nyt onkin aika kiittää asiakkaitamme syystarjouksella. Kokonaisva... [IP-NA-nb]
+ 3. Perjantaina oli hieno konsertti Janakkalan Pyhän Laurin kirkossa. Elämälle! -konserttia oli katsomassa paljon väkeä! Kiitos järjestäjille Pia Freund, Janakkalan Kunta sekä Sibelius-opisto. Katso ku... [IP-NA-nb]
+ 4. Tänään päätin tulevan kesän 2016 uudesta aukioloajasta. Tilasin myös uusia käyntikortteja. RUUSUMUORIN KESÄKAHVILA ON AUKI JÄLLEEN KESÄLLÄ 2016. Aukaisen kahvilani SU 12.6.16 ja se on auki siitä lä... [IP-NA-nb]
+ 5. Nettisivumme ovat viime aikoina olleet säästöliekillä toiminnan ja tiedotuksen keskittyessä Facebookiin ja Instagramiin. Vuoden 2017 alku on kuitenkin ollut suunnittelurintamalla varsin toiminnantä... [IP-NA-nb]
+ 6. Oli jännittävää laittaa näin paljon omia töitä esille. Kun on maalannut tauluihin omia sisäisiä tuntojaan, tuntee näyttelyssä avaavansa itseään melkoisesti, on aika paljaana. Tänään oli mukavat jut... [IP-NA-nb]
+ 7. Viimevuonna tein jouluksi tonttuja. Tänäkin vuonna niitä on tehty. Lisäksi nyt on tarjolla ompelun ystäville Tuiskusta ja Tuikkeesta TSI versiot. 31.10.2012 Joulukortit 2012 Tältä näyttävät PaaPiin... [IP-NA-nb]
+ 8. tiistai 13. helmikuuta 2018 Harhaliikkeen kevät 2018! Kiitokset Bar Bertelille klubikeikoista. Nyt on luvassa jotakin uutta! Peräti kaksi pitkää näytelmää ja kaksi Harhaliike Allstars-esitystä. Esi... [IP-NA-nb]
+ 9. Helmiisa Yleistä tietoa etämyynnistä » Mitä muut sanovat Minä ja tyttäreni rakastamme tehdä käsitöitä ja askarrella. Siis yleensäkin kaiken maailman käsillä tekeminen on vienyt meidät mennessään. S... [IP-NA-nb]
+10. Brändiuudistus ja uudet verkkosivut! 1. elok. 2022 Brändiuudistuksen tarpeen on aiheuttanut laajemmaksi kasvaneet palvelut, jotka still-kuvan ohella ovat kasvaneet monenlaisiin videotuotantoihin ja... [IP-NA-nb]
+11. tiistai 11. helmikuuta 2014 Marian Herkkupuoti Viikonloppu ja lauantain Love Me Do - häämessut ja sunnuntain ravintolapäivä lähenevät. Marian Herkkupuodissa onkin viime aikana ahkerasti suunniteltu... [IP-NA-nb]
+12. Kiitos ihanille vierailijoille Paperivalon onnistuneesta kesästä. Pidimme kaupan kiinni yli kaksi kuukautta ja avasimme kesäkuun alussa. Saimme paljon asiakkaita lähiseudulta ja jarrupoljilta käytt... [IP-NA-nb]
+13. Harmaakallo I see gray people Harmaakallo-sivusto Tervetuloa Harmaakallo-sivustolle! Sivusto sisältää tarinoita sekä ajatuksia elämästä yhden harmaan ihmisen silmin. Harmaakallon tarkoitus ei ole k... [IP-NA-nb]
+14. KiVan kausi 2020-2021 on startannut Hei, KiVan jäsen! Kiitos, että olet mukana perinteikkään yhdistyksen toiminnassa alueella. Kivistön alueen vanhempainyhdistys KiVa ry toimii Kivistön suuralueen ... [IP-NA-nb]
+15. Huh huh.. Nyt on riittänyt puuhaa kylppäriremontin, uuden pienlehden, sarjispajojen ja Tampere Kupliiseen valmistautumisen kanssa. Blogikin on jäänyt päivittämättä.. Minut löytää myyntipöydän ääres... [IP-NA-nb]
+
+============================================================
+CLUSTER 6
+============================================================
+Size: 77 samples
+Register distribution: {'IP-NA-nb': 77}
+
+Examples:
+----------------------------------------
+ 1. Ruusukristalli Tmi Vantaa, Ruusukristallin korut ja kortit blogissa uniikkeja, käsityönä tehtyjä koruja ja erilaisia kortteja. Korujen materiaalit ovat lähinnä luonnonkivet, kristallihelmet, lasihe... [IP-NA-nb]
+ 2. sunnuntai 13. tammikuuta 2013 Gold is Beautiful! DECORA HOUSEN BLOGIARKISTOSTA Onpa mukava palata juhlablogin pariin piiiiitkän kesätauon jälkeen - taas on postiteltu toinen toistaan loistokkaampia... [IP-NA-nb]
+ 3. Svanströmintien hirsitalokohteen loppukatsaus ennen luovutusta 20.12.2021 Nyt olisi esittelyssä Svanströmintiellä sijaitsevan kohteemme loppukatsaus, ennen kuin asunnot luovutetaan uusien asukkaide... [IP-NA-nb]
+ 4. perjantai 10. toukokuuta 2019 ARVONTA - Ateljee Lumimetsän Onnellinen-tarjotin ja kortteja Äitienpäiväviikonlopun kunniaksi järjestän arvonnan! Palkintona on ihanat Ateljee Lumimetsän Onnellinen-ta... [IP-NA-nb]
+ 5. Kuvat: Rilla/Kotipalapeli Kylässä Potius-Kivitalossa. Tämän emännän työnkuvaan kuuluu, että silloin tällöin istahdetaan autoon ja huristetaan kohti pääkaupunkiseutua. Noilla reissuilla on erityisen... [IP-NA-nb]
+ 6. Meillä on siis niin kertakaikkisen ihania lähettiläitä tänäkin vuonna ettemme ehkä kestä! Tässä heistä seuraava eli Essi. Ja tiedätkö mitä, Essi on tutustunut Oot niin ihanaan jo ennen lähettiläsai... [IP-NA-nb]
+ 7. Huomenna, MUJI Helsinkiin! Nyt on MUJIn pop up -kauppa Habitaressa valmis, tuotteet vimosen päälle riveissä ja järjestyksessä, valmiina muuttamaan ja asettumaan mukavasti suomalaisiin koteihin. Mei... [IP-NA-nb]
+ 8. PHUUH. Festarireissailut ohi än yy tee nyt. Nyt palataan blogin pariin! Ennen kuin keskitytään hiusteni megamuutosprosessiin, keskitytään ensin paikkaan jossa se tapahtui. Prof Helsinki sijaitsee a... [IP-NA-nb]
+ 9. Tuleva kesä on ehdottomasti boheemi, jossa etnistä vibaa! Rakastan mixailla näitä trendivirtauksia klassiseen skandityyliimme...Mallistoomme on saatu rekvisiittaa: sulkakoruja, puuhelmiä, hattuja, ... [IP-NA-nb]
+10. Koetko olevasi luova, oletko aina halunnut olla taiteilija? Nyt sinusta voi tulla latte art -taiteilija. Latte artilla tarkoitetaan niitä kauniita kuvioita, joita baristat tekevät kahvin pinnalle. ... [IP-NA-nb]
+11. Olen todella huono päivittämään blogia, mutta nyt on tullut kuvattua enempi tuotteita puodilla ja ajattelin jakaa täällä parhaimmat otokset. Hirsitalon Joulun tunnelma täytyy kokea itse, sitä ei va... [IP-NA-nb]
+12. Kun tyyneys käveli ovesta sisään - hoitajamme Heidi Tiedättekö ihmistyypin, jonka seurassa huomaat olevasi täysin oma itsesi ja tulet höpöttäneeksi asioita, joista et yleensä pukahda juuri kenellek... [IP-NA-nb]
+13. Meillä kävi koulussa Ruotsalaisen firman Brunnerin edustajat kertomassa yrityksestä ja heidän tuotteista. Brunnerin valikoima on kattava. Tuotteita on mm. Kasviparkitut nahat Pohjanahat mm. Vibram,... [IP-NA-nb]
+14. Joku vieraista ihmetteli taulujen alhaisia hintoja, mutta tarkoitus ei olekaan kiskoa suuria voittoja. Tärkeämpää on. että taide löytää ostajan, joka iloitsee siitä, taulu saa hyvän kodin ja taitei... [IP-NA-nb]
+15. Täällä valmistaudutaan tulevaan jouluun! Tein hiljattain ensimmäisiä second hand -joululahjaostoksia, jonka innoittamana päätin käynnistää kampanjoinnin myös yritykseni puolella. Kun kyseessä on yk... [IP-NA-nb]
+
+============================================================
+CLUSTER 7
+============================================================
+Size: 152 samples
+Register distribution: {'IP-NA-nb': 152}
+
+Examples:
+----------------------------------------
+ 1. sunnuntai 8. joulukuuta 2019 Kevään kursseja Nukkekotikurssi joululahjaksi? Tällaisia kursseja olisi ensi keväänä alkamassa: Tammela: https://www.opistopalvelut.fi/wahren/course.php?l=fi&t=3045 htt... [IP-NA-nb]
+ 2. Kastemekon yläosa on selkeälinjainen - pitkät suorat hihat ja pyöreä kaula-aukko. Edessä juhlavuutta tuo empirelinjalta lähtevät laskokset ja takaa löytyy kietaisumallinen kiinnitys. Mekko siis sul... [IP-NA-nb]
+ 3. Iisalmen Louhen kirppis tarjoaa aina jotakin outoa. Ensin vastaan käveli tämä pelottava nukke. Ovh 50e (vai oisko 50 markkaa?) nyt 20e. Ihan kohtuullinen hinta törkyisestä nukesta, jolla ei ole ede... [IP-NA-nb]
+ 4. Kerroinkin edellisessä postauksesta Tampereen uudesta kirpputorista ja siitä, että minulla on pöytä siellä. Halusin tehdä erikseen vielä postauksen siitä, että millaista vaatetta mun pöydästä löyty... [IP-NA-nb]
+ 5. IHANA ja TRENDIKÄS PAITAMEKKO….TUNIKANA Hosujen kanssa. KESÄPÄIVÄN ASU…Viileä Ilma ja sää Trendikäs PAITAMEKKO….T-PAITAMEKKO TIGGINS, FARKUT, Valkoiset NEULEHUPPARI… INNOSTUIN tänä Kesänä näistä PU... [IP-NA-nb]
+ 6. . Mukava, että poikkesit tänne: Olet nyt Runotalon vanhassa blogissa, jossa on tarinaa vuosilta 2009 - 2017. Voimarunot jatkuvat Runotalon uusilla nettisivuilla ♥ klikkaa tästä ♥ Runopolkujen lakai... [IP-NA-nb]
+ 7. Soijavaha on valikoitunut kynttilöitteni raaka-aineeksi sen ekologisuuden ja laadukkuuden vuoksi. Soijavaha on 100% kasvipohjainen luonnontuote, ympäristöystävällinen ja biohajoava. Soijavahakyntti... [IP-NA-nb]
+ 8. Kaksi ihanaa toppia! H&M beige toppi ihanan tuntuista, hyvin laskeutuvaa materiaalia XS Viininpunainen/luumunpunainen toppi ulkoimailta. Kaula-aukossa ja rinnan alla pitsiä. Säädettävät olkaimet ja... [IP-NA-nb]
+ 9. maanantai 23. helmikuuta 2015 torstai 19. helmikuuta 2015 Avainnipun piristäjät Nää olis niinku leijonia ja nää tahtois vartioida sun avaimia. Eli toisinsanoen tuotevalikoima on laajentunut hellytt... [IP-NA-nb]
+10. Sain äidiltäni hänen äitinsä kodin lattioilla olleita ihania raidallisia räsymattoja ja somistin niillä terassillamme olevan vanhan puisen puutarhasohvan, jossa painavat valurautaiset kauniit jalat... [IP-NA-nb]
+11. Sain synttärilahjaksi kaverilta purkillisen erilaisia helmiä ja joukossa oli myös kivoja tähtiä. Niistä syntyi kolmenlaisia korvakoruja. Suurinta osaa väreistä on siis tarjolla vain yksi pari, mutt... [IP-NA-nb]
+12. tiistai 14. toukokuuta 2013 Ticketit -40%, Mini Rodini -30% ja paljon muuta.. Hei taas, En ole ennättänyt taas blogia hetkeen päivitellä. Minulla on täällä pikku neiti kipeänä ja yritän toisella kä... [IP-NA-nb]
+13. Kysyin Matte About You:n myyntiintulosta Suomeen suoraan maahantuojalta (Carpelan Cosmetics Finland) ja sain tällaisen vastauksen: Hei! Kiitos sinulle yhteydenotostasi! Päällyslakkaa on nyt saatava... [IP-NA-nb]
+14. maanantai 24. elokuuta 2009 Ota 3 maksa 2 OTA 3 MAKSA 2 lopuista muuttomyynti tuotteista VAIN TÄMÄN VIIKON LAUANTAIHIN ASTI!! Ensi viikolla olemme kiinni ma 31.8-ke 2.9 ja TORSTAINA 3.9 klo.11.00 v... [IP-NA-nb]
+15. Yhteydenotot sähköpostitse: info[at]rebornnuket.com tai puhelimitse: 044 533 6853 Tiia-Marian Rebornnuket ovat myös Facebookissa: www.facebook.com/rebornnuket lauantai 31. maaliskuuta 2012 keskivii... [IP-NA-nb]

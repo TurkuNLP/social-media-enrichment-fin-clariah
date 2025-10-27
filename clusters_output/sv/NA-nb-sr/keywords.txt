@@ -1,0 +1,228 @@
+Keyness analysis for sv/NA-nb-sr
+Original reference corpus: 329050 texts from regions ['HI-NA-nb-re', 'ds-IP-NA-nb', 'NA-ob-OP', 'NA-nb-OP', 'IP-NA-nb', 'IN-NA-nb', 'NA-nb-ob-OP', 'NA-nb-OP-rv', 'ID-NA-nb', 'NA-nb', 'ID', 'NA-nb-ne', 'ob-OP', 'NA-nb-sr']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 0 ===
+Target: 123 texts, 72444 words
+Reference (excluding this cluster): 328927 texts, 178867735 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. match             469.15
+ 2. matcher           466.84
+ 3. matchen           424.47
+ 4. lag               287.75
+ 5. spelare           256.80
+ 6. laget             230.74
+ 7. säsongen          215.07
+ 8. matcherna         179.80
+ 9. tabellen          167.86
+10. poäng             157.36
+11. hemmalaget        153.03
+12. seger             146.80
+13. lirare            132.77
+14. matchens          129.50
+15. division          127.12
+16. spel              126.77
+17. truppen           121.61
+18. förlust           121.22
+19. tränare           116.84
+20. säsong            111.45
+
+==================================================
+
+=== CLUSTER 1 ===
+Target: 628 texts, 204609 words
+Reference (excluding this cluster): 328422 texts, 178735570 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. matcher           640.58
+ 2. spelare           554.52
+ 3. vann              515.41
+ 4. matchen           514.20
+ 5. match             488.33
+ 6. lag               465.65
+ 7. avgjordes         459.58
+ 8. tävlingen         447.81
+ 9. säsongen          406.18
+10. seger             389.89
+11. cup               385.17
+12. resultat          375.79
+13. laget             374.17
+14. finalen           370.29
+15. poäng             352.43
+16. grattis           351.16
+17. tvåa              323.19
+18. segern            319.57
+19. tävling           302.26
+20. brons             273.07
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 51 texts, 38048 words
+Reference (excluding this cluster): 328999 texts, 178902131 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. remi              159.70
+ 2. rond              138.48
+ 3. ronden            129.26
+ 4. topalov           122.81
+ 5. grandelius        112.45
+ 6. anand             111.52
+ 7. uppg              111.52
+ 8. turneringen       109.41
+ 9. svarts            100.88
+10. vann              100.67
+11. remier             90.11
+12. veselin            87.72
+13. carlsen            84.83
+14. chess              84.80
+15. matchen            84.36
+16. genomspelbara      82.31
+17. elopoäng           82.31
+18. ronder             80.67
+19. slutspel           78.59
+20. vits               78.46
+
+==================================================
+
+=== CLUSTER 3 ===
+Target: 51 texts, 15199 words
+Reference (excluding this cluster): 328999 texts, 178924980 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. solvalla          161.74
+ 2. lopp              146.68
+ 3. starter           141.38
+ 4. loppet            129.88
+ 5. upploppet         117.05
+ 6. hästar            106.23
+ 7. seger             105.20
+ 8. gratulerar         91.70
+ 9. start              91.43
+10. hästägarna         89.70
+11. mantorp            73.90
+12. tredjespår         70.40
+13. lunchtrav          69.47
+14. ledningen          68.41
+15. tvåa               68.08
+16. oplacerad          67.84
+17. galopperade        64.37
+18. ledaren            60.33
+19. stallet            57.96
+20. andraspår          57.81
+
+==================================================
+
+=== CLUSTER 4 ===
+Target: 83 texts, 44937 words
+Reference (excluding this cluster): 328967 texts, 178895242 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. lopp              241.37
+ 2. solvalla          220.92
+ 3. loppet            208.25
+ 4. streckar          199.97
+ 5. hästar            194.90
+ 6. dödens            169.74
+ 7. upploppet         167.34
+ 8. vann              158.64
+ 9. goop              153.03
+10. ledningen         147.42
+11. svanstedt         140.98
+12. spets             138.91
+13. häst              138.28
+14. spik              134.14
+15. hästen            133.95
+16. palema            131.06
+17. boko              129.37
+18. elitloppet        126.81
+19. start             120.93
+20. vinner            120.66
+
+==================================================
+
+=== CLUSTER 5 ===
+Target: 276 texts, 112288 words
+Reference (excluding this cluster): 328774 texts, 178827891 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. matchen          1457.95
+ 2. match            1175.49
+ 3. halvlek           964.86
+ 4. bollen            831.99
+ 5. mål               686.88
+ 6. spelare           677.95
+ 7. laget             607.18
+ 8. matcher           562.73
+ 9. halvleken         536.13
+10. målvakt           523.63
+11. chanser           515.28
+12. lag               505.69
+13. målvakten         428.77
+14. spelet            427.36
+15. frispark          393.24
+16. matchens          389.31
+17. boll              370.86
+18. spel              366.51
+19. skott             348.99
+20. anfall            336.34
+
+==================================================
+
+=== CLUSTER 6 ===
+Target: 59 texts, 42153 words
+Reference (excluding this cluster): 328991 texts, 178898026 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. matchen           328.58
+ 2. match             268.52
+ 3. spelare           213.32
+ 4. målvakt           160.40
+ 5. halvlek           150.67
+ 6. mål               148.54
+ 7. laget             142.46
+ 8. matchens          129.96
+ 9. lag               128.93
+10. matcher           122.79
+11. spelarna          117.76
+12. skott             112.65
+13. bollen            108.98
+14. målvakten         104.20
+15. seger             100.07
+16. hemmalaget         93.71
+17. chanser            92.43
+18. halvleken          80.78
+19. skotten            79.35
+20. perioden           77.92
+
+==================================================
+
+=== CLUSTER 7 ===
+Target: 496 texts, 318228 words
+Reference (excluding this cluster): 328554 texts, 178621951 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. matchen          1576.84
+ 2. matcher          1341.96
+ 3. match            1333.70
+ 4. spelare          1302.90
+ 5. lag               943.75
+ 6. laget             840.30
+ 7. säsongen          667.33
+ 8. spelarna          641.65
+ 9. matcherna         616.28
+10. poäng             595.54
+11. mål               546.11
+12. ifk               540.67
+13. säsong            524.16
+14. vann              508.69
+15. truppen           491.70
+16. seger             485.53
+17. spela             448.28
+18. målvakt           429.28
+19. allsvenskan       428.26
+20. tränare           396.78
+
+==================================================

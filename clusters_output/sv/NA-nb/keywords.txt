@@ -1,0 +1,88 @@
+Keyness analysis for sv/NA-nb
+Original reference corpus: 329050 texts from regions ['HI-NA-nb-re', 'ds-IP-NA-nb', 'NA-ob-OP', 'NA-nb-OP', 'IP-NA-nb', 'IN-NA-nb', 'NA-nb-ob-OP', 'NA-nb-OP-rv', 'ID-NA-nb', 'NA-nb', 'ID', 'NA-nb-ne', 'ob-OP', 'NA-nb-sr']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 0 ===
+Target: 55 texts, 10581 words
+Reference (excluding this cluster): 328995 texts, 178929598 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. severus            22.23
+ 2. snape              19.35
+ 3. maxrutor           17.39
+ 4. skördepotential    17.39
+ 5. snittgiva          17.39
+ 6. skördenivån        17.39
+ 7. markleverenser     17.39
+ 8. kalksalpetern      17.39
+ 9. kvävekomplettering    17.39
+10. juliusvete         17.39
+11. kväverundan        17.39
+12. kväveupptag        17.39
+13. kompletteringsgödsla    17.39
+14. kvävestatusen      17.39
+15. maxrutorna         17.39
+16. kompletteringsgödsling    17.39
+17. nitratkväve        17.39
+18. n-prognoser        17.39
+19. axan               17.39
+20. markleverens       17.39
+
+==================================================
+
+=== CLUSTER 1 ===
+Target: 18967 texts, 5482207 words
+Reference (excluding this cluster): 310083 texts, 173457972 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. kram            22985.91
+ 2. svararadera     14109.94
+ 3. kommentarer     10145.14
+ 4. kramar           7458.84
+ 5. dig              6599.95
+ 6. din              6470.33
+ 7. fin              6454.48
+ 8. -svararadera     4869.83
+ 9. tack             4733.06
+10. blogg            4610.78
+11. härligt          3890.11
+12. kramsvararadera  3874.24
+13. dina             3798.05
+14. fint             3229.73
+15. haha             3173.64
+16. fina             2997.99
+17. kul              2995.95
+18. hoppas           2822.73
+19. hej              2734.24
+20. dej              2600.32
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 203903 texts, 109831907 words
+Reference (excluding this cluster): 125147 texts, 69108272 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. åkte            12095.04
+ 2. hem              9911.44
+ 3. igår             9641.46
+ 4. dagen            8628.81
+ 5. imorgon          8101.71
+ 6. gick             8073.64
+ 7. kvällen          7994.68
+ 8. sova             7685.53
+ 9. iväg             7403.30
+10. vaknade          6981.15
+11. hemma            6875.85
+12. åka              6645.24
+13. skönt            6616.55
+14. sen              6518.78
+15. tog              6400.91
+16. fick             6206.62
+17. sängen           6005.81
+18. helgen           5846.87
+19. sov              5752.51
+20. mamma            5741.77
+
+==================================================

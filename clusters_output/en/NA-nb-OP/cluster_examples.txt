@@ -1,0 +1,82 @@
+
+============================================================
+CLUSTER 0 (NOISE)
+============================================================
+Size: 1 samples
+Register distribution: {'NA-nb-OP': 1}
+
+Examples:
+----------------------------------------
+ 1. Acceptance. I think we all take this for granted – and I think it’s very easy to hide yourself, to hold back because you’re not sure what people will say.. if they will think less of you in some wa... [NA-nb-OP]
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 753 samples
+Register distribution: {'NA-nb-OP': 753}
+
+Examples:
+----------------------------------------
+ 1. Over a year ago I finally decided to step out of the depression closet, inspired in large part by the suicide of Robin Williams and other celebrities like him. In that blog, I made a pact with myse... [NA-nb-OP]
+ 2. Sunday, June 26, 2011 Weekend Wrap Up Many thanks to all of you who have been praying for me. It's been a rather emotional two weeks for me, and so I'm thankful to have people care enough to pray. ... [NA-nb-OP]
+ 3. I enjoyed a “Sister Birthday Night Out” last week with my two beautiful sisters. My older sister and I are September girls. I feel so blessed to have two sisters that are also my dearest friends. I... [NA-nb-OP]
+ 4. Letting go of loved ones... Sometimes my dreams tell me sad stories. I'm forced to let go of old friendships or lovers... my dreams don't tell things straight up. They hint about people, sometimes ... [NA-nb-OP]
+ 5. When life gets tough, video games are there for you. They are not a fix. They do not make your problems go away. But they can be a comfort. This is not my first heavier post, nor will it be the las... [NA-nb-OP]
+ 6. Huck and I Broke Up Is it weird to be blogging about this? To take something so personal and throw it out there? Do you guys even remember Huck from The Dinz or the advice shows? Do you give a crap... [NA-nb-OP]
+ 7. What remains at the end of our lives, what have we built, contributed, done that fights against the veil of this world. Sometimes I think we are shoring up our time for the days of our lives where ... [NA-nb-OP]
+ 8. Imagine your being as a mirror, what are you reflecting out into the world? Are you living authentically, heart centered and open or are you closed, in fear and driven by the chaos. Finding a balan... [NA-nb-OP]
+ 9. Be forewarned…..that this is a really long post….non food related and may be really the thing that puts your insomnia away!! Before the ones who gave me the honor of some lovely blogging awards and... [NA-nb-OP]
+10. My post today partners with my last one, about media influence on emotions. Bear with me, I’m going deep, and what I say may sound odd at first. Tag: emotion Intuition vs. Emotion The true professi... [NA-nb-OP]
+11. Wednesday, July 1, 2009 Heather Brooke Ideep Throat And now? Nightfall Concert I'm in a strange time in my life where I try to change everything, but in Meanwhile desperately seeking a new routine.... [NA-nb-OP]
+12. Thursday, June 17, 2010 Today Today I sit here as a married woman. Jay & I got married on 2/6/2010. We are living in a studio apartment with our two cats Stryper & Petra. We are working and saving ... [NA-nb-OP]
+13. I went shopping for a new cover/holder for my cell phone last week. I have an iPhone 4s (I know, it’s old, but I love it!) and not many stores carry covers for my iPhone. After searching a few stor... [NA-nb-OP]
+14. What a refreshing article I read in the April issue of (gasp!) Oprah magazine. Actually, I merely skimmed it, but I’m so glad I did. The SCIENTIFIC premise? Freaking out initially in a stressful si... [NA-nb-OP]
+15. Hi Everyone, Welcome back from Winter Break, and welcome to 2018 (imagine fireworks here). Put me in the camp that would prefer to have a two-week Winter Break, and then a week off in March (in pla... [NA-nb-OP]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 493 samples
+Register distribution: {'NA-nb-OP': 493}
+
+Examples:
+----------------------------------------
+ 1. This post is sponsored by Thomas Nelson Publishing. Inspiration is a finicky thing. I don’t know about you, but seeing other people’s gorgeous rooms on blogs or in magazines can really do great thi... [NA-nb-OP]
+ 2. Thursday, February 20, 2020 Gourmet Makes Don’t ask me why, but I automatically get super sucked into any cooking or baking show that happens to be on TV. There is just something oddly relaxing abo... [NA-nb-OP]
+ 3. I saw this tag somewhere and became a bit obsessed with it, so here is my version. Also, I can sing the whole of Bo-Rhap in all the voices, as well as doing a damn fine version of the guitar solo, ... [NA-nb-OP]
+ 4. London Date Ideas – Enoteca Turi, CIRCUS & White Water Rafting London Date Ideas Every week on 30 Dates I aim to inspire with some new ideas for dates around London. Enoteca Turi, Putney An Italian... [NA-nb-OP]
+ 5. Longest Shelf-Sitters Sorry I've been MIA this week, the days are getting away from me. Today's post is about the books that have been on my TBR the longest. This should be eye-opening. Luckily, Go... [NA-nb-OP]
+ 6. Waking up in the middle of the Arabian Desert always seemed like more of a scene out of Aladdin, than an real-life experience I would have myself. Flash forward to the Al Maha Resort & Spa outside ... [NA-nb-OP]
+ 7. I read about this book a while a go, then entered a competition to try to win a copy, finally I got my book! It is a true inspiration, written with humour and honesty. It is not pious or in your fa... [NA-nb-OP]
+ 8. Hi everyone and welcome to another book tag on bibliobeth today. I like to participate in a tag each month to mix things up a bit and always find them a lot of fun. I’ve seen this tag going around ... [NA-nb-OP]
+ 9. We decided to start the new year with a new restaurant. Wildwood Kitchen is the new hot spot located at the corner of Laguna and Haley in The Mill. They had tons of enticing gluten-free options for... [NA-nb-OP]
+10. Over the course of the past 4 years or so, I've become reacquainted with an old love of mine... reading. I've always been a reader but time and circumstance and other hobbies seem to get in the way... [NA-nb-OP]
+11. Do you adore whiling away summer evenings on a sidewalk café? Enjoy eating out in restaurants? Love sharing a glass of wine with friends on a sunny terrace? Well, it’s the spring of 2020 and most l... [NA-nb-OP]
+12. Over a year in fact. Many things changed the around that Christmas when I stopped blogging. My husband of 7 years left me for another woman. I tried ignoring the warning signs. Never do that. It wa... [NA-nb-OP]
+13. For a while, I got out of the habit of reading webcomics. In fact, it’s been so long I’m ashamed to admit that I can’t even remember what I was reading before my break. Luckily, being part of the V... [NA-nb-OP]
+14. With humungous macarons greeting us at the hotel foyer, we immediately knew that we were in for an amazing experience! After having an awesome birthday celebration last night with friends, tonight ... [NA-nb-OP]
+15. Saturday, November 19, 2016 Miserably Timely 114 Year Old Film "A Trip to the Moon" Posted by Aubrey Levinthal In trying to dig myself out of the heavy depression that set on since Tuesday November... [NA-nb-OP]
+
+============================================================
+CLUSTER 3
+============================================================
+Size: 289 samples
+Register distribution: {'NA-nb-OP': 289}
+
+Examples:
+----------------------------------------
+ 1. I have a lot to blog about but no time at the moment. However, I do have something to post! Thanks to Ali Mc I've become a Picnik fanatic (because I needed something else to be obsessed with!). I m... [NA-nb-OP]
+ 2. First things first. These polish names are so corny. I understand the collection was inspired by Kim Kardashian (spoken in my ultra dramatic voice, hair blowing in the wind) but people actually had... [NA-nb-OP]
+ 3. I have a horrible confession to make. Until the past year and a half or so I was terrible with my skincare regime, if I can even call it that. I look back now and I am horrified at how badly I used... [NA-nb-OP]
+ 4. I had been eyeing this Ann Taylor necklace for a long time. I love statement necklaces but I don't like to spend a lot on necklaces that I wouldn't wear everyday unless I absolutely loveitcan'tlive... [NA-nb-OP]
+ 5. A few days ago, I received my second box from Petit Vour, a monthly subscription for delivery of vegan cruelty-free beauty products which come in mini sizes. Petit Vour is an excellent resource for... [NA-nb-OP]
+ 6. Perusing the sale shoes at Nordstrom at Fashion Valley in San Diego (FV is a great place to find small size shoes btw!), I found a super marked down pair of black patent Jimmy Choo’s, in a popular ... [NA-nb-OP]
+ 7. Monday, February 28, 2011 It's My Essence Party As you can see from the title of the post, I decided to try out It's My Party eyeshadow. It's a bit lighter teal than Freestyle, but the pigmentation... [NA-nb-OP]
+ 8. Being chosen to review luxury products in the wide world of blogging is a lovely compliment. Receiving a box of products you already use, and pay for without hesitation, is like Christmas arriving ... [NA-nb-OP]
+ 9. Wednesday, November 30, 2011 Burt's Bees is the Bee's Knees Thank goodness for Burt's Bees. Burt's Bees offers natural personal care products and natural skin care products. What's best is that the... [NA-nb-OP]
+10. I went to the & Other Stories store on Regent Street the other week. I often talk about & Other Stories, as they have some fabulous, interesting shapes, colours and prints, all at high street price... [NA-nb-OP]
+11. “There are no ugly women, only lazy ones” ― Helena Rubinstein My nosy love of these kinds of posts and videos continues unabated and so, in the interest of science, I’ve been hoarding items since N... [NA-nb-OP]
+12. My much awaited Vellvette box- Finally here!! Hello all, Four days ago, I finally got my Vellvette box and I was very excited to post it as soon as I got it But could not post the pictures as my ca... [NA-nb-OP]
+13. Let’s see.. what’s going on with me lately. I’m 8 episodes into Orange is the New Black… was Donna from That 70s Show always this hot? I think it’s the eyeliner. I love a good cateye. I’m horribly ... [NA-nb-OP]
+14. Hey OPI Lovers! I picked up a new nail polish last night when I went to target, and was inspired by the fall to pick up a dark color! I was looking around to see what they had (which wasn't much) I... [NA-nb-OP]
+15. February 14th is coming... And I was wondering, do any of you do something special on this date? My husband and I have our wedding anniversary just before Valentine's Day so we tend to celebrate bo... [NA-nb-OP]

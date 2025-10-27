@@ -1,0 +1,116 @@
+Keyness analysis for fi/HI-NA-nb-re
+Original reference corpus: 288231 texts from regions ['HI-NA-nb-re', 'NA-nb-OP', 'IP-NA-nb', 'ID-NA', 'NA-nb-OP-rv', 'HI-NA-nb', 'NA-nb', 'ID', 'ob-OP']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 0 ===
+Target: 1465 texts, 568261 words
+Reference (excluding this cluster): 286766 texts, 141174573 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. sekoita          3692.93
+ 2. suolaa           3117.10
+ 3. rkl              2862.94
+ 4. paista           2822.35
+ 5. kaada            2172.56
+ 6. sokeria          2005.70
+ 7. voita            1876.69
+ 8. uunissa          1755.51
+ 9. laita            1724.53
+10. joukkoon         1712.01
+11. taikina          1666.40
+12. ainekset         1597.40
+13. vehnäjauhoja     1544.50
+14. minuuttia        1487.25
+15. seos             1321.19
+16. tasaiseksi       1319.28
+17. anna             1299.09
+18. asteessa         1239.90
+19. mustapippuria    1232.00
+20. vatkaa           1224.52
+
+==================================================
+
+=== CLUSTER 1 ===
+Target: 1395 texts, 653711 words
+Reference (excluding this cluster): 286836 texts, 141089123 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. sekoita          5896.86
+ 2. paista           4905.50
+ 3. rkl              4248.17
+ 4. suolaa           3914.22
+ 5. kaada            3735.90
+ 6. vehnäjauhoja     3573.23
+ 7. sokeria          3556.84
+ 8. taikina          3250.27
+ 9. sokeri           2942.74
+10. voita            2897.90
+11. leivinjauhetta   2846.45
+12. joukkoon         2749.01
+13. vatkaa           2728.54
+14. laita            2350.45
+15. asteessa         2346.54
+16. minuuttia        2308.35
+17. tasaiseksi       2222.79
+18. anna             2197.93
+19. jäähtyä          2179.70
+20. uunissa          2151.83
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 799 texts, 354947 words
+Reference (excluding this cluster): 287432 texts, 141387887 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. suolaa           2025.94
+ 2. sekoita          2009.22
+ 3. rkl              1925.76
+ 4. paista           1420.25
+ 5. ainekset         1321.30
+ 6. mustapippuria    1159.89
+ 7. resepti          1081.91
+ 8. kaada            1053.15
+ 9. mausta           1020.51
+10. uunissa           976.67
+11. laita             925.11
+12. joukkoon          865.85
+13. maku              859.30
+14. oliiviöljyä       829.42
+15. maun              816.95
+16. sokeria           786.73
+17. minuuttia         761.69
+18. kuori             756.30
+19. leikkaa           748.55
+20. sipuli            736.82
+
+==================================================
+
+=== CLUSTER 3 ===
+Target: 938 texts, 546279 words
+Reference (excluding this cluster): 287293 texts, 141196555 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. sekoita          2987.67
+ 2. paista           2380.12
+ 3. rkl              2290.24
+ 4. suolaa           2133.65
+ 5. sokeria          1732.98
+ 6. kaada            1631.71
+ 7. vehnäjauhoja     1530.51
+ 8. taikina          1470.34
+ 9. voita            1385.04
+10. joukkoon         1354.74
+11. sokeri           1287.15
+12. asteessa         1267.85
+13. laita            1242.83
+14. leivinjauhetta   1193.76
+15. ainekset         1126.57
+16. anna             1084.97
+17. vaniljasokeria   1084.49
+18. aineet           1073.46
+19. minuuttia        1071.96
+20. uunissa          1067.56
+
+==================================================

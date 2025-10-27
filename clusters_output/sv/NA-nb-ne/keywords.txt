@@ -1,0 +1,200 @@
+Keyness analysis for sv/NA-nb-ne
+Original reference corpus: 329050 texts from regions ['HI-NA-nb-re', 'ds-IP-NA-nb', 'NA-ob-OP', 'NA-nb-OP', 'IP-NA-nb', 'IN-NA-nb', 'NA-nb-ob-OP', 'NA-nb-OP-rv', 'ID-NA-nb', 'NA-nb', 'ID', 'NA-nb-ne', 'ob-OP', 'NA-nb-sr']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 0 ===
+Target: 178 texts, 40473 words
+Reference (excluding this cluster): 328872 texts, 178899706 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. projektet          33.86
+ 2. deltog             31.43
+ 3. kommuns            29.79
+ 4. projektledare      28.85
+ 5. genomfört          26.66
+ 6. samband            26.66
+ 7. hoppets            25.57
+ 8. kommun             24.92
+ 9. talkoarbete        24.55
+10. storaenso          24.55
+11. grupptränare       24.55
+12. samarbete          24.09
+13. arbetet            23.95
+14. delades            23.68
+15. nyhetervi          23.36
+16. nyheterden         23.36
+17. arbete             23.27
+18. matutdelning       22.45
+19. alumnerna          21.10
+20. kinnared           21.10
+
+==================================================
+
+=== CLUSTER 1 ===
+Target: 105 texts, 45879 words
+Reference (excluding this cluster): 328945 texts, 178894300 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. flygblad           88.00
+ 2. kommun             85.62
+ 3. flygbladsutdelning    85.21
+ 4. kampgrupp          80.66
+ 5. motståndsrörelsens    70.27
+ 6. hölls              67.87
+ 7. möte               60.50
+ 8. medlemmar          55.18
+ 9. samlades           54.37
+10. klistermärken      52.79
+11. fsp                49.98
+12. ordförande         48.10
+13. motståndsrörelsen    46.21
+14. näste              45.41
+15. mötet              40.79
+16. föreningen         40.36
+17. klistermärkesuppsättning    39.98
+18. aktivism           37.92
+19. delades            37.49
+20. aktivister         36.87
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 177 texts, 90428 words
+Reference (excluding this cluster): 328873 texts, 178849751 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. kronprinsessan     49.56
+ 2. monacos            40.68
+ 3. årets              37.28
+ 4. prinsessan         37.15
+ 5. svenskdamse        36.85
+ 6. foto               35.15
+ 7. faksimil           34.25
+ 8. prins              34.06
+ 9. charlene           33.85
+10. kändispressen      33.72
+11. daniel             31.51
+12. samarbete          30.01
+13. läs                29.66
+14. kungaparet         27.77
+15. victoria           27.36
+16. arrangeras         27.27
+17. damtidning         27.15
+18. frederik           27.15
+19. svenskabloggare    26.29
+20. brittiska          26.15
+
+==================================================
+
+=== CLUSTER 3 ===
+Target: 402 texts, 84294 words
+Reference (excluding this cluster): 328648 texts, 178855885 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. deltog            172.31
+ 2. arrangerades      159.55
+ 3. bjöds             145.32
+ 4. deltagarna        136.42
+ 5. delades           111.69
+ 6. genomfördes       108.45
+ 7. årets             108.43
+ 8. avslutades        106.57
+ 9. deltagare         102.69
+10. eleverna           96.86
+11. berättade          96.74
+12. samarbete          94.42
+13. projektet          92.47
+14. elever             89.53
+15. samlades           84.47
+16. ordförande         80.64
+17. arrangerade        74.22
+18. kommun             74.14
+19. hölls              72.77
+20. anordnades         66.70
+
+==================================================
+
+=== CLUSTER 4 ===
+Target: 78 texts, 13395 words
+Reference (excluding this cluster): 328972 texts, 178926784 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. samlades           38.08
+ 2. medlemmar          36.55
+ 3. årets              33.55
+ 4. vernissagevinst    33.39
+ 5. nltse              33.39
+ 6. handtufade         33.39
+ 7. hjelmaeuslidköping    33.39
+ 8. uf-alumn           33.39
+ 9. föreningen         32.82
+10. flygblad           30.86
+11. alumni             30.19
+12. skulpurer          29.57
+13. haldorson          29.57
+14. distriktsorganisationen    29.57
+15. vinnare            28.42
+16. hakonen            27.84
+17. haldorsson         27.84
+18. uf-alumner         27.84
+19. alumner            27.79
+20. kimmos             26.66
+
+==================================================
+
+=== CLUSTER 5 ===
+Target: 67 texts, 19875 words
+Reference (excluding this cluster): 328983 texts, 178920304 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. ordförande        190.39
+ 2. styrelsen         176.27
+ 3. årsmötet          168.90
+ 4. valdes            155.12
+ 5. styrelse          141.16
+ 6. årsmöte           120.63
+ 7. mötet              99.06
+ 8. omvaldes           90.39
+ 9. ledamöter          81.23
+10. stämman            70.87
+11. kassör             67.76
+12. vice               67.08
+13. föreningen         63.43
+14. hölls              62.69
+15. sekreterare        61.62
+16. medlemmar          59.02
+17. årsstämma          52.90
+18. suppleanter        49.38
+19. mars               48.33
+20. andersson          48.24
+
+==================================================
+
+=== CLUSTER 6 ===
+Target: 125 texts, 38993 words
+Reference (excluding this cluster): 328925 texts, 178901186 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. kommun            106.27
+ 2. läs                94.72
+ 3. nyhetsarkiv        81.14
+ 4. nyheter            74.07
+ 5. projektet          67.29
+ 6. information        63.94
+ 7. välkommen          59.04
+ 8. representanter     57.13
+ 9. sammanträde        53.74
+10. årets              52.99
+11. länsstyrelsen      52.08
+12. verksamhet         47.97
+13. oktober            46.99
+14. genomfördes        46.80
+15. konferens          42.99
+16. belöningsmottagare    42.76
+17. maj                42.45
+18. kontakta           42.38
+19. nominera           41.16
+20. inom               41.03
+
+==================================================

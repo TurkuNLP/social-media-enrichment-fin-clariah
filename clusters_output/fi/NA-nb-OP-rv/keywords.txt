@@ -1,0 +1,116 @@
+Keyness analysis for fi/NA-nb-OP-rv
+Original reference corpus: 288231 texts from regions ['HI-NA-nb-re', 'NA-nb-OP', 'IP-NA-nb', 'ID-NA', 'NA-nb-OP-rv', 'HI-NA-nb', 'NA-nb', 'ID', 'ob-OP']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 1 ===
+Target: 2958 texts, 2187832 words
+Reference (excluding this cluster): 285273 texts, 139555002 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. kirja            6805.42
+ 2. kirjan           6381.65
+ 3. kirjassa         5594.59
+ 4. kirjasta         3931.78
+ 5. kirjaa           3485.81
+ 6. tarina           3085.00
+ 7. teos             2983.72
+ 8. lukenut          2724.59
+ 9. lukea            2409.96
+10. kirjaan          2395.12
+11. päähenkilö       2290.14
+12. kirjailija       2240.61
+13. romaani          2100.60
+14. tarinan          2084.46
+15. kirjoja          1981.72
+16. kirjat           1973.92
+17. luin             1932.97
+18. kirjailijan      1876.05
+19. pidin            1856.07
+20. hänen            1754.16
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 294 texts, 129263 words
+Reference (excluding this cluster): 287937 texts, 141613571 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. ravintola         928.36
+ 2. ravintolan        518.68
+ 3. annos             471.76
+ 4. annokset          460.80
+ 5. palvelu           424.79
+ 6. annoksen          325.74
+ 7. ystävällistä      301.45
+ 8. ravintolassa      297.51
+ 9. pöytään           294.11
+10. ruoka             293.37
+11. listalta          261.56
+12. viihtyisä         258.02
+13. menun             257.74
+14. menu              256.86
+15. tarjolla          228.20
+16. maukas            218.23
+17. sisustus          217.01
+18. annoksia          198.26
+19. annoksessa        184.67
+20. tarjoilija        181.22
+
+==================================================
+
+=== CLUSTER 3 ===
+Target: 283 texts, 95042 words
+Reference (excluding this cluster): 287948 texts, 141647792 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. olut             1037.24
+ 2. maku              680.27
+ 3. tuoksussa         647.56
+ 4. maussa            612.82
+ 5. ipa               557.70
+ 6. oluen             536.18
+ 7. olutta            490.13
+ 8. tuoksu            483.80
+ 9. panimon           468.87
+10. jälkimaku         465.44
+11. hedelmäinen       438.91
+12. panimo            433.79
+13. ale               396.47
+14. oluita            388.65
+15. vaahto            387.19
+16. alkon             378.25
+17. juntunen          360.02
+18. täyteläinen       342.35
+19. jälkimaussa       342.12
+20. viini             329.09
+
+==================================================
+
+=== CLUSTER 4 ===
+Target: 1394 texts, 704557 words
+Reference (excluding this cluster): 286837 texts, 141038277 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. tuote            3114.37
+ 2. iholle           2810.06
+ 3. tuoksu           2372.59
+ 4. koostumus        2296.25
+ 5. ihon             2112.06
+ 6. voide            2022.44
+ 7. tuotteet         2007.51
+ 8. ihoa             1968.93
+ 9. iho              1744.39
+10. tuotetta         1734.18
+11. tuotteita        1725.26
+12. iholla           1713.02
+13. tuotteen         1580.41
+14. kasvoille        1397.75
+15. sävy             1394.25
+16. meikin           1337.72
+17. tuotteista       1272.74
+18. koostumukseltaan  1165.43
+19. testiin          1165.25
+20. kosteuttaa       1135.10
+
+==================================================

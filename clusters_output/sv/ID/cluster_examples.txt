@@ -1,0 +1,96 @@
+
+============================================================
+CLUSTER 0 (NOISE)
+============================================================
+Size: 22 samples
+Register distribution: {'ID': 22}
+
+Examples:
+----------------------------------------
+ 1. - + - Mina länkar - Skapa en ny tråd - Regler - Forum - Senaste - Nya trådar - Omröstningar - Quiz - Obesvarade - Hetaste - Kategorier - Köp & sälj - Accessoarer - Brudklänningar - Dukning & dekora... [ID]
+ 2. - + - Mina länkar - Skapa en ny tråd - Regler - Forum - Senaste - Nya trådar - Omröstningar - Quiz - Obesvarade - Hetaste - Kategorier - Köp & sälj - Accessoarer - Brudklänningar - Dukning & dekora... [ID]
+ 3. - + - Artiklar - Planerar - Förälder - Mina länkar - Skapa en ny tråd - Regler - Forum - Senaste - Nya trådar - Omröstningar - Quiz - Obesvarade - Hetaste - Kategorier - Adoption - Adopterad/vuxen ... [ID]
+ 4. - + - Artiklar - Planerar - Förälder - Mina länkar - Skapa en ny tråd - Regler - Forum - Senaste - Nya trådar - Omröstningar - Quiz - Obesvarade - Hetaste - Kategorier - Adoption - Adopterad/vuxen ... [ID]
+ 5. - + - Artiklar - Planerar - Förälder - Mina länkar - Skapa en ny tråd - Regler - Forum - Senaste - Nya trådar - Omröstningar - Quiz - Obesvarade - Hetaste - Kategorier - Adoption - Adopterad/vuxen ... [ID]
+ 6. - + - Artiklar - Planerar - Förälder - Mina länkar - Skapa en ny tråd - Regler - Forum - Senaste - Nya trådar - Omröstningar - Quiz - Obesvarade - Hetaste - Kategorier - Adoption - Adopterad/vuxen ... [ID]
+ 7. - + - Artiklar - Planerar - Förälder - Mina länkar - Skapa en ny tråd - Regler - Forum - Senaste - Nya trådar - Omröstningar - Quiz - Obesvarade - Hetaste - Kategorier - Adoption - Adopterad/vuxen ... [ID]
+ 8. - + - Artiklar - Planerar - Förälder - Mina länkar - Skapa en ny tråd - Regler - Forum - Senaste - Nya trådar - Omröstningar - Quiz - Obesvarade - Hetaste - Kategorier - Adoption - Adopterad/vuxen ... [ID]
+ 9. - + - Artiklar - Planerar - Förälder - Mina länkar - Skapa en ny tråd - Regler - Forum - Senaste - Nya trådar - Omröstningar - Quiz - Obesvarade - Hetaste - Kategorier - Adoption - Adopterad/vuxen ... [ID]
+10. - + - Artiklar - Planerar - Förälder - Mina länkar - Skapa en ny tråd - Regler - Forum - Senaste - Nya trådar - Omröstningar - Quiz - Obesvarade - Hetaste - Kategorier - Adoption - Adopterad/vuxen ... [ID]
+11. - + - Artiklar - Planerar - Förälder - Mina länkar - Skapa en ny tråd - Regler - Forum - Senaste - Nya trådar - Omröstningar - Quiz - Obesvarade - Hetaste - Kategorier - Adoption - Adopterad/vuxen ... [ID]
+12. - + - Artiklar - Planerar - Förälder - Mina länkar - Skapa en ny tråd - Regler - Forum - Senaste - Nya trådar - Omröstningar - Quiz - Obesvarade - Hetaste - Kategorier - Adoption - Adopterad/vuxen ... [ID]
+13. - + - Mina länkar - Skapa en ny tråd - Regler - Forum - Senaste - Nya trådar - Omröstningar - Quiz - Obesvarade - Hetaste - Kategorier - Köp & sälj - Accessoarer - Brudklänningar - Dukning & dekora... [ID]
+14. - + - Artiklar - Planerar - Förälder - Mina länkar - Skapa en ny tråd - Regler - Forum - Senaste - Nya trådar - Omröstningar - Quiz - Obesvarade - Hetaste - Kategorier - Adoption - Adopterad/vuxen ... [ID]
+15. - + - Mina länkar - Skapa en ny tråd - Regler - Forum - Senaste - Nya trådar - Omröstningar - Quiz - Obesvarade - Hetaste - Kategorier - Köp & sälj - Accessoarer - Brudklänningar - Dukning & dekora... [ID]
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 542 samples
+Register distribution: {'ID': 542}
+
+Examples:
+----------------------------------------
+ 1. Du måste vara inloggad för att kunna kommentera. Är du inte medlem? Klicka här för att registrera dig. TOTALT 811890 INLÄGG. JUST NU 19 INLOGGADE. Namn: LeoMessi Postat via SvenskaFans-appen Sänt: ... [ID]
+ 2. DU MÅSTE VARA INLOGGAD FÖR ATT KUNNA SKRIVA PÅ FORUMET. KLICKA HÄR FÖR ATT LOGGA IN! elbraco - SiamoCalcio 2012-12-10 22:04 diar iniesta shekha *Lillo (juan manuel) inte Leo. :) riktigt bra avsnitt... [ID]
+ 3. Du måste vara inloggad för att kunna kommentera. Är du inte medlem? Klicka här för att registrera dig. TOTALT 811892 INLÄGG. JUST NU 18 INLOGGADE. Namn: del_piero_91 Sänt: 2008-07-12 17:22 hahaha..... [ID]
+ 4. Rätt kul att du tar upp det där med twitter och vad folk skriver, för jag har tänkt samma sak. Nåt så in i helvetes uppebart som att Sverige just gjorde mål i EM eller att de just vann J-VM guld är... [ID]
+ 5. #41 Postad 14 juli 2013 - 19:50 #42 Postad 12 oktober 2013 - 14:04 #43 Postad 12 oktober 2013 - 15:07 Blev alltså proffsklubb 4-5 år sen tack vare att jag väldigt överraskande lyckades ta mig till ... [ID]
+ 6. NHL 2017/2018 Sida 2 av 2 • 1, 2 Sv: NHL 2017/2018 Jag själv är ju fan av Toronto Maple Leafs. Jag tror dock inte att jag kommer kunna vara vaken inatt för att se game 7 mot Bruins... Hedanders - A... [ID]
+ 7. Du måste vara inloggad för att kunna kommentera. Är du inte medlem? Klicka här för att registrera dig. TOTALT 811540 INLÄGG. JUST NU 3 INLOGGADE. Namn: I.Cuenca Postat via SvenskaFans-appen Sänt: 2... [ID]
+ 8. Forumet är just nu helt stängt. TOTALT 811864 INLÄGG. JUST NU 23 INLOGGADE. Namn: Shi Sänt: 2007-12-20 18:19 Jag personligen som Madridista hade oroat mig mer om Deco och Ronaldiho startade iställe... [ID]
+ 9. Namn: Atleicooo Postat via SvenskaFans-appen Sänt: 2018-04-12 23:00 SÅJA!! Atletico vidare till semi! 1 [QUOTE=Atleicooo]SÅJA!! Atletico vidare till semi! [/QUOTE] Namn: Atleicooo Postat via Svensk... [ID]
+10. Du måste vara inloggad för att kunna kommentera. Är du inte medlem? Klicka här för att registrera dig. TOTALT 811771 INLÄGG. JUST NU 2 INLOGGADE. Namn: Heywood Jablome - Por qué, Messi? Sänt: 2012-... [ID]
+11. DU MÅSTE VARA INLOGGAD FÖR ATT KUNNA SKRIVA PÅ FORUMET. KLICKA HÄR FÖR ATT LOGGA IN! Barca-nist 2009-06-10 19:29 Barca_4_lajjf Jag vill själv inte ha Zlatan till barca helt ärligt men det va bara l... [ID]
+12. Du måste vara inloggad för att kunna kommentera. Är du inte medlem? Klicka här för att registrera dig. TOTALT 23818 INLÄGG. JUST NU 0 INLOGGADE. Namn: abg Sänt: 2009-08-12 13:40 Mitt tips är att ha... [ID]
+13. Hetfield- Megan Fox is a dude 2010-08-12 13:44 Nej, men jag förstår inte heller hur ryktet kan uppstå. Varför skulle Mascherano vilja komma till Barcelona när Pep har visat klart och tydligt att de... [ID]
+14. Re: Training grounds och Training contracts Jussi FULL RETARD Jernkuuk wrote: Att använda riktiga pengar på ett konto som redan är på topp är en sak, att satsa pengar på att bygga upp ett nytt kont... [ID]
+15. Citat: And you were right, inte ens svårt (eller?). Som sagt, knicks måste ju bli av med amares mongokontrakt. Någon sa att harden kanske är sämst i ligan, där passar ju även amare in. Love till la... [ID]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 410 samples
+Register distribution: {'ID': 410}
+
+Examples:
+----------------------------------------
+ 1. - Jag Vet Vad Du Gjorde Förra Lördagen - brottsvåg serien hur får man tag på den?? - Bästa svenska reality? - Nån mer som stör sig på att svenska inredningsprogram bara renoverar hos rika? - ComHem... [ID]
+ 2. - Har jag lymfom? - sjukt jävla felkonstruerad febertermometer - Bra tandläkare i Uppsala? - Orsak till viktproblem - Hjälp! - Stark oro inför operation - skillnad i kvalitet mellan endags- och mån... [ID]
+ 3. - Ta över konkurrentens tjänster. - PAYPAL ID hjälp - Fel Kontonummer - Lån utan fast jobb med mor som borgenär/medlåntagare - Inflation och löneavtal. - Allemanssparande år 1983 - någon som minns?... [ID]
+ 4. - Spänst träning under uppbyggnadsperiod - Hur stor påverkan hade min dåliga sömn - Skivstångsrodd känns onaturligt/konstigt. Tips på anledningen? - Träningschema 20 åring, inte helt ny på gymmet. ... [ID]
+ 5. Alla problem Sortera på: Datum Popularitet Kommentarer - Ständig ut och inloggning krävs - Knappar på samma ställe - Kan ej logga in på DN+ på datorn - Kan inte ladda ner dn sedan i torsdags - Inge... [ID]
+ 6. - PartnerImportörer av Båda Könen - Den Stora Tråden om ALLT - Folk som alltid kommer försent, hur länge väntar ni? - Fråga en Transsexuell. - Uppblåsta bimbos som tror dom är något - Tror ni den f... [ID]
+ 7. Skadedjur och sjukdomar - Ohyra? - Ohyra som äter av min hortensia - Skimmia har fläckar på bladen - Eukalyptus med vitt puder/spindelnät - Ohyra på citronträd - Kaktus med vitgrå beläggning - Hej ... [ID]
+ 8. - Subutex och xanor i tisdags - Sobril och alkohol? - Angående pissprov för 3 månader sen. - Pissprov på jobb i Norge? - Inkommande HÅR-prov. Rökte 1 gång för 4 månader sen, borde jag noja? - Tryck... [ID]
+ 9. - Skadligt att ha på motorvärmare för länge? - S70 motor(?)problem - Volvo 740. Alldeles för hög tomgång? - Vad är detta gör bil? - Dubbel till enkeldin (stereofack) - Kostnad att frakta bil till U... [ID]
+10. - FÖR på? - Ålderskillnad där tjejen är äldre i en åldergrupp som fortfarande tar det i beaktande - Ålder problem? - Ändra din personlighet till förmån för tjejer? - Är en mycket trevlig person med... [ID]
+11. - Samma muskelgrupp som chinup - Övre Bröst - explosiv vs kontrolerat - Träna kondition med andningsmotstånd - Hur viktig är sömnen egentlgien? - Bästa metod för viktminskning(kvinna 55 år) - jag h... [ID]
+12. - En personlig utvärdering om Magic Mouse. Bra eller Anus? - Nya MacBook Pro - 10 timmars batteritid, bättre batteri? - Batteriet redan dåligt? - Macbooken & laddaren dör - Hjälp med Magic Mouse. -... [ID]
+13. - Nya högtalare, receiver? - upplösning. - Svenska kanaler i annat land. Kan man använda befintliga saker? - Hjälp med HDMI - Jag skulle behöva lite råd nu när jag ska köpa ny TV - Hur fungerar en ... [ID]
+14. - Hjälp med MVC och java - Java 7 - JAVA ME programmering - Läsa in hela filen på en gång eller inte? - Konstig varning när jag kompilerar - Java hjälp, paintprogram! - j2me client vs j2se server -... [ID]
+15. - Hjälp! Jag är headhuntad - sommar & helgjobb! - Timanställd - Uppsägningstid? - Snart uppsagd. - Företagskultur - Ernst&Young - Yrken som bytt titel? - PR-jobb på nattklubb? - Personalkostnader h... [ID]
+
+============================================================
+CLUSTER 3
+============================================================
+Size: 14086 samples
+Register distribution: {'ID': 14086}
+
+Examples:
+----------------------------------------
+ 1. Äktenskap under VK2 - - Medlem - Inlägg: 1413 - Blev medlem: 01 mar 2016 08:57 - Ort: Småland Äktenskap under VK2 Hade den svenska medborgaren varit tvungen att själv åka ner till Helsingfors för a... [ID]
+ 2. Nu måste jag fråga här inne. Jag har under det senaste 6-12månader tillbaka börjat få ryckningar i kroppen. När jag gör saker, som nu sitter och skriver, då rycker det inte. Men när jag sitter mer ... [ID]
+ 3. Citat: Men ärligt talat dessa jävla länkar hit och dit där han skrivit och ni tycker det är så självklart "att redan här borde klockorna ringt"!! Sitter ni själva och googla vad er omgivning skrive... [ID]
+ 4. tisdagen den 10:e april 2012 Tips tas tacksamt emot 12 kommentarer: Hej! Mandelolja kanske kan vara nåt? Finns på apoteket. Annars Helosan? Smörj på!SvaraRaderaSvar Två bra tips tror jag, tack Lina... [ID]
+ 5. Hej! Om man avstår löneförhöjningen ett år mot att få 5 extra semesterdagar, från vilket datum gäller de 5 extra dagarna? Ska man ta hänsyn till intjänandeår? Löneförhöjningen skulle ha gällt från ... [ID]
+ 6. Hej Finns det något kollektiv med självhushållningsambitioner i Umeå (eller med pendlingsavstånd)? Jag är en 38-årig man som ska flytta till Umeå för att plugga ekologi till hösten. Jag har bott i ... [ID]
+ 7. Jag var på en MR-skalle och fick svaret, jag har en vattenfylld cysta i hjärnan samt att ena hjärn halvan hänger lite längre ner i bakhuvudet. Vad heter detta? Är det farligt? Hur kommer dom gå vid... [ID]
+ 8. Jag har en syster som önskar sig en hund som sällskap då Hur ofta skall man duscha en hund? med schampo? Säker Valpen ska ha mat 4 gånger per dag. Man kan i början få gå ut flera gånger i timmen. V... [ID]
+ 9. Fastighetsjuristen svarar - Vilka möjligheter har jag att hålla nere hyran? Fråga: Jag hyr en lokal i ett köpcentrum där jag driver en liten butik. Hyrans storlek är kopplad till min butiks omsättn... [ID]
+10. Fråga: Jag vet inte om detta är rätt forum för jag är osäker på om min fråga faller under vett och etikett. Men hur som helst, jag har en svensk flagga som helt klart har sett bättre dagar. Den är ... [ID]
+11. mån 22 jun 2020, 13:05#651603 Jag har under årens lopp ofta studerat årsringarna och deras variationer Nu gäller det visserligen bara s.k. självföryngrad skog. Därav kan man också se om eller när d... [ID]
+12. moja skrev:Och man uppmanas skicka in hur många ggr som helst, så det måste vara ett lotteri! Trist för den som filar på motivering och hoppas på vinst tack vare sin finurlighet eller skicklighet! ... [ID]
+13. Jämndragning Jämndragning oxå vilka sortiment ni jämndrar om ni gör det på olika sätt.. noggranhet i vältor osv // NomagS Re: Jämndragning Massa= grinden En duktig skördarförare ser till att du ytt... [ID]
+14. kortfattade grundregler.. stål eller järn= kopparfett alt alufett.. alu= alufett koppar= kopparfett eller alufett.. Allt beroende på att aluminiumen är längst ned i skalan på korrosionsbeständigthe... [ID]
+15. Större klickbara ytor på årtalen Superbra inititiativ! Gillar speciellt att man kan klicka sin fram via årtalen. Tyvärr är den klickbara ytan väldigt liten, man måste träffa precis på siffrorna, så... [ID]

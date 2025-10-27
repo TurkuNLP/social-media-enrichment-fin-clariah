@@ -1,0 +1,240 @@
+
+============================================================
+CLUSTER 0 (NOISE)
+============================================================
+Size: 23752 samples
+Register distribution: {'ob-OP': 23752}
+
+Examples:
+----------------------------------------
+ 1. Glädje i Washington över bin Ladins död. Frågan är om Carin Jämtin är lika glad i dag. Nej, Carin Jämtin ser inte ut att bli någon höjdare som Socialdemokraternas partisekreterare. I skuggan av nyh... [ob-OP]
+ 2. Sveriges radio ger indirekt stöd åt Trumps missilattack på Syrien genom att inte tydligt markera att attacken, inte godkänd av FN:s säkerhetsråd, är ett entydigt brott mot folkrätten. Fortsätt läsa... [ob-OP]
+ 3. Livsmedelsverkets och Socialstyrelsens vansinniga kostråd eldar på diabetesutvecklingen – vilket sker på grund av ren dumhet (eller är det total okunnighet?). Sex (6) gånger om dagen rycker kroppen... [ob-OP]
+ 4. Japans policy är att inte ge medborgarskap till muslimer, och permanent boende ges också väldigt sällan till muslimer (vilket, förövrigt kan sägas är svårt för icke-japaner i allmänhet att få). I J... [ob-OP]
+ 5. 0 Gånger sedan september 2014 har borgarna blivit så kränkta att de KU-anmält regeringen. KU-ANMÄLARNAS PARTIFÖRDELNING KU-ANMÄLNINGAR PER MÅNAD SEDAN SEPTEMBER 2014 Vad är KU? KU står för konstitu... [ob-OP]
+ 6. Tack Obama för kubaembargots sista suck! Idag på Godmorgon världen får en av mina stora idoler, den kubanske socialdemokraten Oscar Espinosa Chepe, uttala sig om Kubas förändringar. Oscar är gift m... [ob-OP]
+ 7. Vem vill ha en återställarregering 2010 som höjer skatten? Vi har det senaste halvåret sett prov på att delar av svenska folket lägger sin röst i ett riksdagsval baserad på en känsla. Denna känsla ... [ob-OP]
+ 8. Kommunerna har mer pengar till välfärd i år än på 28 år enligt en rapport som presenterades på kommunalekonomiska mässan i Malmö i veckan!!! Ändå är den allmänna uppfattningen att välfärden fått mi... [ob-OP]
+ 9. Terminalen för flytande naturgas (LNG) är viktig för göteborgarna och förtjänar att vara en valfråga som Gustav Melin föreslår (GT debatt, 28 augusti). Men frågan bör handla om hur vi når största m... [ob-OP]
+10. Synagogan i Göteborg. Listan: Sverige minst antisemitiskt i Europa En ny, internationell studie visar att en fjärdedel av världens befolkning har antisemitiska attityder. Antisemitismen har en högs... [ob-OP]
+11. Stefan Sturessons BlogRösten Som Ropar : Det här är ingen plattform för egotrippat tyckande eller privata funderingar. Jag har startat den här bloggen för att kunna delta i debatten kring viktiga f... [ob-OP]
+12. Telefoni/dator, Annan shopping/butiker, Bank/försäkring/mäklare, Betting/poker/casino, Bostad/trädgård, Bygg, Energi, Familj/Barn, Hemelektronik/spel, Hemsidor, Hälsa/skönhet, Jobb/utbildning, Mat,... [ob-OP]
+13. Länklista - Annes blogg! - Annes tankevärld - Barnmissionen - Bossebilder - En av världens största radiosidor! - En fin blogg fr Frankrike - Gamla bilder delvis s/v - Läkare utan gränser - Malmöbil... [ob-OP]
+14. (Jävsfrågan än en gång, eller om man så vill: en kort lektion i juridik.) Har varit utomlands i två veckor. Under tiden har jag förstått att det  i hägnet av Pirate Bay rättegången har uppkommit en... [ob-OP]
+15. Den nya människan Det genomsyrar hela samhället. Vill du inte agera destruktivt, blir du undanträngd av dem som vill det. Vill en jordbrukare inte använda gifter, antibiotika, konstgödsel och stord... [ob-OP]
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 795 samples
+Register distribution: {'ob-OP': 795}
+
+Examples:
+----------------------------------------
+ 1. tisdag 21 februari 2012 Grekland igen... närmare men ingen lösning Morgonnyheterna låter omväxlande optimistiska och pessimistiska om Greklands framtid. Räddningspaketet ger visst hopp och visst an... [ob-OP]
+ 2. lördag, juni 16, 2007 Hellre våldtagen än mördad? 21 kommentarer: - - Finns det verkligen folk som menar det? Utanför ställen som fortfaranda håller sig med religösa lagar? - 10:44 em - - Det känns... [ob-OP]
+ 3. 2006-07-28 Skulden är omvärldens Skulden i denna i konflikten mellan Israel och Hizbollah ligger på Hizbollah, och inte bara för deras senaste angrepp inne i Israel utan på de många raketer och mån... [ob-OP]
+ 4. Maud Olofsson och nybyggarlandet Maud Olofsson höll den 7 juli sitt sista Almedalstal som partiledare för Centerpartiet. Det var en avspänd, glad och stundtals rörd Maud Olofsson. Cyniskt fusk med ... [ob-OP]
+ 5. Bloggaren Grue skickade länk till en artikel i Sydsvenskan (Snällposten som man säger i Malmö). "Den pågående inströmningen av asylsökande irakier till Sverige kan på sikt bli avgörande för att bev... [ob-OP]
+ 6. Frihetliga perspektiv på aktuella händelser med fokus på rättssäkerhet, kroppslig autonomi - och lite Kina (从个人视角解读法治,时事,自由主义与中国事件) torsdag 22 januari 2009 De ljusblå feministerna Alliansen införde... [ob-OP]
+ 7. 2007-03-15 Kalifornien flyttar till 5 februari Arnold Schwarzenegger bestämde idag att Kaliforniens primärval flyttas till den 5 februari, knappt tre veckor efter första valet i Iowa. Som jag rappo... [ob-OP]
+ 8. lördag 6 juni 2009 Är sossarna korkade i kvadrat... Mona Sahlin påstod att Fredrik Reinfeldt låter desperat. Vilka dumheter. Vem som är desperat visar väl de annonser som sossarna nu presenterar me... [ob-OP]
+ 9. lördag 12 juni 2010 Tidningen Expo avslöjar sverigedemokraterna De namnger ett antal kandidater till fullmäktige i olika kommuner. Dessa kandidater har ett skumt förflutet. Expo var den tidning som... [ob-OP]
+10. torsdag 10 juli 2008 Att dra en Tolgfors Vi bör vara tacksamma som har en sån klok och insiktsfull försvarsminister som vi har. Alla andra, vi vanliga dödliga korkskalliga svenska väljare givetvis,... [ob-OP]
+11. onsdag 28 maj 2014 Argumentera gärna med mig, men förlöjliga inte mina fräknar eller mitt midjemått Jag är kanske fånig. Men jag reagerar så instinktivt och starkt när människor hånar andra människ... [ob-OP]
+12. måndag 17 december 2007 Majoritet för Natomedlemskap Hela 50 besökare har valt att besvara enkäten, 30 med ja och 20 med nej. Det var kanske inte förvånande att bloggens läsare är mer Natopositiva ... [ob-OP]
+13. Sverige har fler muslimer än Grekland! Varför är detta så märkligt? Jo, Samos ligger endast några få kilometer från Turkiets kust och i Turkiet är ca 55 miljoner muslimer ut av en befolkning på ca ... [ob-OP]
+14. Men det här är egentligen samma gamla visa som vanligt. Som Rädda Barnen säger i sin reklam så är världen upp och ner. När vi inte ens kan försäkra oss om att alla har rent vatten, inte ens att all... [ob-OP]
+15. Citat: Jag också! Nu är det så att Sverige står inför betydligt större problem, nämligen massinvandringen, den hotade välfärden och den smygande islamiseringen som sker mitt framför ögonen på den v... [ob-OP]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 503 samples
+Register distribution: {'ob-OP': 503}
+
+Examples:
+----------------------------------------
+ 1. torsdag 9 februari 2012 As the world turns - days of ... Det slog mig att den minst sålda dvd-boxen är tiotimmarsversionen av "Anders Borg kritiserar banker". Den är dock underhållande eftersom att... [ob-OP]
+ 2. Etiketter Nu har det återigen blossat upp en debatt om det här med sanningen om Gömda. Medborgar X tar upp det faktum att Sanningen faktiskt inte ligger någonstans mittemellan. Liza Marklund ljuger... [ob-OP]
+ 3. Jag är en man i mogen ålder med brett samhällsintresse på socialliberal grund. Därtill mycket musikintresserad. Det är främst samhällsintresset som dokumenteras här, enstaka notiser av privat eller... [ob-OP]
+ 4. Hör att Skolinspektionen överväger att införa ett generellt förbud mot ledighet under terminen. Nu ska jag villigt erkänna att jag inte sysslar med skolpolitik och kan (hoppas jag!) ha missuppfatta... [ob-OP]
+ 5. Gift småbarnspappa i mogen ålder med brett samhälls- och musikintresse.Det är främst samhällsintresset som dokumenteras här, enstaka notiser av privat eller allmän karaktär kan förekomma. I likhet ... [ob-OP]
+ 6. Det byggs och byggs och så byggs det. Vi har bostadsbrist och här i Örebro växer nya bostadsområden upp som svampar ur jorden. Befolkningen har ökat så till den milda grad säger våra ansvariga. Uni... [ob-OP]
+ 7. Blir så ledsen när händelser som våldtäkt & tafsning som givetvis är fruktansvärda och oförlåtliga används som argument till att invandringen är fel. Gärningsmännen är en försvinnande liten andel o... [ob-OP]
+ 8. Det tror jag när jag ser det. Jag har sett att Reinfeldts tal har hyllats på sina håll. Han talade nämligen om hur viktigt det var med vårdpersonal som jobbade skift. Han sa det inte rakt ut, men l... [ob-OP]
+ 9. Det gör mig lite irriterad hur rasister väljer att blunda för inhemskt våld, som om svenskar aldrig utför något olagligt. Det har länkats flitigt över en stulen plånbok, smycke, en telefon och någo... [ob-OP]
+10. Robinson-politik Med bara tre dagar kvar till valet så pekar opinionsmätningarna på att alltihop ser ut att bli ett fiasko. Valdeltagandet tros bli rekordlågt. Men jag har några idéer. Det diskuter... [ob-OP]
+11. Jag har väldigt svårt att förstå den enorma reaktionen från högern när det gäller den “familjevecka” som regeringen presenterade i höstbudgeten. Varför ska det inte vara självklart för alla föräldr... [ob-OP]
+12. måndag, april 26, 2010 En dröm för oss småbarnsföräldrar - när sjukvården kommer hem till dig istället för tvärtom Idag presenterade vi socialdemokrater i Stockholms läns landsting vad vi vill göra... [ob-OP]
+13. Staden brinner, Stockholms gator, via kullerstenarna i Gamla Stan, vi broarna genom Slussen, där bortom ligger Söder på sina vackra höjder. Erbjuder en utsikt över vad som är huvudstaden, med pulse... [ob-OP]
+14. Sök Senaste inläggen Senaste kommentarerna Arkiv Kategorier Taggmoln Antal besökare: Prenumerera Bosse Ringholm, biltullar, vård och straff och Israel Signaturen BW (ledarskribent på Länstidningen ... [ob-OP]
+15. Bojkotta Jämo istället för VM Gud så larvigt. Det är väl det mest intelligenta man kan säga om jämställdhetsombudsmannen Claes Borgström krav på att Sverige inte skall ställa upp i fotbolls VM. Hur... [ob-OP]
+
+============================================================
+CLUSTER 3
+============================================================
+Size: 1946 samples
+Register distribution: {'ob-OP': 1946}
+
+Examples:
+----------------------------------------
+ 1. Citat: Herregud, hela iden med att ligga under sociologi och "genusvetenskap" är att ändra på hur folk, framför allt män tänker. Det är helt otänkbart att man försöker förstå männen och det finns i... [ob-OP]
+ 2. Jag tror att alla i Sverige, och för den delen i några andra länder också, engagerar sig i morgondagens bröllop. Antingen för eller emot. Ett bröllop ska vara en glädjefest. Varför då dra upp en ma... [ob-OP]
+ 3. Jag har ett förslag. Bredvid disken där man hyr och lämnar tillbaka mini-golf-klubbor på den lokala campingplatsen, så skulle det finnas en disk till. I den disken ska det stå utbildad personal och... [ob-OP]
+ 4. Denna blogg handlar mest om saker och ting som har med t ex politik, demokrati, politisk korrekthet, invandringsextremism och svenskfientlighet att göra. Det är alltså inte någon blogg som handlar ... [ob-OP]
+ 5. måndag 9 augusti 2010 Major Björkris missar något? Och så kunde man anställa några andra arbetslösa att gå ut i skogen och skära björkris för att bestå eventuella oförbätterliga bråkmakare med en r... [ob-OP]
+ 6. måndag 25 april 2011 Läktaridioti När jag som bäst sitter och öser beröm över känslan att gå på fotboll så gör idioter sitt bästa för att dra ner den känslan i smutsen. Bara för att vissa inte gill... [ob-OP]
+ 7. Svensk debatt är svensk debatt. Är det ett konstaterande som gör mig “antisvensk”? Förvisso är det ett mycket kritiskt konstaterande! Somliga skulle kanske finna det direkt kränkande, mot svenskar ... [ob-OP]
+ 8. måndag, juli 14, 2008 Hemma igen Varit hemma några dagar nu och hunnit med fyra anställningsintervjuer, samt besökt arbetsförmedlingen och skattemyndigheten. Så nu är jag skriven här på hemmaplan. ... [ob-OP]
+ 9. Jag kan hålla med om att Bromma flygplats är ganska bekväm när man ska hem och bor i närheten av flygplatsen, men det känns ändå som att det borde vara smartare att lägga ner flygplatsen och förfly... [ob-OP]
+10. försökte jag nå henne eller någon av hennes medarbetare på redaktionen samt även ansvarig utgivare Mats Pettersson och Carin Sjöberg, vd för Gotlands Media utan resultat. HelaGotland.se verkar best... [ob-OP]
+11. Citat: Finns inget lagrum som förbjudet det. Det handlar bara om praktiska skäl - dvs att det kanske inte alls går att hitta sådana datorprogram för allting offentliga sektorn vill köpa. Ett förbud... [ob-OP]
+12. Helt otroligt! Jag delar Anders's åsikt. Du måste vara inloggad för att skicka mail! I denna tråd så måste jag hålla med bärgningsförespråkarna två gånger - för även jag anser att man skall ta till... [ob-OP]
+13. Dela! Last TweetsTwitter Authentication data is incomplete - Senaste inläggen Senaste kommentarer - catrina om Ännu ett öppet brev till min kommun: - Fred om Ett öppet brev till min kommun: - Sandr... [ob-OP]
+14. Posted in Allmänt, Barn, Brott, Familj, Jämställdhet, Rättvisa ?, Samhällsproblem, Sanning & Lögner, Uppmärksamma detta !, tagged #killgruppen, Allmänt, Övrigt, Diskussion, Diverse, Familj, Förövar... [ob-OP]
+15. måndag 10 maj 2010 Blir det utvisning för Barzan? Det är ovisst vad den sådan ger, men om han visar sig vara frisk och döms för dådet kan utvisning bli en del av påföljden. Vid det tortyrliknande m... [ob-OP]
+
+============================================================
+CLUSTER 4
+============================================================
+Size: 2494 samples
+Register distribution: {'ob-OP': 2494}
+
+Examples:
+----------------------------------------
+ 1. Ett omvälvande år har hastigt passerat. Epoch Times rapporterade under året om många viktiga saker. Av allt som hände i världen under 2012 finns det en fråga som är av särskild vikt, och som inte f... [ob-OP]
+ 2. onsdag 15 april 2009 Det är skillnad på ledighet och sysslolöshet Efter en liten ledighet (närmare bestämt 11 dagar) var det dags att återvända till jobbet igen i dag. Om jag ska vara uppriktig så ... [ob-OP]
+ 3. BNP på BBC Categories: Brittiska medier, Brittiskt allmäntThursday, Oct 22, 2009 Ikväll får vi vårt Jimmie Ågonblick, när BNP:s ledare Nick Griffin för första gången inbjudits att delta i ett konve... [ob-OP]
+ 4. Jag åker inte tunnelbana så ofta men varje gång så kommer det tiggare. Ibland är det falskspelande dragspelare och mest utlänningar men nu är det mer av nedgångna svenskar. Idag var det kvinnor och... [ob-OP]
+ 5. Efter ytterligare en händelselös lördag som toppades av Melodifestivalen som jag genomlider år efter år efter år av ren solidaritet med Maken som verkligen njuter av upplevelsen, vaknar jag till yt... [ob-OP]
+ 6. 01 december 2007 Överdrivna utgifter i schablonerna Oj, vad pengar det kostar att köpa en bostadsrätt i Trollhättan nu för tiden. Här på Lextorp, Östra Fjärilsvägen 91, såldes, enligt Aftonbladet, ... [ob-OP]
+ 7. Det är svårt att sammanfatta en vecka utan att börja med de stora händelserna i arabvärlden. Protesterna sprider sig nu till Libyen, Bahrein och Marocko. Jag har inte följt utvecklingen i detalj, m... [ob-OP]
+ 8. Jag skriver viktiga saker. Det är sant! Nu är jag tillbaka efter ytterligare en dvala. Har haft en period med många sysslor men det är inte enda anledningen jag inte har skrivit på länge. De få led... [ob-OP]
+ 9. onsdag 22 augusti 2012 Full eller bakfull på jobbet? Idag berättar Expressen att Gävleborg blir det första landstinget att alkoholtesta alla sina anställda. Från och med oktober kommer en kontrolla... [ob-OP]
+10. Blir det kalkon i Cancún? Ja, då är det dags igen! FN:s klimatmöte. Nummer 16. Denna gång i Cancún i Mexico. Det blir nog inte ett platt fall likt mötet i Köpenhamn, för det finns inte så mycket at... [ob-OP]
+11. Röda bönor Sanna Carlstedt, känd från en rad vänsterarrangemang, är en ganska begåvad singer/songwriter som inleder min text om LO i SvD idag. Hennes röst var klar och lekte lätt med trubadurmanére... [ob-OP]
+12. Den här veckan har inte varit någon bra vecka. Ur pendlarsynpunkt, vill säga. Har inte tåget varit lite försenat har det varit kraftigt försenat, eller helt och hållet inställt, eller så har det kö... [ob-OP]
+13. Om ni någon gång den senaste månaden har kollat på TV så har ni troligtvis sett reklamerna för TV3´s nya program "Cirkus Magaluf" som enligt reklamen handlar om hur det är att jobba som bartender i... [ob-OP]
+14. "2009 är ett år då funktionshinder särskilt uppmärksammas i SVT och de tre dansprogram som sänds under kvällen 29 april fokuserar på kroppens uttrycksmöjligheter och hur fysiska gränser tänjs och u... [ob-OP]
+15. Den senaste veckan har jag sett hur diverse IT-journalister dräglat över den sensationella nyheten att Microsoft kommer att släppa en ny version av sitt kontorsprogram Microsoft Office. Ta till exe... [ob-OP]
+
+============================================================
+CLUSTER 5
+============================================================
+Size: 3699 samples
+Register distribution: {'ob-OP': 3699}
+
+Examples:
+----------------------------------------
+ 1. Jag fick ett förslag – om att ge rätt information! Strålande med aktiva läsare av min blogg, jag tycker om att få feedback oavsett om den är bra eller dålig. Min tanke med bloggen är ju att utveckl... [ob-OP]
+ 2. Vetenskapliga rapporter bygger i regel på en mer eller mindre rigorös genomgång av den forskning som finns på ämnet. Rapporterna som föregående inlägg byggde på är inga undantag. För att inte göra ... [ob-OP]
+ 3. Andelen personer som inte klickar sig vidare från sökresultatet har ökat mycket de senaste åren. Kommer detta innebära en framtid där resultaten av att synas på Google inte går att mäta lika bra so... [ob-OP]
+ 4. Det finns nästan inget alls att läsa kring Janus Korchack på svenska vilket gör mig förundrad. Sverige, så som framsynta kring barns rättigheter med allt från BRIS till Barnombudsmannen, tycks ha m... [ob-OP]
+ 5. Deliberativ demokrati bygger demokrati med hjälp av minoriteter medan liberal demokrati bygger demokrati med hjälp av majoriteten (dominans). Deliberativ demokrati överväger en mångfald av argument... [ob-OP]
+ 6. Strategi by Peps, Kirk och Spock 02 10 12 21:31 Kategorier: Livet som CIO | Krönikor i Computer Sweden Effektivitet i ett bolag är ofta ett lustigt nollsummespel. Ska jag vinna måste någon annan be... [ob-OP]
+ 7. (Ja priset till Nobels minne alltså). Har det någon betydelse för energieffektivisering och uthållighet? Årets pris går till en grupp som arbetat med “Mechanism Design Theory” och kan säkert ha sto... [ob-OP]
+ 8. Harry Lunabba: Hur familjer i Svenskfinland upplevde och hanterade första vågen av coronapandemin Det finns mycket som tyder på att man i Finland kan vara rätt nöjd över hur vi hanterat den första ... [ob-OP]
+ 9. Ska Sverige gå med i NATO? Klart är att det är vad våra makthavare arbetar för. • Den brådstörtade nedmonteringen av det svenska militära försvaret, fanns det ett syfte bakom detta såtillvida att v... [ob-OP]
+10. Publicerad 2019-02-02I veckans partiledardebatt hävdade statsminister Stefan Löfven att den nuvarande mittenregeringen vilar på den den liberala demokratins grunder: En stark rättsstat och ett orub... [ob-OP]
+11. Full resolution (JPEG) - On this page / på denna sida - Sidor ... > nästa sida >> next page >> Below is the raw OCR text from the above scanned image. Do you see an error? Proofread the page now! H... [ob-OP]
+12. Internets utveckling har inneburit stora svallvågor inom många av samhällets områden, och vården är förstås inget undantag. I alla tider har det funnits behov av att se till att vi håller oss frisk... [ob-OP]
+13. För nästan 20 år sedan jobbade jag med ranking – betygssättning – på internet. Företaget hette Cint och meningen var att skapa konsumentmakt genom att vi alla satte betyg på prylar och tjänster så ... [ob-OP]
+14. Tystnaden på jobbet ORGANISATION & LEDARSKAP. Är vi på väg mot ett allt hårdare företagsklimat med allt lägre i tak? Verksamhetschef Affi Kölevik tycker sig se en tydlig trend i att tystnaden brede... [ob-OP]
+15. I Sydsvenskan skriver man att "Adhd uppstår i ett komplicerat samspel mellan arv och miljö. Intensiv forskning pågår för att hitta samband och orsaker. Här är några tänkbara förklaringar till att b... [ob-OP]
+
+============================================================
+CLUSTER 6
+============================================================
+Size: 619 samples
+Register distribution: {'ob-OP': 619}
+
+Examples:
+----------------------------------------
+ 1. Jag kom att tänka på en sak angående ideologier i en demokrati. Folk verkar resonera utifrån hur de vill att samhället ska vara enligt deras ideologi som om demokratin inte fanns. Men en demokratis... [ob-OP]
+ 2. Nej, säger Sturmark som tycker det är en myt. Nu börjar han faktiskt bli tröttsamt tjatig. Att han sällar sig till historierevisionisterna börjar bli mer och mer klart. Han sällar sig också till de... [ob-OP]
+ 3. Man kan motsätta sig dödsstraff därför att man betraktar livet som heligt oavsett vad en människa har begått för hemska handlingar. Man behöver inte ha något sådant religiöst färgat synsätt för att... [ob-OP]
+ 4. Hederskultur används felaktigt för att kollektivt skuldbelägga människor. Det största felet man begår i debatten är att man ser religion som den viktigaste orsaken till att vi har en värld där hede... [ob-OP]
+ 5. UN Watch rapporterar om antisemitismen inom UNRWA – som stöds av Sveriges skattebetalare med hundratals miljoner kronor varje år UNRWA är ett FN-organ som har det märkliga syftet att hålla arabiska... [ob-OP]
+ 6. Det bisarra kriget mot terrorismen2 kommentarer Publicerat av Björn Pedersen 24 november 2006 i Säkerhetspolitik, Utrikespolitik Wille på bloggen The Libertarian in Room 101 tar upp ett intressant ... [ob-OP]
+ 7. ”Kommunisterna” har snyggat till och moderniserat sin kostym. De har samlat ihop sig och presenterar sig nu på nätet på ett mycket bra sätt, fräscht, slagkraftigt och lättöverskådligt. Även den gam... [ob-OP]
+ 8. Min kollega i Apologia, Mats Selander, skriver lysande om samtycke och den starkes rätt. Artikeln finns i nättidningen Morgonbladet: Det pågår ett krig i vår kultur. Ett krig mellan de som tror att... [ob-OP]
+ 9. Dagens politik i ett nötskal: Glöm allt prat om vänster och höger samt om borgerlig kontra socialistisk politik. Dessa ideologier är bara strukturerade produkter för att folket inte ska förstå vad ... [ob-OP]
+10. Ett gott råd! ”Lyd ett råd. Glöm bort det där med rättssäkerhet i några år. Glöm bort det där med mänskliga rättigheter. Ni måste gå in i varje hus och börja uppifrån och ner och rensa. Om ni vill ... [ob-OP]
+11. Mats Tunehag Nej, alla kulturer är inte lika bra och en del kulturrelaterade attityder och beteenden måste bekämpas. Vi kan aldrig acceptera en kultur där kvinnor är rättslösa, där kristna förföljs... [ob-OP]
+12. Frågan är faktiskt på sin plats, även om jag inte frågar för egen skull, utan för mina bröder därute. Runt om i landet finns många hedningar med en annan inriktning än min, men som jag ändå respekt... [ob-OP]
+13. I princip två förutsättningar krävs för att hos allmänheten kunna driva igenom en osann bild av verkligheten:1. Överlägsen ”eldkraft”, genom mediaresurser och budbärare som kan ständigt upprepa vis... [ob-OP]
+14. Juridik &Personligt &Politik lage | 29 apr 2014 Veganen Per-Anders felslut Jag läste ett inlägg av Per-Anders Svärd som i korthet handlade om hur dåligt det är att vara lakto-ovo-vegetarian. Jag sk... [ob-OP]
+15. I de första veckorna på grundkursen i filosofi får man lära sig en viktig princip, som präglar en filosofs sätt att närma sig ett argument. Principen kallas “the principle of charity”, eller “välvi... [ob-OP]
+
+============================================================
+CLUSTER 7
+============================================================
+Size: 1713 samples
+Register distribution: {'ob-OP': 1713}
+
+Examples:
+----------------------------------------
+ 1. Från den 1 december är det krav på vinterdäck för alla bilar. I detta sammanhang har det från bl a Stockholm ropats på dubbdäcksförbud dels nationellt och dels på vissa platser. För oss som bor i m... [ob-OP]
+ 2. Vi lever idag med ett trassligt skattesystem som bestraffar arbete mer än någonsin. Det är ett lapptäcke av punktskatter, moms på skatt och diverse undantag. Vår regering har höjt skatterna sedan d... [ob-OP]
+ 3. ”För att den som utsätts för brott ska kunna känna att rättvisa skipas måste straffen stå i bättre proportion till den kränkning som brottsoffret utsätts för. Därför arbetar vi för hårdare straff f... [ob-OP]
+ 4. Debatt Att besöka sjukvården är en utsatt situation för många patienter. Det blir inte enklare om patienten och personalen dessutom pratar olika språk. Även om man pratar bra svenska så kan det var... [ob-OP]
+ 5. Vem kan bäst avgöra i vilken skola deras barn ska gå, föräldrarna eller socialdemokraterna? Den frågan ställer sig liberalernas Johan Ekström i den här repliken på en tidigare debattartikel från Ro... [ob-OP]
+ 6. Arbetsmarknadsministern har ordet 5 - 2012 Regeringens mål är full sysselsättning. En viktig del i att nå detta mål är att skapa breda vägar till jobb för grupper med svag förankring på arbetsmarkn... [ob-OP]
+ 7. Karin Båtelsons artikel under Signerat, »Journal på nätet kräver etiska hänsyn«, i Läkartidningen 22/2013 (sidan 1079), kräver en kommentar. Vi har haft förmånen att aktivt följa och ta del av det ... [ob-OP]
+ 8. Svenskt Näringsliv är förvånat över den fackliga och politiska reaktionen på förslaget till tjänstedirektiv. Eva Jivmark och Sverker Rudeberg, Svenskt Näringsliv ger sin hyllning till innehållet på... [ob-OP]
+ 9. Regeringen måste satsa på att nå Nagoyamålen! 2012-10-20 (publicerad i Dala-Demokraten, Folkbladet) Just nu sitter ministrar från hela världen, bland andra Sveriges miljöminister Lena Ek, i indiska... [ob-OP]
+10. I nyhetsrapporteringen om Feministiskt initiativs skuggbudget kan man läsa att Fi vill höja skatterna.Men vår främsta ambition är att begränsa delar av skatteavdragen från den borgerliga regeringsp... [ob-OP]
+11. Ingen ung ska bli kriminell Nu sitter fler kriminella bakom lås och bom och vi har aldrig haft så många poliser som nu och fler ska det bli. Men så länge nya barn och unga rekryteras till gängen så... [ob-OP]
+12. Om hela Sverige ska växa måste det finnas jobb. Coronakrisen gör nu att arbetslösheten ökar dramatiskt. I Dalarna är i nuläget 6538 personer arbetslösa och antalet varsel har ökat mycket kraftigt. ... [ob-OP]
+13. Slutreplik Civil olydnad, 31/7 och 1/8 Tobias Billström (M) och Jonas Ransgård (M) påpekar att det inte är någon hemlighet att Vänsterpartiet och Moderaterna har olika syn på asylpolitiken. Så lång... [ob-OP]
+14. Direktlänk till inlägg 26 november 2013 Till samtliga Ledamöter i Sveriges Riksdag Protest mot hanteringen av våra rättigheter!! I TV4:s samhällsprogram Kalla fakta söndagen den 10 november beskriv... [ob-OP]
+15. Personlig integritet blir allt svårare att bibehålla i och med digitaliseringen och internet som samlar in data av allt man gör. När tekniken utvecklas snabbt och möjligheten att samla in informati... [ob-OP]
+
+============================================================
+CLUSTER 8
+============================================================
+Size: 3952 samples
+Register distribution: {'ob-OP': 3952}
+
+Examples:
+----------------------------------------
+ 1. Rubriker om ekonomisk kris och sämre tider duggar tätt. Den ekonomiska oron tränger igenom semesterlugnet och får alltfler att fundera över vad morgondagen bär i sitt sköte. I går enades Euroländer... [ob-OP]
+ 2. I dessa hårda tider tvingas företagen till ovanligt många och stora nya lösningar och improvisationer. ”Krävs politiskt krafttag mot regelkrångel och rättsosäkerhet” Oavsett vilken sida som segrar ... [ob-OP]
+ 3. Det var skolan som stod på agendan under Miljöpartiets dag i Almedalen. Men frånsett ett konkret förslag blev det mest slag i luften. Trots god retorik lyckades Gustav Fridolin inte höja temperatur... [ob-OP]
+ 4. Vätternvårdsförbundet presenterade för några år sidan siffror som att uppemot 30 000 rödingar beräknas återutsättas vid fritidsfiske i Vättern varje år. Kunskapen om rödingens överlevnad vid återut... [ob-OP]
+ 5. Nina Ekelund skriver i en debattartikel i Kristdemokraten att ”klimatskeptikerna måste lära sig att skilja på väder och klimat”. Hon är upprörd över att tre kristdemokrater – Alf Svensson, Ingemar ... [ob-OP]
+ 6. Självklart kan man testa vad man vill. Det står en fritt. Men att göra som Röhsska museets chef Ted Hesselbom ansöka om att bli zigenare (rom), är det att gå för långt? Alla har vi vår etnicitet fr... [ob-OP]
+ 7. Debatt: Släpp friluftsorganisationer in i skolan och elever ut i naturen DEBATT. Kostnaden för hälsoutgifter i Sverige ökar och bara en minoritet av eleverna når den dagliga rekommendationen av rör... [ob-OP]
+ 8. Äldres rättigheter har på sista tiden varit en brännande fråga. Coronakrisen har fört med sig en livlig debatt kring bemötandet av äldre och äldres möjligheter att delta i samhället. Brister i beha... [ob-OP]
+ 9. Jag tror de flesta är medvetna om att med context-aware mobila devices och datorer befinner vi oss redan i ett samhälle där alla svenskars rörelser kommer att kunna övervakas 24/7 dygnet om. Vem du... [ob-OP]
+10. dansk-per.jpg Den jättelika estniska elefanten i rummet Penningtvättshärvan i Danske Bank måste ses som en av de största skandalerna i nordiskt näringsliv på mycket länge. Det är uppenbart att ansv... [ob-OP]
+11. Avvaktande tveksamhet är den bästa beskrivningen på hur den brittiska fackföreningsrörelsen ser på det nya parti som vuxit fram sedan den välkände filmregissören Ken Loach skrev ett upprop i The Gu... [ob-OP]
+12. Ekonomi Av Farmor Anka 2012-10-20 18:55 Detta är en världsensation om det är sant. Tänk om detta går att göra i stor skala. Snacka om att det i blir kris i mellanöstern, då ingen vill ha deras olja... [ob-OP]
+13. DN-journalist får klimatpris för dubbel bokföring Journalisten Alexandra Urisman Otto på Dagens Nyheter fick föregående vecka Aftonbladets klimatjournalistpris 2021. Problemet är att Alexandra Uris... [ob-OP]
+14. I Norrtäljetrakten uppdagas nu ett nytt fall av maktmissbruk inom Socialtjänsten. Mitt i natten gör Socialtjänsten och Polis ett tillslag hos en familj och griper pappan. Dottern tvingas följa med ... [ob-OP]
+15. Uppdatering av Benjamin Fulford, 9 maj 2016 Större rörelser på flera fronter, inklusive amerikanskt regimskifte och allvarlig politisk oro i Kina Det finns allvarliga och obestridliga förändringar ... [ob-OP]
+
+============================================================
+CLUSTER 9
+============================================================
+Size: 3368 samples
+Register distribution: {'ob-OP': 3368}
+
+Examples:
+----------------------------------------
+ 1. Alternativ rubrik: ”Peter Harold dödförklarar den svenska piratrörelsen – och hoppas på någonting annat” Bästa läsare! Jag har just återvänt från vallokalen och avlämnat min röst med personkryss på... [ob-OP]
+ 2. Solidaritet har blivit medelklassens nya smycke. Jag vet för jag är en del av den. Jag bor i Hornstull där var fjärde röstade på Feministiskt initiativ. SD talar på ett språk som väljarna förstår, ... [ob-OP]
+ 3. Hur det kan vara lagligt att direktörer och chefer tillåts suga ut företag och fonder på mångmiljonbelopp för egen räkning som löneförmåner är obegripligt. AMF-bonusarna, bonusar i statliga företag... [ob-OP]
+ 4. Det är så typiskt Sverige: det går inte. Alltid är det något som sågas på grund av jantelagen. Jag blir lite trött på svenskheten som lyckas kanalisera den svenska kollektivismen på sämsta sätt. Nu... [ob-OP]
+ 5. Igår offentliggjordes kvoterna för Östersjön inför 2020. Ingen är nöjd. Danska yrkesfiskare är mycket missnöjda med att kvoten för torsk i västra Östersjön minskar då torsken där inte har några pro... [ob-OP]
+ 6. 28 augusti hade Kerstin Vinterhed en intressant krönika(?) på familjesidan i DN. Hon beskriver hur nyliberalismen gör att goda reformer ”förfuskas”. Bland annat tar hon upp alkoholpolitiken och bes... [ob-OP]
+ 7. Valet 2010 är slaget om pensionärerna. Generation 65+ behövs bland beslutsfattare, skriver Marianne Watz, Lennart Levi och Karl-Erik Olsson i SVD idag. Bara en procent kommer att vara 65 år eller ä... [ob-OP]
+ 8. söndag 7 september 2014 Söndagskrönika: SD och SvP, två grenar på samma träd Under valrörelsens slutskede har avslöjandena om Sd-kandidater haglat tätt. Det mest uppmärksammade fallet hittills är t... [ob-OP]
+ 9. Attityderna till bidragstagare känns inte riktigt rumsrena? Att det ofta är makthavare, ”samhället”, som står för dessa känns förfärande. I Kalla Fakta raljerade juristen som nu åter är aktuell i J... [ob-OP]
+10. Nu är det invandrarminister Billström som får kritik av husse Reinfeldt men får stöd från de moderata kommunalråden som inte har möjlighet att på ett anständigt sätt ta emot fler flyktingar. Altern... [ob-OP]
+11. Idag har även Lena Ek valt att integritetscertifiera sig, vilket innebär att 4 av 5 av Centerpartiets toppkandidater har integritetscertifierat sig. När det gäller Lena Ek så kunde jag bara jubla n... [ob-OP]
+12. I dagsläget lyckas inte Piratpartiet synas i opinionsundersökningarna som regelbundet ges ut. På grund av att man inte får exponering i bland annat opinionsundersökningar syns inte heller Piratpart... [ob-OP]
+13. Därför bör vi reformera men bevara nämndemannaväsendet Det är naivt att tro att rättstillämpning är en mekanisk aktivitet lika opersonlig som att skruva ihop en bilmotor. Juridik är inte en ingenjö... [ob-OP]
+14. fredag, september 15, 2006 Mäns våld mot kvinnor het fråga i slutdebatten För ovanlighetens skull lyftes frågan om mäns våld mot kvinnor i svt:s slutdebatt ikväll. Alla partierna är såklart emot at... [ob-OP]
+15. Posted in Uncategorized, tagged Ämnes- och stadiebehöriga lärare, Elevresultat sjunker i Göteborg, Göteborgs anställda konsulter, Göteborgs kommunala skolor, Grundskolan, Lärarlöner släpar efter, L... [ob-OP]

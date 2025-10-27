@@ -1,0 +1,172 @@
+Keyness analysis for sv/IN-NA-nb
+Original reference corpus: 329050 texts from regions ['HI-NA-nb-re', 'ds-IP-NA-nb', 'NA-ob-OP', 'NA-nb-OP', 'IP-NA-nb', 'IN-NA-nb', 'NA-nb-ob-OP', 'NA-nb-OP-rv', 'ID-NA-nb', 'NA-nb', 'ID', 'NA-nb-ne', 'ob-OP', 'NA-nb-sr']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 0 ===
+Target: 68 texts, 20940 words
+Reference (excluding this cluster): 328982 texts, 178919239 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. kullar             49.85
+ 2. kull               46.44
+ 3. född               42.88
+ 4. valpar             38.06
+ 5. stamtavlan         35.75
+ 6. kennel             35.04
+ 7. drottningtronen    33.94
+ 8. förmodligen-inte-kommer-uppskatta-det-den-här-gången-heller    33.94
+ 9. skogkrokodilen     33.94
+10. tik                32.40
+11. kastrat            32.08
+12. valp               30.67
+13. engine's           30.12
+14. järntass           30.12
+15. nafsas             28.39
+16. krokodillan        28.39
+17. sspin              28.39
+18. utställningschampion    26.34
+19. bonzai             25.56
+20. avelsägg           22.78
+
+==================================================
+
+=== CLUSTER 1 ===
+Target: 358 texts, 200846 words
+Reference (excluding this cluster): 328692 texts, 178739333 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. styrelsen         879.44
+ 2. information       405.88
+ 3. medlemmar         370.64
+ 4. föreningens       306.48
+ 5. årsmötet          305.28
+ 6. föreningen        296.73
+ 7. styrelsens        289.71
+ 8. stämman           280.21
+ 9. hemsidan          253.39
+10. årsmöte           240.71
+11. fastställande     239.10
+12. kallelse          238.39
+13. verksamhetsberättelse   234.68
+14. verksamhetsplan   232.40
+15. årsstämma         216.00
+16. styrelse          209.50
+17. protokoll         207.41
+18. datum             204.58
+19. verksamhetsåret   203.09
+20. röstlängd         201.73
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 434 texts, 262221 words
+Reference (excluding this cluster): 328616 texts, 178677958 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. olika             123.13
+ 2. samt              101.20
+ 3. eleverna           75.98
+ 4. används            72.18
+ 5. vanligaste         71.80
+ 6. funktioner         69.31
+ 7. information        68.93
+ 8. nedan              68.86
+ 9. studien            68.73
+10. text               66.12
+11. studie             64.63
+12. består             64.04
+13. arbetet            63.21
+14. innehåll           62.50
+15. ofta               60.05
+16. undersöka          58.40
+17. genom              56.97
+18. typer              56.95
+19. användas           56.58
+20. exempel            55.94
+
+==================================================
+
+=== CLUSTER 3 ===
+Target: 131 texts, 74596 words
+Reference (excluding this cluster): 328919 texts, 178865583 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. pedagoger          93.23
+ 2. arbetar            80.79
+ 3. presentation       75.65
+ 4. projekt            67.99
+ 5. arbetet            66.08
+ 6. aktiviteter        65.45
+ 7. projektet          65.34
+ 8. personal           63.77
+ 9. henrixon           62.63
+10. buisson            62.63
+11. verksamhetsplan    57.53
+12. styrelsen          57.35
+13. verksamhetsåret    56.88
+14. skolbanken         56.40
+15. kvalitetsarbete    55.63
+16. arbetat            55.16
+17. medlemmar          54.02
+18. arbetsplanen       53.28
+19. målläs             53.28
+20. arbete             53.25
+
+==================================================
+
+=== CLUSTER 4 ===
+Target: 59 texts, 9007 words
+Reference (excluding this cluster): 328991 texts, 178931172 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. kontakta           45.52
+ 2. webbplatsen        42.90
+ 3. information        35.45
+ 4. resolutors         34.51
+ 5. resolutor          34.51
+ 6. startsidessektion    34.51
+ 7. startsidessektioner    34.51
+ 8. hemsides-sektion    34.51
+ 9. användarspecifik    30.69
+10. wordpress          28.10
+11. loggas             26.28
+12. länk               26.04
+13. webbläsares        24.08
+14. hemsida            23.41
+15. startsidan         23.23
+16. fragbites          22.73
+17. sida               22.55
+18. länkar             21.92
+19. adress             21.70
+20. fragbite           20.58
+
+==================================================
+
+=== CLUSTER 5 ===
+Target: 119 texts, 32900 words
+Reference (excluding this cluster): 328931 texts, 178907279 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. sajter             34.27
+ 2. spoofse            31.70
+ 3. team-manager       31.70
+ 4. ckbarriar          31.70
+ 5. ingridkjell        31.70
+ 6. cx-klubb           31.70
+ 7. stockholmcykelklubb    31.70
+ 8. gymnasiet          29.69
+ 9. basemile           27.88
+10. snowdown           27.88
+11. köpsäljråd         27.10
+12. åsiktertolkningar    26.92
+13. stenerhag          26.16
+14. howrse             24.06
+15. stockholmsbaserad    24.06
+16. onlinespelen       23.33
+17. rissveds           22.17
+18. studietakten       20.89
+19. företagsbesök      20.15
+20. linkedin           20.03
+
+==================================================

@@ -1,0 +1,168 @@
+
+============================================================
+CLUSTER 0 (NOISE)
+============================================================
+Size: 158 samples
+Register distribution: {'HI-NA-nb': 158}
+
+Examples:
+----------------------------------------
+ 1. lauantai 15. huhtikuuta 2017 Haaste #23 Oikein mukavaa Pääsiäistä kaikille! Ja samalla uuden haasteen pariin: Haaste #23: LIIKKUVA OSA Haasteen nimen mukaan siis kortissa tulisi olla jokin liikkuva... [HI-NA-nb]
+ 2. Pääsin koittamaan Fimomassoja ennen joulua Kotopirkkojen ja CChobbyn yhteistyössä (klik). Silloin tein jouluisia tonttuja, mutta ihastuin massan helppokäyttöisyyteen ja monipuolisuuteen ja päätin m... [HI-NA-nb]
+ 3. torstai 27. helmikuuta 2014 Lapsuuden kultahetket kera vohveleiden 3 kommenttia : - Anonyymi1. maaliskuuta 2014 klo 16.38 Millä reseptillä teitte vohveleita?VastaaPoistaVastaukset Löysimme eräästä ... [HI-NA-nb]
+ 4. Rentoutusharjoituksissa ihmistä pyydetään usein kuvittelemaan jokin kaunis, rauhallinen paikka, jossa hänen on hyvä olla. Minun ei tarvitse kuvitella, sillä paratiisini on oikeasti olemassa. Astun ... [HI-NA-nb]
+ 5. Hei ja mukavaa lauantaita! Viikonloppuisin jää monesti ihanaa luppoaikaa eli silloin mun mieleen hiipii yleensä leipominen. Lapsille ei tarvitse vihjaista puolta sanaakaan, kun he ovat jo asemissa.... [HI-NA-nb]
+ 6. Tässäpä jälleen (mulle) uusien materiaalien kokeilua, jonka Titityyn verkkokauppa tuossa taannoin mahdollisti. Yhdestä pellavavyyhdistä syntyi jo tuubihuivi . Kun mietin, mitä voisi tehdä Lanaknits... [HI-NA-nb]
+ 7. Tänä vuonna olen päättänyt tehdä joulukoristeet käyttäen luonnonmateriaaleja. Osan materiaaleista olen kerännyt itse pihalta tai lähimetsästä ja osan olen ostanut kaupasta. Myös kaupasta ostamani t... [HI-NA-nb]
+ 8. Thursday, 5 July 2012 Ice tea. Kesäsuunnitelma nro 7. on semisti toteutettu. En katsonut mitään ohjeita, saati ostanut erikseen aineita. Otin mitä kaapista löytyi ja testasin näppituntumalla. Keiti... [HI-NA-nb]
+ 9. Syötävällä kakkukuvalla saa näyttävän ja helpon koristeen kakun päälle. Kakkukuva voi olla vaniljapaperia, sokeripaperia tai vohvelipaperia. Näissä kakuissa on käytetty vaniljapaperia, jonka laitoi... [HI-NA-nb]
+10. * * * For English please see here * * * Jos hepreankielen taitoni on vähäinen, on arabiani käytännössä olematonta. Eipä sillä ole juurikaan ollut väliä - työskennellessäni Länsirannalla paikalliset... [HI-NA-nb]
+11. - Valmista voi-tai lehtitaikinaa ,tai kotitekoista rahkavoitaikinaa - Kypsiä banaaneja,ohuiksi palasiksi leikattuna - Nutellaa tai sen tapaista suklaatahnaa - tummaa sokeria - tomusokeria valmiiden... [HI-NA-nb]
+12. sunnuntai 29. marraskuuta 2009 Piparit Ei tule joulua - edes pikkujoulua - ilman pipareita. Kokeilin tällä kertaa koristella osan pipareista suklaalla, eikä tulos ollu hullumpi. Jos taikina tuntuu ... [HI-NA-nb]
+13. Kahden ompelevan äidin yhteinen blogi, jossa ompeluksia roolileikkeihin, kotileikkiin, lastenhuoneen sisustukseen... 12. lokakuuta 2014 Ompelukoulu osa 1. Nuken makuupussi tutoriaali 7-vuotias tytt... [HI-NA-nb]
+14. Muistattehan lukea osallistumisohjeet=) Kortin tulee olla nimenomaan tähän haasteeseen tehty, ei voi samalla osallistua muihin haasteisiin=) Palkinnon onnekas saaja tässä haasteessa nro3 LuovaSti ,... [HI-NA-nb]
+15. Biskvi, tuo minulle entuudestaan täysin tuntematon leivonnainen. Kävin keväällä Tukholmassa ja ostin siellä eräästä herkkukaupasta hyvinkin paljon bebe-leivosta muistuttavia pyöreitä leivoksia. Enn... [HI-NA-nb]
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 55 samples
+Register distribution: {'HI-NA-nb': 55}
+
+Examples:
+----------------------------------------
+ 1. Avainsana-arkisto: riisi Hedelmäinen linssicurry Makea ja mausteinen pataruoka, joka on nopea pakata mukaan ja helppo valmistaa. Annoskoko on kahdelle pienehkö; yksi iso mies saattaa syödä kaiken y... [HI-NA-nb]
+ 2. Juustokakku 14 Pins 3y Collection by Similar ideas popular now Baking Baking Recipes Pastry No Bake Desserts Vegan Desserts Päällimmäinen ajatukseni tällä hetkellä: ihanaa tehdä teille tämä ohje! :... [HI-NA-nb]
+ 3. Kun jouluaikaan ollaan oltu tarpeeksi kauan samojen naamojen kanssa neljän seinän sisällä, lähdetään vierailuille mummolaan, kummilaan tai naapuriin. Joulukonvehtien tahmentama ajatus kulkee jotaku... [HI-NA-nb]
+ 4. Tässä minun versioni pikkuleipurin esiliinasta, joka on helppo pukea ja kasvaa lapsen mukana.Continue Reading Vauvan hellepusero – ensikosketukseni tuplaharson ompeluun ja miten siinä kävikään Test... [HI-NA-nb]
+ 5. Avainsana-arkisto: parsakaali Tofupinaattipasta Helppo ja tuhti kasvisruoka. Ennen lähtöä on kuivattava 1 pkt tofua, pieni parsakaali ja 1,3 pussia pakastepinaattia. Jos sopivasti sattuu, pasta-ann... [HI-NA-nb]
+ 6. Oliivit kotitekoisella kastikkeella Talossani on tällä hetkellä perinne ostaa katkeria oliiveja, koska ne on otettu oliivipuista ja maustaa ne mieleisekseen. Mitä… Sveitsiläinen chard valkosipulipe... [HI-NA-nb]
+ 7. ”Pannullinen kasviksia” on vain yksi versio monista erilaisista paistoksista, jotka hätätilanteessa valmistuvat niistä aineksista, joita kotona sattuu olemaan. jatka lukemista Avainsana: kukkakaali... [HI-NA-nb]
+ 8. Makeat piirakat 77 Pins 1y Collection by Similar ideas popular now Baking Food And Drink Baking Recipes Pastry Muutaman päivän jyllännyt mutakakkuhimoni ei antanut periksi, vaikka kuinka koitin pis... [HI-NA-nb]
+ 9. Pinaattikeitto on maistuva arkiruoka, joka valmistuu yllättävän helposti ja pienellä vaivalla. Pinaattikeiton valmistukseen tarvitaan vain muutama ... Keitot Maukas hirvikeitto Tämä hirveen hyvä hi... [HI-NA-nb]
+10. Tomaatti Tarte Tatin - parasta juuri nyt Punavuorigourmet.blogspot.com keskiviikko 6. tammikuuta 2016 09:39 Unkarilainen isoisäni rakasti jo ranskalaista Tarte Tatinia, ja meilläkin sitä on tehty p... [HI-NA-nb]
+11. Glögigraavattu lohi Todella herkullinen ja joulukalan ohje löytyi viime jouluna Yhteishyvän ruokalehden numerosta 12/04. Glögi ei maistu liikaa, mutta antaa kalalle kivan säväyksen. Rosépippuri ja ... [HI-NA-nb]
+12. Laura | 19.9.2010 | Ruoka | Laittelenpa tähän vähän maistiaisia meidän kesästä, jonka vietimme melkein kokonaan mökillä 🙂 Kuvauskalustona käytin aika pitkälti kehnoa kännykkää ja kattauksena meillä... [HI-NA-nb]
+13. Nyt jaankin kanssanne sellaisen reseptin, että jopa hammaspeikkoja hirvittää tämä sokeri määrä. Näitä ei kuitenkaan tule syötyä muutamaa palaa enempää kerralla (ehkä)! Näitä suussa sulavia fudge pa... [HI-NA-nb]
+14. Ystävänpäivää vietetään tulevana perjantaina 14.2. Kokosinkin se mielessäni listan kymmenestä kavereidenilahduttamisleivonnaisesta. Reseptien makumaailmassa on suklaata ja väreissä punaisen sekä va... [HI-NA-nb]
+15. Avainsana-arkisto: omena Nokkosomenamuhennos Leirintäalueella soijapunajuuripihvien seuraksi syntyi edellisen aterian jämistä ja vierestä löytyvistä vihanneksista raikas lisuke. Tuoreet ainekset on... [HI-NA-nb]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 126 samples
+Register distribution: {'HI-NA-nb': 126}
+
+Examples:
+----------------------------------------
+ 1. Helpoin tapa poistaa nestemäinen mattahuulipuna Tämä meikkivinkki on itsellenikin aivan tuore tuttavuus. Sain kuulla tästä aivan mahtavasta meikinpoistokikasta ihanalta Noralta, jonka kanssa satuim... [HI-NA-nb]
+ 2. Tee super-tuloksia Suomen kokeneimman PT:n menetelmillä: Personal training, Kuntotestaus, Koulutus- ja asiantuntijatehtävät, luennot www.th-valmennus.com tiistai 17. elokuuta 2010 Valmentajan sapus... [HI-NA-nb]
+ 3. Meidän perheessämme syntyy melko paljon biojätettä, sillä käytämme paljon hedelmiä ja kasviksia, jotka pitää kuoria ennen syömistä, lisäksi lapset jättävät jonkin verran ruokaa syömättä ja meille m... [HI-NA-nb]
+ 4. Sokeri ja etenkin sen liiallinen käyttö on ollut monissa medioissa puheenaiheena koko syksyn. Nyt joulun alla moni syö sokeria vielä tavallistakin enemmän, ja tammikuussa lehdet tyypillisesti täytt... [HI-NA-nb]
+ 5. Esittelenpä teille nyt kaksi islantilaisen kotiruoan juhla-ateriaa: lampaanpylly ja niin sanottu hummeri. Ne ovat Islannin versiot suomalaisen sunnuntain paahtopaistista ja poronfileestä. Hienoimmi... [HI-NA-nb]
+ 6. Testaappa vaikka ihan mielenkiinnosta tai tarvitsetko kaivon pihallesi? Vai oletko jo kokeillutkin vesisuonen löytymistä? Onko sinulla metrin pätkä kuparilankaa? Jos ei, kipinkapin rautakauppaan. T... [HI-NA-nb]
+ 7. Tammikuun vinkki Lukija (kiitos Plei !) vinkkasi minulle syksyllä tuotteesta nimeltä Naturata-vaniljajauhe ja vinkkejä on mukava jakaa eteenpäin, kun hyödylliseen sellaiseen törmää. Vaniljajauhetta... [HI-NA-nb]
+ 8. Viimeisen viiden vuoden aikana toinen toistaan kauniimmat kampaukset ovat palanneet takaisin katukuvaan. Ensin tulivat letit, sitten erilaiset kieputuskampaukset ja lopulta valkkinutturat. Ihailin ... [HI-NA-nb]
+ 9. Grillivartaat possunfileestä Omatekoisten grillivartaiden syöminen on toisinaan melkoisen hankalaa puuhaa, kun tikkuun on tungettu jos jonkinlaista eri aikaan kypsyvää kasvista ja lihanpalaa. Pahim... [HI-NA-nb]
+10. Tiskirätit. Ne on niitä tunkkaisen näköisiä, rasvaisen tuntuisia ja ummehtuneen hajuisia myttyjä jossain keittiön hanan päällä. Tuossa yhtenä päivänä tuli mitta täyteen ja heitin kaikki kämpästä lö... [HI-NA-nb]
+11. Aloitetaan äärimmäisen ajankohtaisesta aiheesta: villiyrteistä ja muista luonnon antimista. Kiinnostus ilmaiseen ruokaan on viime vuosina kasvanut, ja tänäkin keväänä on ollut lähes kaikissa medioi... [HI-NA-nb]
+12. Aikani mietiskelin kasvihuoneeseen sopivia laatikoita jossa chilit viihtyy ja mittailtuani kasvihuonetta sekä erilaisia laastipaljuja päädyin seuraavanlaiseen ratkaisuun. Sinällään ratkaisu ei ole ... [HI-NA-nb]
+13. Kalaliemi ja kanakeitto samalla vaivalla. Keitettyä kanaa, porkkanoita, selleriä, palsternakkaa, sipulia ja maustettua kanalientä jossa ui herkullisia mykyjä, kanakeittoa. Sekä herkullista kanalien... [HI-NA-nb]
+14. Peseskelin taas viimeisen vuoden aikana käytössä olleita pellavaöljypensseleitä ja ajattelin jakaa pikkuvinkin pensselien pesusta ja säilytyksestä. Säilytän pensseleitä raa'assa pellavaöljyssä ohei... [HI-NA-nb]
+15. Heinäkuun korkeiden helteiden vuoksi päätin reilu kaksi viikkoa sitten kokeilla josko saisin nyt indigon pelkistymisen onnistumaan luontaisella käymisellä, aiemmin en ole onnistunut tässä johtuen s... [HI-NA-nb]
+
+============================================================
+CLUSTER 3
+============================================================
+Size: 117 samples
+Register distribution: {'HI-NA-nb': 117}
+
+Examples:
+----------------------------------------
+ 1. " Juhannuksena saunotaan aamusta iltaan." Suomalainen saunoo juhannuksena mielellään. Se on perinne, siinä missä joulusaunakin. Mutta minäpä omistankin tämän postauksen nyt niille, joilla ei syystä... [HI-NA-nb]
+ 2. Yhteistyössä Perheblogit ja Dr. Oetker Eräänä iltana poikia peitellessäni sain vastata moneen luontoaiheiseen kysymykseen. Eräs ekaluokkalaisen kysymys tulikärpästen asuinalueesta ja Onnin hihkumin... [HI-NA-nb]
+ 3. Pullea lettiponnari toisen (tai kolmannen) päivän tukkaan Käyttääkö kukaan muu käsitettä tokanpäivänponnari? Toimii myös termillä kolmannenpäivänponnari, eli numeroista riippumatta sen päivän kampa... [HI-NA-nb]
+ 4. Jäätaide on kivaa, sillä näillä pakkasilla sitä syntyy nopeasti ja hyvin pienillä kuluilla. Lisäplussaa tuo se, että taideteokset häviävät itsekseen kevään tullen. Betonitöihin hurahtanut tietää, e... [HI-NA-nb]
+ 5. En voi olla ylistämättä tarpeeksi tätä NYX Girlsin sävyä Tango ! Ihanan oranssiin taittava punainen jelly. Täydellinen glittersandwich eihin, muttei pitkiin kynsiin pelkältään.. Hieman huonohko pei... [HI-NA-nb]
+ 6. Tämähän on jo vanha juttu aiemman blogin ajoilta. Koska tähän on linkattu niin paljon niin pakko kai se on tehdä uusi, jottei vierailijat tänne turhaan tulisi :-) Alla siis ohje miten SIM-kortista ... [HI-NA-nb]
+ 7. Törmäsin vielä toiseen upeaan ystävänpäiväaiheiseen askarteluideaan. Kiinaksi kirjoitetuista askarteluohjeista en ymmärtänyt hölkäsen pöläystä, mutta kuvat ovat harvinaisen selkeät seurata tähän te... [HI-NA-nb]
+ 8. Päätin testailla etelänreissun aikana Essencen geelilakkausta. Tein kynnet lauantaina ja palasin reissusta viikon päästä sunnuntaina. Kynnet pysyivät koko reissun ajan todella hyvässä kunnossa, reh... [HI-NA-nb]
+ 9. Sain arvonnassani useamman toiveen koiriin liittyvistä tutoriaaleista. Niistä valikoin ensimmäiseksi esimerkiksi säänkin puolesta ajankohtaisimman pyynnön: pienten koirien talvitöppöset. Nämä tossu... [HI-NA-nb]
+10. Mun kynsiharrastus on näkyny täällä blogissa vähemmän kun mä alunperin olin aatellu, joten nyt päätin vähän tunkea sitä tänne. Ja koska en varmaan yksiäkään kynsiäni selviä ilman kysymystä "Miten s... [HI-NA-nb]
+11. Kesähelteet eivät välttämättä houkuttele sukankudontaan (vaikka nythän olisi tietysti mitä mainioin aika aloittaa joululahjat!), mutta jotain pientä sitä tekee aina mieli näpertää. Selasin läpi ark... [HI-NA-nb]
+12. Pian koittaa Halloween ja mietintä juhlatarjoiluista käy jo kuumana. Halloween- juhliin voi valmistaa myös terveellistä syötävää teeman värejen mukaisesti. Smoothie on siitä kiva tarjottava, että s... [HI-NA-nb]
+13. Kaivataanko sielläkin jotain raikasta juhannusjuhlinnan jäljiltä? Jos joo, niin nappaapa tästä raikkaat smoothievinkit ylös! Vaikka smoothiet (etenkin vihreät sellaiset) ovat kuuluneet osaksi arkea... [HI-NA-nb]
+14. Puuhakerhossa tapahtuu Vinkki! Osa nettiselaimista skaalaa värityskuvat pienemmäksi, kun niitä yrittää tulostaa. Tallenna kuva omalle koneelle ja tulosta esim. Windowsin kuvan katseluohjelmasta, ni... [HI-NA-nb]
+15. perjantai 7. syyskuuta 2012 Pitkäkyntisten hommaa..? Ehei sentään! Vaan ihan kaikille löytyy apuva lohkeileviin, kellertäviin ja harmaita hiuksia omistajalleen pukkaaviin kynsiin. Minulta on pyydet... [HI-NA-nb]
+
+============================================================
+CLUSTER 4
+============================================================
+Size: 228 samples
+Register distribution: {'HI-NA-nb': 228}
+
+Examples:
+----------------------------------------
+ 1. Muuton the Dots-ripustimet. Nyt niiden tyyli (vasta) kolahti ja kovaa. Tahtoo! Mutta. Sitten se taas tuli. Tietenkin, pitihän se arvata. Iski taas se itsepintainen eikun-minähän-teen-ne-itte -moodi... [HI-NA-nb]
+ 2. Moikkelis moi taas!! Juu, vähänkuin otsikko jo kertookin mulla on aika tiivit postausvälit. Mayan obtsu toi mule mukanaan nukke- ja postausintoa... joten siitä tämä sitten johtuu. No tiiän, että ke... [HI-NA-nb]
+ 3. Kaupoissa näkyy jo kaikenlaista joulujuttua, joten jos nyt sitten minäkin. Tein siis stryroxista, huovasta, nauhoista ja puurimasta joulupalloja ikkunan eteen kiinnitettäväksi. Osa nauhoista löytyi... [HI-NA-nb]
+ 4. Viime syksynä ostin Kädentaito -messuilta vyyhden Pirtin Kehräämön Villasilkkilankaa, sitä paksumpaa. Ajatuksena saattoi vilukissalla olla unisukat. Tän vuoden puolella mun jalat ei juurikaan oo pa... [HI-NA-nb]
+ 5. perjantai 12. heinäkuuta 2013 IRV Novopangean neitsytmatka Avaruusseikkailun toisessa osassa kilpikonna-alus matkaa kohti vierasta aurinkokuntaa, joka onkin vain krottikalan syötti. Maalasin kilpik... [HI-NA-nb]
+ 6. Eli tämän vuoden työt on aloitettu ja ne lähti käyntiin heti askartelu puuhissa. Ensimmäisenä työnä meillä oli tiedossa uuden vuoden työ, joka pitäisi sisällään ilotulitusta Tähän työhön tarvitaan ... [HI-NA-nb]
+ 7. Innostuin jälleen tekemään omia kokeiluja lippapiposta. Burberry Prorsum kevään 2012 mallistossa oli hauskoja hattuja. Vähän samankaltaisia, kuin mitä olen aiemmin virkannut. Päätinpä siis vielä te... [HI-NA-nb]
+ 8. Sukat kudotaan varpaista varteen. Näissäkin sukissa huomaa, että sukan suunnittelijalla on homma hallussa. Katsokaapa tuota kantapäätä vaikka...aivan ihana. Tuhlasin sukkiin lankaa paljon enemmän k... [HI-NA-nb]
+ 9. Tänään esikoisella oli kerho ja Junnu nukkui päikkärit, joten minulla oli vähän ompeluaikaa päivällä, jee! Tässäpä nyt kuvaohjeet haalarin tekoon. Ensimmäisessä osassa on siis leikkuuohjeet, jos et... [HI-NA-nb]
+10. Nyt pääsivät nuo ihanat värilliset kukkaronkehykset käyttöön ja kyllä niistä kieltämättä tulikin aika suloisia...<3 Kankaat Etsystä, kuten myös nuo kehykset. maanantai 30. kesäkuuta 2014 Pikku kukk... [HI-NA-nb]
+11. Nämä ruusut kätkevät sisäänsä suklaisen cake popsin. Latasin videon youtubeen näiden koristelusta. Näytän kaksi eri tyyliä koristella ruusu kakkutikkareita. Toisessa tavassa koristeluun on käytetty... [HI-NA-nb]
+12. Kokoja on ohjeessa kaksi, 38-39 ja 40-41. Sukat myös venyvät jonkin verran. Jos korvaat ohjeessa mainitun Novitan 7 veljestä -langan ja käytät esimerkiksi Novitan Nallea tai muuta lankaa jonka paks... [HI-NA-nb]
+13. Kellariateljeessani annan vanhalle tavaralle uuden elämän ja käyttötarkoituksen, omaksi ja ystävieni iloksi. perjantai 20. joulukuuta 2013 Vanhasta kirjasta joulukortti/laskuteline 1. varaa vanha k... [HI-NA-nb]
+14. Hempeä ruusuvauvakakku meni eilen pienen tytön ristiäisiin. Aiemmin olin tehnyt tämän Hello Kitty-kakun hoitohenkilökunnalle ja nyt oli ristiäisten vuoro Toiveena oli ruusuvauva ja nimi kakkuun. Li... [HI-NA-nb]
+15. Palaset leikkasin pitkiksi noin 10 cm leveiksi suikaleiksi jotka sitten lopuksi pätkin 80 cm pituisiksi. Apuna käytin leikkuulautaa joka oli sopivasti 40 cm pitkä. Eli kiedoin suikaleen sen ympäri ... [HI-NA-nb]
+
+============================================================
+CLUSTER 5
+============================================================
+Size: 118 samples
+Register distribution: {'HI-NA-nb': 118}
+
+Examples:
+----------------------------------------
+ 1. Rouva ankka pääsi heti pienten leikkeihin ja nelivuotiaan unikaveriksi - näinkö raukka edes selviää pääsiäisen viettoon vai onko jo osasina ennen juhlapyhiä... "Joo joo" sanoi äiti pyöröpuikon taka... [HI-NA-nb]
+ 2. sunnuntai 26. joulukuuta 2010 Kissojen kävelytystä Lähettänyt Riitta klo 20:31 Ei kommentteja: Vain herkkusuille Tänä jouluna on herkuteltu ihan olan takaa. En ole mikään taiturikokki tai -leipuri ... [HI-NA-nb]
+ 3. keskiviikko 31. lokakuuta 2012 Chilit ja chutney Pihlajanmarjachutney: noin puolilitraa pihlajanmarjoja pussi kuivattuja aprikooseja pilkottuina (olisi ollut ehkä parempi käyttää omia omppuja...) k... [HI-NA-nb]
+ 4. Yhdysvalloista (18kpl), Alankomaista (17kpl), Saksasta (4kpl), Britanniasta (3kpl) ja Ruotsista (3kpl) torstai 28. helmikuuta 2013 Helmikuun tilastoja! Kävijöitä: 293 Katsotuimmat kirjoitukset: 1. ... [HI-NA-nb]
+ 5. torstai 31. joulukuuta 2009 SLY9: HYVÄÄ UUTTA VUOTTA 2010! SLY:ni lähettämillä aineksilla tein mokkaruutuja Uudeksi Vuodeksi. Päällä on vuosi 2010, joka näkyy heikosti. Nauttikaamme Illallisesta yh... [HI-NA-nb]
+ 6. tiistai 26. huhtikuuta 2011 Kangassilppujen hyötykäyttöä täällä ohje sinulle =) Kangasmäärästä riippuen, voit tehdä joko tyynyn tai jopa peiton... tiistai 19. huhtikuuta 2011 Ompeluilta huhtikuussa... [HI-NA-nb]
+ 7. Sain Etsi Resepti -palvelulta viestin, jossa he pyysivät minua liittämään blogini heidän listoilleen ja onkin ollut ihan mukava huomata, että ruokavinkkipostauksia on käyty sitä kautta lukemassa pa... [HI-NA-nb]
+ 8. 02 tammikuuta 2014 Taikataikina - askartelua pikkulapsen kanssa Pinterestissä törmäsin taikataikinan ohjeeseen (salt dough), josta pystyy helposti askartelemaan itse vaikkapa joulukoristeita. Taika... [HI-NA-nb]
+ 9. Joulun odutusta, tunnelmia ja haaveita. Sisustusta, leipomista, käsitöitä ja kaikea ihanaa. keskiviikko 30. marraskuuta 2011 Sisustus kutsut ja muuta mukavaa tiistai 29. marraskuuta 2011 Hemmo ja K... [HI-NA-nb]
+10. sunnuntai 28. helmikuuta 2016 Paistetut silakkafileet Aineet: Silakkafileitä tai silakoita Ruisjauhoja Vehnäjauhoja Korppujauhoja Suolaa Sokeria Voita Öljyä Voit tehdä aineilla vaikka näin: Hommaa ... [HI-NA-nb]
+11. Tunnelmia kutsuilta: 13.4.2013 Baby shower-kutsut Olipa meillä ihanat baby shower-kutsut. Ostin äitini kanssa yhdessä vauvalle Pentikin nallen ja äidille Body Shopin suihkugeelin ja pinkin selänpes... [HI-NA-nb]
+12. Ellit onnittelee nimipäiväsankareita: Esa, Esaias No niin, nyt on kulunut jo reilu viikko siitä, kun laitoin volgansieniteeni valmistumaan. Oli siis sadonkorjuun aika :) Täytyy sanoa, että sienitee... [HI-NA-nb]
+13. Tänä vuonna vietetään Suomessa Roosa nauha -kampanjan juhlavuotta ja kampanja järjestetään nyt jo kymmenettä kertaa. Viikonloppuna vietettiin Suomessa Roosa nauha -viikonloppua, ja siitä sitten täm... [HI-NA-nb]
+14. ...ja niin juttu jatkuu! Aloitetaan kangasmetreistä. Vähän huimaa nuo metrimäärät, paree olla näyttämättä miehelle ettei se ala kohta miettiä, miten paljon rahaa on mennyt näihinkin metreihin, saat... [HI-NA-nb]
+15. lauantai, 18. toukokuu 2013 Kymmenenvee Beauty Party Olihan päivä. Meillä on tänään juhlittu (hiukan etuajassa) 10 -vuotiasta neiti F:ää. Lopputuloksena päivästä väsynyt mutta onnellinen ja meikatt... [HI-NA-nb]
+
+============================================================
+CLUSTER 6
+============================================================
+Size: 207 samples
+Register distribution: {'HI-NA-nb': 207}
+
+Examples:
+----------------------------------------
+ 1. Tein esikoisen tarhan tarhatädeille kevätjuhlan kunniaksi hieman omatekoisia Daimeja. Käytin vanhaa hyväksi havaitsemaani ohjetta. Kaikki ei kuitenkaan menny aivan niin kuin piti. Keittelin krokant... [HI-NA-nb]
+ 2. Olen aiemminkin kokeillut malvalla värjäilyä, mutta silloin ei väri suostunut jäämään kiinni. Nyt värjäystuloksena oli aivan uskomattoman kaunista vihertävän harmaata; sellaista armeijanvihreää/har... [HI-NA-nb]
+ 3. Kaupallisessa yhteistyössä Kantolan keksien kanssa. Klassinen tiramisu on yksi suosikkijälkiruoistani. Se on helppo valmistaa, eikä se vaadi hankalia raaka-aineita. Aikaa sen valmistamiseen ei kulu... [HI-NA-nb]
+ 4. -Tässä olikin männäpäivänä aika palata takaisin perusasioiden ääreen ja kokata VanhaKunnon Kaalipata - tuo herkku, joka jakaa kansaa kuin Mooses meriä (vaikkei kuitenkaan yhtä suurissa määrin kuin ... [HI-NA-nb]
+ 5. Hellesäällä on ikävä hikoilla kuuman lieden tai uunin ääressä, joten on ollut suoranainen helpotus että ruuanlaiton on voinut siirtää ulkosalle. Onneksi grillaamalla voi valmistaa lähes mitä tahans... [HI-NA-nb]
+ 6. Harvoin sitä kokatessa täytyy turvautua miehen työkalupakin antimiin, mutta eilen vasara, taltta ja ruuvimeisseli olivat tarpeen. Ensimmäistä kertaa eläissäni hajotin kookospähkinän omin pikku kätö... [HI-NA-nb]
+ 7. 28.8.2012 25.8.2012 Bonne maman! Hillopurkin supertahna Vuosia sitten bongasin Kampin K-kaupasta (edelleen mielestäni yksi parhaista marketeista valikoimansa puolesta) cashew-tahnaa. Vastavaa kuin ... [HI-NA-nb]
+ 8. Sama rusinaleipätaikina kun aikaseminkin mutta ilman rusinaa ja palalla sinihomejustoa. taikinan kanssa oli kamalia hankaluuksia, varmaan perjantai 13. päivä haittasi tai kuun asento. Samalla ohjee... [HI-NA-nb]
+ 9. 3.2.2011 Pihin miehen valinta - ja muutenkin herkkua Mutta miksi mennä merta edemmäs krutonkeja paahtamaan, kun itse tekemälläkin saa aikas oivallisia ja helposti jopa parempia krutskuja kuin kaupa... [HI-NA-nb]
+10. Wanhassa Tallissa vietettiin tän vuoden ekoja joulujuhlia viime lauantaina ja ai että kinkku ja lanttuloota haiski taas hyvälle !!! Joulupöydän koitin kuvata, mut hiukan on liian tunnelmavalastu to... [HI-NA-nb]
+11. "Uuni on kuumana aamusta asti Tyrni kun ruppee hommiin torttua hellästi kostuttaa laittaa munaa ja rommii!" Pitihän miun sitten kotiinkin tehä tuo Charlotte Russe, tosin ehin siitä jo haukkaamaan a... [HI-NA-nb]
+12. Tyttäreni toivoi niin kovasti prinsessakakkua, joten tein hänelle ihan oman pienen minikakun täytekakun pohjasta yli jääneistä paloista. Pursotin sen päälle loput täytekakun kuorrutejämistäkin. Tyt... [HI-NA-nb]
+13. Ylensä paistan jouluaaton aamuna annoksen torttuja... mutta nyt päätinkin tehdä ne jo tänään... samalla tein torttutaikinasta luumu- ja persikkatäytteellä kamman mallisia leivonnaisia. Minä tykkään... [HI-NA-nb]
+14. Tein tällaisen täytetyn pullakranssin mieheni työpaikalle tarjottavaksi. Osallistuin tällä leipomuksella samalla elokuun leivontahaasteeseen Leivontafoorumilla täällä. Sivun alussa näkyy haasteleip... [HI-NA-nb]
+15. Jauhelihapitsa ei ole koskaan ollut lempparipitsojani, mutta reissussa ollessamme saimme todella maukasta jauhelihatäytteistä pitsaa .... ja osallistuin minä vähän tämän tekemiseenkin, enkä vaan sy... [HI-NA-nb]

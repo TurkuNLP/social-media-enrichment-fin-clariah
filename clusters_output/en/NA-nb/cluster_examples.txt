@@ -1,0 +1,72 @@
+
+============================================================
+CLUSTER 0 (NOISE)
+============================================================
+Size: 6268 samples
+Register distribution: {'NA-nb': 6268}
+
+Examples:
+----------------------------------------
+ 1. Virtually every year I’ve made a New Year’s resolution to “play more music with friends.” But life (or the procrastination gene) kept getting in the way. Until this year. On the first Friday in Jan... [NA-nb]
+ 2. Mia has been coughing a lot more lately, which definitely worries me. She's been coughing regularly throughout the day. Then it occurred to me why; I was using up the remaining bottle of Q-absorb (... [NA-nb]
+ 3. Dress Up Your Pet Today! She’s so cute, but I think we need to find a better-fitting jacket for her. Marquette, Michigan – January 14, 2014 – Break out your pet’s best outfits today — it’s National... [NA-nb]
+ 4. Catching Up Long time no write, I know. Technical problems are partly to blame, also not doing much travelling this summer. Gas prices, airline chaos are keeping me and a lot of others close to hom... [NA-nb]
+ 5. Well, we're enjoying another day off of school and more of this... ...as I'm sure many of you can relate. We haven't had any huge snows in our area, but a lot of moderate snows and really cold temp... [NA-nb]
+ 6. I am an avid skywatcher as a photographer, and am always looking at the light, the stars, and have my head... Read More I visited The American Midwest during the winter of 2014.   During that time ... [NA-nb]
+ 7. Monday, 16 June 2014 New Companion New Area Hi Guys, Sorry its quite a short letter this week. So I got transferred and my new area is Soweto the biggest township in the mission, my new companion i... [NA-nb]
+ 8. Tuesday, November 15, 2011 No bad weather, just bad clothes The other event taking place this week is the Everyday Play Day sponsored by Active Kids Club and Polarn O. Pyret USA. The idea is to get... [NA-nb]
+ 9. Friday, April 25, 2014 Blitzkrieg, revisited Since I'm not running my own game, I'm putting around with some other creative mediums. For example, I thought I would take another crack at my Nazi rob... [NA-nb]
+10. Monday, September 29, 2008 Boo part 2 (hey that rhymes!) Cheese... He immediately wanted to film his train tracks and Thomas Carnival. Unfortunately, I was headed out the door, on my way to work, b... [NA-nb]
+11. In the Bleachers by Steve Moore - January 21, 2013 - From Beginning - Previous feature - - Next feature - Current Comments (33) (Please sign in to comment) - What the heck is wrong this time? - TMI... [NA-nb]
+12. This blog is another one that is long overdue that I completely missed of Sararose! Sararose was my quadmate during my junior year at Liberty. She's awesome. All the late random conversations I'd h... [NA-nb]
+13. Thursday, January 1, 2015 A Friday Chat ( about this and that ) Hot Turkey Sandwiches Cold Turkey Sandwiches Turkey a la King Turkey Soup Club sandwiches Turkey casserole, anything really. I decide... [NA-nb]
+14. How cold was it? I can most assuredly tell you that the mountains of Washington County Vermont in February are crazy COLD. The day we set this house it was minus 12 degrees when we started at 8:00 ... [NA-nb]
+15. Cherry and I returned to the “scene of the crime” where our Friendly’s adventures began, in Cromwell, CT. Surrounded by family and friends, we recounted our story of visiting 22 Connecticut Friendl... [NA-nb]
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 2787 samples
+Register distribution: {'NA-nb': 2787}
+
+Examples:
+----------------------------------------
+ 1. For one million years I have been working on my story about a househunt following an elephant incident, but now it is all handed into college and gone. Presently I will put a bit of it up here. Mea... [NA-nb]
+ 2. Tuesday, March 22, 2011 The Taper and the Weather Speaking of weather, guess what the forecast high is for Washington, DC on Saturday? FORTY. FORTY DEGREES. My tank top and shorts are no longer app... [NA-nb]
+ 3. Wednesday, 6 April 2011 lemons this is the second lemon tree that i have planted, the first never gave me lemons, i think it was one of those new age grafted lemon trees, so a couple of months ago ... [NA-nb]
+ 4. Here are a few that have caught my eye I enjoy crafting and like to try my hand at different things. If there is anything that you see on here that you would like made, please feel free to contact ... [NA-nb]
+ 5. Hello my lovelies, Another weekend is over,which means we are even closer to Christmas. I am getting into the festive spirit and must say my house smells so much of cinnamon, spices and hot tea. In... [NA-nb]
+ 6. Coffee Lovers Spring/Summer 2018 Bloghop Day #5 One of the great things about making your own cards is that you can take personalizing to a new level. Such is the case with today’s card. This card ... [NA-nb]
+ 7. Friday, September 3, 2010 Favorite Photo(s) Friday: From behind August 2003. Julianne and her friend Tiffany walking home from their first day of Kindergarten. They were both so little, their backp... [NA-nb]
+ 8. Friday, April 03, 2009 It never rains but it pours. The McCain Supporter--remember him? He's never really completely gone away, he pops up with an instant message now and again. He popped up this a... [NA-nb]
+ 9. Saturday, March 10, 2007 Friday Night's all Right for a Small Rat in the 'Burbs My gluestick re-appeared in the drawer on Friday. I think Nelson has discovered it's not so bad to stay close to home... [NA-nb]
+10. Sunday, 15 November 2009 MACABRE MONDAYS BIZARRE BEAUTY SCHOOL DROP OUT.... my lady didnt so much dropout ... she dropped dead.... long dead i think,,,, starting to decay, doesnt smell to good and ... [NA-nb]
+11. I made this sketch last night and I thought I'd show it to you in parts over the course of this week. Sunday, 19 February 2012 Jingle jangle I made this sketch last night and I thought I'd show it ... [NA-nb]
+12. Aug 7, 2015 Tilda Gardener ❤ Tилbдa CaдoBHицa 7 comments: Mилeйшaя дaMa! BeлиkoлeпHaя Tилbдa! HeжHo и yдиBиTeлbHo rapMoHичHo! CaMoe rлaBHoe: Tak akkypaTHo (He yBидeлa Hи oдHoro изъяHa) Your Tilda i... [NA-nb]
+13. Hi, this is Jenny, from the Missouri Star Quilt Company, and I am excited to be here at the Jolly Jabber!! The video you are about to watch features a tool that we absolutely adore, called "The Bin... [NA-nb]
+14. Thursday, 8 March 2012 Books, London Love and ...a GIVEAWAY! ;-) 9 comments: - delia hornbook said... - Wow first off your study looks such a cosy place to unwind in io would love to look on your b... [NA-nb]
+15. I posted this photo and haiku last May, but it is perfect for yesterday's walk round the Royal Botanic Gardens, Edinburgh. It was a very wet day but the rhododendrons and magnolia were beautifully ... [NA-nb]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 39971 samples
+Register distribution: {'NA-nb': 39971}
+
+Examples:
+----------------------------------------
+ 1. I am a red velvet lover. I love anything red velvet. I also happen to love seven layer bars. I adore them. So when I came across a recipe at Sally’s Baking Addiction for seven layer bars made with ... [NA-nb]
+ 2. I stopped by the Kroger here in Laurel, Mississippi, this evening, to get some coffee, and remembered seeing something about someone finding this wave for $2.99 each. Well, they had 'em, all right:... [NA-nb]
+ 3. I’d been busy with work over the past few weeks so hadn’t had much of an opportunity to get out cycling or walking recently, but with the first snow of the winter falling on the hills that was all ... [NA-nb]
+ 4. Wednesday, August 25, 2010 I am the new 40 I'm in the purgatory of age brackets. Oh and apparently I'm now old enough to be called a 'mamil' which oddly, I'm okay with. Speaking of biking, I was up... [NA-nb]
+ 5. Is 40 Too Old to Start a Lumber Jill Career? Well, even if it is, I’m not 40 yet so I still have time. Why didn’t I know about the exciting Lumberjack sports as a little kid? I sure wish I had an o... [NA-nb]
+ 6. This week I have been sent some fab stationery by 3M. When I say I, obviously I mean my kids, I wouldn’t dream of pinching it (ahem)! The 3M Back to School Stationery Essentials Pack… View Post Lit... [NA-nb]
+ 7. Welcome to Another Year After barely surviving a run from orientation to the M Canter to the library and finally to Mills Hall, I am sitting here staring at my computer and wondering what exactly t... [NA-nb]
+ 8. rushes October 16, 2008 Twas little "pogi" Kiel's bday! Happy birthday Kielzee! Tita NyemNyem loves you. Nanay A and Nanay E We went to SM Pampanga on Kiel's birthday. I was looking for a tray whic... [NA-nb]
+ 9. 6.26.2014 Identity Crisis Slash I'm Really Tired Today I feel like enough stuff has happened on one front that at least I can talk about it. Maybe it's rambling and boring? Maybe it seems a bit too... [NA-nb]
+10. The Flu Shot Emmy Award They had a flu shot clinic at dLife yesterday. This happens in most offices around this time of year. The nurse comes in, you submit your form, and she sticks a needle in yo... [NA-nb]
+11. Just sent these images (plus those below) over to Crate Paper. They're of a Mother's Day album I've been working on all week in preparation for CHA. It's the first mini album I've ever done for CHA... [NA-nb]
+12. Live in Edinburgh This Week – 21st February 2011 Oh my aching face. This week there will be a total embargo on Fun of any sort, I think, to make up for the last seven days of fairly epic drinking. ... [NA-nb]
+13. Georgia On My Mind If you do not know Charlie Daniels’ 1979 hit “Devil Went Down To Georgia” then the third panel makes no freakin’ sense at all. Go listen to the song then come back and laugh! Hol... [NA-nb]
+14. Album Update #5 ……the end is near!!! :) Hello! Before I get into my post, please take a minute to watch my new music video! It is for a contest. Each view gives me a point and helps me rank higher ... [NA-nb]
+15. - Welcome to SewsNBows, I'm glad you're here. Please pardon the mess while I'm "remodeling"! Who am I kidding, it's always a mess here! You can email me at MayenDesigns@gmail.com, or visit me on an... [NA-nb]

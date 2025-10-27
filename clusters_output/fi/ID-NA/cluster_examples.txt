@@ -1,0 +1,72 @@
+
+============================================================
+CLUSTER 0 (NOISE)
+============================================================
+Size: 29 samples
+Register distribution: {'ID-NA': 29}
+
+Examples:
+----------------------------------------
+ 1. Porvoon kaupungin ympäristönsuojelupäällikkö Jukka Palmgren katsoo, että Luonnonsuojeluliiton Uudenmaan ympäristönsuojelupiiri teki turhan hätäisesti tutkintapyynnön ns. Petokaivin-jutussa. "Vieläk... [ID-NA]
+ 2. Juuri tulleen tiedon mukaan poliisi on päässyt sotshin paralympialaisiin terrori-iskua suunnitelleen suomalaisen jäljille. Epäilty on "kotko" . Miehen jäljille päästiin seuraamalla suomi24 keskuste... [ID-NA]
+ 3. Boreal Biorefin yva-selostus valmistui – Kemijärvi vuokraa yhtiölle tontin patokankaalta. Bioref Oy ostaa tehdas-tontin kaupungilta kun tehdashanke käynnistyy, siihen asti tontti on vuokralla yrity... [ID-NA]
+ 4. Syyrian ilmatorjunta torjui 71 ohjusta kaiken kaikkiaan 103 ohjuksesta. Syyria käytti Neuvostoliiton aikaisia yli 30 vuotta vanhoja S-125, S-200, Buk-torjunta ohjuksia ja Kvadrat-järjestelmää. Tämä... [ID-NA]
+ 5. taasko ne polliisit espoossa ovat tehneet mitä haluavat? lukekaa iltalehden uutiset.ei jutun mukaan ole ketään muita ku uhri ja polliisit. sinivuokot 1 57 Vastaukset - sitävähitensulle hankalaa kun... [ID-NA]
+ 6. Uusimmat › Keskustelu › Yleistä › Uutiskulma › Torressa räjähti pommi! - Tämä aihe sisältää 10 vastaukset, 8 kirjoittajaa, ja siihen kirjoitti viimeksi Ocaso 10 vuotta, 2 kuukautta sitten. - Julkai... [ID-NA]
+ 7. Pörssinoviisi tässä ihmettelee mikä laskee Neo Industrial osaketta. Kävi huipussaan ja siitä lasku kahteen vajaaseen päivään jo yli 25 %. Kun osake maksoi maanantai-aamuna yli 3.30 euroa/osake, se ... [ID-NA]
+ 8. http://news.bbc.co.uk/2/hi/europe/4976754.stm Rakennusmiehet olivat tyhjentäneet juomalla ison rommitynnyrin Unkarissa. He totesivat juomisen aikana että rommissa oli "erikoinen maku". Jotkut jopa ... [ID-NA]
+ 9. Hymy 9.10. 2012 Aitolehden naiset suhtautuvat ymmärryksellä ajatukseen siitä, että Victoria lähtisi isompana viihdealalle. Anne näkee sen jopa itsestäänselvyytenä. On ihan selvä asia, että hän on l... [ID-NA]
+10. Sähkökatkoja on ollut yön ja aamun eri puolilla Suomea. Pohjois-Savossa Savon Voiman jakelualueella syysmyräkän takia ilman sähköjä oli vielä aamulla kello 7 jälkeen parisen sataa asiakasta. Sähkök... [ID-NA]
+11. Etusivu › Foorumit › Julkkikset › Johanna Tukiainen Vol. 172 › Vastaa aiheeseen: Johanna Tukiainen Vol. 172 ”Olin kauhuissani” Juoppohulluus iski Tom Stenmaniin ryyppyputken lopussa. Mies oli juoma... [ID-NA]
+12. Tanska Tanska 2007: DQ - Drama queen Tanska 2007 pää nosta pystyyn ja pysy vahvana" Tanska 2007 Marja Salusjärvi 07.06.2006 13.42, päivitetty 07.06.2006 klo 14.18 Tanskan DR järjestää vuonna 2007 k... [ID-NA]
+13. Palestiina kaipaa rahallista tukeamme. Ja paljon. Ja pian: "Ulkomaiset tarkkailijat poistuvat Hebronista" ( 8.2. 14:16 ) "Kansainvälinen tarkkailijajoukko poistuu väliaikaisesti Länsirannalla sijai... [ID-NA]
+14. Dana ei valitettavasti voittanut, mutta sai olla pitkään talossa. Viikko vajaa täydestä ajasta on huippu hyvin! Pakko selventää tänne yksi juttu mistä tuntuu monella olevan väärä käsitys, eli aihee... [ID-NA]
+15. Helluntaalaiset, ynm jalat iriolevaise3t Poliisi Paatero(ex) on huolissaan; Entinen poliisiylijohtaja varoittaa: Sisäinen turvallisuus vaarassa murentua, poliitikkoja ei tunnu kauheasti kiinnostava... [ID-NA]
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 360 samples
+Register distribution: {'ID-NA': 360}
+
+Examples:
+----------------------------------------
+ 1. Ainakin meikäläisellä on silloin tällöin tarvetta ihan oikealle etenemiskyvylle, kun ajelen noita sivuteitä. Nyt on menossa kolmas nelikko-Skoda; pari edellistä olivat 4x4 Octavioita. Jos ei konkur... [ID-NA]
+ 2. maanantai 8. elokuuta 2011 Säikäytys 16 kommenttia: Tuo on aina pelottavaa, kun liikkeet vähentyvät. En silti usko, että viikolla 22 kannattaa vielä ottaa mitään paniikkia - viikon 30 jälkeen liikk... [ID-NA]
+ 3. Viimein uskalsin rekisteröityä tännekin. Hienoa! Keväällä tuli laiteltua fataliilta tilatusta satsista erinäisiä chilejä kasvaan. Osa kasvoi hyvin ja tuotti satoa aiemmin, mutta monet kasveista kär... [ID-NA]
+ 4. Please scroll down for the English version Nyt kun tuo Quest on vaan seisonut koko talven tuolla tallin nurkassa, niin päätin tehdä siihen pieniä päivityksiä. Tarkoituksena on parantaa Questin vaka... [ID-NA]
+ 5. >>20649744 Juu elikkäs jatkuu näin: >Viikko edellisestä, perjantaina tulee viestiä "olen kaupungissa kavereiden kanssa, tuutko tänne ja tänne nii nähtäis?". Asui siis lähipaikkakunnalla, joten pysy... [ID-NA]
+ 6. Ah, uskollinen sso päivityksemme toi mukanaan uusia liikkeitä hahmolle, odotin kyllä parempaa... Mutta kun pääsin käsiksi tähän niin voi luoja, itku meinas päästä. XD Jotkut liikkeet ovat parempia ... [ID-NA]
+ 7. Katselin tiistaina ensimmäisen jaksoni Ensitreffit Alttarilla -sarjasta ikinä. Hurjaa, että joku uskaltautuu lähtemään koko kansan katseltaviksi noinkin henkilökohtaiseen tilanteeseen. Itse kuitenk... [ID-NA]
+ 8. - Mitä kirjoja kesken tällä hetkellä? - Lukusali / Iivari - Tänään 05:24 - Lukuhaaste: Helmet 2022 - Lukupiiri / Eija - Eilen 23:36 - Lukuhaaste: Popsugar 2022 - Lukupiiri / Eija - Eilen 23:32 - Lu... [ID-NA]
+ 9. sunnuntai 27. maaliskuuta 2016 Viikko 12 Ma 21.3; lepo Ti 22.3; lepo Ke 23.3; lepo To 24.3; lepo Pe 25.3; lepo La 26.3; lepo Su 27.3; p: keskivartalojumppa Viikko 12: juoksua 0km Alkuviikosta tauti... [ID-NA]
+10. perjantai 23. elokuuta 2013 Eye murderer #10 Jos et ole nähnyt ysi osaa niin Roksy oli karannut ja pari on päässyt yön aikana ceisin huoneeseen. Masa: Vihdoinkin sinä heräsit.. Ceisi: Mh..Miksi ole... [ID-NA]
+11. keskiviikko 14. lokakuuta 2009 Harjoitus 14.10.2009 23 km (Tervamaratonin vanha reitti) ja teho 1/5. Viileää ja kaikin puolin mukavaa. Kehon ydinlämpö harjoituksen jälkeen 38,34 Celsiusastetta. Har... [ID-NA]
+12. Tänään on 24.05.2018, 11:36. Birmingham-Boro - Neo - Jäsen - Viestit: 3598 - Liittynyt: 19.01.2003, 19:32 - Tuotto: +0.00 yks. Palautus%: - Panosten ka: - Vetoja: 0 - Pisteitä: 3177 - Paikkakunta: ... [ID-NA]
+13. Pyysin kyllä jo heti kärkeen anteeks kaikkea mitä mahdollisesti tulee. Sanoi kyllä ymmärtävänsä En usko että auttaa jos en tajua pysyy poissa facesta. Anssi Kelan uusin, se toimii kyllä, suosittele... [ID-NA]
+14. torstai 26.03.2009 lähtöpainosta -0.8kg Hei! Kun laihduttamisen alussa paino putoaa nopeammin, pitäisiköhän itselle sanoa joka aamu, että tänään aloitan kuurin? Eilen pysyin kurissa ja sitä toivon ... [ID-NA]
+15. Saxobankin sivustoa olen tutkinut, kun minulle uusia markkinapaikkoja ja intsrumentteja on ihan tolkuton määrä... Huh. Että ihan nöyrästi olen oppaita lukenut;-) Odotan kultaunssin laskevan alle 1.... [ID-NA]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 1340 samples
+Register distribution: {'ID-NA': 1340}
+
+Examples:
+----------------------------------------
+ 1. keskiviikko 16. maaliskuuta 2016 Hair Tattoo 8 kommenttia: - Anonyymi16. maaliskuuta 2016 klo 9.56 Anna mennä ja repäse! Sulla on ollut tuo sama tyyli kuitenkin niin kauan että nyt olisi sopiva aik... [ID-NA]
+ 2. Ihana raportti 🙂 Kookosöljyn voi huoneenlämmössä pitää pumppupullossa tai säilyttää purkkia kylmässä ja ottaa lusikalla aina tarvittavan annoksen 🙂 Ja ei se kookosöljy kyllä suojaa palamiselta, ain... [ID-NA]
+ 3. perjantai 4. heinäkuuta 2014 Koirakankaan Oiva Pamaus 5 vkoa 10 kommenttia: Voi ihanuus mitä karvatassuja <3 Mukavaa, kun saa seurata pennun kasvua tätä kautta :)VastaaPoistaVastaukset Aikamoisia t... [ID-NA]
+ 4. - ♥:lla Laura perjantai 19. heinäkuuta 2013 something little and girly 10 kommenttia: voi kun meistä saa niiiin söpöjä kuvia ;) <3VastaaPoistaVastaukset erittäin söpöjä tosiaan ;D <3Poista - Anonyy... [ID-NA]
+ 5. 13.4.2014 Rintsikka goes safari with Canon :) 16 kommenttia: Vau, upeita kuvia!VastaaPoista Mahtavia kuvia <3VastaaPoistaVastaukset Kiitokset anana, kyllä tuossa valossa kelpaa olla ja kuvata!Poist... [ID-NA]
+ 6. 3 June 2015 KEVYT KESÄMEIKKI 2015 VIDEOLLA 8 comments: tosi nätti lopputulos! :-) ja hyvä video myös c:ReplyDeleteReplies jee, kiitos! niin mahtavaa kuulla ♥ huhDelete Oi just ihana video! Sulla on... [ID-NA]
+ 7. 17.1.15 Hiusjuttuja 16 kommenttia: Ihana hiustyyli! Nuo hiukset tuo suhun niin paljon eloa ja sävyjä. :) tykkään hurjasti tällaisista postauksista, joten hius- ja kauneus tyyppiset postaukset on te... [ID-NA]
+ 8. keskiviikko 29. heinäkuuta 2015 Astiakaapin uudet 6 kommenttia: Noi on kyllä kauniit kupit ♡VastaaPoista Paratiisi on nättiä sarjaa sekä värillisenä että mustavalkoisena. Kumma vaan kun kyllästyttä... [ID-NA]
+ 9. Ai muuttuuko haaveet äitiyden myötä?30.12.11 8 kommenttia Mun pitää myöntää, että katselin noita samaisia tänään. Olivat muuten Retkiaitassa Tammistossa alessa.Mä oon nähnyt sut vaan äitilookissasi... [ID-NA]
+10. 12 vastausta artikkeliin ”Kipinkapin PIILOON!” - Mä voisin niin rynnätä tiaran vaatekaapille vaikkei meillä tyttöä vielä olekaan :D saat ihan varmasti kaikki myytyä! :) - No toivotaan, toivotaan :D... [ID-NA]
+11. #339 Uusi tavaroita ja tuunausta maanantai 6. elokuuta 2012 44 kommenttia Taidatte tykätä punasesta? :DVastaaPoista :D Haha hyvä idea! PUnaset harjat? :DDD Mut hienot! & Missäs Lillin harjojen kuva... [ID-NA]
+12. keskiviikko 26. joulukuuta 2012 My Christmas 22 kommenttia: hihhi ihan sopivan pituinen postaus ;D kauniita kuvia ja täytyy vaan sanoa et olet niin ihanan aidon oloinen ihminen! mustakin on ihana v... [ID-NA]
+13. lauantai 26. tammikuuta 2013 BLOGINAMIA VINTAGETYYLIIN/BLOGCANDY IN VINTAGESTYLE 49 kommenttia: Onnea ja hyvää jatkoa :)VastaaPoista Onnea ja menestystä kortteilun parissa! Kahdella arvalla mukaan.... [ID-NA]
+14. torstai 8. marraskuuta 2012 Pressed Flower Mitts 18 kommenttia: Ai kun nätit ovat! Hyvä väriyhdistelmä.VastaaPoista Kauniit ovat!VastaaPoista Todella kauniit.VastaaPoista Niin kauniit!VastaaPoista ... [ID-NA]
+15. 13 Responses to “KREIKKA/3” - Ei vitsit ku sul on ihan täydelliset jalat!<3 Jealous… - Oh my, mikä kroppa!! - ihania nää lomakuvat! :) itse en koskaan lomalla saa yhtäkään asukuvaa, näytän jotenkin... [ID-NA]

@@ -1,0 +1,88 @@
+Keyness analysis for sv/HI-NA-nb-re
+Original reference corpus: 329050 texts from regions ['HI-NA-nb-re', 'ds-IP-NA-nb', 'NA-ob-OP', 'NA-nb-OP', 'IP-NA-nb', 'IN-NA-nb', 'NA-nb-ob-OP', 'NA-nb-OP-rv', 'ID-NA-nb', 'NA-nb', 'ID', 'NA-nb-ne', 'ob-OP', 'NA-nb-sr']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 0 ===
+Target: 135 texts, 61244 words
+Reference (excluding this cluster): 328915 texts, 178878935 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. klipp             257.28
+ 2. limma             240.97
+ 3. fäst              236.63
+ 4. lägg              209.38
+ 5. nåla              160.00
+ 6. knyt              155.81
+ 7. vik               153.00
+ 8. maskor            152.85
+ 9. sax               148.03
+10. torka             147.30
+11. kanterna          144.83
+12. sömsmån           135.21
+13. mönster           135.07
+14. maskan            132.09
+15. garn              122.93
+16. vänd              117.23
+17. varv              115.44
+18. lim               114.25
+19. kanten            111.84
+20. dekorera          109.42
+
+==================================================
+
+=== CLUSTER 1 ===
+Target: 387 texts, 163794 words
+Reference (excluding this cluster): 328663 texts, 178776385 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. recept           1427.12
+ 2. receptet          952.35
+ 3. ingredienser      765.02
+ 4. favoritrecept     664.25
+ 5. msk               597.53
+ 6. smak              588.36
+ 7. smör              547.37
+ 8. tsk               522.16
+ 9. hittad            498.04
+10. krämig            492.68
+11. portioner         439.86
+12. salt              423.43
+13. registrerat       413.89
+14. lök               401.41
+15. goda              383.06
+16. tillbehör         382.61
+17. socker            380.76
+18. god               377.77
+19. serveras          373.04
+20. färsk             371.65
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 6282 texts, 3013516 words
+Reference (excluding this cluster): 322768 texts, 175926663 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. msk             21477.29
+ 2. tsk             19097.88
+ 3. häll            18850.70
+ 4. salt            17972.98
+ 5. blanda          17000.31
+ 6. tillsätt        14460.15
+ 7. smör            13766.66
+ 8. ugnen           13414.09
+ 9. lägg            13255.59
+10. grädda          11765.32
+11. servera         11332.64
+12. koka            11315.50
+13. vispa           10676.95
+14. recept          10498.17
+15. låt             10282.99
+16. receptet         9956.62
+17. svalna           9942.31
+18. ingredienser     9462.31
+19. skär             8926.77
+20. vetemjöl         8895.94
+
+==================================================

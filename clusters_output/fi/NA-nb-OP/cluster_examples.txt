@@ -1,0 +1,72 @@
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 874 samples
+Register distribution: {'NA-nb-OP': 874}
+
+Examples:
+----------------------------------------
+ 1. Näin motivoidut 6/23/2016 Käsi ylös, jos olet joskus kamppaillut motivaatiopulan kanssa. Siivota pitäisi, lenkillekin kai voisi yrittää jaksaa lähteä ja kouluessee pitäisi saada kirjoitettua huomis... [NA-nb-OP]
+ 2. perjantai 27. joulukuuta 2013 Ajan kuva Sattuipa niin, että viisi naista oli joulunalusviikolla saunomassa. Päivittelivät siinä kuulumisia, kertoivat, kuinka väsyneitä ovat touhuun ja tohinaan, jot... [NA-nb-OP]
+ 3. Kirjoitus on julkaistu aikaisemmin Lepikkö-nimisessä blogissa, jota voi lukea täältä: https://lepikko.noblogs.org . Julkaisemme tekstin uudelleen sen kirjoittajan luvalla. Mulle kotityöt on elämän ... [NA-nb-OP]
+ 4. tiistai 20. huhtikuuta 2010 Miksi yöllä ei voi olla kaunis? Tämä postaus on silkkaa hömppää, eli vaihda äkkiä sivustoa, jos aihepiiri yhtään ärsyttää! Olen kuitenkin jo vuosikausia pohtinut otsikon... [NA-nb-OP]
+ 5. Keliaakikkona olen päässyt omakohtaisesti tutkimaan Amerikan gluteenitonta ruokamaailmaa. Lopputulos on se, että leipä maksaa älyttömästi ja ulkona pelottaa syödä. “Gluteenitonta” ruokaa on tarjoll... [NA-nb-OP]
+ 6. JOULUKALENTERI: LUUKKU 15 Milloin olet viimeeksi ajatellut mikä on parasta mitä voisi tapahtua? Tuo ajatus on mielestäni jotenkin virkistävä ja oikealle tielle johdattava. Yleisesti ottaen ajatella... [NA-nb-OP]
+ 7. sunnuntai 12. syyskuuta 2010 EVET (KYLLA),HAYIR (Eİ) Tanaan taytin kansalaisvelvollisuuteni taalla ensimmaista kertaa.Kyseessa on kansalaisaanestys siita,miten Turkin perustuslain muutokset tehdaan... [NA-nb-OP]
+ 8. perjantai 17. syyskuuta 2010 Anteeksi pyytämisen hätä Onkohan anteeksi pyytäminen jollekin helppoa? Minusta se on kammottavan vaikeaa. Enkä nyt tarkoita semmoista "pahoittelen, mutta" -muotoa vaan ... [NA-nb-OP]
+ 9. You are currently browsing the tag archive for the ‘Etelä-Karjala’ tag. Joutsenon ja Lappeenrannan kuntaliitos on tapahtunut ja uudet vaalit on käyty. Aikaa on tiimalasissa virrannut jo sen verran,... [NA-nb-OP]
+10. Menopaussissa tuskaillaan asiakaspalvelusta ja asioiden kestämisestä. Minuakin tuskastuttaa. Johan täällä olen kohkannut siitä pc:stäni jonka ostin syyskuussa, ja joka joutui heti lokakuussa kahdek... [NA-nb-OP]
+11. keskiviikko 27. huhtikuuta 2016 Ei, en halua lisää muovia Nyt on pakko ottaa jo kantaa. Ihan hillitöntä se innostus, joka on erilaisilla sosiaalisen median käsityöryhmissä muurausnarun käyttöön vir... [NA-nb-OP]
+12. Musiikilla on tiettävästi voimaannuttava vaikutus. Mitä enemmän musiikki herättää tunteita niin sitä parempi. Minulla on aina ajanjaksottain tiettyjä voimamusiikkeja erilaisiin tunteisiin ja fiilik... [NA-nb-OP]
+13. Monesti joutuu lyömään päätä seinään ja miettiä, että miksi mulle taas kävi näin. Joskus on huono tuuri tai vain itse onnistuu tekemään jonkin asian aivan väärin. Se on sitä elämää ja sille ei ihan... [NA-nb-OP]
+14. Aloitettuani kundaliinijoogan löysin mielen ja sielun tasolla jotain ehkä jopa vallankumouksellista. Ymmärrän tällä hetkellä chakrat ja niiden merkityksen aivan uudella tavalla. Olen löytämässä osi... [NA-nb-OP]
+15. Blogi jonka tarinointi ei oikein ole sopusoinnussa sen enempää oikeinajattelun, konformismin, järkiperusteisen maahanmuuttopolitiikan vastustamisen, eläinten kiusaamisen kuin hyvän oluen päälle syl... [NA-nb-OP]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 695 samples
+Register distribution: {'NA-nb-OP': 695}
+
+Examples:
+----------------------------------------
+ 1. Tuli tuossa jo viime postausta kirjoittaessani mietittyä, että onpas sitä tullut viime aikoina törmättyä yllättävän hyviin elokuviin yksi toisensa jälkeen. No nyt sitten tuli oikein pohjakosketus, ... [NA-nb-OP]
+ 2. Olen monen muun lailla lueskellut kuluneen viikon aikana Enkeli-Elisa-gatea netin eri koloista ja lokeroista kuin salapoliisikertomusta. Mitään olennaista sanottavaa tai kannanottoa minulla ei aihe... [NA-nb-OP]
+ 3. torstai 9. heinäkuuta 2015 Näkymätön vartija 2 kommenttia: Luin tuon kirjablogistien dekkariviikolla. En jaksanut innostua tarinasta. Se jäi auttamattomasti muiden kirjojen jalkoihin. Olihan se eri... [NA-nb-OP]
+ 4. Mistä puhumme kun puhumme rakkaudesta Ah. Vihdoin. Hyvä päivä. Siksipä haluankin puhua rakkaudesta. ( Enkä vain omastani, vaikka juuri tänään olenkin sitä täynnä, siitä täysi, kirjoitin sen isoin k... [NA-nb-OP]
+ 5. Jokainen blogiani yhtään pidempään seurannut tietää, että suhteeni tv-sarjoihin on jokseenkin fanaattinen. Tai no, en tiedä onko fanaattinen juuri oikea sana sitä kuvaamaan, mutta joka tapauksessa,... [NA-nb-OP]
+ 6. Kirjoitustyöläisen on iltaisin tyhjennettävä päänsä ja pöytänsä. Uni tulee paremmin. tiistai 26. elokuuta 2008 Rudolf Steiner kansantaloustieteilijänä Yksi yllättävimmistä kirjalöydöistäni on ollut... [NA-nb-OP]
+ 7. Olen niin monesti hehkuttanut rakkauttani Jukka Parkkiseen, että asia on varmasti jo käynyt selväksi: Parkkinen on mielestäni yksi Suomen parhaista kirjailijoista. En enää muista, millä Parkkisen k... [NA-nb-OP]
+ 8. Kirjoitustyöläisen on iltaisin tyhjennettävä päänsä ja pöytänsä. Uni tulee paremmin. keskiviikko 10. heinäkuuta 2013 Khan Uuden Star Trek -elokuvan innoittamana katsoin eilen DVD:ltä alkuperäisen S... [NA-nb-OP]
+ 9. keskiviikko 29. helmikuuta 2012 I have low esteem for everyone else Olen varhaisteini-iästä asti ollut mitä suurin Daria-fani. Herkälle yläastenörtille MTV:n animaatio (1997 - 2002) oli elintärkeä ... [NA-nb-OP]
+10. keskiviikko 29. helmikuuta 2012 Kookosdieetillä Olen viime aikojen ruokavalioaatoksissa törmännyt usein Sally Falloniin. Fallon on lihaliemen ehdoton puolestapuhuja ja uskoo oikeaan ruokaan. Fallon... [NA-nb-OP]
+11. perjantai 20. tammikuuta 2012 Kazuo Ishiguro: Ole luonani aina Kumma juttu, että joskus lukee romaania sillä tavalla, että ei tiedä siitä mitään eikä jostain syystä tule googlanneeksi pohjatietoja ... [NA-nb-OP]
+12. 4.12.2011 4. joulukuuta Sain itse juuri luettua 5-osaisen Erik Tawastjernan mahtavan Jean Sibelius ‑elämänkerran, jonka aloittelin jo kesällä, hiljalleen olen siis lukenut. Olin aiemmin lukenut elä... [NA-nb-OP]
+13. 06.08.2004 Wacken/GER Uuvuttava helle jatkui perjantaina lämpötilan kohotessa jälleen 30 asteen tietämille, tämä taas muutti teltat nopeasti saunoiksi joten ei muuta kuin ylös vaan ja bändejä katsa... [NA-nb-OP]
+14. Luukun 1 takaa paljastuu kaiken aloittanut Tanz der Vampire. Jos leffoja ei lasketa, eka kertani musikaalia katsomassa oli Tanz der Vampire Hampurissa. Paikkana oli Theater Neue Flora, vaatimaton 2... [NA-nb-OP]
+15. tiistai 2. joulukuuta 2008 Ärsyyntymistä etsimässä Ei auta. Sori Antti, kaamoksen välinpitämättömyys on vihaasi vahvempi. Nylén oli Hesarin esikoiskirjapalkintoehdokkaana, tunnetaan myös nykyajan d... [NA-nb-OP]
+
+============================================================
+CLUSTER 3
+============================================================
+Size: 400 samples
+Register distribution: {'NA-nb-OP': 400}
+
+Examples:
+----------------------------------------
+ 1. Vaelluskengät Haix Nebraska Pro Yksi retkeilijän tärkeimmistä varusteista ovat hyvät vaelluskengät. Vaikka muuten olisi economy-budjetilla liikkeellä, niin kengissä säästäminen kostautuu kaikkein v... [NA-nb-OP]
+ 2. Vuonna 2013 päivittelin blogissakin, kun ei Suomessa saanut dosia, ja haaveilin siitä, että etelä-intialainen ravintola Saravanaa Bhavan saataisiin Suomeenkin. Ja sitten, muutama vuosi myöhemmin, t... [NA-nb-OP]
+ 3. Tässä jälleen ravintola vinkki, sellaisia toivoneille! Kun etsit rankan viikon jälkeen Stadista tunnelmallista treffipaikkaa pienen kaveriporukan, taikka heilasi kanssa, et halua missata tätä elämy... [NA-nb-OP]
+ 4. Ryhtyessäni testaamaan uutta ihonhoito- tai meikkisarjaa tai törmätessäni kiinnostavaan sellaiseen, tutkin ensitöikseni sarjan taustat, sen takaa löytyvät ihmiset, tarinan sekä yrityksen noudattama... [NA-nb-OP]
+ 5. Delush Polish - Ihanat indielakat Kynsilakat saatu testiin maahantuojalta Mun heikkouteni ovat karamelleilta näyttävät kosmetiikkatuotteet, ja nyt ollaan kyllä niin syvällä siinä suossa, ettei ylös... [NA-nb-OP]
+ 6. Luen aina innoissani Helsingin uusista ravintolatulokkaista. Illallispaikkojen lisäksi Punavuori-Keskusta-Kamppi-akselille avatut uudet ravintolat tarkoittavat uusia lounasvaihtoehtoja tuttujen ja ... [NA-nb-OP]
+ 7. sunnuntai 7. heinäkuuta 2013 Saanko esitellä Tampere - Hämeenkadun Kulmakonditoria Olen päättänyt kirjoittaa kohdearviointeihin välillä kannustavaa tekstiä, oli se kuinka vaikeaa tahansa. Tampereel... [NA-nb-OP]
+ 8. Kesäkuun Livboxissa tuli mukana Nivean suihkussa käytettävä vartalovoide In-Shower Body Milk. Olin ihan pettynyt tähän tuotteeseen, ennenkuin kokeilin sitä, koska mielestäni suihkuun kuuluvat vain ... [NA-nb-OP]
+ 9. perjantai 18. huhtikuuta 2014 Hevostuotteiden helmiä: Supreme Horse Care Multimineraali Tästä on jo hyvä tovi kun Agrimarket alkoi myymään Supreme Horse Care-tuotesarjaa ja kaikenlaisista rehuista ... [NA-nb-OP]
+10. Tamperelaisen pariskunnan seikkailuja viinin ja ruuan ympäriltä. Rakastamme vanhan maailman viinejä, mutta maistamme mielenkiinnolla kaikkea ja kaikkialta. Talvella pääpaino on punaisissa, kesällä ... [NA-nb-OP]
+11. - Tallinnan paras hampurilainen 2022 Makuasioista ei kannata kiistellä – vai kannattaako sittenkin? Kysymys aiheesta Tallinnan paras hampurilainen herättää varmasti vilkasta keskustelua, sillä teki... [NA-nb-OP]
+12. Lukijani varmasti tietävät millainen öljyfani olen. Etenkin hiusöljyt ovat suuri heikkouteni ja mielelläni kokeilen kaikkia mahdollisia hiusöljyjä jos sellaisia sattuu tulemaan vastaan. Kirjoitteli... [NA-nb-OP]
+13. Siellä ruudun takana varmasti suurin osa lukijoista harrastaa enemmän tai vähemmän nettishoppailua, niin kuin minäkin. Verkkohan on pullollaan kaikkea ihanaa! Mutta kuinka löytää ne itseä ihastutta... [NA-nb-OP]
+14. Joskus tulee hymynpoikanen suupieleen, kun seuraa suomalaista lisäravinnekenttää. Verrattuna esimerkiksi USA:han Suomessa on hyvin tiukka ja varovainen suhtautuminen lisäravinteisiin ja luontaistuo... [NA-nb-OP]
+15. 10/20/2015 rhubarb & raspberry for skin Testissä ACO:n rhubarb & raspberry suihkusaippua ja vartalovoide. Tuotteiden tuoksu on ihanan mieto, vaikka sen voisi kuvitella olevan imeläkin, varsinkin ku... [NA-nb-OP]

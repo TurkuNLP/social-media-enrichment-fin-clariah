@@ -1,0 +1,200 @@
+Keyness analysis for sv/ID-NA-nb
+Original reference corpus: 329050 texts from regions ['HI-NA-nb-re', 'ds-IP-NA-nb', 'NA-ob-OP', 'NA-nb-OP', 'IP-NA-nb', 'IN-NA-nb', 'NA-nb-ob-OP', 'NA-nb-OP-rv', 'ID-NA-nb', 'NA-nb', 'ID', 'NA-nb-ne', 'ob-OP', 'NA-nb-sr']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 0 ===
+Target: 153 texts, 31802 words
+Reference (excluding this cluster): 328897 texts, 178908377 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. blogg              66.81
+ 2. hej                59.71
+ 3. tack               47.45
+ 4. kram               45.80
+ 5. mvh                39.60
+ 6. din                37.11
+ 7. tips               36.07
+ 8. mytastese          35.02
+ 9. systersajt         34.94
+10. matklubben         33.37
+11. shoppinghuset      30.69
+12. sidenaffärerna     30.69
+13. 雅秀服装市场             30.69
+14. bloggkolega        30.69
+15. sidenmarknadensvararadera    30.69
+16. addestarlovehotmailcomsvararadera    30.69
+17. dahzalan           30.69
+18. receptetsvararadera    30.21
+19. dig                29.71
+20. tipset             27.85
+
+==================================================
+
+=== CLUSTER 1 ===
+Target: 337 texts, 73765 words
+Reference (excluding this cluster): 328713 texts, 178866414 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. svararadera       636.86
+ 2. kommentarer       321.60
+ 3. kram              259.45
+ 4. -svararadera      217.21
+ 5. kramsvararadera   172.52
+ 6. fintsvararadera   112.46
+ 7. svararaderasvar   107.04
+ 8. bildersvararadera   102.34
+ 9. digsvararadera    101.49
+10. tack              100.82
+11. hejsvararadera     98.22
+12. bildsvararadera    89.44
+13. fin                88.38
+14. din                83.85
+15. snyggt             80.76
+16. dej                77.62
+17. dig                77.10
+18. kramar             77.08
+19. fint               72.33
+20. utsvararadera      64.36
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 100 texts, 22413 words
+Reference (excluding this cluster): 328950 texts, 178917766 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. haha              146.90
+ 2. hehe               76.60
+ 3. jaa                75.51
+ 4. svar               75.50
+ 5. kram               73.79
+ 6. dudå               65.07
+ 7. okej               64.53
+ 8. blogg              58.43
+ 9. dig                51.60
+10. tack               47.52
+11. btw                47.18
+12. frågestund         44.94
+13. jadå               44.77
+14. bloglovin          44.53
+15. din                42.98
+16. header             39.01
+17. bloglovinbyte      38.20
+18. hihi               37.15
+19. söt                33.37
+20. hahah              32.92
+
+==================================================
+
+=== CLUSTER 3 ===
+Target: 77 texts, 42151 words
+Reference (excluding this cluster): 328973 texts, 178898028 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. svar               94.34
+ 2. hej                71.50
+ 3. jätte              70.47
+ 4. dina               59.03
+ 5. mvh                55.35
+ 6. blogg              54.15
+ 7. din                54.09
+ 8. svara              52.89
+ 9. osv                48.42
+10. kram               46.72
+11. tacksam            45.94
+12. fråga''            45.66
+13. ditt               44.93
+14. frågor             42.99
+15. tips               42.37
+16. haha               41.77
+17. dom                38.79
+18. fråga              37.56
+19. tack               37.01
+20. vart               35.53
+
+==================================================
+
+=== CLUSTER 4 ===
+Target: 318 texts, 131701 words
+Reference (excluding this cluster): 328732 texts, 178808478 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. tråd               48.13
+ 2. forumet            47.75
+ 3. mvh                33.90
+ 4. knivslidan         27.77
+ 5. kejsartetra        27.77
+ 6. flaggciklider      27.77
+ 7. webbgbgse          27.77
+ 8. softocoulus        27.77
+ 9. wwwwebbgbgsewebbhotellbudgetphp    27.77
+10. extcalendar        27.77
+11. hej                25.17
+12. funkar             24.84
+13. rostern            23.95
+14. linkaget           23.95
+15. tråden             23.49
+16. servot             22.86
+17. lågvarvig          22.23
+18. låsskruven         21.04
+19. bortskjuten        21.04
+20. bigups             20.14
+
+==================================================
+
+=== CLUSTER 5 ===
+Target: 96 texts, 15902 words
+Reference (excluding this cluster): 328954 texts, 178924277 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. haha              110.11
+ 2. kram               66.60
+ 3. blogg              58.27
+ 4. gud                57.75
+ 5. hihi               57.30
+ 6. åhh                52.28
+ 7. tack               50.47
+ 8. grymt              45.97
+ 9. din                45.49
+10. fin                44.89
+11. jätte              40.84
+12. mumsigt            40.43
+13. älskar             39.31
+14. ååh                36.45
+15. jaa                35.12
+16. svar               34.94
+17. himla              32.44
+18. btw                31.20
+19. super              29.75
+20. header             27.53
+
+==================================================
+
+=== CLUSTER 6 ===
+Target: 108 texts, 25815 words
+Reference (excluding this cluster): 328942 texts, 178914364 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. blogg             158.64
+ 2. fin               121.91
+ 3. din               121.62
+ 4. snygg             121.06
+ 5. kram              120.99
+ 6. jätte              98.57
+ 7. haha               96.42
+ 8. gud                89.91
+ 9. älskar             88.39
+10. sjukt              77.67
+11. jättefin           76.12
+12. snyggt             74.94
+13. dig                68.16
+14. underbar           60.75
+15. superfin           60.37
+16. hej                57.13
+17. ååh                54.40
+18. dina               54.31
+19. himla              53.32
+20. skitsnyggt         53.29
+
+==================================================

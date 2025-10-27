@@ -1,0 +1,144 @@
+Keyness analysis for sv/IP-NA-nb
+Original reference corpus: 329050 texts from regions ['HI-NA-nb-re', 'ds-IP-NA-nb', 'NA-ob-OP', 'NA-nb-OP', 'IP-NA-nb', 'IN-NA-nb', 'NA-nb-ob-OP', 'NA-nb-OP-rv', 'ID-NA-nb', 'NA-nb', 'ID', 'NA-nb-ne', 'ob-OP', 'NA-nb-sr']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 0 ===
+Target: 5912 texts, 2395368 words
+Reference (excluding this cluster): 323138 texts, 176544811 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. välkomna         1998.14
+ 2. välkommen        1873.85
+ 3. anmälan          1146.99
+ 4. information      1090.43
+ 5. kontakta         1016.39
+ 6. medlemmar        1014.82
+ 7. anmäl             882.50
+ 8. styrelsen         802.50
+ 9. aktiviteter       754.64
+10. läs               686.29
+11. föreningen        654.76
+12. årsmöte           642.53
+13. våra              640.25
+14. info              634.60
+15. bjuder            621.46
+16. samarbete         593.87
+17. hemsida           565.38
+18. hemsidan          523.46
+19. erbjuder          503.84
+20. vår               495.26
+
+==================================================
+
+=== CLUSTER 1 ===
+Target: 2430 texts, 871154 words
+Reference (excluding this cluster): 326620 texts, 178069025 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. välkomna         2769.77
+ 2. anmälan          2597.73
+ 3. medlemmar        1503.33
+ 4. styrelsen        1326.60
+ 5. årsmöte          1299.81
+ 6. anmäl            1220.98
+ 7. välkommen        1139.16
+ 8. information      1083.25
+ 9. senast            947.48
+10. årsmötet          845.35
+11. kontakta          834.71
+12. föreningen        830.81
+13. anmäla            767.68
+14. info              672.66
+15. lördagen          641.92
+16. obs               641.65
+17. bjuder            621.83
+18. aktiviteter       572.27
+19. datum             569.91
+20. inbjudan          549.28
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 536 texts, 171782 words
+Reference (excluding this cluster): 328514 texts, 178768397 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. valpar            139.11
+ 2. uppfödning        129.49
+ 3. kunder            128.05
+ 4. kunden            124.68
+ 5. kull              119.15
+ 6. avel              116.99
+ 7. valparna          116.51
+ 8. kontakta          115.75
+ 9. välkommen         102.78
+10. kund               98.37
+11. kennel             96.36
+12. hane               94.75
+13. vår                77.08
+14. företag            76.51
+15. våra               71.47
+16. kullar             68.77
+17. valp               68.10
+18. tikar              66.73
+19. kullen             66.45
+20. företaget          65.66
+
+==================================================
+
+=== CLUSTER 3 ===
+Target: 1489 texts, 700374 words
+Reference (excluding this cluster): 327561 texts, 178239805 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. vinnaren          795.11
+ 2. tävlingen         793.29
+ 3. tävling           527.58
+ 4. tävla             520.66
+ 5. vinna             518.72
+ 6. rabatt            452.33
+ 7. vinnare           430.89
+ 8. vinn              410.24
+ 9. butiken           404.65
+10. produkter         316.04
+11. presentkort       280.89
+12. vinnarna          279.77
+13. tävlar            267.81
+14. avslutas          266.96
+15. butik             265.48
+16. avslutad          261.60
+17. design            253.54
+18. kollektion        251.70
+19. skriv             244.80
+20. maila             242.80
+
+==================================================
+
+=== CLUSTER 4 ===
+Target: 948 texts, 425241 words
+Reference (excluding this cluster): 328102 texts, 178514938 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. läs               227.60
+ 2. din               223.84
+ 3. dig               198.35
+ 4. ditt              151.01
+ 5. skapa             129.12
+ 6. pusha             111.51
+ 7. tips              111.02
+ 8. dina               95.77
+ 9. företag            85.08
+10. arbetar            79.27
+11. livsstil           74.53
+12. inspiration        74.43
+13. förändra           73.87
+14. aug                72.75
+15. sep                72.66
+16. följ               71.10
+17. seminariet         70.03
+18. fokus              70.02
+19. inspireras         69.00
+20. mar                67.80
+
+==================================================

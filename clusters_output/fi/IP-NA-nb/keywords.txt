@@ -1,0 +1,228 @@
+Keyness analysis for fi/IP-NA-nb
+Original reference corpus: 288231 texts from regions ['HI-NA-nb-re', 'NA-nb-OP', 'IP-NA-nb', 'ID-NA', 'NA-nb-OP-rv', 'HI-NA-nb', 'NA-nb', 'ID', 'ob-OP']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 0 ===
+Target: 160 texts, 55192 words
+Reference (excluding this cluster): 288071 texts, 141687642 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. avoinna            77.85
+ 2. tervetuloa         70.50
+ 3. voit               45.21
+ 4. esittelee          43.06
+ 5. sijaitseva         41.53
+ 6. järjestetään       41.11
+ 7. sijaitsee          38.80
+ 8. vanhankaupungin    38.15
+ 9. klo                37.39
+10. lisätietoja        37.30
+11. erikoistarjouksia    36.44
+12. tarjoaa            36.14
+13. uutuudet           35.18
+14. maksuton           34.73
+15. yhteistyössä       34.45
+16. vapaaseurakunta    33.53
+17. kuvittajista       33.53
+18. löydät             33.07
+19. -lähetys           32.77
+20. turvallisuusasioista    32.10
+
+==================================================
+
+=== CLUSTER 1 ===
+Target: 415 texts, 141656 words
+Reference (excluding this cluster): 287816 texts, 141601178 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. arvontaan         956.34
+ 2. arvonta           738.71
+ 3. arvonnan          539.78
+ 4. kommentoimalla    383.49
+ 5. arvonnassa        356.62
+ 6. sähköpostiosoitteesi   352.47
+ 7. osallistua        270.78
+ 8. voit              265.11
+ 9. tuotteita         252.50
+10. osallistut        243.82
+11. arpaa             237.68
+12. onnea             228.84
+13. arvalla           222.90
+14. arvan             218.81
+15. yhteistyössä      214.93
+16. arvotaan          212.43
+17. tuotteet          211.98
+18. voittaja          208.14
+19. voittajan         199.21
+20. arvon             195.95
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 438 texts, 120724 words
+Reference (excluding this cluster): 287793 texts, 141622110 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. tervetuloa        735.90
+ 2. järjestetään      514.55
+ 3. klo               479.89
+ 4. ilmoittautumiset   449.52
+ 5. ilmoittautuminen   420.87
+ 6. ilmoittaudu       383.56
+ 7. alkaen            371.68
+ 8. lisätietoja       319.29
+ 9. järjestää         267.57
+10. ilmoittautua      256.94
+11. ryn               244.67
+12. vuosikokous       241.57
+13. pidetään          234.16
+14. yhdistyksen       233.81
+15. syyskokous        190.74
+16. osoitteeseen      174.20
+17. lauantaina        171.55
+18. tervetulleita     163.26
+19. tapahtumat        152.39
+20. ohjelmassa        147.74
+
+==================================================
+
+=== CLUSTER 3 ===
+Target: 116 texts, 44537 words
+Reference (excluding this cluster): 288115 texts, 141698297 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. lue                54.73
+ 2. tervetuloa         42.53
+ 3. voit               41.72
+ 4. samppanjabaari     38.59
+ 5. julkaistaan        34.11
+ 6. tastingeja         31.91
+ 7. ei-kuohuvia        31.27
+ 8. kuluttajatapahtuman    31.27
+ 9. viinitapahtumia    31.27
+10. maistelupolut      31.27
+11. maistelulipukkeet    31.27
+12. notkuisin          31.27
+13. httpswwwdecanterfiaustralia    31.27
+14. markkinointitapahtumansa    31.27
+15. viinitilaisuuksia    31.27
+16. viiniannoksista    31.27
+17. champagnessakin    31.27
+18. aussiviinit        31.27
+19. maistelulipuketta    31.27
+20. kuluttajatapahtumaa    31.27
+
+==================================================
+
+=== CLUSTER 4 ===
+Target: 96 texts, 28441 words
+Reference (excluding this cluster): 288135 texts, 141714393 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. asiakkaillemme     55.81
+ 2. asiakkaamme        51.61
+ 3. eistteitä          48.04
+ 4. juhlaprintit       48.04
+ 5. lifestyleblogille    48.04
+ 6. urheilubloggaajalle    48.04
+ 7. blogibannerin      41.31
+ 8. lilis              41.31
+ 9. asiakkaidemme      40.64
+10. yhteyttä           39.97
+11. seikkailujamme     36.59
+12. lilliltä           35.83
+13. työssämme          35.73
+14. lifestyleblogia    35.16
+15. voit               35.03
+16. kirjoittavalta     34.55
+17. pirunkirkon        34.00
+18. olemme             33.90
+19. haluamme           33.68
+20. hääkutsujen        33.50
+
+==================================================
+
+=== CLUSTER 5 ===
+Target: 113 texts, 26178 words
+Reference (excluding this cluster): 288118 texts, 141716656 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. tervetuloa        173.59
+ 2. löydät             56.77
+ 3. verkkokauppa       45.86
+ 4. ilmoitamme         45.32
+ 5. marakattimarssi    40.34
+ 6. toiminnastamme     39.55
+ 7. lämpimästi         39.38
+ 8. tilauksia          38.02
+ 9. osoitteessa        37.88
+10. postituksissa      37.51
+11. jälleenmyyjiltä    37.21
+12. ruusumuorin        36.48
+13. yhteyttä           34.99
+14. messuilla          34.74
+15. teoksistani        34.18
+16. uutuutena          34.16
+17. teemme             33.62
+18. kädentaidot        33.05
+19. aukioloajat        32.96
+20. tutustumaan        32.29
+
+==================================================
+
+=== CLUSTER 6 ===
+Target: 77 texts, 23255 words
+Reference (excluding this cluster): 288154 texts, 141719579 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. tuotteita          84.82
+ 2. putiikki           62.35
+ 3. uniikkeja          47.95
+ 4. koruja             43.89
+ 5. löydät             41.81
+ 6. käsityönä          36.97
+ 7. rillakotipalapeli    32.91
+ 8. remontoi-messuilta    32.91
+ 9. jälkiruokakilpailun    32.91
+10. merkkiperheeseemme    32.91
+11. putiikkeihimme     32.91
+12. lime-mustikkapiiras    32.91
+13. -ruokakuvauskurssin    32.91
+14. kännykkäkuvauskursseihin    32.91
+15. workshopeissamme    32.91
+16. neukkaritiloissa    32.91
+17. ruokakuvausworkshopien    32.91
+18. huippuworkshopeissa    32.91
+19. kännykkäkuvauskurseja    32.91
+20. järjestäneena      32.91
+
+==================================================
+
+=== CLUSTER 7 ===
+Target: 152 texts, 51286 words
+Reference (excluding this cluster): 288079 texts, 141691548 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. myynnissä          74.93
+ 2. tervetuloa         69.76
+ 3. koot               62.72
+ 4. tilaukset          52.25
+ 5. hinta              49.66
+ 6. myyntiin           49.36
+ 7. löytyy             44.21
+ 8. sähköpostilla      43.88
+ 9. postikulut         43.74
+10. tilata             38.07
+11. myyty              37.17
+12. nikkelitön         35.73
+13. tyllinpostiagmailcom    35.73
+14. postikuluja        35.58
+15. tuotteet           34.36
+16. myymme             34.11
+17. kuoseja            34.02
+18. lahjaidea          33.48
+19. lahjaideat         33.07
+20. tilaat             32.75
+
+==================================================

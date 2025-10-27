@@ -1,0 +1,88 @@
+Keyness analysis for fi/NA-nb-OP
+Original reference corpus: 288231 texts from regions ['HI-NA-nb-re', 'NA-nb-OP', 'IP-NA-nb', 'ID-NA', 'NA-nb-OP-rv', 'HI-NA-nb', 'NA-nb', 'ID', 'ob-OP']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 1 ===
+Target: 874 texts, 669974 words
+Reference (excluding this cluster): 287357 texts, 141072860 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. asioita           299.43
+ 2. ihmiset           298.57
+ 3. ihmisen           292.27
+ 4. elämän            287.43
+ 5. miksi             260.82
+ 6. ihminen           257.65
+ 7. itsensä           237.56
+ 8. ihmisten          234.57
+ 9. jotka             233.74
+10. usein             233.45
+11. asiat             232.63
+12. asia              214.64
+13. minua             210.00
+14. ihmisiä           204.14
+15. elämä             199.22
+16. elämään           188.20
+17. elämässä          184.98
+18. itseään           182.68
+19. omaa              179.70
+20. meistä            178.76
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 695 texts, 533263 words
+Reference (excluding this cluster): 287536 texts, 141209571 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. kirjan            747.85
+ 2. kirja             742.64
+ 3. kirjassa          546.86
+ 4. kirjaa            479.09
+ 5. elokuva           345.12
+ 6. lukenut           343.49
+ 7. teos              340.84
+ 8. elokuvan          304.47
+ 9. tarina            295.36
+10. luin              291.64
+11. kirjasta          279.43
+12. kirjailija        266.22
+13. hänen             242.99
+14. kirjat            241.40
+15. lukea             234.22
+16. teoksen           232.84
+17. elokuvassa        230.96
+18. kirjoja           223.58
+19. kirjoista         220.07
+20. kertoo            205.64
+
+==================================================
+
+=== CLUSTER 3 ===
+Target: 400 texts, 190777 words
+Reference (excluding this cluster): 287831 texts, 141552057 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. tuote             279.31
+ 2. iholle            247.71
+ 3. tuotteet          226.37
+ 4. ihon              204.61
+ 5. tuotteita         190.26
+ 6. tuotteen          180.81
+ 7. hinta             171.71
+ 8. tuotetta          170.83
+ 9. tuotteiden        165.13
+10. ihoa              152.66
+11. kasvoille         120.01
+12. euroa             119.81
+13. iho               113.14
+14. sisältää          107.06
+15. tuotteista        105.61
+16. käytän            103.24
+17. edullinen         103.09
+18. ihoni              99.75
+19. kosmetiikan        97.67
+20. meikkivoiteen      93.29
+
+==================================================

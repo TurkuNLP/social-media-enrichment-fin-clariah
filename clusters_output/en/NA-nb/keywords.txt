@@ -1,0 +1,88 @@
+Keyness analysis for en/NA-nb
+Original reference corpus: 111542 texts from regions ['NA-ob-OP', 'NA-nb-OP', 'NA-nb', 'ID', 'ob-OP']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 0 ===
+Target: 6268 texts, 3078974 words
+Reference (excluding this cluster): 105274 texts, 59294429 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. weekend           373.48
+ 2. photos            360.85
+ 3. fun               356.98
+ 4. blog              325.85
+ 5. atom              301.84
+ 6. photo             298.07
+ 7. love              296.70
+ 8. week              272.19
+ 9. pictures          270.45
+10. sunday            252.22
+11. subscribe         245.57
+12. friday            243.37
+13. day               241.92
+14. trip              239.52
+15. saturday          234.26
+16. wednesday         223.66
+17. excited           219.28
+18. amazing           209.34
+19. beautiful         203.53
+20. decided           202.59
+
+==================================================
+
+=== CLUSTER 1 ===
+Target: 2787 texts, 1002405 words
+Reference (excluding this cluster): 108755 texts, 61370998 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. comments         2790.75
+ 2. replydelete      2480.84
+ 3. love             1256.83
+ 4. itreplydelete     927.40
+ 5. hugs              876.46
+ 6. cute              831.03
+ 7. lovely            816.78
+ 8. gorgeous          732.39
+ 9. tooreplydelete    710.57
+10. beautiful         616.40
+11. blog              609.30
+12. xreplydelete      586.47
+13. glad              573.90
+14. xxreplydelete     564.93
+15. wonderful         553.80
+16. -replydelete      548.86
+17. thanks            544.45
+18. thank             537.58
+19. wow               535.78
+20. adorable          476.87
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 39971 texts, 21844743 words
+Reference (excluding this cluster): 71571 texts, 40528660 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. day              4528.48
+ 2. morning          3852.03
+ 3. beautiful        3452.84
+ 4. atom             3417.49
+ 5. trip             3408.16
+ 6. fun              3270.37
+ 7. decided          3168.27
+ 8. night            3147.75
+ 9. dinner           3043.72
+10. weekend          2833.09
+11. week             2815.50
+12. excited          2775.82
+13. subscribe        2772.18
+14. love             2732.57
+15. little           2634.13
+16. went             2632.06
+17. happy            2550.10
+18. took             2540.73
+19. blog             2509.91
+20. lunch            2481.28
+
+==================================================

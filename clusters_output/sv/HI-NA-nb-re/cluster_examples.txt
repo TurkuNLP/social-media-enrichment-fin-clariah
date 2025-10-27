@@ -1,0 +1,72 @@
+
+============================================================
+CLUSTER 0 (NOISE)
+============================================================
+Size: 135 samples
+Register distribution: {'HI-NA-nb-re': 135}
+
+Examples:
+----------------------------------------
+ 1. Hej hej! Den finns en nagelstylist som heter @fridaselkirk på Instagram. Jag var inne på hennes konto och blev lite inspirerad. Så under en hemma-med-feber-dag utnyttjade jag tiden och fixade nagla... [HI-NA-nb-re]
+ 2. Kalsonger i långa rader och beskrivning för hur man syr ihop dem Här hemma kom helt plötsligt potträningen igång på allvar nu under sommaren. Och i garderoben fanns bara 4 par kalsonger, så det ble... [HI-NA-nb-re]
+ 3. Ja faktiskt, så mognar jordgubbarna just nu här i Taiwan, snart är säsongen slut till och med. Men dom smakar inte som svenska jordgubbar såklart! *Mmmm...* Jag fick en hjärtlig längtan till koloni... [HI-NA-nb-re]
+ 4. Sy draperi och sängkläder till barnrummet Publicerad 20 augusti 2019 Inspirerade av Emma Johansson, som driver det populära Instagramkontot @whatdecoratesmyday samt bloggen med samma namn, vill vi ... [HI-NA-nb-re]
+ 5. 21 januari, 2013 En skir vårkrans Jag är en vintermänniska bakom fönstret som älskar att titta på den fina vita världen men tycker nog bäst med värmen därinne. Jag längtar alltså efter fågelkvitter... [HI-NA-nb-re]
+ 6. Tyckte det var så roligt att teckna pysslet sist, så jag kör på det igen! Detta är inget nytt pyssel precis utan ganska välanvänt, speciellt av rock´n´roll folk men jag tycker det kan vara lika fin... [HI-NA-nb-re]
+ 7. När alla äpplen var trädda på tråden så avslutade jag med tre-fyra lönnlöv och sedan en stoppinne som äpplena kunde vila på. Knyt fast hårt. Se till att det även finns krytmån i girlangens topp så ... [HI-NA-nb-re]
+ 8. Tänk att man kan tillbringa timmar framför datorn och surfa på mössmönster. Leta i böcker. I affärer och på andras huvuden. Bli irriterad över att mössorna antingen är för mycket pösiga eller för l... [HI-NA-nb-re]
+ 9. Sy ett isolerande draperi Publicerad 27 oktober 2022 I samarbete med @emelie.sundberg När det blir kallare ute har ju kylan en tendens att krypa sig in, både genom fönster och dörrar. Här kan texti... [HI-NA-nb-re]
+10. Virka PÅSKHARE! Undrar om det är någon som vill virka en kompis till vår lille ensamme hare? Så här ser han ut, men han har även kropp, armar, ben, rosett och svans. Han är ca 10 cm lång. Tänkte de... [HI-NA-nb-re]
+11. Du vet väl att man slipper drömma mardrömmar om man har en drömfångare! Jag tog med min egen drömfångare som idé till barnens pyssel. En storasyster och hennes lillasyster har gjort dessa drömfånga... [HI-NA-nb-re]
+12. För häromdagen hittade jag ett fiffigt pyssel för att göra järntrådsbollar till ljuslyktor och örhängen. Nu har jag inte någon användning av varken ljuslyktor eller örhängen, så istället blir det R... [HI-NA-nb-re]
+13. Jag är en person som ÄLSKAR att vara kreativ, på ett eller annat sätt. Det är verkligen något jag alltid varit! Älskar att DIY olika saker och ting. Och i år kände jag: "i år ska jag pynta by mysel... [HI-NA-nb-re]
+14. Så här gjorde jag: Köpte fyra kyrkljus, 25 cm långa och 5 cm i diameter. Fyllde en stubbkruka, som finns att köpa på Granit, med plastpåsar. När några centimeter av krukan återstod stoppade jag i d... [HI-NA-nb-re]
+15. Sovmorgon i molnet! En sänggavel tycker jag ska vara inbjudande, mjuk, stadig och gärna lite otraditionell – precis som en bättre partner! Jag har alltid tyckt om uttrycket “som att sova på moln”. ... [HI-NA-nb-re]
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 387 samples
+Register distribution: {'HI-NA-nb-re': 387}
+
+Examples:
+----------------------------------------
+ 1. På helgerna har vi alltid haft som tradition att äta efterrätt. Det vill vi fortsätta med även nu när vi kör LCHF. Den här gången testade jag en kombination av mörk choklad, vispad grädde och fryst... [HI-NA-nb-re]
+ 2. Logga in för att recept999 för att spara dina favoritrecept Om du ej har registrerat dig ännu, registrera nu! Hittad 331 recept Ingredienser syltade kantareller mjölksyrade grönsaker t.ex. gurka el... [HI-NA-nb-re]
+ 3. God lite lyxigare rätt. Genom att marinera köttet blir smaken fylligare och köttet mörare. Här marineras steken ett dygn i öl och kryddor, bräseras med grönsaker i en gryta och serveras i tunna ski... [HI-NA-nb-re]
+ 4. Långpanne bröd är så himla smidigt, efter jäsning, tryck ut smeten i formen, jäs lite till och grädda. Det här brödet är fullproppat med morötter, palsternacka och en toppas med pumpakärnor. Känn e... [HI-NA-nb-re]
+ 5. Så enkelt att baka å såå goda! Sen blir det 4 limpor på en gång så det räcker ett tag. Sirap recept Goda enkla sirapsrutor! Enkelt och gott Långpannekakor kan jag aldrig få nog av. Här är en med si... [HI-NA-nb-re]
+ 6. Favoritbetor med brynt salviasmör Det här är mitt absoluta favoritrecept på färska betor. Jag använde polkabetor den här gången, men det går förstås precis lika bra med rödbetor. Ett supergott till... [HI-NA-nb-re]
+ 7. Bröd att baka: Gammeldags danskt rågbröd Det här är en typ av bröd som jag har haft i bakhuvudet och tänkt på att ta fram recept på under ett par år faktiskt. Jag ville ha ett bra recept på jäst rå... [HI-NA-nb-re]
+ 8. Dec 25, 2016 | Kost, Lunch och middag, Recept | Kanske börjar köttbullarna och skinkan att stå dig upp i halsen och du känner att du väl äta lite fräschare mat? Då har jag receptet för dig ;o) Både... [HI-NA-nb-re]
+ 9. Tårtan för den som verkligen älskar arraksbollar! Arraksbollar i tårtform helt enkelt. Dekorera med bär och kanske en levande blomma, för att få lite färg på tårtan! Arraksbollar och dammsugare är ... [HI-NA-nb-re]
+10. Smarriga och superenkla våfflor. Passar utmärkt att ta som matsäck med så gör en stor sats och ha i kylen. Även våra små äter dessa våfflor utan att gnälla det minsta. Våfflor till 1 person. Blanda... [HI-NA-nb-re]
+11. Så här i rabarbertider passar det ju utmärkt att baka rabarbergrottor. Denna klassiska småkaka som är så vansinnigt god och smälter i munnen. Jag kokade en sats av min rabarberkompott och tillsatte... [HI-NA-nb-re]
+12. 2019 > 04 En otroligt fräsch och god sallad med den citronmarinerade kycklingen, den limemarinerade rödlöken, den söta mangon, fetaosten och sist men inte minst den ljuvligt lena majonnässåsen som ... [HI-NA-nb-re]
+13. Logga in för att recept999 för att spara dina favoritrecept Om du ej har registrerat dig ännu, registrera nu! Hittad 217 recept Antal portioner: 4 Ingredienser 5 st pilgrimsmusslor, frysta 1 msk ko... [HI-NA-nb-re]
+14. Denna snickerstårta är bland det godaste jag ätit när det kommer till rawfika. Choklad, söt, salt, mjuk, seg, knaprig…den har allt! Understa lagret är en cashew & jordnötsbotten, mellanlagret är gj... [HI-NA-nb-re]
+15. Har du saffran kvar i skåpet sen julen? Gör den här goda glassen med smak av saffran & honung. Servera den tillsammans med varma björnbär och rostad vit choklad – läcker efterrätt att bjuda… - - Hö... [HI-NA-nb-re]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 6282 samples
+Register distribution: {'HI-NA-nb-re': 6282}
+
+Examples:
+----------------------------------------
+ 1. Eftersom barnen i min dotters förskolegrupp är små tänkte jag att de nog helst ville ha lite roliga kakor som de kunde känna igen. Därav valet av de här nallekakorna. Är ganska enkla att göra men d... [HI-NA-nb-re]
+ 2. torsdag 18 april 2013 Gratinerad lammkorvpytt Det finns korv och så finns det korv med hög lätthanterlig och god smaksättning. Vi hittade en lammkorv med timjan och vitlök. Men det går bra med chor... [HI-NA-nb-re]
+ 3. Alltså, i dag har det varit mörkgrått, ljusgrått, mellangrått och grågrått samt dimmigt. Trött blir man. Äter apelsiner, clementiner och dricker upppiggande drycker som en tok för att mota olle (st... [HI-NA-nb-re]
+ 4. 20:54 | juli 28, 2009 | Victoria Riis Man borde inte köpa färdig äcklig majonnäs i butik, att göra egen är ju sååå lätt och såååå gott!! Sen kan man smaksätta den hur man vill, med vitlök, citron, ... [HI-NA-nb-re]
+ 5. Det är inte ofta hela tårtan tar slut på en bjudning och ingen vill ju sällan ta den sista biten 😉 Men på senaste fredagsmyset med goa grannar blev det bara några kaksmulor kvar av denna cheesecake... [HI-NA-nb-re]
+ 6. Mandelmjölk DIY För några dagar sen såg jag att alpro tagit in en mandelmjölk/mandeldryck och nu imorse blev jag påmind av en kommentar på instagram. Kommer också ihåg att jag såg hur man gjorde eg... [HI-NA-nb-re]
+ 7. Raw bolls Provade på att göra raw bollar idag och jäklar vad goda det var. Känns skönt att ha något gott att äta framför tvn efter maten men som samtidigt är nyttigt och bra för kroppen. Receptet j... [HI-NA-nb-re]
+ 8. Rora Throbäck Rora Throbäck Jag är en störig brud på 20 år och har nyss flyttat till hålan jag lovade mig själv att aldrig bo i. Jag är sambo med min pojkvän, Niclas, och är stolt hundägare till en... [HI-NA-nb-re]
+ 9. Tänkte så här i den vanliga lördagsstiltjen på forumet berätta om ett bra recept jag prövade igår som är perfekt för dig som gillar nybakat bröd samt att tillaga så mycket som möjligt på grillen. J... [HI-NA-nb-re]
+10. Idag är det min födelsedag så då festar vi till det och fikar med en äppelpaj kladdkaka. En lätt syrlig kladdkaka med krispigt täcke sen vaniljsås det till, smarrigt! ÄPPELPAJ KLADDKAKA 24 cm form ... [HI-NA-nb-re]
+11. Till en middag med vänner förra veckan, skapade jag en ny dessert. En efterrätt med älskliga jordgubbar, mango, lavendel och vit chokladsås. Det blev så otroligt bra och lyckligtvis hade jag gjort ... [HI-NA-nb-re]
+12. Något som vi pratat flera gånger om att göra de senaste åren, men inte fått tummarna loss att prova på förrän i år, är inkokta eller inlagda clementiner. Vi har sett olika varianter lite varstans i... [HI-NA-nb-re]
+13. Den här glassen har jag gett ett märkligt namn. Det är också en mycket märklig glass! Egentligen heter den Karamellparfait, där jag fann receptet alltså, men Peter tycker att den påminner om godise... [HI-NA-nb-re]
+14. Detta är faktiskt den rätt som jag bjöd på till nyårsafton. Helstekt svensk oxfilé med en grym rödvinssås, smörslungade haricoverts, potatisgratäng med västerbottensost och ett parmachips. Riktigt ... [HI-NA-nb-re]
+15. Gud, dagarna springer bara iväg. Hinner inte riktigt med det jag vill på dygnets 24 timmar. De senaste två veckorna har jag varit i Stockholm två svängar och den lediga tid jag haft på kvällar och ... [HI-NA-nb-re]

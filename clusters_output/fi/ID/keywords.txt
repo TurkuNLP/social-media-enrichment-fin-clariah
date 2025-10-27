@@ -1,0 +1,88 @@
+Keyness analysis for fi/ID
+Original reference corpus: 288231 texts from regions ['HI-NA-nb-re', 'NA-nb-OP', 'IP-NA-nb', 'ID-NA', 'NA-nb-OP-rv', 'HI-NA-nb', 'NA-nb', 'ID', 'ob-OP']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 0 ===
+Target: 19 texts, 10062 words
+Reference (excluding this cluster): 288212 texts, 141732772 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. subleffat         348.30
+ 2. videohaku         344.58
+ 3. hakuvaihe         338.28
+ 4. subfi             338.28
+ 5. paskareissu       335.54
+ 6. koelaulut         335.54
+ 7. -finaali          333.01
+ 8. animesarjat       333.01
+ 9. bb-fanit          326.40
+10. semifinaalit      311.79
+11. interaktiiviset   307.99
+12. subilta           306.80
+13. o'brien           303.46
+14. madventures       302.41
+15. tuhkimotarina     301.39
+16. skins             290.91
+17. simpsonit         280.94
+18. tuotannolle       278.67
+19. supernatural      278.67
+20. pelastajat        278.13
+
+==================================================
+
+=== CLUSTER 1 ===
+Target: 478 texts, 277184 words
+Reference (excluding this cluster): 287753 texts, 141465650 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. joukkue           976.53
+ 2. kaudella          965.95
+ 3. peli              661.29
+ 4. joukkueen         648.37
+ 5. kauden            639.61
+ 6. pelannut          620.17
+ 7. ottelun           594.65
+ 8. pelissä           586.75
+ 9. peliä             573.28
+10. pelaaja           571.55
+11. liigan            547.76
+12. ottelussa         545.43
+13. pelaa             542.28
+14. pelin             484.44
+15. ottelu            476.30
+16. ottelua           473.10
+17. pelaajia          433.09
+18. pelasi            430.40
+19. joukkueet         430.19
+20. voitto            406.89
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 34476 texts, 17614719 words
+Reference (excluding this cluster): 253755 texts, 124128115 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. sääntöjenvastaista 38672.15
+ 2. ketjusta        38399.85
+ 3. luetuimmat      36623.68
+ 4. poistettu       35228.21
+ 5. keskustelut     34920.70
+ 6. viestiä         29826.29
+ 7. vastaukset      25749.52
+ 8. stefu           20930.03
+ 9. sofia           17666.81
+10. belorf          16053.81
+11. sonja           13804.51
+12. martina         13684.28
+13. viimi           10441.42
+14. selvinpäin-elämästä 10431.26
+15. haimasyövältä   10429.07
+16. loistavaailmeisesti 10412.76
+17. kuolikun        10385.67
+18. kanervasta      10354.23
+19. aielloviihtyvät 10350.67
+20. riutuneen       10343.49
+
+==================================================

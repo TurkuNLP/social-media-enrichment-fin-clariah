@@ -1,0 +1,96 @@
+
+============================================================
+CLUSTER 0 (NOISE)
+============================================================
+Size: 1465 samples
+Register distribution: {'HI-NA-nb-re': 1465}
+
+Examples:
+----------------------------------------
+ 1. Yksi lempikakuistani on Schwarzwaldin kakku. Mahtava yhdistelmä makeaa suklaata ja happamia kirsikoita. Parempaa tämä leipuri ei osaisi keksiä. Yritin kuitenkin. Haastetta varten kehittelin raakave... [HI-NA-nb-re]
+ 2. Tässä tulisi taas resepti viikonloppua ajatellen. Olen pahoillani, että en sellaista viime viikolla tehnyt, mutta olin valitettavasti todella kiireinen.Viikonlopun reseptit löytyy tästä lähtien “Fr... [HI-NA-nb-re]
+ 3. Pannukakut ovat siitä nerokkaita, että niihin voi tunkea "mitä vain". Melkein sama periaate, kuin pitsassakin. Puurot, jugurtit ja rahkanjämät menevät kepeästi taikinaan, eikä silti kukaan ihmettel... [HI-NA-nb-re]
+ 4. (Kai tekin puhutte ruoalle näin lempeästi?) Puhutaan vaihteeksi kookosjauhosta. En aluksi pitänyt yhtään sen omituisesta mausta, joka on jollain tapaa makea ja kookosmainen muttei kuitenkaan. Lisäk... [HI-NA-nb-re]
+ 5. Huhtikuussa Kaksplussan bloggaajat jakavat omat vinkkinsä päiviin, joina "ei ole mitään tekemistä". Aina ei tarvitse lähteä merta edemmäs kalaan tai maksaa maltaita, jotta arjesta saa mielikuvituks... [HI-NA-nb-re]
+ 6. Kuinka lie kampanisut ympäri Suomea tunnettuja, mutta nämä ovat aivan ihania, kahvipöydän tarjottavia. Juhlissa ihan ehdottomia!! Sokerittomia ja kananmunattomia! Meidän häissä oli yhtenä tarjottav... [HI-NA-nb-re]
+ 7. torstai 1. tammikuuta 2009 Dumlemuffinssit Joulukuun sly-paketista löytyi helppo amerikkalaisten suklaamuffinssien ohje. Kävin alesta hakemassa dumleja halvalla ja käytin niitä suklaan tilalla muff... [HI-NA-nb-re]
+ 8. Date(cake) with Elvis... - joulun ensimmäinen taatelikakku Taas sain muistutuksen siitä, ettei yliväsyneenä kannattaisi alkaa leipomaan mitään uudella ohjeella. Eikä ainakaan silloin, kun jaloissa ... [HI-NA-nb-re]
+ 9. Hyvä kiertämään! Nyt tulee pikapäivitys ja tämäkin koskee herkuttelua! Nimittäin eräs ihana blogistalkkeri Kemmy laittoi mulle sähköpostilla protskupannarireseptin ja kehui sen maasta taivaisiin. J... [HI-NA-nb-re]
+10. Valmistin uudelleen samaa marsipaanitaikinaa, josta tein marsipaanimunia pääsiäiseksi, tarkoituksena kokeilla marsipaania kakun päällysteeseen ja koristeisiin. Sama taikina toimi erittäin hyvin, ol... [HI-NA-nb-re]
+11. tiistai 20. tammikuuta 2015 Nuts and fruits and all the goods Chocochilin keittokirjassa Vegaanin keittiössä on pari mysliohjetta. Siitä inspiroituneena päätimme heittää pannulle kaikkea mitä vain ... [HI-NA-nb-re]
+12. Hirveen hyvvee ruokoo kasviksista. Kasvikset maistuu hyviltä kun muistaa mausteet! sunnuntai 27. tammikuuta 2013 Tattari pitsa Herneitä, porkkanaa ja sieniä "kermassa" Yleensä en koskaan tee yhtään... [HI-NA-nb-re]
+13. Viisivuotis-syntymäpäiväkakku Tänä vuonna prinsessamme toivoi syntymäpäiväkakuksi viisivuotiskakkua. Toiveen kuultuani huokaisin helpotuksesta, koska kakku vaikutti kyllin yksinkertaiselta verrattu... [HI-NA-nb-re]
+14. Olen pitkään haaveillut jäätelökoneesta, mutta aina se on jäänyt hankkimatta. Nyt minulta sellainen löytyy ja kesän mittaan sille varmasti tulee enemmänkin käyttöä! Jäätelökoneen voi napata vaikka ... [HI-NA-nb-re]
+15. Syksyiset illat on saanut minut testailemaan kaikenlaisia uusia välipaloja/jälkiruokia. Montaa variaatiota on tullut kokeiltua, mutta yksi on noussut yli muiden. Innostukseni maitokiisseleihin eril... [HI-NA-nb-re]
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 1395 samples
+Register distribution: {'HI-NA-nb-re': 1395}
+
+Examples:
+----------------------------------------
+ 1. lauantai 29. kesäkuuta 2019 Leppäkerttudonitsit / Minidonitsit leppäkerttuina Heippa! Mulla ei ole aika riittänyt blogin päivittämiseen, mutta pikkuhiljaa täältä tulee näitä leppäkerttuherkkuja 😍 T... [HI-NA-nb-re]
+ 2. maanantai 30. kesäkuuta 2014 Kesäinen lehtikaalipasta herneillä Lehtikaali sopii hyvin pastan kanssa, siitä voi tehdä vaikka talvista versioita, pekonin tai kesäkurpitsan kanssa ja vaikka miten. Mu... [HI-NA-nb-re]
+ 3. lauantai 19. marraskuuta 2011 Joulupullia Jouluun on vielä paljon aikaa, mutta tein silti ensimmäisen kokeiluerän joulupullia. Joulupulla nimi tulee siittä, että täytteeseen tulee monenmoista joulu... [HI-NA-nb-re]
+ 4. Olin suunnitellut sitä päiviä. Ostin ainekset, mietin miten kuvaisin lopputuloksen ja fiilistelin, miltä se maistuisi. Mutta sitten se ei onnistunutkaan. Pari kirosanaa siivitteli illan kokkailuja,... [HI-NA-nb-re]
+ 5. Lähdetään huomenna kohti Pohjanmaata ja sitä ennen on muutamat kakut tehtävänä. Palaan uusin päivityksin pyhien jälkeen. Etelä-pohjanmaalla lähtee noidat vasta matkaan kun täälä etelämpänä oli virp... [HI-NA-nb-re]
+ 6. 2015/04/17 Omenakierrepullia Jokunen aika sitten tein pitkästä aikaa pullia. Kyllä vaan itse tehty pulla on hyvää. Pitäisi kerralla tehdä isotaikina niin voisi ehkä riittää pakkaseen asti -tai sitt... [HI-NA-nb-re]
+ 7. Ullan leipomuksia ja kakun koristelua. Harrastustoimintaa terapeuttisessa mielessä. Taikinaterapiassa on voimaa! lauantai 18. maaliskuuta 2017 Limetti-pikkuleivät Olen ollut kotona "hoitovapaalla" ... [HI-NA-nb-re]
+ 8. Saimme perjantaina lapsuudenystäväni perheineen kylään meille Hollannista. Tuliaisina he toivat himoitsemani valurautaisen Poffertjes pannun. Poffertjesit ovat pieniä, halkaisijaltaan noin 4 cm pie... [HI-NA-nb-re]
+ 9. Kurpitsakakku Veljeni vietti synttäreitään Halloweenin kynnyksellä ja teema juhlissa oli sen mukainen. Veljeni toiveena oli saada juhliin kakku. Koska halusin testata muotokakun tekemistä, kurpitsa... [HI-NA-nb-re]
+10. Huomenna olemme pakkaamassa "Mörkö-Mersumme" ja suuntaamme kohti Varkautta. Menemme yökyläilemään ystäväperheemme luokse ja käymme yhdessä Vekara-Varkauden tapahtumissa. Huomisen agendalla on ainak... [HI-NA-nb-re]
+11. Ajattelin leipoa pullaa... No mieleeni tulvahti tilanne, jossa koko perhe istuu keittiön pöydän äärellä välipalalla/kaffilla syöden pullaa. No, nyt on se tilanne, että meidän juniori on oppinut vaa... [HI-NA-nb-re]
+12. 24.5.2010 Baileys-kakku Pitihän minunkin tätä vihdoin kokeilla, Kinuskikissan innoittamana :) Ohje on mukaeltu. On kyllä todella herkullista, ja helppo ja nopea tehdä! Suklaakiille vielä päällä, ja... [HI-NA-nb-re]
+13. Captivating World perjantai 7. helmikuuta 2014 Korvapuustit Ei tästä blogista oikeasti ole tullut mikään leivontablogi, vaikka jo moni peräkkäinen postaus on käsitellyt keittiöpuuhia. :) Viimeisen ... [HI-NA-nb-re]
+14. maanantai 6. huhtikuuta 2015 Kinuskiset uunijuustokakut pääsiäiseksi Voihan pääsiäinen minkä menit tekemään. Niin paljon tuli herkkuja syötyä että voihan mahamakkarat :D No, ei niitä kukaan pakolla... [HI-NA-nb-re]
+15. Valikko maanantai 26. joulukuuta 2011 Trooppiset vaahtokarkit Minä en tykkää vaahtokarkeista. Mikä loistava lähtökohta vaahtisten tekemiselle! Tavoitteita oli kaksi: saada vaahtikset maistumaan hed... [HI-NA-nb-re]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 799 samples
+Register distribution: {'HI-NA-nb-re': 799}
+
+Examples:
+----------------------------------------
+ 1. Italiassahan sanotaan, että mitä yksinkertaisempi pizza, sen parempi. Olen ajan myötä enenmmän ja enemmän samaa mieltä tämän väitteen kanssa. Aikoinaan tehtiin Pankkiirin kanssa mahdollisimman kork... [HI-NA-nb-re]
+ 2. Rakastan kaikenlaisia papuja, niiden liottamista, keittelemistä ja jatkojalostamista. Kun kaapissa on sekä kuivattuja että säilykepapuja, ei ole temppu eikä mikään vääntää puoliaivoisessakaan tilas... [HI-NA-nb-re]
+ 3. Tämän hetken kuumin herkku on tietenkin myskikurpitsa. Tästä vihanneksesta on moneksi! Keitoksi tehtynä aivan ihanan makeaa ja maukasta, mutta sopii täydellisesti myös pannulla paistoon ja salaatin... [HI-NA-nb-re]
+ 4. Ihanat pehmeät mokkapalat / maidoton ja munaton Testailin viime vuoden puolella munattoman ja maidottoman mokkapalatyyppisen ”Black Bomb”-piirakan tekemistä. Se oli helppo ja nopea tehdä, ja ihan o... [HI-NA-nb-re]
+ 5. Olet täällä Teksti Ann-Mari On ollut ilahduttavaa huomata kuluneiden neljäntoista keliaakikkolapsen äitinä kokemani vuoden aikana, miten paljon gluteenittomien tuotteiden tarjonta on kaupoissa moni... [HI-NA-nb-re]
+ 6. keskiviikko 17. elokuuta 2011 Tomaattinen munakoiso-tofupaistos Silloin tällöin kaupasta tarttuu mukaan itselle täysin uusia raaka-aineita. Se tuo kivasti vaihtelua arkikokkailuihin. Tämän kokkailu... [HI-NA-nb-re]
+ 7. Mies ihmetteli joskus, että miksi leivon harvakseltaan leipää (kun kerran muuten teen kaiken itse). Anoppi on miehen lapsuudessa leiponut kaiken leivän itse ja tuo edelleen aina tullessaan leipää. ... [HI-NA-nb-re]
+ 8. Mikäs siinä ollessa, kun kesäpäivän (tässä tapauksessa sateisen ja tuulisen sellaisen) voi aloittaa hektisestä arjesta poiketen hieman rennommin - makoillen tai katsellen tv:tä, ottaen aurinkoa ja ... [HI-NA-nb-re]
+ 9. Ajo blanco kirsikoilla Industry Standardin tyyliin Ajo blanco eli ”valkoinen gazpacho” on toistaiseksi isoin ruokahurahdukseni tänä kesänä. Keitosta olen toki ollut tietoinen jo pitkään, mutta vast... [HI-NA-nb-re]
+10. tiistai 31. heinäkuuta 2012 Kantarelliherkku Sieniä pukkaa! Ja lehdet ovat ilokseni uutisoineet, että sienisadosta tulee runsas. Outi <3 sateinen ja viileä kesä. :D Selkäni alkaa olla kohtuullisen ... [HI-NA-nb-re]
+11. kuvat 22.4.2013 Liikkujan aamupala / Breakfast for healthy way Tämän aamupalan takia kannattaa herätä aamuisin: n. 1 dl tattarihiutaleita n. 1/2 dl Fast pudding-jauhetta (itse käytän valkosuklaan m... [HI-NA-nb-re]
+12. Oopsieta mainostetiin lehdessä hiilarittomana leipänä. Sitä suositeltiin leipähimon riivaamille karppaajille. Minä en karppaa, mutta olen halukas kokeilemaan kaikkea uutta ja mielenkiintoista. Oops... [HI-NA-nb-re]
+13. Mausteinen bataatti-kookoskeitto Koska blogini lukijoista merkittävä osuus koostuu entisistä ja nykyisistä turkulaisista, uskallan esittää kysymyksen: kuka muu muistaa Turun Kauppakorkeakoulun ruok... [HI-NA-nb-re]
+14. Tein taas tänään marjakiisseliä. Se on ruoka johon minulla on viha-rakkaussuhde. Kun olin lapsi, kotonani oli aina kiisseliä. Pohjana oli milloin punaherukka, mustikka, mansikka, karviaiset, mustah... [HI-NA-nb-re]
+15. Yhteistyössä Bonne. Pahoittelen etten ehtinyt heti alkuviikosta postausta näpyttelemään mutta oon saanut hoitaa täällä oikeaa lasarettia. Toivottavasti nyt pöpöt on poissa sillä pyykkikone on laula... [HI-NA-nb-re]
+
+============================================================
+CLUSTER 3
+============================================================
+Size: 938 samples
+Register distribution: {'HI-NA-nb-re': 938}
+
+Examples:
+----------------------------------------
+ 1. Olen ihastunut tummiin suklaisiin. Vaikka ennen en voinut niitä sietää! Olin ilmeisesti syönyt vaan pahoja suklaita enkä osannut valita hyviä :) syön näitä nautiskellen, pari palaa silloin tällöin.... [HI-NA-nb-re]
+ 2. maanantai 17. marraskuuta 2008 Sulatejuustoinen makaroonilaatikko Voi voi. Ei nyt oikeen luonnistu tämä blogiaktiivisuus. Sitten viime näkemän on mennyt kaikki asiat niin uusiks ettei tässä ihminen... [HI-NA-nb-re]
+ 3. Heippa! Onpa moni kiinnostunut tuosta eilen julkaisemastani bikinibody bootcampista, jess! Ei kai tässä auta, kun pistää rattaat pyörimään. Mun täytyy toki suunnitella ohjelmat ja ruokapuoli, niin,... [HI-NA-nb-re]
+ 4. Viime viikko oli henkilökohtaisesti varsinainen unelma. Maanantain ja tiistain vietin Atria 100 Nuorta Kokkia- koulutusohjelmassa. Hieno tilaisuus verkostoitua oman alan tulevien huippuosaajien kan... [HI-NA-nb-re]
+ 5. Hauki on ollut tarjouksena kaupassamme pitkin kesän alkua ja sitä meillä on sitten syöty enemmänkin. Tähän gratiiniin toki sopii muutkin kalat. Nyt olemme olleet ulkona koko päivät, mitä nyt syömäs... [HI-NA-nb-re]
+ 6. lauantai 23. huhtikuuta 2011 Ruokajuttuja, mitäs sitä muuta Ystäväni on asunut kevään ajan luonani putkiremonttievakossa. Tästä syystä on tullut paljon kokeiltua erilaisia kasvisruokia. Ruokien ase... [HI-NA-nb-re]
+ 7. Olen sairastanut hyvin sitkeää kausi-influenssaa nyt kuusi päivää. Niistämisen, yskimisen, kakomisen ja niiskuttamisen keskellä ei ole ollut halua seisoskella pitkään patojen ja kattiloiden ääressä... [HI-NA-nb-re]
+ 8. tiistai 13. tammikuuta 2015 Sukkia sukkia Tässä parit sukat, mitkä on ollu puikoilla ja oottanu päättelyä. Eilen nopsaan päättelin ne ja vein parille työkaverille jalkojaan lämmittämään :) Tuosta m... [HI-NA-nb-re]
+ 9. Päiviltä nappasin nopean, helpon ja herkullisen piirakkaohjeen. Me tehtiin tätä "Uskolan hätävaraa" tänä aamuna, eilen poimimistani mustikoista ja ohje kuuluu näin: Mustikkapiirakka 1,5 dl sokeria ... [HI-NA-nb-re]
+10. Kiitos sinulle Jokihaka kokkaa -blogi, pelastit mun eilisen illan! Takana on kamalan stressillinen työputki, joka saatiin vihdoin eilen päätökseen. Stressillisestä olotilasta kertoo käsivarteni val... [HI-NA-nb-re]
+11. Innostuin Dubain reissullamme silloin aikoinaan maistamaan kasvissushia joita sai ihan kaupasta valmiissa paketissa ostaa. Sen jälkeen uskaltauduin kiinalaisessa ravintolassa maistamaan ihan aitoja... [HI-NA-nb-re]
+12. Kun aloimme suunnittelemaan joulua niin pikkumies totesi että nyt äiti leivotaan niitä valkoisia pikkuleipiä ja eihän siinä muu auttanut. Äidin valkoiset muropikkuleivät: - 0,5 dl sokeria - 100 g v... [HI-NA-nb-re]
+13. Palasin töihin jo toissa viikolla, mutta mies ja lapset jatkoivat lomailua ja reissasivat sukuloimassa. Olen siis saanut olla vähän hunningolla viimeisten parin viikon aikana. Tarkoittanut siis sit... [HI-NA-nb-re]
+14. Viime päivinä median kuluttamiseni on mennyt aivan ylitse, tuntuu etten muuta teekään kuin selaan eri lähteitä ja foorumeita rauhattomana. Tein itselleni muutaman säännön, joitten myötä toivon saav... [HI-NA-nb-re]
+15. Syksy ja sienet, ne lämmittävät mieltäni. Syksystä on tullut lempivuodenaikani. Rakastan tuulen tuiverrusta, ikkunaan piiskaavaa sadetta, kuumaa kaakaota ja tietenkin syksyisen metsän retkiä. Luonn... [HI-NA-nb-re]

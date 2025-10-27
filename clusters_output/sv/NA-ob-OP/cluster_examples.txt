@@ -1,0 +1,48 @@
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 175 samples
+Register distribution: {'NA-ob-OP': 175}
+
+Examples:
+----------------------------------------
+ 1. Direktlänk till inlägg 30 juli 2015 Det går snabbt i dagens massmediala värld. I samma sekund som slutsignalen i en stormatch i fotboll ljuder, skall det på tidningarnas nätsida finnas en artikel. ... [NA-ob-OP]
+ 2. måndag 31 augusti 2009 Att sparka eller inte sparka - en empirisk studie När det går dåligt för ett idrottslag tar ofta klubbens ledning beslutet att sparka tränaren. En ny röst kan få fart på lage... [NA-ob-OP]
+ 3. I kväll gäller det. Fast ändå inte. Eurovision Song Contest börjar egentligen inte på allvar förrän Sverige går in i tävlingen på torsdag. Som vanligt. Sedan systemet med dubbla semifinaler införde... [NA-ob-OP]
+ 4. fredag 15 juli 2011 Sport i media (15 juli 2011) Än värre är att DN:s Olof Peronius, i en text som fokuserar på årets överraskning Venezuela, skriver att Venezuela vann sin grupp vilket Brasilien g... [NA-ob-OP]
+ 5. 08 april 2010 Allsvenskan är Allsvenskan Jag klagar inte på att svenska hockeyspelare säger "du vet hur det är med matchlunken i grundserien" och "en dag på jobbet" om hela den dyra grundserien och... [NA-ob-OP]
+ 6. Någonstans måste man börja, varför inte låta musiken slå an en ton i en införrapport? Svart och rött är våran färg, kämpa hårt mot Sundbyberg Ovanstående versrad hittade jag på en hemsida tillhöran... [NA-ob-OP]
+ 7. Användandet av teknologi inom fotbollen har diskuterats och debatterats flitigt under senare år. Av lätt insedda skäl tog debatten ny fart efter Frank Lampards spökmål mot Tyskland i VM 2010, men ä... [NA-ob-OP]
+ 8. lördag 25 mars 2017 Om en tjej som behöver tillrättavisas... Kan ni läsa på Maria Rydqvists blogg. Hennes erfarenhet efter ett märkligt år (nästan) i landslaget. Jag ska väl skriva om min erfarenhe... [NA-ob-OP]
+ 9. torsdagen den 12:e juni 2008 Ännu en skröna har gått ur tiden, enlig DN Som den begriper, som läser texten, var det faktiskt en existerande person som dött: den legendariske rallyföraren Ove "Påven... [NA-ob-OP]
+10. Det har varit en vecka med mycket tjafs. Michael Owen släpper sina memoarer och låter världen få veta att han och Alan Shearer inte drar jämnt. Alan Shearer svarar med en bitter tweet. Roy Keane, o... [NA-ob-OP]
+11. Helsingborgs uppgång och fall Jag minns den glittriga, senaste guldnatten 2011 (den kunde regisseras på ett mer magnifikt sätt än den 1999 eftersom saken var klar redan inför sista spelomgången). J... [NA-ob-OP]
+12. lördag, november 22, 2008 Telia rekommenderar... Enligt Aftonbladet skrevs det golfhistoria i går när en 14-åring klarade cutten i Hong Kong Open. För mig var det historiska med den tävlingen inte ... [NA-ob-OP]
+13. Alla inlägg den 7 april 2017 Jag tror på kontinuitet, när det gäller att bygga något stabilt inom idrotten. Jag tror också att en stor, välskött ungdomsverksamhet är nödvändigt för stabilitet över ... [NA-ob-OP]
+14. lördag 26 juni 2010 Största idrottsfesten? Fotbolls-VM vart fjärde år är det största man kan uppleva i idrottsväg, det slår till och med ut OS. Och det omdömet gäller även om inte Sverige deltar. M... [NA-ob-OP]
+15. Ok, vi vet det mesta om hur EM-truppen kommer att se ut. Och de namn som diskuteras mest nu är de vi kommer att se minst av när EM väl är i gång. Jag har två önskningar om Lagerbäcks trupp. 1. Två ... [NA-ob-OP]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 2655 samples
+Register distribution: {'NA-ob-OP': 2655}
+
+Examples:
+----------------------------------------
+ 1. Kampanj mot förintelsebluffen i Stockholm Den 27 januari är det minnesdag för den välkänt falska bluffhistorien ”Förintelsen”. Detta ställde sig Näste 1 på tvären till. Så den 26 januari bedrevs en... [NA-ob-OP]
+ 2. Sverigebilden maj 2011 Deckarlandet Sverige och matlandet Sverige är något som ofta omskrivs i utländska medier. Denna månad nämns även bland annat svensk hackerkultur, Polarpriset och statsbesöket... [NA-ob-OP]
+ 3. Är det inte märkligt att Ian Lundin har sålt stora mängder LUMI i flera omgångar, till och med innan Tenke-avtalet var i hamn. Likaså har nu Lukas Lundin sålt en hygglig post i LUMI efter det att T... [NA-ob-OP]
+ 4. 18 oktober 2018 Genusstudier är ingen vetenskap… Det säger Ungerns premiärminister Viktor Orban , när han undertecknade en bestämmelse som trädde i kraft i lördags och som effektivt eliminerar fina... [NA-ob-OP]
+ 5. Ibland hör man folk som tycker att engelskan är som ett slemmigt monster som tuggar i sig den stackars svenskan. Jag är inte en av dem. Dock tycker jag att det är intressant att se hur och var enge... [NA-ob-OP]
+ 6. Vi som lärt oss att vindar drivs av temperaturskillnader, oavsett vilka temperaturer det handlar om blir inte helt förvånade om vi råkar få ögonen på en rubrik om att vindarna på norra halvklotet b... [NA-ob-OP]
+ 7. 21 maj 2010, kl 11:54 Skrivet av Bloggaren Magnus Anmäl ! Jag ser att Mix Megapol har haft en omröstning om dom 1000 bästa låtarna. Det är tungt och en svår uppgift och självfallet blir det subjekt... [NA-ob-OP]
+ 8. Publicerat november 30th, 2017 | av Sakari Pitkänen0 Elon Musk har förändrat bilindustrin för alltid Ingen har påverkat den moderna bilindustrin lika mycket som Elon Musk. Trots att hans skapelse T... [NA-ob-OP]
+ 9. Framför allt små noteringar om Quickärendet allteftersom debatten fortsätter. Donald Trumps valseger är sönderanalyserad redan. Som så många har konstaterat finns det en tydlig parallell mellan res... [NA-ob-OP]
+10. torsdag, februari 11, 2010 Iran: Jubileum utan jubel I dag har det alltså varit en symbolladdad årsdag för den iranska revolutionen. Som väntat har den «gröna» oppositionen med folkliga protester b... [NA-ob-OP]
+11. Migrationsdomstolen har idag beslutat att avslå begäran från advokaten till Kongolesiska pastorn Jean, att han ska släppas fri. Advokaten Claes Strömvall har nu skickat ett fax till Migrationsverke... [NA-ob-OP]
+12. Det är lätt att bli konspiratorisk en dag som denna! Radio- och TV-huset i Göteborg drabbades av ett omfattande nätverksproblem som beskrivs som ”en ovanlig händelse” av Sveriges Radios IT-chef And... [NA-ob-OP]
+13. Att vara partner till eller med någon är för mej något fint. Det betyder att man har ett slags kontrakt med någon eller några andra människor - skrivet, muntligt eller känslomässigt. Man har förbun... [NA-ob-OP]
+14. Instagram för farligt för Facebook Det nischade sociala bildnätverket Instagram köptes igår upp av Facebook. Mark Zuckerberg skriver ”I’m excited to share the news that we’ve agreed to acquire Inst... [NA-ob-OP]
+15. Idag hade vi – som vanligt – en lång diskussion på kommissionssammanträdet om åtgärder för att hantera den ekonomiska krisen. Olli Rehn presenterade ett paket för stärkt ekonomisk samordning som vi... [NA-ob-OP]

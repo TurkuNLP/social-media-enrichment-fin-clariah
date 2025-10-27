@@ -1,0 +1,72 @@
+
+============================================================
+CLUSTER 0 (NOISE)
+============================================================
+Size: 19 samples
+Register distribution: {'ID': 19}
+
+Examples:
+----------------------------------------
+ 1. Jos olisit talossa, ja itelläsi olis tupakkia, ja muilla ei niin antaisitko muille vai polttaisitko itse? - Big Brother 2011 - Big Brother 2012 - Yleinen keskustelu - Arkisto - BB 2008 - Asukkaat -... [ID]
+ 2. - Big Brother 2011 - Big Brother 2012 - Yleinen keskustelu - Arkisto - BB 2008 - Asukkaat - BB 2008 - Talon ulkopuolella - BB 2008 - Talossa tapahtuu - BB 2008 - Tehtävät ja äänestykset - BB 2008 -... [ID]
+ 3. Myös Annan kolttu oli käsittämätön: kuin reilusti ylipainoisen naisen äitiysmekko, karmea säkki! Hiuksetkin olivat tosi oudot. Näkin Annan ekaa kertaa hieman epävarmasta olemuksesta ennen biisin ve... [ID]
+ 4. - Big Brother 2011 - Big Brother 2012 - Yleinen keskustelu - Arkisto - BB 2008 - Asukkaat - BB 2008 - Talon ulkopuolella - BB 2008 - Talossa tapahtuu - BB 2008 - Tehtävät ja äänestykset - BB 2008 -... [ID]
+ 5. - Big Brother 2011 - Big Brother 2012 - Yleinen keskustelu - Arkisto - BB 2008 - Asukkaat - BB 2008 - Talon ulkopuolella - BB 2008 - Talossa tapahtuu - BB 2008 - Tehtävät ja äänestykset - BB 2008 -... [ID]
+ 6. eipä toi maailman ilosimmalta näytä.... - Big Brother 2011 - Big Brother 2012 - Yleinen keskustelu - Arkisto - BB 2008 - Asukkaat - BB 2008 - Talon ulkopuolella - BB 2008 - Talossa tapahtuu - BB 20... [ID]
+ 7. Täältähän pääsee pois kun ei enää palaa takaisin tekee tarvittavat muutokset profiiliin..tietenkin jos haluaa viestityksetkin samalla pois niin se on jo toinen juttu? tietenkin onhan sekin fiksua j... [ID]
+ 8. Tätä mieltä oli Ira. Kuka nyt puulattian laittaisi keittiöön? Aika monikin tietääkseni. Mutta kun Ira nyt inhoaa Iidaa, niin ei voi hyväksyä Iidan puulattiaakaan. - Big Brother 2011 - Big Brother 2... [ID]
+ 9. - Big Brother 2011 - Big Brother 2012 - Yleinen keskustelu - Arkisto - BB 2008 - Asukkaat - BB 2008 - Talon ulkopuolella - BB 2008 - Talossa tapahtuu - BB 2008 - Tehtävät ja äänestykset - BB 2008 -... [ID]
+10. Viimeksi Johanna oli liian pirteä ja positiivinen, nyt liian pieni ja siro?? Voi kauheeta, ulos tommoset joutaakin! - Big Brother 2011 - Big Brother 2012 - Yleinen keskustelu - Arkisto - BB 2008 - ... [ID]
+11. - Big Brother 2011 - Big Brother 2012 - Yleinen keskustelu - Arkisto - BB 2008 - Asukkaat - BB 2008 - Talon ulkopuolella - BB 2008 - Talossa tapahtuu - BB 2008 - Tehtävät ja äänestykset - BB 2008 -... [ID]
+12. - Big Brother 2011 - Big Brother 2012 - Yleinen keskustelu - Arkisto - BB 2008 - Asukkaat - BB 2008 - Talon ulkopuolella - BB 2008 - Talossa tapahtuu - BB 2008 - Tehtävät ja äänestykset - BB 2008 -... [ID]
+13. - Big Brother 2011 - Big Brother 2012 - Yleinen keskustelu - Arkisto - BB 2008 - Asukkaat - BB 2008 - Talon ulkopuolella - BB 2008 - Talossa tapahtuu - BB 2008 - Tehtävät ja äänestykset - BB 2008 -... [ID]
+14. - Big Brother 2011 - Big Brother 2012 - Yleinen keskustelu - Arkisto - BB 2008 - Asukkaat - BB 2008 - Talon ulkopuolella - BB 2008 - Talossa tapahtuu - BB 2008 - Tehtävät ja äänestykset - BB 2008 -... [ID]
+15. Nimenomaan! En minäkään jaksa uskoa että kyseessä olisi jotain elämää suurempaa, mutta on vaan niin kiva kattella sellasta pientä toisen hellimistä ja kiusoittelua kaiken tuon p*skan läyhäämisen va... [ID]
+
+============================================================
+CLUSTER 1
+============================================================
+Size: 478 samples
+Register distribution: {'ID': 478}
+
+Examples:
+----------------------------------------
+ 1. Michael Schumacher ottanu Fernando Alonson 25 pisteen etumatkan kiinni, Schumi nousee tasoihin ja MM-sarjan johtoon. Toiseksi viimeinen kilpailu, Schumi menossa voittoon ja lähes varmaan maailmanme... [ID]
+ 2. Päivän ykköshaku on NLA:n Lugano 2.00. Se on hurjassa kotivireessä ja voiko sen voittoa estää, kun Tommi Paakkolanvaarakin siirtyi sinne Pelsuista et sillei hei! DEL:stä Kyösti valitsi kupongilleen... [ID]
+ 3. Tilastojen tarkkuus ei tässä Suoniemen casessa kovin hyvä (SM q vs SM) ja vertailua ei tosiaan pysty tekemään, sillä suurin osa "NHL-putken" huipuista on pelannut omat U16 pelinsä vuoden tai kaks n... [ID]
+ 4. Tänään on 21.05.2018, 04:16. Teivo 3.1.2006 - jepson - Jäsen - Viestit: 116 - Liittynyt: 27.01.2004, 13:59 - Pisteitä: 1 Teivo 3.1.2006 Päättyihän se vuosi voittoon, kun Kensu piti Kuopiossa Sauna-... [ID]
+ 5. Suomifutis. "Miesten joukkue vastaan juniorijoukkue"..."miesten joukkue vastaan juniorijoukkue"..."miesten joukkue vastaan juniorijoukkue"..."miesten joukkue vastaan juniorijoukkue"..."miesten jouk... [ID]
+ 6. Kyllä naurattaa täällä esiintyvät "asiantuntijat". Joku "asiantuntija" täälläkin selitti Jarkon vuoden ensimmäisiä tappioita, ihan normaalina ja laittoi ääliö vielä jonkun kaavion viime vuosilta, j... [ID]
+ 7. Aivan huikee peli! Pitää vähän levähtää ennen kuin saa ajatukset kunnolla koottua sanoiksi. Vaikea sanoa, oliko tämän toistaiseksi paras EC-peli, mutta eka puolisko oli ainakin! Toisella fransmanni... [ID]
+ 8. Hermoh kirjoitti: edit. No kolmannessa meni. En kyllä ymmärrä miten joku on tuohon voinut saada 70% Rualle. Näin jälkikäteen on helppo huudella, mutta tuo näytti Jonesille 90-10% asetelmat läpi ott... [ID]
+ 9. Jokerit-HIFK 5-0 60 min. Kuten ennustin. Jyp-HPK 4-0 60 min. Kuten ennustin. Ei vitsiryhmään näitä, nuija Ei sun tartte allekirjottaa!!! Eikä sfnet.ryhmat+listat oo oikee ryhmä jääkiekolle mut senh... [ID]
+10. Trekolmestar kirjoitti:Laajentaisin tämän kuitenkin koskemaan myös linjatuomaristoa. Eritoten tämän illan jälkeen ja väistämättä tulee mieleen myös viimetalvinen peli Espoossa, jossa linjurilta oli... [ID]
+11. En malta olla lainaamatta, vaikka varsinaisesti en kommentoikaan arvioitasi. Minusta Kalteva tarjosi silmäkarkkia omassa jatkoajan av - vaihdossaan, kun hoitaa tuolla tavoin vastustajan maskimiestä... [ID]
+12. Volvox kirjoitti:Minusta joukkuepelin kohdalla ei kannattaisi niin kauheasti puhua jonkun tietyn pelaajan korvaajista. Eiköhän se tiimi tule rakentaa kokonaisuudesta eikä siitä, että lähtijät korva... [ID]
+13. Urheilu/Idrott/Sports « : 13.12.2009 16:00 » kep Jäsen Viestejä: 807 Basaaripisteet: 0 Kuten vuosittainen MM-jääkiekkoketju aina todistaa, kyllä täällä porukka kyylää urheilua niin telkkarista kuin... [ID]
+14. No, Sivula on hommattu Valepaan ainoastaan sitä varten että on tarjota loka-marraskuun pimeinä iltoina Vexvellä Nimirille ja muille euroopan hirmuille vähän vastinetta.Liven perusteella Upi näytti ... [ID]
+15. 27.1 #1 Posted 27.01.2012 - 12:04 AM Kauden kaksi edellistä kohtaamista on vienyt pelicans, tosin kaikki on mahdollista kun on uusi peli. Pelicans löytyy kuntopuntarin piikkipaikalta eikä suotta. K... [ID]
+
+============================================================
+CLUSTER 2
+============================================================
+Size: 34476 samples
+Register distribution: {'ID': 34476}
+
+Examples:
+----------------------------------------
+ 1. Hei ajattelin että olisiko joku kiinnostunut mennä kattoo Spike Jonzen uutta leffaa Her. En ole koskaan mennyt yksin leffaan ja kaverit ei oikein oo kiinnostunut tästä leffasta, joten kokeilen onne... [ID]
+ 2. Älypää yhteisövisa - Cardmania Pyramid Solitaire Poista kortit kentältä klikkaamalla kahta korttia, joiden yhteistulos on 13. Jätkät ovat 11, hertat 12 ja kuninkaat 13 arvoisia. Ässät ovat yhden pi... [ID]
+ 3. Kulunutta karismaa 24.2.2012 4 kommenttia : Komia antiikkipöytä! Ja hänen karismaansa on kuvailtu todella osuvasti -> lämpimän humoristisesti. Taitaa osa kuvailusta sopia pöydän lisäksi minuunkin :... [ID]
+ 4. Kirjoittaja Luigi » 26.07.2005 16:28 PHP:llä ei ole mitään vaikutusta, se suoritetaan palvelimella, ja sieltä tulee selaimelle ihan normaalia hötömölöä (html:ää.) Ettei siinä pakkoproxyllä ole jota... [ID]
+ 5. Perillä pitäisi olla perjantaina. Mutta vielä on aikaa ennen kuin vaunu tulee linjalle. Välipalamannet käyvät Vallilassa läpi keveän helsinkiläistämisprosessin ja sitten on vielä koulutus edessä. T... [ID]
+ 6. Kuinkas moni meinaa äänestää niitä henkilöitä, jotka innolla ottivat matuja forssaan ? Kunnallisvaalit lähestyvät Kuinkas moni meinaa äänestää niitä henkilöitä, jotka innolla ottivat matuja 44 695 ... [ID]
+ 7. 1 Jätä kommentti 1 1 Comment threads 0 Thread replies 0 Followers Subscribe Noo, mulle jopedi on aina jopedi, olipahan siinä mitä hyvänsä.. Yleensä siinä on suurin osa ganjaa, mutta saattaa siinä j... [ID]
+ 8. Kun teen nettisvuja toisille käyttäjille niin saanko käyttää netistä kopioimiani valmiita pohjia? vai pitääkö koko sivusto tehdä itse kuvia ja kaikkea myöten?4 Teknologia / HTML ja XHTML Eli olen o... [ID]
+ 9. blue screen of deathim_not_gay_from_runescape 9.2.2010 windowsin käyttöjärjestelmään tuleva vähintäänkin v*ttumainen ongelman ratkaisemis tehtävä kauniiden kesäpäivien ratoksi. koneesi näytölle ilm... [ID]
+10. #hupiklubi (662) [41252] Voi vittu. Joku nero yritti just murtautua Katjan kämppään. Keskellä päivää. Kun siellä on ihmisiä.  :O !! Voittajan valinta. Oli saanut kytät jo peräänsä kun se oli johonk... [ID]
+11. maanantai, 2. toukokuuta 2011 - klo 15. 32 (yli 3 vuotta sitten) Meille on asennettu vesi-ilmalämpöpumppu, malli IVT Air 90. Ulkoyksikkö on sijoitettu seinän viereen omalle pedilleen, ei siis seinä... [ID]
+12. Milloin tulee myyntiin? Onko näiden ennakkohinnoista vielä mitään tietoa? Maaliskuussa taitaa bensamallit tulla kauppoihin. Onko kukaan vielä koeajanut, ja jos on, niin millaiselle pelille tuo 107 ... [ID]
+13. [supsystic-social-sharing id='1'] Suomalaiset ovat oikeasti järkevää kansaa ja enimmäkseen ihan tollissaan. Pressanvaalit todistivat sen. Kekkonen valittiin jälleen uudelle kaudelle ja se on hyvä. ... [ID]
+14. Vuosi puolitoista sitten sai odottaa lääkärinaikaa n. 4vk. Sitten se nousi 8viikkoon ja nyt syssyllä 2017 odotusaika kiireettömään - on 10viikkoa. Ei siis riitä, että Carea oli 2016 Suomen ykköstil... [ID]
+15. Oisko jollain hyviä keinoja saada "se oikea" selville?? miten 1 72 Vastaukset - E.K Hyvä keino saada se itselleen sopiva kumppani selville on tutkiskella itseään. Mitä minulla itselläni olisi toise... [ID]

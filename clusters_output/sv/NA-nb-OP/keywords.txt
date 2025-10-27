@@ -1,0 +1,60 @@
+Keyness analysis for sv/NA-nb-OP
+Original reference corpus: 329050 texts from regions ['HI-NA-nb-re', 'ds-IP-NA-nb', 'NA-ob-OP', 'NA-nb-OP', 'IP-NA-nb', 'IN-NA-nb', 'NA-nb-ob-OP', 'NA-nb-OP-rv', 'ID-NA-nb', 'NA-nb', 'ID', 'NA-nb-ne', 'ob-OP', 'NA-nb-sr']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 1 ===
+Target: 149 texts, 116236 words
+Reference (excluding this cluster): 328901 texts, 178823943 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. aktier            424.34
+ 2. bolaget           353.30
+ 3. aktien            335.02
+ 4. bolag             321.87
+ 5. aktie             286.65
+ 6. innehav           286.00
+ 7. portföljen        273.78
+ 8. utdelning         212.21
+ 9. utdelningen       206.96
+10. direktavkastning   195.58
+11. portfölj          195.55
+12. avkastning        176.20
+13. innehavet         169.66
+14. värderingen       155.80
+15. värdering         147.65
+16. börsen            146.30
+17. investering       142.60
+18. bolagen           139.51
+19. analys            108.49
+20. handlas           108.05
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 6131 texts, 3902502 words
+Reference (excluding this cluster): 322919 texts, 175037677 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. handlar           604.07
+ 2. sätt              477.30
+ 3. exempel           434.85
+ 4. boken             426.45
+ 5. ofta              418.49
+ 6. finns             396.87
+ 7. bok               393.51
+ 8. varför            386.25
+ 9. många             379.61
+10. sin               368.17
+11. människor         356.92
+12. dig               325.79
+13. böcker            321.61
+14. olika             318.87
+15. sitt              305.92
+16. flesta            303.40
+17. ger               297.65
+18. något             289.45
+19. sina              289.09
+20. läsa              284.38
+
+==================================================

@@ -1,0 +1,88 @@
+Keyness analysis for fi/NA-nb
+Original reference corpus: 288231 texts from regions ['HI-NA-nb-re', 'NA-nb-OP', 'IP-NA-nb', 'ID-NA', 'NA-nb-OP-rv', 'HI-NA-nb', 'NA-nb', 'ID', 'ob-OP']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 0 ===
+Target: 164 texts, 41149 words
+Reference (excluding this cluster): 288067 texts, 141701685 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. hakuehdoilla     1698.33
+ 2. asema             603.52
+ 3. juna              420.99
+ 4. kuvaa             357.70
+ 5. asemalla          332.92
+ 6. löytyi            326.44
+ 7. tavarajuna        318.75
+ 8. ratapihalla       304.30
+ 9. veturi            293.76
+10. aseman            281.99
+11. tasoristeyksen    247.84
+12. raiteelle         247.28
+13. tasoristeys       242.56
+14. junan             242.16
+15. ohittaa           241.85
+16. ratapihan         236.16
+17. vaunua            229.75
+18. veturin           215.34
+19. kohti             207.09
+20. asemalle          206.22
+
+==================================================
+
+=== CLUSTER 1 ===
+Target: 24530 texts, 6318689 words
+Reference (excluding this cluster): 263701 texts, 135424145 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. kommenttia      39726.60
+ 2. vastaapoista    27960.99
+ 3. vastaapoistavastaukset 20585.02
+ 4. poista          20438.55
+ 5. kiitos          13053.13
+ 6. ihana            9026.69
+ 7. dpoista          8181.79
+ 8. ihania           7206.86
+ 9. dvastaapoista    6491.21
+10. kiva             6145.69
+11. dvastaapoistavastaukset  5503.85
+12. ihanat           5158.12
+13. kaunis           4334.91
+14. sinulle          4062.90
+15. kauniita         3837.95
+16. sun              3828.40
+17. tosi             3765.37
+18. ihanaa           3636.46
+19. mukavaa          3548.75
+20. onpa             3510.16
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 193394 texts, 95062187 words
+Reference (excluding this cluster): 94837 texts, 46680647 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. atom            13619.06
+ 2. tilaa            9628.66
+ 3. blogitekstit     6930.89
+ 4. sain             6507.65
+ 5. olin             6075.06
+ 6. lähetä           5638.47
+ 7. kommentteja      5527.71
+ 8. tänään           4964.35
+ 9. kotiin           4927.53
+10. lähettänyt       4752.21
+11. illalla          4472.98
+12. päätin           4304.50
+13. aamulla          4298.58
+14. kävimme          4279.33
+15. käytiin          4213.04
+16. olimme           4132.93
+17. päivän           4017.86
+18. saimme           3972.84
+19. viikon           3901.66
+20. tunnisteet       3862.78
+
+==================================================

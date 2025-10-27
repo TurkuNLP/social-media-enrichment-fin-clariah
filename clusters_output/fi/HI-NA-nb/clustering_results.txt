@@ -1,0 +1,35 @@
+Clustering Results Summary
+==================================================
+
+DBCV threshold: 0
+Min absolute cluster size: 100
+Min percentage cluster size: 0.02
+
+Registers: HI-NA-nb
+Total samples: 1009
+
+Best clustering:
+  Min cluster size: 50
+  Real clusters: 6
+  Noise points: 158
+  DBCV score: 0.0282
+  Calinski-Harabasz score: 955.69
+
+All tested configurations:
+--------------------------------------------------------------------------------
+Rank MinSize  Clusters Noise    DBCV       CH-Score   Notes
+--------------------------------------------------------------------------------
+1    50       6        158      0.0282     955.69      ★
+2    112      5        213      0.0281     936.49     
+3    100      5        213      0.0281     936.49     
+4    84       5        213      0.0281     936.49     
+5    72       5        213      0.0281     936.49     
+6    63       5        213      0.0281     936.49     
+7    56       5        213      0.0281     936.49     
+8    126      3        151      0.0233     751.66     
+9    336      2        121      0.0215     805.98     
+10   252      2        121      0.0215     805.98     
+11   201      2        121      0.0215     805.98     
+12   168      2        121      0.0215     805.98     
+13   144      2        121      0.0215     805.98     
+14   504      0        1009     -1.0000    -1.00      

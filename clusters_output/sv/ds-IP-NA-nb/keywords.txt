@@ -1,0 +1,116 @@
+Keyness analysis for sv/ds-IP-NA-nb
+Original reference corpus: 329050 texts from regions ['HI-NA-nb-re', 'ds-IP-NA-nb', 'NA-ob-OP', 'NA-nb-OP', 'IP-NA-nb', 'IN-NA-nb', 'NA-nb-ob-OP', 'NA-nb-OP-rv', 'ID-NA-nb', 'NA-nb', 'ID', 'NA-nb-ne', 'ob-OP', 'NA-nb-sr']
+Note: Each cluster excludes itself from the reference corpus for analysis
+================================================================================
+
+=== CLUSTER 0 ===
+Target: 38 texts, 18902 words
+Reference (excluding this cluster): 329012 texts, 178921277 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. spins             415.09
+ 2. insättning        350.54
+ 3. gratissnurr       343.87
+ 4. casino            312.83
+ 5. starburst         297.46
+ 6. frisnurr          253.63
+ 7. insättningsbonus   247.18
+ 8. free              238.97
+ 9. spelautomaten     236.57
+10. omsättningskrav   210.00
+11. välkomstbonus     208.88
+12. igame             204.24
+13. mamamia           195.84
+14. spelare           192.92
+15. freespins         186.08
+16. bonus             185.74
+17. bonuskoden        177.39
+18. insättningskrav   175.41
+19. betsafe           175.26
+20. registrerar       170.62
+
+==================================================
+
+=== CLUSTER 1 ===
+Target: 268 texts, 144037 words
+Reference (excluding this cluster): 328782 texts, 178796142 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. hotell            379.79
+ 2. staden            357.53
+ 3. dubbelrum         301.33
+ 4. restauranger      298.99
+ 5. vackra            281.81
+ 6. hotellet          275.35
+ 7. avresa            264.32
+ 8. flyg              263.27
+ 9. transfer          248.07
+10. resan             240.18
+11. utsikt            230.81
+12. besöker           230.80
+13. längs             212.21
+14. besöka            209.09
+15. flygplatsen       204.02
+16. avbeställningsskydd   202.27
+17. stadsrundtur      200.30
+18. reseledare        197.16
+19. guide             196.07
+20. hotel             195.78
+
+==================================================
+
+=== CLUSTER 2 ===
+Target: 156 texts, 92620 words
+Reference (excluding this cluster): 328894 texts, 178847559 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. tävlingen         477.33
+ 2. tävla             387.16
+ 3. vinna             369.97
+ 4. vinnaren          327.00
+ 5. tävling           295.01
+ 6. vinn              257.44
+ 7. vinnare           254.64
+ 8. tävlar            241.05
+ 9. avslutas          198.81
+10. lycka             198.27
+11. värde             176.03
+12. presentkort       173.41
+13. avslutad          171.92
+14. lottar            157.05
+15. kommentarsfältet   152.65
+16. vinnarna          142.80
+17. vinsten           134.66
+18. skriv             122.94
+19. chansen           113.33
+20. samarbete         109.21
+
+==================================================
+
+=== CLUSTER 3 ===
+Target: 1895 texts, 681943 words
+Reference (excluding this cluster): 327155 texts, 178258236 words
+Top 20 keywords (text dispersion keyness):
+
+ 1. välkommen         522.85
+ 2. rabatt            518.20
+ 3. välkomna          477.76
+ 4. produkter         414.78
+ 5. butiken           373.46
+ 6. pris              347.07
+ 7. kunder            337.96
+ 8. boka              332.92
+ 9. dig               317.11
+10. erbjudanden       313.49
+11. maila             274.00
+12. din               271.04
+13. anmälan           241.10
+14. kontakta          240.29
+15. priser            234.61
+16. nyheter           225.91
+17. sortiment         221.63
+18. hittar            215.40
+19. erbjuder          212.23
+20. butik             206.53
+
+==================================================
